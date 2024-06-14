@@ -141,6 +141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-06-14 08:14:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-06-14 08:17:04 +0000"
@@ -156,12 +162,6 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-06-14 08:17:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2024-06-14 08:14:35 +0000"
     },
     "done": true
   },

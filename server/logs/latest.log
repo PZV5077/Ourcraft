@@ -1,67 +1,54 @@
-[08:12:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:13:00] [ServerMain/INFO]: Loaded 1175 recipes
-[08:13:01] [ServerMain/INFO]: Loaded 1276 advancements
-[08:13:01] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[08:13:01] [Server thread/INFO]: Loading properties
-[08:13:01] [Server thread/INFO]: This server is running Paper version 1.20.6-139-master@79e2cb6 (2024-06-13T14:55:37Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
-[08:13:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:13:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:13:03] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[16:06:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:06:03] [ServerMain/INFO]: Loaded 1175 recipes
+[16:06:04] [ServerMain/INFO]: Loaded 1276 advancements
+[16:06:04] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[16:06:04] [Server thread/INFO]: Loading properties
+[16:06:04] [Server thread/INFO]: This server is running Paper version 1.20.6-139-master@79e2cb6 (2024-06-13T14:55:37Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[16:06:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:06:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:06:06] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[08:13:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[08:13:03] [Server thread/INFO]: Default game type: SURVIVAL
-[08:13:03] [Server thread/INFO]: Generating keypair
-[08:13:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:13:04] [Server thread/INFO]: Using epoll channel type
-[08:13:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[08:13:04] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[08:13:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:13:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:13:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:13:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:13:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:13:04] [Server thread/INFO]: Preparing level "world"
-[08:13:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:13:07] [Server thread/INFO]: Time elapsed: 2353 ms
-[08:13:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[08:13:07] [Server thread/INFO]: Time elapsed: 580 ms
-[08:13:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[08:13:08] [Server thread/INFO]: Time elapsed: 235 ms
-[08:13:08] [Server thread/INFO]: Running delayed init tasks
-[08:13:08] [Server thread/INFO]: Done (6.846s)! For help, type "help"
-[08:13:08] [Server thread/INFO]: Timings Reset
-[08:13:11] [User Authenticator #0/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
-[08:13:14] [Server thread/INFO]: PZV joined the game
-[08:13:14] [Server thread/INFO]: PZV[/127.0.0.1:48210] logged in with entity id 73 at ([world]-5.699999988079071, 85.79932109799441, 69.50203703311274)
-[08:16:25] [Server thread/INFO]: PZV issued server command: /gam
-[08:16:32] [Server thread/INFO]: PZV issued server command: /gamemode survival
-[08:16:32] [Server thread/INFO]: [PZV: Set own game mode to Survival Mode]
-[08:17:23] [Server thread/INFO]: PZV lost connection: Disconnected
-[08:17:23] [Server thread/INFO]: PZV left the game
-[08:17:26] [Server thread/INFO]: Stopping the server
-[08:17:26] [Server thread/INFO]: Stopping server
-[08:17:26] [Server thread/INFO]: Saving players
-[08:17:26] [Server thread/INFO]: Saving worlds
-[08:17:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:17:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[08:17:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[08:17:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[08:17:28] [Server thread/INFO]: [ChunkHolderManager] Saved 805 block chunks, 805 entity chunks, 0 poi chunks in world 'world' in 1.66s
-[08:17:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:17:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[08:17:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[08:17:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[08:17:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[08:17:28] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
-[08:17:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:17:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[08:17:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[08:17:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[08:17:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[08:17:28] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.03s
-[08:17:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:17:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[08:17:28] [Server thread/INFO]: Flushing Chunk IO
-[08:17:28] [Server thread/INFO]: Closing Thread Pool
-[08:17:28] [Server thread/INFO]: Closing Server
+[16:06:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[16:06:07] [Server thread/INFO]: Default game type: SURVIVAL
+[16:06:07] [Server thread/INFO]: Generating keypair
+[16:06:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:06:07] [Server thread/INFO]: Using epoll channel type
+[16:06:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:06:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[16:06:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:06:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:06:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:06:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:06:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:06:07] [Server thread/INFO]: Preparing level "world"
+[16:06:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:06:10] [Server thread/INFO]: Time elapsed: 2210 ms
+[16:06:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:06:10] [Server thread/INFO]: Time elapsed: 348 ms
+[16:06:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:06:11] [Server thread/INFO]: Time elapsed: 535 ms
+[16:06:11] [Server thread/INFO]: Running delayed init tasks
+[16:06:11] [Server thread/INFO]: Done (6.936s)! For help, type "help"
+[16:06:11] [Server thread/INFO]: Timings Reset
+[16:07:03] [User Authenticator #0/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
+[16:07:05] [Server thread/INFO]: PZV joined the game
+[16:07:05] [Server thread/INFO]: PZV[/127.0.0.1:57936] logged in with entity id 40 at ([world]-47.3632278536296, 98.0, -3.8484045226548136)
+[16:08:45] [Server thread/INFO]: PZV lost connection: Disconnected
+[16:08:45] [Server thread/INFO]: PZV left the game
+[16:13:51] [User Authenticator #1/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
+[16:13:52] [Server thread/INFO]: PZV joined the game
+[16:13:52] [Server thread/INFO]: PZV[/127.0.0.1:53354] logged in with entity id 381 at ([world]-44.44718060482131, 98.0, -1.1294916623238616)
+[16:13:57] [Server thread/INFO]: PZV lost connection: Disconnected
+[16:13:58] [Server thread/INFO]: PZV left the game
+[16:15:00] [User Authenticator #2/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
+[16:15:02] [Server thread/INFO]: PZV joined the game
+[16:15:02] [Server thread/INFO]: PZV[/127.0.0.1:35286] logged in with entity id 407 at ([world]-44.44718060482131, 98.0, -1.1294916623238616)
+[16:15:05] [Server thread/INFO]: PZV lost connection: Disconnected
+[16:15:05] [Server thread/INFO]: PZV left the game
+[16:15:46] [User Authenticator #2/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
+[16:15:47] [Server thread/INFO]: PZV joined the game
+[16:15:47] [Server thread/INFO]: PZV[/127.0.0.1:34614] logged in with entity id 414 at ([world]-44.44718060482131, 98.0, -1.1294916623238616)
+[16:16:47] [Server thread/INFO]: PZV was slain by Zombie
+[16:17:17] [Server thread/INFO]: PZV lost connection: Disconnected
+[16:17:18] [Server thread/INFO]: PZV left the game
