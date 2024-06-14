@@ -47,3 +47,47 @@
 [06:46:29] [User Authenticator #1/INFO]: UUID of player Voddrobolovsqrd is 6ea27c71-bb8f-3c16-8bd8-1c8b62aef3ab
 [06:46:31] [Server thread/INFO]: Voddrobolovsqrd joined the game
 [06:46:31] [Server thread/INFO]: Voddrobolovsqrd[/127.69.107.25:55653] logged in with entity id 1557 at ([world]34.5, 92.0, -5.5)
+[06:49:30] [Server thread/INFO]: PZV issued server command: /teleport
+[06:49:36] [Server thread/INFO]: PZV issued server command: /teleport Voddrobolovsqrd
+[06:49:36] [Server thread/INFO]: [PZV: Teleported PZV to Voddrobolovsqrd]
+[06:49:38] [Server thread/INFO]: Voddrobolovsqrd issued server command: /help
+[06:49:59] [Server thread/INFO]: Voddrobolovsqrd was slain by Enderman
+[06:50:25] [Server thread/INFO]: Voddrobolovsqrd was slain by Enderman
+[06:50:43] [Server thread/INFO]: Voddrobolovsqrd was slain by Enderman
+[06:50:56] [Server thread/INFO]: Voddrobolovsqrd lost connection: Disconnected
+[06:50:56] [Server thread/INFO]: Voddrobolovsqrd left the game
+[06:52:26] [Server thread/INFO]: PZV lost connection: Timed out
+[06:52:26] [Server thread/INFO]: PZV left the game
+[06:53:10] [User Authenticator #2/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
+[06:53:11] [Server thread/INFO]: PZV joined the game
+[06:53:11] [Server thread/INFO]: PZV[/127.243.12.163:42101] logged in with entity id 2299 at ([world]35.92498961795724, 92.0, -13.414961401271567)
+[06:53:46] [Server thread/INFO]: PZV has made the advancement [Monster Hunter]
+[06:54:49] [Server thread/INFO]: There are 1 of a max of 8 players online: PZV
+[06:55:06] [Server thread/INFO]: Stopping the server
+[06:55:06] [Server thread/INFO]: Stopping server
+[06:55:06] [Server thread/INFO]: Saving players
+[06:55:06] [Server thread/INFO]: PZV lost connection: Server closed
+[06:55:06] [Server thread/INFO]: PZV left the game
+[06:55:06] [Server thread/INFO]: Saving worlds
+[06:55:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:55:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:55:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:55:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:55:07] [Server thread/INFO]: [ChunkHolderManager] Saved 361 block chunks, 164 entity chunks, 0 poi chunks in world 'world' in 0.62s
+[06:55:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:55:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:55:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:55:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:55:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:55:08] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.56s
+[06:55:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:55:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:55:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:55:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:55:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:55:08] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.55s
+[06:55:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:55:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:55:09] [Server thread/INFO]: Flushing Chunk IO
+[06:55:09] [Server thread/INFO]: Closing Thread Pool
+[06:55:09] [Server thread/INFO]: Closing Server
