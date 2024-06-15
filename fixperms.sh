@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define an array of filenames
-scripts=("installplayit.sh" "backup.sh" "start.sh")
+scripts=("autostart.sh" "backup.sh" "start.sh" "openfrp.sh")
 
 # Loop through each script and set execute permission
 for script in "${scripts[@]}"; do
