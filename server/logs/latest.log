@@ -220,3 +220,42 @@ java.lang.IllegalStateException: Sender does not have applyedits permission
 [07:00:40] [luckperms-worker-7/INFO]: [LP] Changes have been received from the connected web editor session.
 [07:00:40] [luckperms-worker-7/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
 [07:04:52] [Async Chat Thread - #1/INFO]: [Not Secure] <PZV> hi
+[07:38:25] [Server thread/INFO]: PZV lost connection: Disconnected
+[07:38:25] [Server thread/INFO]: PZV left the game
+[07:38:30] [Server thread/INFO]: Stopping the server
+[07:38:30] [Server thread/INFO]: Stopping server
+[07:38:30] [Server thread/INFO]: [BlueMap] Disabling BlueMap v3.21
+[07:38:30] [Server thread/INFO]: [BlueMap] Stopping...
+[07:38:30] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[07:38:30] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[07:38:30] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[07:38:30] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[07:38:30] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[07:38:30] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[07:38:30] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[07:38:30] [Server thread/INFO]: [LuckPerms] Closing storage...
+[07:38:31] [Server thread/INFO]: [LuckPerms] Goodbye!
+[07:38:31] [Server thread/INFO]: Saving players
+[07:38:31] [Server thread/INFO]: Saving worlds
+[07:38:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Saved 93 block chunks, 266 entity chunks, 4 poi chunks in world 'world' in 0.25s
+[07:38:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:38:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 11 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[07:38:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:38:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[07:38:31] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[07:38:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:38:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:38:31] [Server thread/INFO]: Flushing Chunk IO
+[07:38:31] [Server thread/INFO]: Closing Thread Pool
+[07:38:31] [Server thread/INFO]: Closing Server
