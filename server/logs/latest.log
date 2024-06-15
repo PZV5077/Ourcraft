@@ -1,11 +1,14 @@
-[04:07:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:07:48] [ServerMain/ERROR]: Failed to start the minecraft server
-net.minecraft.util.DirectoryLock$LockException: /workspaces/Ourcraft/server/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:100) ~[paper-1.20.6.jar:1.20.6-139-79e2cb6]
-	at net.minecraft.util.DirectoryLock.create(DirectoryLock.java:30) ~[paper-1.20.6.jar:1.20.6-139-79e2cb6]
-	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:522) ~[paper-1.20.6.jar:1.20.6-139-79e2cb6]
-	at net.minecraft.world.level.storage.LevelStorageSource.validateAndCreateAccess(LevelStorageSource.java:428) ~[paper-1.20.6.jar:1.20.6-139-79e2cb6]
-	at net.minecraft.server.Main.main(Main.java:197) ~[paper-1.20.6.jar:1.20.6-139-79e2cb6]
-	at org.bukkit.craftbukkit.Main.main(Main.java:328) ~[paper-1.20.6.jar:1.20.6-139-79e2cb6]
-	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04:08:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:08:55] [ServerMain/INFO]: Loaded 1175 recipes
+[04:08:55] [ServerMain/INFO]: Loaded 1276 advancements
+[04:08:55] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[04:08:55] [Server thread/INFO]: Loading properties
+[04:08:55] [Server thread/INFO]: This server is running Paper version 1.20.6-139-master@79e2cb6 (2024-06-13T14:55:37Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[04:08:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:08:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:08:58] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[04:08:58] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[04:08:58] [Server thread/INFO]: Default game type: SURVIVAL
+[04:08:58] [Server thread/INFO]: Generating keypair
