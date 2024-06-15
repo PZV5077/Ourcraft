@@ -162,3 +162,29 @@
 [14:35:13] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard players enable @a
 [14:35:21] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard players enable PZV_ADMIN
 [14:35:30] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard
+[14:38:35] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives add leve level Level
+[14:38:57] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives add Level level
+[14:38:57] [Server thread/INFO]: [PZV_ADMIN: Created new objective [Level]]
+[14:39:10] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives setdisplay list
+[14:39:14] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives setdisplay list Level
+[14:39:14] [Server thread/INFO]: [PZV_ADMIN: Set display slot list to show objective Level]
+[14:40:09] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives setdisplay sidebar Level
+[14:40:09] [Server thread/INFO]: [PZV_ADMIN: Set display slot sidebar to show objective Level]
+[14:40:35] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives add Health health
+[14:40:35] [Server thread/INFO]: [PZV_ADMIN: Created new objective [Health]]
+[14:40:51] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives setdisplay belowName Health
+[14:40:51] [Server thread/INFO]: [PZV_ADMIN: Set display slot belowName to show objective Health]
+[14:41:53] [User Authenticator #5/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
+[14:41:53] [Server thread/INFO]: PZV joined the game
+[14:41:53] [Server thread/INFO]: PZV[/127.0.0.1:57852] logged in with entity id 1853 at ([world]-666.0, 144.0, -459.0)
+[14:42:39] [Server thread/WARN]: PZV was kicked due to keepalive timeout!
+[14:42:39] [Server thread/INFO]: PZV lost connection: Timed out
+[14:42:39] [Server thread/INFO]: PZV left the game
+[14:42:52] [User Authenticator #5/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
+[14:42:52] [Server thread/INFO]: PZV joined the game
+[14:42:52] [Server thread/INFO]: PZV[/127.0.0.1:37968] logged in with entity id 1993 at ([world]-838.8299452552825, 119.0, -453.2892646512471)
+[14:43:35] [Server thread/INFO]: PZV issued server command: /tpask PZV_ADMIN
+[14:43:46] [Server thread/INFO]: PZV_ADMIN issued server command: /tpaccept
+[14:44:18] [Server thread/INFO]: PZV was slain by PZV_ADMIN
+[14:44:30] [Server thread/INFO]: PZV lost connection: Disconnected
+[14:44:30] [Server thread/INFO]: PZV left the game
