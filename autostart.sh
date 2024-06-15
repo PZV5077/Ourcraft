@@ -1,3 +1,4 @@
+echo Sleeping for 60s...
 sleep 60
 cd /workspaces/Ourcraft/server
 /workspaces/Ourcraft/backup.sh &

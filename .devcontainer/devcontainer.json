@@ -1,5 +1,5 @@
 {
-    "name": "Codespace",
+    "name": "Server Autorun",
     "remoteUser": "codespace",
     "containerUser": "codespace",
     "forwardPorts": [25565, 25565], // [codespace-id]-[port].githubpreview.dev
@@ -13,7 +13,7 @@
     },
 
 
-    "postCreateCommand": "bash '/workspaces/Ourcraft/autostart.sh'",
+    "postCreateCommand": "bash '/workspaces/Ourcraft/fixperms.sh'",
 
-    "postStartCommand": "bash '/workspaces/Ourcraft/fixperms.sh'"
+    "postStartCommand": "bash '/workspaces/Ourcraft/autostart.sh'"
 }
