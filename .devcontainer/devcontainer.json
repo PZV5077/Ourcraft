@@ -16,4 +16,5 @@
     "postCreateCommand": "bash '/workspaces/Ourcraft/fixperms.sh'",
 
     "postStartCommand": "bash '/workspaces/Ourcraft/autostart.sh' &"
+    
 }
