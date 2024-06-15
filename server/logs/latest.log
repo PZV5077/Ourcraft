@@ -113,3 +113,110 @@
 [06:46:33] [Server thread/INFO]: PZV issued server command: /luckperms:permission trusteditor 7d60-d749
 [06:47:25] [Server thread/INFO]: PZV issued server command: /list
 [06:47:32] [Server thread/INFO]: PZV issued server command: /essentials list
+[06:48:14] [Server thread/INFO]: PZV issued server command: /essentials
+[06:49:07] [Server thread/INFO]: PZV issued server command: /tpask help
+[06:49:11] [Server thread/INFO]: PZV issued server command: /tpask -help
+[06:49:13] [Server thread/INFO]: PZV issued server command: /tpask
+[06:49:19] [Server thread/INFO]: PZV issued server command: /tpa
+[06:49:48] [Server thread/INFO]: PZV issued server command: /top
+[06:49:53] [Server thread/INFO]: PZV issued server command: /top
+[06:50:06] [Server thread/INFO]: PZV issued server command: /tpaall
+[06:50:11] [Server thread/INFO]: PZV issued server command: /tpa
+[06:50:18] [Server thread/INFO]: PZV issued server command: /tpall
+[06:50:26] [Server thread/INFO]: PZV issued server command: /tpa
+[06:50:30] [Server thread/INFO]: PZV issued server command: /tpaall
+[06:50:46] [Server thread/INFO]: PZV issued server command: /tpahere
+[06:51:04] [Server thread/INFO]: PZV issued server command: /tpdeny
+[06:51:16] [Server thread/INFO]: PZV issued server command: /tpo
+[06:51:23] [Server thread/INFO]: PZV issued server command: /tpoff
+[06:51:41] [Server thread/INFO]: PZV issued server command: /whois
+[06:51:47] [Server thread/INFO]: PZV issued server command: /whois PZV
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > (PZV) [G] (default)
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > webeditor add essentials.tpaccept true
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > (PZV) [G] (default)
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > webeditor add essentials.tpahere true
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > (PZV) [G] (default)
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > webeditor add essentials.tpa true
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > (PZV) [G] (default)
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > webeditor add essentials.tpaall true
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > (PZV) [G] (default)
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > webeditor add essentials.tpdeny true
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > (PZV) [G] (default)
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > webeditor add essentials.tpacancel true
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > (PZV) [G] (players)
+[06:53:16] [luckperms-worker-6/INFO]: [LP] LOG > webeditor delete
+[06:53:22] [Server thread/INFO]: PZV issued server command: /op
+[06:53:27] [Server thread/INFO]: PZV issued server command: /op help
+[06:53:27] [Server thread/INFO]: [PZV: Made help a server operator]
+[06:54:12] [Server thread/INFO]: PZV issued server command: /deop help
+[06:54:12] [Server thread/INFO]: [PZV: Made help no longer a server operator]
+[06:54:18] [Server thread/INFO]: PZV issued server command: /op PZV
+[06:54:23] [Server thread/INFO]: PZV issued server command: /deop PZV
+[06:54:23] [Server thread/INFO]: [PZV: Made PZV no longer a server operator]
+[06:54:44] [Server thread/INFO]: PZV issued server command: /t
+[06:54:44] [Server thread/INFO]: [Essentials] PZV was denied access to command.
+[06:54:49] [Server thread/INFO]: PZV issued server command: /tpaall
+[06:55:24] [luckperms-worker-6/WARN]: [LuckPerms] Exception occurred handling message from socket
+java.lang.IllegalStateException: Sender does not have applyedits permission
+	at me.lucko.luckperms.common.webeditor.socket.listener.HandlerChangeRequest.handle(HandlerChangeRequest.java:59) ~[?:?]
+	at me.lucko.luckperms.common.webeditor.socket.listener.WebEditorSocketListener.handleMessageFrame(WebEditorSocketListener.java:146) ~[?:?]
+	at me.lucko.luckperms.common.webeditor.socket.listener.WebEditorSocketListener.lambda$onMessage$0(WebEditorSocketListener.java:90) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[06:55:37] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[06:55:37] [luckperms-command-executor/INFO]: [LP] (4 additions and 0 deletions)
+[06:55:37] [luckperms-command-executor/INFO]: +  essentials.delhome (true)
+[06:55:37] [luckperms-command-executor/INFO]: +  essentials.renamehome (true)
+[06:55:37] [luckperms-command-executor/INFO]: +  essentials.sethome (true)
+[06:55:37] [luckperms-command-executor/INFO]: +  essentials.home (true)
+[06:56:01] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[06:56:01] [Server thread/INFO]: There are 1 out of maximum 8 players online.
+[06:56:01] [Server thread/INFO]: default: PZV
+[06:56:29] [luckperms-worker-7/WARN]: [LuckPerms] Exception occurred handling message from socket
+java.lang.IllegalStateException: Sender does not have applyedits permission
+	at me.lucko.luckperms.common.webeditor.socket.listener.HandlerChangeRequest.handle(HandlerChangeRequest.java:59) ~[?:?]
+	at me.lucko.luckperms.common.webeditor.socket.listener.WebEditorSocketListener.handleMessageFrame(WebEditorSocketListener.java:146) ~[?:?]
+	at me.lucko.luckperms.common.webeditor.socket.listener.WebEditorSocketListener.lambda$onMessage$0(WebEditorSocketListener.java:90) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[06:56:34] [luckperms-worker-7/WARN]: [LuckPerms] Exception occurred handling message from socket
+java.lang.IllegalStateException: Sender does not have applyedits permission
+	at me.lucko.luckperms.common.webeditor.socket.listener.HandlerChangeRequest.handle(HandlerChangeRequest.java:59) ~[?:?]
+	at me.lucko.luckperms.common.webeditor.socket.listener.WebEditorSocketListener.handleMessageFrame(WebEditorSocketListener.java:146) ~[?:?]
+	at me.lucko.luckperms.common.webeditor.socket.listener.WebEditorSocketListener.lambda$onMessage$0(WebEditorSocketListener.java:90) ~[?:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[06:56:52] [Server thread/INFO]: PZV issued server command: /home
+[06:56:59] [Server thread/INFO]: PZV issued server command: /sethome
+[06:57:29] [Server thread/INFO]: PZV issued server command: /a
+[06:57:32] [Server thread/INFO]: PZV issued server command: /about
+[06:57:42] [Server thread/INFO]: PZV issued server command: /bluemap
+[06:58:36] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[06:58:38] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[06:58:38] [luckperms-command-executor/INFO]: https://luckperms.net/editor/fdkOGfZn4L
+[06:58:53] [luckperms-worker-6/INFO]: [LP] An editor window has connected, but it is not yet trusted.
+[06:58:53] [luckperms-worker-6/INFO]: [LP] (session id = 8c38-2e58, browser = Microsoft Edge on Windows)
+[06:58:53] [luckperms-worker-6/INFO]: [LP] If it was you, run /luckperms:permission trusteditor 8c38-2e58 to trust the session!
+[06:58:58] [luckperms-command-executor/INFO]: [LP] The editor session has been marked as trusted.
+[06:58:58] [luckperms-command-executor/INFO]: [LP] In the future, connections from the same browser will be trusted automatically.
+[06:58:58] [luckperms-command-executor/INFO]: [LP] The plugin will now attempt to establish a connection with the editor...
+[06:58:59] [luckperms-worker-6/INFO]: [LP] Editor window connected successfully.
+[06:59:31] [Server thread/INFO]: PZV issued server command: /delhome
+[06:59:40] [Server thread/INFO]: PZV issued server command: /home
+[06:59:42] [Server thread/INFO]: PZV issued server command: /homes
+[06:59:47] [Server thread/INFO]: PZV issued server command: /sethome
+[07:00:40] [luckperms-worker-7/INFO]: [LP] Changes have been received from the connected web editor session.
+[07:00:40] [luckperms-worker-7/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
+[07:04:52] [Async Chat Thread - #1/INFO]: [Not Secure] <PZV> hi
