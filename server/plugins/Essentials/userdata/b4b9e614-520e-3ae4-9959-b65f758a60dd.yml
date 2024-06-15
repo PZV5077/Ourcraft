@@ -11,12 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1718443200254
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1718443613993
   login: 1718442991841
 money: '0'
 last-account-name: Parzival5077
+lastlocation:
+  world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
+  world-name: world
+  x: -1186.1600754562564
+  y: 94.0
+  z: 84.13170310378936
+  yaw: -8.398040771484375
+  pitch: 14.100106239318848
+logoutlocation:
+  world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
+  world-name: world
+  x: -665.8740241477745
+  y: 143.0
+  z: -466.15376428668867
+  yaw: 165.89999389648438
+  pitch: 63.450096130371094

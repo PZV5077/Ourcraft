@@ -160,3 +160,74 @@
 [09:16:31] [User Authenticator #4/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
 [09:16:31] [Server thread/INFO]: Parzival5077 joined the game
 [09:16:31] [Server thread/INFO]: Parzival5077[/127.0.0.1:60980] logged in with entity id 6505 at ([world]-656.5, 145.0, -460.5)
+[09:16:48] [Server thread/INFO]: Parzival5077 issued server command: /tpa hwhw
+[09:16:55] [Server thread/INFO]: Parzival5077 issued server command: /tpa hhhh_w
+[09:17:06] [Server thread/INFO]: hhhh_w issued server command: /tpacancel
+[09:17:23] [Server thread/INFO]: Parzival5077 issued server command: /tp
+[09:17:23] [Server thread/INFO]: [Essentials] Parzival5077 was denied access to command.
+[09:17:27] [Server thread/INFO]: Parzival5077 issued server command: /tpa hhhh_w
+[09:17:42] [Server thread/INFO]: Parzival5077 issued server command: /tp hhhh_w
+[09:17:42] [Server thread/INFO]: [Essentials] Parzival5077 was denied access to command.
+[09:17:49] [Server thread/INFO]: Parzival5077 issued server command: /tpask hhhh_w
+[09:18:07] [Server thread/INFO]: Parzival5077 fell from a high place
+[09:18:30] [Server thread/INFO]: Parzival5077 issued server command: /tp Parzival5077 -672.5 110 -475.5
+[09:18:30] [Server thread/INFO]: [Essentials] Parzival5077 was denied access to command.
+[09:18:47] [Server thread/INFO]: Parzival5077 issued server command: /tpask hhhh_w
+[09:18:51] [Server thread/INFO]: Parzival5077 was shot by Skeleton
+[09:19:01] [Server thread/INFO]: Parzival5077 issued server command: /tpacancel
+[09:19:04] [Server thread/INFO]: Parzival5077 issued server command: /tpask hhhh_w
+[09:19:07] [Server thread/INFO]: Parzival5077 issued server command: /tpask hhhh_w
+[09:19:12] [Server thread/INFO]: hhhh_w has made the advancement [Monster Hunter]
+[09:19:16] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
+[09:19:27] [Async Chat Thread - #2/INFO]: [Not Secure] <hhhh_w> Alex
+[09:19:52] [Server thread/INFO]: Parzival5077 issued server command: /damn
+[09:19:55] [Async Chat Thread - #2/INFO]: [Not Secure] <Parzival5077> damn
+[09:20:00] [Server thread/INFO]: Parzival5077 issued server command: /home
+[09:20:07] [Server thread/INFO]: hhhh_w was slain by Spider
+[09:20:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Parzival5077> you can set home by typing sethome
+[09:20:20] [Async Chat Thread - #2/INFO]: [Not Secure] <hhhh_w> 死亡不掉落~~
+[09:20:29] [Server thread/INFO]: hhhh_w issued server command: /sethome
+[09:20:33] [Async Chat Thread - #2/INFO]: [Not Secure] <hhhh_w> yep
+[09:21:06] [Async Chat Thread - #2/INFO]: [Not Secure] <Parzival5077> 我需要重启以下服务器，，才能给我自己op。。
+[09:21:27] [Async Chat Thread - #2/INFO]: [Not Secure] <Parzival5077> see you in 2 miniutes...
+[09:21:41] [Async Chat Thread - #2/INFO]: [Not Secure] <hhhh_w> fine..
+[09:23:50] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[09:23:50] [Server thread/INFO]: hhhh_w left the game
+[09:26:53] [Server thread/INFO]: Stopping server
+[09:26:53] [Server thread/INFO]: [BlueMap] Disabling BlueMap v3.21
+[09:26:53] [Server thread/INFO]: [BlueMap] Stopping...
+[09:26:53] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[09:26:53] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[09:26:53] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[09:26:53] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[09:26:54] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[09:26:54] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[09:26:54] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[09:26:54] [Server thread/INFO]: [LuckPerms] Closing storage...
+[09:26:54] [Server thread/INFO]: [LuckPerms] Goodbye!
+[09:26:54] [Server thread/INFO]: Saving players
+[09:26:54] [Server thread/INFO]: Parzival5077 lost connection: Server closed
+[09:26:54] [Server thread/INFO]: Parzival5077 left the game
+[09:26:54] [Server thread/INFO]: Saving worlds
+[09:26:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:26:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[09:26:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[09:26:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[09:26:54] [Server thread/INFO]: [ChunkHolderManager] Saved 99 block chunks, 389 entity chunks, 1 poi chunks in world 'world' in 0.49s
+[09:26:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:26:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[09:26:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[09:26:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[09:26:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[09:26:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 11 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[09:26:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:26:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[09:26:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[09:26:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[09:26:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[09:26:55] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.05s
+[09:26:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:26:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:26:55] [Server thread/INFO]: Flushing Chunk IO
+[09:26:55] [Server thread/INFO]: Closing Thread Pool
+[09:26:55] [Server thread/INFO]: Closing Server

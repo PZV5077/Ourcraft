@@ -16,15 +16,24 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1718442004511
+  logout: 1718443430330
   login: 1718442006232
 money: '0'
 last-account-name: hhhh_w
 logoutlocation:
   world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
   world-name: world
-  x: -646.3298591275177
-  y: 147.0
-  z: -321.743330062907
-  yaw: -78.1534423828125
-  pitch: 32.09989547729492
+  x: -1185.4722633818092
+  y: 91.0
+  z: 87.41282416958241
+  yaw: 8.253021240234375
+  pitch: -42.75006866455078
+homes:
+  home:
+    world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
+    world-name: world
+    x: -1190.7847577327375
+    y: 94.0
+    z: 89.73080988033742
+    yaw: 159.45010375976562
+    pitch: 23.250085830688477
