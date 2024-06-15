@@ -57,3 +57,36 @@
 [06:24:08] [User Authenticator #0/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
 [06:24:08] [Server thread/INFO]: PZV joined the game
 [06:24:08] [Server thread/INFO]: PZV[/127.0.0.1:56730] logged in with entity id 377 at ([world]-661.4259608195489, 146.0, -460.2844714720397)
+[06:34:56] [Server thread/INFO]: PZV issued server command: /list
+[06:34:59] [Server thread/INFO]: PZV issued server command: /stop
+[06:34:59] [Server thread/INFO]: [PZV: Stopping the server]
+[06:34:59] [Server thread/INFO]: Stopping server
+[06:34:59] [Server thread/INFO]: [BlueMap] Disabling BlueMap v3.21
+[06:34:59] [Server thread/INFO]: [BlueMap] Stopping...
+[06:34:59] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[06:34:59] [Server thread/INFO]: Saving players
+[06:34:59] [Server thread/INFO]: PZV lost connection: Server closed
+[06:34:59] [Server thread/INFO]: PZV left the game
+[06:35:00] [Server thread/INFO]: Saving worlds
+[06:35:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Saved 26 block chunks, 270 entity chunks, 2 poi chunks in world 'world' in 0.14s
+[06:35:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:35:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 11 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[06:35:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:35:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:35:00] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[06:35:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:35:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:35:00] [Server thread/INFO]: Flushing Chunk IO
+[06:35:00] [Server thread/INFO]: Closing Thread Pool
+[06:35:00] [Server thread/INFO]: Closing Server
