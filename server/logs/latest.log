@@ -86,3 +86,55 @@
 [13:38:48] [Server thread/INFO]: PZV[/127.0.0.1:56248] logged in with entity id 196 at ([world]-776.5032040271393, 109.0, -510.19416969274357)
 [13:38:48] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 28.134279ms. Summary: Getting prefix for PZV
 [13:40:23] [Server thread/INFO]: PZV has made the advancement [Sweet Dreams]
+[13:56:47] [Server thread/INFO]: PZV lost connection: Disconnected
+[13:56:47] [Server thread/INFO]: PZV left the game
+[14:04:09] [Server thread/INFO]: Stopping server
+[14:04:09] [Server thread/INFO]: [BlueMap] Disabling BlueMap v3.21
+[14:04:09] [Server thread/INFO]: [BlueMap] Stopping...
+[14:04:09] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[14:04:09] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[14:04:09] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[14:04:09] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[14:04:09] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[14:04:09] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[14:04:09] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[14:04:09] [Server thread/INFO]: [LuckPerms] Closing storage...
+[14:04:09] [Server thread/INFO]: [LuckPerms] Goodbye!
+[14:04:09] [Server thread/INFO]: Saving players
+[14:04:09] [Server thread/INFO]: Saving worlds
+[14:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:04:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:04:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:04:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:04:09] [Thread-8/WARN]: Exception in thread "Thread-8" java.lang.NoClassDefFoundError: org/h2/api/ErrorCode
+[14:04:09] [Thread-8/WARN]: 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:475)
+[14:04:09] [Thread-8/WARN]: 	at org.h2.message.DbException.get(DbException.java:212)
+[14:04:09] [Thread-8/WARN]: 	at org.h2.mvstore.db.Store.close(Store.java:402)
+[14:04:09] [Thread-8/WARN]: 	at org.h2.engine.Database.closeOpenFilesAndUnlock(Database.java:1261)
+[14:04:09] [Thread-8/WARN]: 	at org.h2.engine.Database.closeImpl(Database.java:1225)
+[14:04:09] [Thread-8/WARN]: 	at org.h2.engine.Database.close(Database.java:1144)
+[14:04:09] [Thread-8/WARN]: 	at org.h2.engine.OnExitDatabaseCloser.onShutdown(OnExitDatabaseCloser.java:85)
+[14:04:09] [Thread-8/WARN]: 	at org.h2.engine.OnExitDatabaseCloser.run(OnExitDatabaseCloser.java:114)
+[14:04:09] [Thread-8/WARN]: Caused by: java.lang.ClassNotFoundException: org.h2.api.ErrorCode
+[14:04:09] [Thread-8/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+[14:04:09] [Thread-8/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[14:04:09] [Thread-8/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[14:04:09] [Thread-8/WARN]: 	... 8 more
+[14:04:10] [Server thread/INFO]: [ChunkHolderManager] Saved 16 block chunks, 197 entity chunks, 1 poi chunks in world 'world' in 0.19s
+[14:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:04:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:04:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[14:04:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[14:04:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[14:04:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 11 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[14:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:04:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:04:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[14:04:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[14:04:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[14:04:10] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[14:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:04:10] [Server thread/INFO]: Flushing Chunk IO
+[14:04:10] [Server thread/INFO]: Closing Thread Pool
+[14:04:10] [Server thread/INFO]: Closing Server
