@@ -15,6 +15,7 @@
       "minecraft:river": "2024-06-15 05:36:39 +0000",
       "minecraft:forest": "2024-06-15 05:39:14 +0000",
       "minecraft:jungle": "2024-06-15 05:36:46 +0000",
+      "minecraft:flower_forest": "2024-06-15 14:06:10 +0000",
       "minecraft:meadow": "2024-06-15 05:40:16 +0000",
       "minecraft:savanna": "2024-06-15 05:39:18 +0000",
       "minecraft:plains": "2024-06-15 05:36:53 +0000"
@@ -78,6 +79,36 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-06-15 13:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-06-15 14:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-06-15 14:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-06-15 14:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-06-15 14:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-06-15 14:07:16 +0000"
     },
     "done": true
   },
