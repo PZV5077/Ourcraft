@@ -30,3 +30,11 @@
 [05:35:14] [Server thread/INFO]: Running delayed init tasks
 [05:35:14] [Server thread/INFO]: Done (4.526s)! For help, type "help"
 [05:35:14] [Server thread/INFO]: Timings Reset
+[05:35:43] [User Authenticator #0/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
+[05:35:43] [Server thread/INFO]: PZV joined the game
+[05:35:43] [Server thread/INFO]: PZV[/127.0.0.1:53092] logged in with entity id 307 at ([world]-9.5, 70.0, -3.5)
+[05:35:58] [Server thread/INFO]: Made PZV a server operator
+[05:36:05] [Server thread/INFO]: PZV issued server command: /gamemode creative
+[05:36:05] [Server thread/INFO]: [PZV: Set own game mode to Creative Mode]
+[05:41:01] [Server thread/INFO]: PZV issued server command: /setworldspawn -666 144 -459
+[05:41:01] [Server thread/INFO]: [PZV: Set the world spawn point to -666, 144, -459 [0.0]]
