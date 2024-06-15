@@ -148,6 +148,6 @@
         }
     },
     
-    "postAttachCommand": "bash '/workspaces/Ourcraft/autostart.sh'"
+    "postStartCommand": "bash '/workspaces/Ourcraft/autostart.sh'"
 
 }
