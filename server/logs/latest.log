@@ -1,5 +1,5 @@
-[04:07:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:07:15] [ServerMain/ERROR]: Failed to start the minecraft server
+[04:07:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:07:48] [ServerMain/ERROR]: Failed to start the minecraft server
 net.minecraft.util.DirectoryLock$LockException: /workspaces/Ourcraft/server/./world/session.lock: already locked (possibly by other Minecraft instance?)
 	at net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:100) ~[paper-1.20.6.jar:1.20.6-139-79e2cb6]
 	at net.minecraft.util.DirectoryLock.create(DirectoryLock.java:30) ~[paper-1.20.6.jar:1.20.6-139-79e2cb6]
