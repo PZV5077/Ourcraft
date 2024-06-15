@@ -130,3 +130,32 @@
 [14:30:08] [Server thread/INFO]: PZV_ADMIN issued server command: /luckperms:permission trusteditor 419f-c096
 [14:30:40] [Server thread/INFO]: PZV_ADMIN lost connection: Disconnected
 [14:30:40] [Server thread/INFO]: PZV_ADMIN left the game
+[14:31:09] [User Authenticator #3/INFO]: UUID of player Tester_1 is c5837432-680b-39cb-ade0-9b01977671f3
+[14:31:09] [Server thread/INFO]: Tester_1 joined the game
+[14:31:09] [Server thread/INFO]: Tester_1[/127.0.0.1:39076] logged in with entity id 895 at ([world]-612.8741825858765, 143.60376365469682, -435.075614530472)
+[14:31:17] [Server thread/INFO]: Tester_1 issued server command: /fly
+[14:31:17] [Server thread/INFO]: [Essentials] Tester_1 was denied access to command.
+[14:31:22] [Server thread/INFO]: Tester_1 issued server command: /fly
+[14:31:22] [Server thread/INFO]: [Essentials] Tester_1 was denied access to command.
+[14:31:26] [Server thread/INFO]: Tester_1 issued server command: /fly
+[14:31:26] [Server thread/INFO]: [Essentials] Tester_1 was denied access to command.
+[14:31:52] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[14:31:52] [luckperms-command-executor/INFO]: [LP] (2 additions and 0 deletions)
+[14:31:52] [luckperms-command-executor/INFO]: +  fly (false)
+[14:31:52] [luckperms-command-executor/INFO]: +  essentials.fly (false)
+[14:32:07] [Server thread/INFO]: Tester_1 lost connection: Timed out
+[14:32:07] [Server thread/INFO]: Tester_1 left the game
+[14:32:57] [User Authenticator #4/INFO]: UUID of player PZV_ADMIN is 67d029ef-77d9-3faa-93cd-ec168a5629c2
+[14:32:57] [Server thread/INFO]: PZV_ADMIN joined the game
+[14:32:57] [Server thread/INFO]: PZV_ADMIN[/127.0.0.1:58778] logged in with entity id 1042 at ([world]-663.6639663985449, 146.0, -460.7564965650382)
+[14:33:05] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard players
+[14:33:15] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard players enable
+[14:33:21] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard players list
+[14:33:30] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard players add @a
+[14:33:46] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard players add @p
+[14:34:06] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives setdisplay list
+[14:34:12] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives setdisplay sidebar
+[14:34:19] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives
+[14:34:22] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives
+[14:34:29] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives list
+[14:34:35] [Server thread/INFO]: PZV_ADMIN issued server command: /scoreboard objectives add
