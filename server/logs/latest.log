@@ -269,3 +269,36 @@
 [12:53:09] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
 [13:03:35] [Server thread/INFO]: hhhh_w issued server command: /home
 [13:03:46] [Server thread/INFO]: hhhh_w issued server command: /sethome
+[13:12:41] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[13:12:41] [Server thread/INFO]: hhhh_w left the game
+[13:12:43] [User Authenticator #3/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[13:12:43] [Server thread/INFO]: hhhh_w joined the game
+[13:12:43] [Server thread/INFO]: hhhh_w[/127.0.0.1:45582] logged in with entity id 9277 at ([world]-1170.8525596351908, 98.0, 58.59914529495626)
+[13:13:12] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[13:13:12] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
+[13:13:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[13:13:13] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[13:13:44] [User Authenticator #4/INFO]: UUID of player PZV_ADMIN is 67d029ef-77d9-3faa-93cd-ec168a5629c2
+[13:13:44] [Server thread/INFO]: PZV_ADMIN joined the game
+[13:13:44] [Server thread/INFO]: PZV_ADMIN[/127.0.0.1:47502] logged in with entity id 9588 at ([world]-659.0, 145.0, -463.0)
+[13:13:48] [Server thread/INFO]: PZV_ADMIN lost connection: Disconnected
+[13:13:48] [Server thread/INFO]: PZV_ADMIN left the game
+[13:13:49] [User Authenticator #4/INFO]: UUID of player PZV_ADMIN is 67d029ef-77d9-3faa-93cd-ec168a5629c2
+[13:13:49] [Server thread/INFO]: PZV_ADMIN joined the game
+[13:13:49] [Server thread/INFO]: PZV_ADMIN[/127.0.0.1:41250] logged in with entity id 9682 at ([world]-659.0, 145.0, -463.0)
+[13:14:01] [Server thread/INFO]: PZV_ADMIN lost connection: Disconnected
+[13:14:01] [Server thread/INFO]: PZV_ADMIN left the game
+[13:14:51] [User Authenticator #5/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[13:14:51] [Server thread/INFO]: Parzival5077 joined the game
+[13:14:51] [Server thread/INFO]: Parzival5077[/127.0.0.1:55734] logged in with entity id 9892 at ([world]-659.0, 145.0, -463.0)
+[13:14:56] [User Authenticator #5/INFO]: UUID of player 404NOTFOUND is 295b035e-514e-380d-94a7-82a9b5a571d7
+[13:14:56] [Server thread/INFO]: [Essentials] Created a User for 404NOTFOUND (295b035e-514e-380d-94a7-82a9b5a571d7) for non Bukkit type: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
+[13:14:56] [Paper Async Command Builder Thread Pool - 5/INFO]: [Essentials] Created a User for 404NOTFOUND (295b035e-514e-380d-94a7-82a9b5a571d7) for non Bukkit type: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
+[13:14:56] [Server thread/INFO]: 404NOTFOUND joined the game
+[13:14:56] [Server thread/INFO]: 404NOTFOUND[/127.0.0.1:55744] logged in with entity id 9977 at ([world]-659.0, 145.0, -463.0)
+[13:16:06] [Server thread/INFO]: Parzival5077 has made the advancement [Stone Age]
+[13:16:36] [Server thread/INFO]: 404NOTFOUND issued server command: /tpa Parzival5077
+[13:16:41] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
+[13:17:11] [Server thread/INFO]: 404NOTFOUND issued server command: /sethome
+[13:17:12] [Server thread/INFO]: Parzival5077 issued server command: /sethome
+[13:17:16] [Server thread/INFO]: Parzival5077 issued server command: /sethome
