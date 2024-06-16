@@ -12,6 +12,7 @@
       "minecraft:river": "2024-06-15 09:09:24 +0000",
       "minecraft:dripstone_caves": "2024-06-15 09:01:55 +0000",
       "minecraft:forest": "2024-06-15 09:04:43 +0000",
+      "minecraft:jungle": "2024-06-16 13:02:16 +0000",
       "minecraft:meadow": "2024-06-15 08:56:18 +0000",
       "minecraft:savanna": "2024-06-15 09:02:59 +0000",
       "minecraft:plains": "2024-06-15 09:09:31 +0000"
@@ -1156,9 +1157,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-06-16 13:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-06-16 13:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-06-16 12:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-06-16 13:03:08 +0000"
     },
     "done": true
   },
@@ -1177,6 +1196,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-06-16 12:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-06-16 13:02:58 +0000"
     },
     "done": true
   },
@@ -1288,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-06-16 13:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-06-16 12:53:10 +0000"
@@ -1327,6 +1358,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-06-16 12:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-06-16 13:02:12 +0000"
     },
     "done": true
   },
