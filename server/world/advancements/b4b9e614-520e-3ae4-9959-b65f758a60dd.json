@@ -5,18 +5,24 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-06-15 09:18:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:meadow": "2024-06-15 09:16:32 +0000",
       "minecraft:plains": "2024-06-15 09:18:22 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-06-15 09:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-06-16 09:27:28 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
