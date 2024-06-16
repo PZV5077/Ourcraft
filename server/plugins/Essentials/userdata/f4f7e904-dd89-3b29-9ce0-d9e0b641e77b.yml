@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1718538796931
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1718533839108
-  login: 1718533238028
+  login: 1718537121712
 money: '0'
 last-account-name: CheessRevolution
 logoutlocation:
@@ -28,3 +28,11 @@ logoutlocation:
   z: -575.3000000119209
   yaw: -166.7880859375
   pitch: 53.40107345581055
+lastlocation:
+  world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
+  world-name: world
+  x: -945.439168325664
+  y: 128.0
+  z: -463.11396494958416
+  yaw: -161.24905395507812
+  pitch: 16.34946632385254
