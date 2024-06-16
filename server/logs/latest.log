@@ -1,93 +1,93 @@
-[09:15:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:15:08] [ServerMain/INFO]: Loaded 7 recipes
-[09:15:09] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[09:15:09] [Server thread/INFO]: Loading properties
-[09:15:09] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[09:15:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[09:15:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[09:15:10] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[09:48:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:49:01] [ServerMain/INFO]: Loaded 7 recipes
+[09:49:02] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[09:49:02] [Server thread/INFO]: Loading properties
+[09:49:02] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[09:49:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:49:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:49:04] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[09:15:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[09:15:11] [Server thread/INFO]: Default game type: SURVIVAL
-[09:15:11] [Server thread/INFO]: Generating keypair
-[09:15:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:15:11] [Server thread/INFO]: Using default channel type
-[09:15:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[09:15:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[09:15:12] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[09:15:13] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[09:15:13] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[09:15:13] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
-[09:15:13] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
-[09:15:13] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
-[09:15:13] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
-[09:15:13] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
-[09:15:13] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
-[09:15:13] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
-[09:15:13] [Server thread/INFO]: [LightUp] Loading server plugin LightUp v1.1.4.0
-[09:15:13] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
-[09:15:13] [Server thread/INFO]: [MCEEW] Loading server plugin MCEEW v2.4.2
-[09:15:13] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v3.21
-[09:15:13] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
-[09:15:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[09:15:13] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[09:15:14] [Server thread/INFO]:         __    
-[09:15:14] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[09:15:14] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[09:15:14] [Server thread/INFO]: 
-[09:15:14] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[09:15:14] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[09:15:15] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[09:15:16] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[09:15:16] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2718ms)
-[09:15:16] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[09:15:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[09:15:16] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[09:15:16] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[09:15:16] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[09:15:16] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
-[09:15:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:15:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:15:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:15:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:15:16] [Server thread/INFO]: Preparing level "world"
-[09:15:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:15:18] [Server thread/INFO]: Time elapsed: 624 ms
-[09:15:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[09:15:18] [Server thread/INFO]: Time elapsed: 130 ms
-[09:15:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[09:15:18] [Server thread/INFO]: Time elapsed: 132 ms
-[09:15:18] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[09:15:19] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[09:15:19] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[09:15:20] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[09:15:20] [Server thread/INFO]: [Essentials] Using locale en
-[09:15:20] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[09:15:20] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[09:15:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[09:15:20] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[09:15:20] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
-[09:15:20] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
-[09:15:20] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[09:15:20] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[09:15:20] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
-[09:15:20] [Server thread/INFO]: [LightUp] Enabling LightUp v1.1.4.0
-[09:15:20] [Server thread/INFO]: LightUp has been enabled!
-[09:15:20] [Server thread/INFO]: [MCEEW] Enabling MCEEW v2.4.2
-[09:15:20] [Server thread/INFO]: [BlueMap] Enabling BlueMap v3.21
-[09:15:20] [BlueMap-Load/INFO]: [BlueMap] Loading...
-[09:15:20] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
-[09:15:21] [Folia Async Scheduler Thread #1/INFO]: [MCEEW] You are running the latest plugin version.
-[09:15:21] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
-[09:15:21] [Server thread/INFO]: Running delayed init tasks
-[09:15:21] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[09:15:21] [Server thread/INFO]: [CommandAPI] Linked 4 Bukkit permissions to commands
-[09:15:21] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
-[09:15:21] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[09:15:21] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] Checking for Updates ... 
-[09:15:21] [Thread-13/INFO]: [MCEEW] Connected to WebSocket API.
-[09:15:21] [Craft Scheduler Thread - 2 - Passky/INFO]: 
+[09:49:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[09:49:05] [Server thread/INFO]: Default game type: SURVIVAL
+[09:49:05] [Server thread/INFO]: Generating keypair
+[09:49:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:49:05] [Server thread/INFO]: Using default channel type
+[09:49:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[09:49:05] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[09:49:06] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[09:49:07] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[09:49:07] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[09:49:07] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
+[09:49:07] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
+[09:49:07] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[09:49:07] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[09:49:07] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[09:49:07] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[09:49:07] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
+[09:49:07] [Server thread/INFO]: [LightUp] Loading server plugin LightUp v1.1.4.0
+[09:49:07] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
+[09:49:07] [Server thread/INFO]: [MCEEW] Loading server plugin MCEEW v2.4.2
+[09:49:07] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v3.21
+[09:49:07] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
+[09:49:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:49:07] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[09:49:08] [Server thread/INFO]:         __    
+[09:49:08] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[09:49:08] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[09:49:08] [Server thread/INFO]: 
+[09:49:08] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[09:49:09] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[09:49:10] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[09:49:10] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[09:49:11] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3785ms)
+[09:49:11] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[09:49:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[09:49:11] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[09:49:11] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[09:49:11] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[09:49:11] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
+[09:49:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:49:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:49:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:49:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:49:11] [Server thread/INFO]: Preparing level "world"
+[09:49:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:49:13] [Server thread/INFO]: Time elapsed: 847 ms
+[09:49:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[09:49:14] [Server thread/INFO]: Time elapsed: 239 ms
+[09:49:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[09:49:14] [Server thread/INFO]: Time elapsed: 158 ms
+[09:49:14] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[09:49:15] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[09:49:15] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[09:49:15] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[09:49:15] [Server thread/INFO]: [Essentials] Using locale en
+[09:49:16] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[09:49:16] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[09:49:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[09:49:16] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[09:49:16] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
+[09:49:16] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[09:49:16] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[09:49:16] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[09:49:16] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[09:49:16] [Server thread/INFO]: [LightUp] Enabling LightUp v1.1.4.0
+[09:49:16] [Server thread/INFO]: LightUp has been enabled!
+[09:49:16] [Server thread/INFO]: [MCEEW] Enabling MCEEW v2.4.2
+[09:49:16] [Server thread/INFO]: [BlueMap] Enabling BlueMap v3.21
+[09:49:16] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[09:49:16] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
+[09:49:17] [Folia Async Scheduler Thread #1/INFO]: [MCEEW] You are running the latest plugin version.
+[09:49:17] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
+[09:49:17] [Server thread/INFO]: Running delayed init tasks
+[09:49:17] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[09:49:17] [Server thread/INFO]: [CommandAPI] Linked 4 Bukkit permissions to commands
+[09:49:17] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[09:49:17] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[09:49:17] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] Checking for Updates ... 
+[09:49:17] [Thread-13/INFO]: [MCEEW] Connected to WebSocket API.
+[09:49:17] [Craft Scheduler Thread - 2 - Passky/INFO]: 
 
 []============[Enabling Passky]============[]
 |
@@ -110,146 +110,70 @@
 |
 []=========================================[]
 
-[09:15:21] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] No new version available
-[09:15:24] [BlueMap-Load/INFO]: [BlueMap] Loading textures...
-[09:15:28] [BlueMap-Load/INFO]: [BlueMap] Baking resources...
-[09:15:28] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
-[09:15:28] [BlueMap-Load/INFO]: [BlueMap] Loading world '6b8fb539-85fc-4228-bac5-d7838492d5a8' (/workspaces/Ourcraft/server/world_the_end/DIM1)...
-[09:15:28] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: FILE)
-[09:15:28] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
-[09:15:29] [BlueMap-Load/INFO]: [BlueMap] Loading world '7cd003a8-ce4a-4930-8ddb-838d2799704f' (/workspaces/Ourcraft/server/world)...
-[09:15:29] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
-[09:15:29] [BlueMap-Load/INFO]: [BlueMap] Loading world '5a8dad09-d1bd-4f1d-bdc6-f6aa89dc9098' (/workspaces/Ourcraft/server/world_nether/DIM-1)...
-[09:15:29] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
-[09:15:29] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 25566
-[09:15:29] [Thread-15/INFO]: [BlueMap] WebServer started.
-[09:15:29] [BlueMap-Load/INFO]: [BlueMap] Loaded!
-[09:15:48] [Server thread/INFO]: Loaded 7 recipes
-[09:15:49] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
-[09:15:49] [Server thread/INFO]: Done (40.028s)! For help, type "help"
-[09:15:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27964ms or 559 ticks behind
-[09:15:49] [Server thread/INFO]: Timings Reset
-[09:15:51] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[09:15:51] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[09:15:51] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[09:16:18] [Server thread/INFO]: /127.0.0.1:36360 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:16:27] [Server thread/INFO]: /127.0.0.1:50648 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:16:31] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[09:16:31] [Server thread/INFO]: Parzival5077 joined the game
-[09:16:31] [Server thread/INFO]: Parzival5077[/127.0.0.1:50652] logged in with entity id 298 at ([world]-662.0, 145.0, -461.0)
-[09:16:32] [Server thread/INFO]: /127.0.0.1:50654 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:16:40] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[09:16:40] [Server thread/INFO]: Parzival5077 left the game
-[09:16:42] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[09:16:42] [Server thread/INFO]: Parzival5077 joined the game
-[09:16:42] [Server thread/INFO]: Parzival5077[/127.0.0.1:38816] logged in with entity id 451 at ([world]-662.0, 145.0, -461.0)
-[09:16:53] [Server thread/INFO]: /127.0.0.1:58004 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:16:55] [Server thread/INFO]: /127.0.0.1:50178 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:16:56] [Server thread/INFO]: /127.0.0.1:50180 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:17:11] [Server thread/INFO]: /127.0.0.1:52976 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:17:13] [Server thread/INFO]: /127.0.0.1:44910 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:17:15] [Server thread/INFO]: /127.0.0.1:44918 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:17:22] [Server thread/INFO]: /127.0.0.1:44922 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:17:27] [Server thread/WARN]: Parzival5077 was kicked due to keepalive timeout!
-[09:17:27] [Server thread/INFO]: Parzival5077 lost connection: Timed out
-[09:17:27] [Server thread/INFO]: Parzival5077 left the game
-[09:17:43] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[09:17:43] [Server thread/INFO]: Parzival5077 joined the game
-[09:17:43] [Server thread/INFO]: Parzival5077[/127.0.0.1:56016] logged in with entity id 541 at ([world]-665.8740241477745, 143.0, -466.15376428668867)
-[09:18:16] [Server thread/INFO]: /127.0.0.1:38320 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:18:23] [Server thread/INFO]: /127.0.0.1:38332 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:18:25] [Server thread/INFO]: /127.0.0.1:51444 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:18:28] [Server thread/WARN]: Parzival5077 was kicked due to keepalive timeout!
-[09:18:28] [Server thread/INFO]: Parzival5077 lost connection: Timed out
-[09:18:28] [Server thread/INFO]: Parzival5077 left the game
-[09:18:47] [Server thread/INFO]: /127.0.0.1:42656 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:18:54] [User Authenticator #2/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[09:18:54] [Server thread/INFO]: Parzival5077 joined the game
-[09:18:54] [Server thread/INFO]: Parzival5077[/127.0.0.1:38656] logged in with entity id 623 at ([world]-665.4717458427609, 145.0, -458.4597888338081)
-[09:19:05] [Server thread/INFO]: /127.0.0.1:39746 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:19:16] [Server thread/INFO]: Parzival5077 issued server command: /home
-[09:19:28] [Server thread/INFO]: Parzival5077 issued server command: /home
-[09:19:32] [Server thread/INFO]: Parzival5077 issued server command: /sethome
-[09:19:39] [Server thread/WARN]: Parzival5077 was kicked due to keepalive timeout!
-[09:19:39] [Server thread/INFO]: Parzival5077 lost connection: Timed out
-[09:19:39] [Server thread/INFO]: Parzival5077 left the game
-[09:20:30] [User Authenticator #3/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[09:20:30] [Server thread/INFO]: Parzival5077 joined the game
-[09:20:30] [Server thread/INFO]: Parzival5077[/127.0.0.1:57786] logged in with entity id 726 at ([world]-661.5, 145.0, -460.5)
-[09:20:54] [Server thread/INFO]: Parzival5077 issued server command: /sethome
-[09:21:08] [Server thread/INFO]: Parzival5077 issued server command: /hi
-[09:21:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Parzival5077> hi
-[09:21:13] [Async Chat Thread - #2/INFO]: [Not Secure] <Parzival5077> wdwd
-[09:21:15] [Server thread/WARN]: Parzival5077 was kicked due to keepalive timeout!
-[09:21:15] [Server thread/INFO]: Parzival5077 lost connection: Timed out
-[09:21:15] [Server thread/INFO]: Parzival5077 left the game
-[09:21:22] [User Authenticator #3/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[09:21:22] [Server thread/INFO]: Parzival5077 joined the game
-[09:21:22] [Server thread/INFO]: Parzival5077[/127.0.0.1:34152] logged in with entity id 815 at ([world]-664.063060154548, 145.0, -459.1740287276188)
-[09:21:26] [Server thread/INFO]: Parzival5077 issued server command: /hi
-[09:21:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Parzival5077> hi
-[09:22:01] [Server thread/INFO]: Parzival5077 issued server command: /sethome
-[09:23:11] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[09:23:11] [Server thread/INFO]: Parzival5077 left the game
-[09:23:13] [User Authenticator #4/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[09:23:14] [Server thread/INFO]: Parzival5077 joined the game
-[09:23:14] [Server thread/INFO]: Parzival5077[/127.0.0.1:54880] logged in with entity id 1005 at ([world]-656.426404612687, 145.0, -461.55023182965044)
-[09:23:18] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[09:23:18] [Server thread/INFO]: Parzival5077 left the game
-[09:23:19] [User Authenticator #4/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[09:23:19] [Server thread/INFO]: Parzival5077 joined the game
-[09:23:19] [Server thread/INFO]: Parzival5077[/127.0.0.1:54938] logged in with entity id 1013 at ([world]-656.426404612687, 145.0, -461.55023182965044)
-[09:24:29] [User Authenticator #5/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
-[09:24:29] [Server thread/INFO]: CheessRevolution joined the game
-[09:24:29] [Server thread/INFO]: CheessRevolution[/127.0.0.1:49434] logged in with entity id 1102 at ([world]-662.0, 145.0, -461.0)
-[09:24:51] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[09:24:51] [Server thread/INFO]: Parzival5077 left the game
-[09:24:59] [Server thread/INFO]: /127.0.0.1:44582 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:25:02] [Server thread/INFO]: /127.0.0.1:44584 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:25:23] [Server thread/INFO]: /127.0.0.1:54720 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:25:26] [Server thread/INFO]: /127.0.0.1:54724 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[09:26:02] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
-[09:26:02] [Server thread/INFO]: CheessRevolution left the game
-[09:26:06] [User Authenticator #6/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
-[09:26:06] [Server thread/INFO]: CheessRevolution joined the game
-[09:26:06] [Server thread/INFO]: CheessRevolution[/127.0.0.1:36034] logged in with entity id 1249 at ([world]-719.2965353385393, 96.0, -483.2402002564404)
-[09:26:22] [User Authenticator #6/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[09:26:22] [Server thread/INFO]: Parzival5077 joined the game
-[09:26:22] [Server thread/INFO]: Parzival5077[/127.0.0.1:59026] logged in with entity id 1274 at ([world]-672.0401411242101, 142.0, -456.59017730810007)
-[09:26:53] [Server thread/INFO]: CheessRevolution has made the advancement [Sweet Dreams]
-[09:29:09] [Server thread/INFO]: Parzival5077 issued server command: /hom
-[09:29:11] [Server thread/INFO]: Parzival5077 issued server command: /home
-[09:29:21] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[09:29:21] [Server thread/INFO]: Parzival5077 left the game
-[09:29:46] [Server thread/INFO]: CheessRevolution was slain by Spider
-[09:30:14] [User Authenticator #7/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
-[09:30:14] [Server thread/INFO]: PZV joined the game
-[09:30:14] [Server thread/INFO]: PZV[/127.0.0.1:43332] logged in with entity id 1842 at ([world]-662.0, 145.0, -461.0)
-[09:32:38] [Server thread/INFO]: PZV issued server command: /gamemode
-[09:32:45] [Server thread/INFO]: PZV issued server command: /gamemode creative PZV
-[09:35:07] [Server thread/INFO]: CheessRevolution lost connection: Timed out
-[09:35:07] [Server thread/INFO]: CheessRevolution left the game
-[09:35:36] [User Authenticator #8/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
-[09:35:36] [Server thread/INFO]: CheessRevolution joined the game
-[09:35:36] [Server thread/INFO]: CheessRevolution[/127.0.0.1:59962] logged in with entity id 2793 at ([world]-796.6941250719134, 121.0, -525.7304602084988)
-[09:40:41] [Server thread/INFO]: CheessRevolution has made the advancement [Stone Age]
-[09:40:54] [Server thread/INFO]: CheessRevolution has made the advancement [Getting an Upgrade]
-[09:42:10] [Server thread/INFO]: CheessRevolution has made the advancement [Acquire Hardware]
-[09:42:15] [Server thread/INFO]: PZV issued server command: /time set morning
-[09:43:08] [Server thread/INFO]: PZV issued server command: /setworldspawn
-[09:43:08] [Server thread/INFO]: [PZV: Set the world spawn point to -659, 145, -463 [0.0]]
-[09:44:20] [Server thread/INFO]: CheessRevolution has made the advancement [A Seedy Place]
-[09:45:02] [User Authenticator #9/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[09:45:02] [Server thread/INFO]: hhhh_w joined the game
-[09:45:02] [Server thread/INFO]: hhhh_w[/127.0.0.1:57678] logged in with entity id 4449 at ([world]-659.0, 145.0, -463.0)
-[09:45:14] [Server thread/INFO]: PZV issued server command: /gamerule playersSleepingPercentage 50
-[09:45:14] [Server thread/INFO]: [PZV: Gamerule playersSleepingPercentage is now set to: 50]
-[09:45:20] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[09:45:20] [Server thread/INFO]: hhhh_w left the game
-[09:45:58] [Server thread/INFO]: PZV issued server command: /time set midnight
-[09:46:08] [Server thread/INFO]: PZV issued server command: /time
-[09:46:11] [Server thread/INFO]: PZV issued server command: /time set midnight
-[09:46:45] [Server thread/INFO]: PZV issued server command: /home
-[09:46:58] [User Authenticator #10/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[09:46:58] [Server thread/INFO]: hhhh_w joined the game
-[09:46:58] [Server thread/INFO]: hhhh_w[/127.0.0.1:39312] logged in with entity id 4986 at ([world]-1187.380843339394, 98.0, 193.95186353915807)
+[09:49:17] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] No new version available
+[09:49:19] [BlueMap-Load/INFO]: [BlueMap] Loading textures...
+[09:49:22] [BlueMap-Load/INFO]: [BlueMap] Baking resources...
+[09:49:22] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
+[09:49:22] [BlueMap-Load/INFO]: [BlueMap] Loading world '6b8fb539-85fc-4228-bac5-d7838492d5a8' (/workspaces/Ourcraft/server/world_the_end/DIM1)...
+[09:49:22] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: FILE)
+[09:49:22] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
+[09:49:23] [BlueMap-Load/INFO]: [BlueMap] Loading world '7cd003a8-ce4a-4930-8ddb-838d2799704f' (/workspaces/Ourcraft/server/world)...
+[09:49:23] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
+[09:49:23] [BlueMap-Load/INFO]: [BlueMap] Loading world '5a8dad09-d1bd-4f1d-bdc6-f6aa89dc9098' (/workspaces/Ourcraft/server/world_nether/DIM-1)...
+[09:49:23] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
+[09:49:23] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 25566
+[09:49:23] [Thread-15/INFO]: [BlueMap] WebServer started.
+[09:49:24] [BlueMap-Load/INFO]: [BlueMap] Loaded!
+[09:49:32] [User Authenticator #0/INFO]: UUID of player PZV is 7a2b35a3-1151-37ec-9841-34f365d0589f
+[09:49:35] [User Authenticator #0/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
+[09:49:36] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[09:49:39] [Server thread/INFO]: Loaded 7 recipes
+[09:49:40] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[09:49:40] [Server thread/INFO]: Done (38.250s)! For help, type "help"
+[09:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23619ms or 472 ticks behind
+[09:49:40] [Server thread/INFO]: Timings Reset
+[09:49:41] [Server thread/INFO]: PZV joined the game
+[09:49:41] [Server thread/INFO]: PZV[/127.0.0.1:56582] logged in with entity id 33 at ([world]-659.0, 145.0, -463.0)
+[09:49:41] [Server thread/INFO]: CheessRevolution joined the game
+[09:49:41] [Server thread/INFO]: CheessRevolution[/127.0.0.1:56608] logged in with entity id 34 at ([world]-659.0, 145.0, -463.0)
+[09:49:41] [Server thread/INFO]: hhhh_w joined the game
+[09:49:41] [Server thread/INFO]: hhhh_w[/127.0.0.1:56646] logged in with entity id 35 at ([world]-659.0, 145.0, -463.0)
+[09:49:42] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 32.674162ms. Summary: Getting prefix for CheessRevolution
+[09:49:45] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[09:49:45] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[09:49:45] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[09:50:33] [Server thread/INFO]: CheessRevolution has made the advancement [Isn't It Iron Pick]
+[09:51:56] [Server thread/INFO]: hhhh_w has made the advancement [Acquire Hardware]
+[09:53:27] [Server thread/INFO]: PZV issued server command: /home
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:53:46] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:54:15] [Server thread/WARN]: Player PZV just tried to change non-editable sign
+[09:55:19] [Server thread/INFO]: PZV issued server command: /deop PZV
+[09:55:19] [Server thread/INFO]: [PZV: Made PZV no longer a server operator]
+[09:55:25] [Server thread/INFO]: PZV lost connection: Disconnected
+[09:55:25] [Server thread/INFO]: PZV left the game
+[09:56:41] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[09:56:41] [Server thread/INFO]: Parzival5077 joined the game
+[09:56:42] [Server thread/INFO]: Parzival5077[/127.0.0.1:39648] logged in with entity id 3486 at ([world]-659.0, 145.0, -463.0)
+[09:58:37] [Server thread/INFO]: Parzival5077 fell from a high place
+[09:59:05] [Async Chat Thread - #2/INFO]: [Not Secure] <hhhh_w> ZZZZZZZZZZzzzzzzzzzzzzzzz
+[09:59:08] [Async Chat Thread - #2/INFO]: [Not Secure] <hhhh_w> ZZZZZZZzzzzz
+[09:59:15] [Async Chat Thread - #2/INFO]: [Not Secure] <hhhh_w> ZZZZZZZZZZZZZzzzzzzzzzzzzzzzzZZZZZZZZZZZzw
+[09:59:24] [Server thread/INFO]: Parzival5077 has made the advancement [Sweet Dreams]
+[09:59:42] [Server thread/INFO]: Parzival5077 issued server command: /list
+[09:59:42] [Server thread/INFO]: [Essentials] Parzival5077 was denied access to command.
+[09:59:57] [Async Chat Thread - #3/INFO]: [Not Secure] <Parzival5077> sleep!
+[10:00:00] [Async Chat Thread - #3/INFO]: [Not Secure] <hhhh_w> ZZZZZZZzzzzzzzzz
+[10:00:50] [Server thread/INFO]: Parzival5077 issued server command: /sethome
+[10:01:31] [Server thread/INFO]: hhhh_w has made the advancement [Isn't It Iron Pick]
