@@ -1,96 +1,97 @@
-[12:01:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:01:51] [ServerMain/INFO]: Loaded 7 recipes
-[12:01:53] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[12:01:53] [Server thread/INFO]: Loading properties
-[12:01:53] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[12:01:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:01:54] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:01:54] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[01:19:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:19:50] [ServerMain/INFO]: Loaded 7 recipes
+[01:19:52] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:19:52] [Server thread/INFO]: Loading properties
+[01:19:52] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[01:19:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:19:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:19:54] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[12:01:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[12:01:55] [Server thread/INFO]: Default game type: SURVIVAL
-[12:01:55] [Server thread/INFO]: Generating keypair
-[12:01:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:01:55] [Server thread/INFO]: Using default channel type
-[12:01:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[12:01:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[12:01:56] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[12:01:57] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[12:01:57] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[12:01:57] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
-[12:01:57] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
-[12:01:57] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
-[12:01:57] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
-[12:01:57] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
-[12:01:57] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
-[12:01:57] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
-[12:01:57] [Server thread/INFO]: [LightUp] Loading server plugin LightUp v1.1.4.0
-[12:01:57] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
-[12:01:57] [Server thread/INFO]: [MCEEW] Loading server plugin MCEEW v2.4.2
-[12:01:57] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v3.21
-[12:01:57] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
-[12:01:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:01:57] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[12:01:58] [Server thread/INFO]:         __    
-[12:01:58] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[12:01:58] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[12:01:58] [Server thread/INFO]: 
-[12:01:58] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[12:01:58] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[12:01:59] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[12:02:00] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[12:02:00] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3307ms)
-[12:02:00] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[12:02:00] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[12:02:00] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[12:02:00] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[12:02:00] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[12:02:00] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
-[12:02:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:02:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:02:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:02:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:02:00] [Server thread/INFO]: Preparing level "world"
-[12:02:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:02:01] [Server thread/INFO]: Time elapsed: 530 ms
-[12:02:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:02:02] [Server thread/INFO]: Time elapsed: 151 ms
-[12:02:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:02:02] [Server thread/INFO]: Time elapsed: 107 ms
-[12:02:02] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[12:02:03] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[12:02:03] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[12:02:03] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[12:02:03] [Server thread/INFO]: [Essentials] Using locale en
-[12:02:04] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[12:02:04] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[12:02:04] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[12:02:04] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[12:02:04] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
-[12:02:04] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
-[12:02:04] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[12:02:04] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[12:02:04] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
-[12:02:04] [Server thread/INFO]: [LightUp] Enabling LightUp v1.1.4.0
-[12:02:04] [Server thread/INFO]: LightUp has been enabled!
-[12:02:04] [Server thread/INFO]: [MCEEW] Enabling MCEEW v2.4.2
-[12:02:04] [Server thread/INFO]: [BlueMap] Enabling BlueMap v3.21
-[12:02:04] [BlueMap-Load/INFO]: [BlueMap] Loading...
-[12:02:04] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
-[12:02:04] [Folia Async Scheduler Thread #1/INFO]: [MCEEW] You are running the latest plugin version.
-[12:02:05] [Thread-13/INFO]: [MCEEW] Connected to WebSocket API.
-[12:02:05] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
-[12:02:05] [Server thread/INFO]: Starting remote control listener
-[12:02:05] [Server thread/INFO]: Thread RCON Listener started
-[12:02:05] [Server thread/INFO]: RCON running on 0.0.0.0:25567
-[12:02:05] [Server thread/INFO]: Running delayed init tasks
-[12:02:05] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[12:02:05] [Server thread/INFO]: [CommandAPI] Linked 4 Bukkit permissions to commands
-[12:02:05] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[12:02:05] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
-[12:02:05] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] Checking for Updates ... 
-[12:02:05] [Craft Scheduler Thread - 2 - Passky/INFO]: 
+[01:19:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[01:19:55] [Server thread/INFO]: Default game type: SURVIVAL
+[01:19:55] [Server thread/INFO]: Generating keypair
+[01:19:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:19:55] [Server thread/INFO]: Using default channel type
+[01:19:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:19:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:19:56] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[01:19:57] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[01:19:57] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[01:19:57] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
+[01:19:57] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
+[01:19:57] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[01:19:57] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[01:19:57] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[01:19:57] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[01:19:57] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
+[01:19:57] [Server thread/INFO]: [LightUp] Loading server plugin LightUp v1.1.4.0
+[01:19:57] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
+[01:19:57] [Server thread/INFO]: [MCEEW] Loading server plugin MCEEW v2.4.2
+[01:19:57] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v3.21
+[01:19:57] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
+[01:19:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:19:57] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[01:19:58] [Server thread/INFO]:         __    
+[01:19:58] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[01:19:58] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[01:19:58] [Server thread/INFO]: 
+[01:19:58] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:19:59] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[01:20:01] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:20:01] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:20:02] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4287ms)
+[01:20:02] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[01:20:02] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[01:20:02] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[01:20:02] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[01:20:02] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[01:20:02] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
+[01:20:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:20:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:20:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:20:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:20:02] [Server thread/INFO]: Preparing level "world"
+[01:20:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:20:04] [Server thread/INFO]: Time elapsed: 584 ms
+[01:20:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:20:04] [Server thread/INFO]: Time elapsed: 250 ms
+[01:20:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:20:05] [Server thread/INFO]: Time elapsed: 189 ms
+[01:20:05] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[01:20:05] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[01:20:05] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[01:20:06] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[01:20:06] [Server thread/INFO]: [Essentials] Using locale en
+[01:20:07] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[01:20:07] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[01:20:07] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[01:20:07] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[01:20:07] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
+[01:20:07] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[01:20:07] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[01:20:07] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[01:20:07] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[01:20:07] [Server thread/INFO]: [LightUp] Enabling LightUp v1.1.4.0
+[01:20:07] [Server thread/INFO]: LightUp has been enabled!
+[01:20:07] [Server thread/INFO]: [MCEEW] Enabling MCEEW v2.4.2
+[01:20:07] [Server thread/INFO]: [BlueMap] Enabling BlueMap v3.21
+[01:20:07] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[01:20:07] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
+[01:20:08] [Folia Async Scheduler Thread #1/INFO]: [MCEEW] You are running the latest plugin version.
+[01:20:08] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
+[01:20:08] [Thread-13/INFO]: [MCEEW] Connected to WebSocket API.
+[01:20:08] [Server thread/INFO]: Starting remote control listener
+[01:20:08] [Server thread/INFO]: Thread RCON Listener started
+[01:20:08] [Server thread/INFO]: RCON running on 0.0.0.0:25567
+[01:20:08] [Server thread/INFO]: Running delayed init tasks
+[01:20:08] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[01:20:08] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[01:20:08] [Server thread/INFO]: [CommandAPI] Linked 4 Bukkit permissions to commands
+[01:20:08] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[01:20:08] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] Checking for Updates ... 
+[01:20:08] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] No new version available
+[01:20:09] [Craft Scheduler Thread - 2 - Passky/INFO]: 
 
 []============[Enabling Passky]============[]
 |
@@ -113,268 +114,70 @@
 |
 []=========================================[]
 
-[12:02:05] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] No new version available
-[12:02:07] [BlueMap-Load/INFO]: [BlueMap] Loading textures...
-[12:02:10] [User Authenticator #0/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
-[12:02:10] [BlueMap-Load/INFO]: [BlueMap] Baking resources...
-[12:02:10] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
-[12:02:10] [BlueMap-Load/INFO]: [BlueMap] Loading world '6b8fb539-85fc-4228-bac5-d7838492d5a8' (/workspaces/Ourcraft/server/world_the_end/DIM1)...
-[12:02:10] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: FILE)
-[12:02:10] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
-[12:02:10] [BlueMap-Load/INFO]: [BlueMap] Loading world '7cd003a8-ce4a-4930-8ddb-838d2799704f' (/workspaces/Ourcraft/server/world)...
-[12:02:10] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
-[12:02:10] [BlueMap-Load/INFO]: [BlueMap] Loading world '5a8dad09-d1bd-4f1d-bdc6-f6aa89dc9098' (/workspaces/Ourcraft/server/world_nether/DIM-1)...
-[12:02:10] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
-[12:02:11] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 25566
-[12:02:11] [Thread-15/INFO]: [BlueMap] WebServer started.
-[12:02:11] [BlueMap-Load/INFO]: [BlueMap] Loaded!
-[12:02:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:02:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:02:32] [Server thread/INFO]: Loaded 7 recipes
-[12:02:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:02:33] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:02:34] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
-[12:02:34] [Server thread/INFO]: Done (41.266s)! For help, type "help"
-[12:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28996ms or 579 ticks behind
-[12:02:34] [Server thread/INFO]: Timings Reset
-[12:02:34] [Server thread/INFO]: CheessRevolution joined the game
-[12:02:34] [Server thread/INFO]: CheessRevolution[/127.0.0.1:38168] logged in with entity id 23 at ([world]-659.0, 145.0, -463.0)
-[12:02:35] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 32.995366ms. Summary: Getting prefix for CheessRevolution
-[12:02:37] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[12:02:37] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[12:02:37] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[12:03:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:03:11] [Server thread/INFO]: [Rcon: Saved the game]
-[12:03:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5540ms or 110 ticks behind
-[12:03:11] [Server thread/INFO]: CheessRevolution issued server command: /home
-[12:04:07] [Server thread/INFO]: CheessRevolution issued server command: /home
-[12:07:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:07:22] [Server thread/INFO]: [Rcon: Showing new subtitle for CheessRevolution]
-[12:07:22] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:07:22] [Server thread/INFO]: [Rcon: Showing new title for CheessRevolution]
-[12:07:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:07:23] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:07:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:07:34] [Server thread/INFO]: [Rcon: Saved the game]
-[12:07:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:07:54] [Server thread/INFO]: [Rcon: Showing new subtitle for CheessRevolution]
-[12:07:54] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:07:54] [Server thread/INFO]: [Rcon: Showing new title for CheessRevolution]
-[12:07:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:07:55] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:11:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:11:56] [Server thread/INFO]: [Rcon: Saved the game]
-[12:15:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:15:17] [Server thread/INFO]: [Rcon: Showing new subtitle for CheessRevolution]
-[12:15:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:15:18] [Server thread/INFO]: [Rcon: Showing new title for CheessRevolution]
-[12:15:18] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:15:18] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:15:22] [Async Chat Thread - #2/INFO]: [Not Secure] <CheessRevolution> ...
-[12:18:46] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:18:47] [Server thread/INFO]: [Rcon: Showing new subtitle for CheessRevolution]
-[12:18:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:18:47] [Server thread/INFO]: [Rcon: Showing new title for CheessRevolution]
-[12:18:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:18:48] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:23:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:23:51] [Server thread/INFO]: [Rcon: Showing new subtitle for CheessRevolution]
-[12:23:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:23:51] [Server thread/INFO]: [Rcon: Showing new title for CheessRevolution]
-[12:23:52] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:23:52] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:25:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:25:09] [Server thread/INFO]: [Rcon: Showing new subtitle for CheessRevolution]
-[12:25:10] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:25:10] [Server thread/INFO]: [Rcon: Showing new title for CheessRevolution]
-[12:25:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:25:11] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:26:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:26:22] [Server thread/INFO]: [Essentials] Rcon issued server command: /tell 
-[12:26:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:26:57] [Server thread/INFO]: [Essentials] Rcon issued server command: /tell 
-[12:27:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:27:09] [Server thread/INFO]: [Essentials] Rcon issued server command: /tell @a \u00A7c This is your server speaking
-[12:27:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:27:19] [Server thread/INFO]: [Essentials] Rcon issued server command: /tell @a \u00A7c This is your server speaking
-[12:27:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:27:59] [Server thread/INFO]: [Essentials] Rcon issued server command: /tell \u00A7c This is your server speaking
-[12:28:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:28:32] [Server thread/INFO]: [Essentials] Rcon issued server command: /tell @a \u00A7c This is your server speaking
-[12:28:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:28:44] [Server thread/INFO]: [Essentials] Rcon issued server command: /tell 
-[12:29:02] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:29:02] [Server thread/INFO]: [Essentials] Rcon issued server command: /tell @a "\u00A7c This is your server speaking"
-[12:30:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:30:31] [Server thread/INFO]: [Essentials] Rcon issued server command: /msg @a "\u00A7c This is your server speaking"
-[12:30:33] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
-[12:30:33] [Server thread/INFO]: CheessRevolution left the game
-[12:30:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:30:51] [Server thread/INFO]: [Essentials] Rcon issued server command: /msg \u0040a "\u00A7c This is your server speaking"
-[12:31:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:31:06] [Server thread/INFO]: [Essentials] Rcon issued server command: /msg @a "\u00A7c This is your server speaking"
-[12:31:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:31:30] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
-[12:31:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:31:44] [Server thread/INFO]: [Essentials] Rcon issued server command: /ping 
-[12:33:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:33:48] [Server thread/INFO]: [Essentials] Rcon issued server command: /baltop 
-[12:37:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:37:12] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:37:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:38:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:38:05] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
-[12:38:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:38:05] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:44:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:44:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:45:04] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:45:07] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:45:35] [User Authenticator #1/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
-[12:45:35] [Server thread/INFO]: CheessRevolution joined the game
-[12:45:35] [Server thread/INFO]: CheessRevolution[/127.0.0.1:45260] logged in with entity id 4390 at ([world]-659.0, 145.0, -463.0)
-[12:45:58] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:46:00] [Server thread/INFO]: [Rcon: Gave 1 experience points to CheessRevolution]
-[12:46:05] [Server thread/INFO]: [Rcon: Gave 1 experience points to CheessRevolution]
-[12:46:21] [Server thread/INFO]: [Rcon: Gave 100 experience points to CheessRevolution]
-[12:46:28] [Server thread/INFO]: [Rcon: Gave -100 experience points to CheessRevolution]
-[12:47:35] [User Authenticator #2/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[12:47:35] [Server thread/INFO]: hhhh_w joined the game
-[12:47:35] [Server thread/INFO]: hhhh_w[/127.0.0.1:34862] logged in with entity id 4784 at ([world]-659.0, 145.0, -463.0)
-[12:47:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:47:58] [Server thread/INFO]: [Rcon: Showing new subtitle for 2 players]
-[12:47:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:47:58] [Server thread/INFO]: [Rcon: Showing new title for 2 players]
-[12:47:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:47:59] [Server thread/INFO]: [Rcon: Gave 8 experience points to 2 players]
-[12:50:26] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
-[12:50:26] [Server thread/INFO]: CheessRevolution left the game
-[12:51:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:51:57] [Server thread/INFO]: [Rcon: Showing new subtitle for hhhh_w]
-[12:51:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:51:57] [Server thread/INFO]: [Rcon: Showing new title for hhhh_w]
-[12:51:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:51:58] [Server thread/INFO]: [Rcon: Gave 8 experience points to hhhh_w]
-[12:51:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:51:59] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:52:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:52:41] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
-[12:52:42] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:52:42] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[12:53:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:53:07] [Server thread/INFO]: [Rcon: Showing new subtitle for hhhh_w]
-[12:53:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:53:08] [Server thread/INFO]: [Rcon: Showing new title for hhhh_w]
-[12:53:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:53:09] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[13:03:35] [Server thread/INFO]: hhhh_w issued server command: /home
-[13:03:46] [Server thread/INFO]: hhhh_w issued server command: /sethome
-[13:12:41] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[13:12:41] [Server thread/INFO]: hhhh_w left the game
-[13:12:43] [User Authenticator #3/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[13:12:43] [Server thread/INFO]: hhhh_w joined the game
-[13:12:43] [Server thread/INFO]: hhhh_w[/127.0.0.1:45582] logged in with entity id 9277 at ([world]-1170.8525596351908, 98.0, 58.59914529495626)
-[13:13:12] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[13:13:12] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
-[13:13:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[13:13:13] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[13:13:44] [User Authenticator #4/INFO]: UUID of player PZV_ADMIN is 67d029ef-77d9-3faa-93cd-ec168a5629c2
-[13:13:44] [Server thread/INFO]: PZV_ADMIN joined the game
-[13:13:44] [Server thread/INFO]: PZV_ADMIN[/127.0.0.1:47502] logged in with entity id 9588 at ([world]-659.0, 145.0, -463.0)
-[13:13:48] [Server thread/INFO]: PZV_ADMIN lost connection: Disconnected
-[13:13:48] [Server thread/INFO]: PZV_ADMIN left the game
-[13:13:49] [User Authenticator #4/INFO]: UUID of player PZV_ADMIN is 67d029ef-77d9-3faa-93cd-ec168a5629c2
-[13:13:49] [Server thread/INFO]: PZV_ADMIN joined the game
-[13:13:49] [Server thread/INFO]: PZV_ADMIN[/127.0.0.1:41250] logged in with entity id 9682 at ([world]-659.0, 145.0, -463.0)
-[13:14:01] [Server thread/INFO]: PZV_ADMIN lost connection: Disconnected
-[13:14:01] [Server thread/INFO]: PZV_ADMIN left the game
-[13:14:51] [User Authenticator #5/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[13:14:51] [Server thread/INFO]: Parzival5077 joined the game
-[13:14:51] [Server thread/INFO]: Parzival5077[/127.0.0.1:55734] logged in with entity id 9892 at ([world]-659.0, 145.0, -463.0)
-[13:14:56] [User Authenticator #5/INFO]: UUID of player 404NOTFOUND is 295b035e-514e-380d-94a7-82a9b5a571d7
-[13:14:56] [Server thread/INFO]: [Essentials] Created a User for 404NOTFOUND (295b035e-514e-380d-94a7-82a9b5a571d7) for non Bukkit type: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
-[13:14:56] [Paper Async Command Builder Thread Pool - 5/INFO]: [Essentials] Created a User for 404NOTFOUND (295b035e-514e-380d-94a7-82a9b5a571d7) for non Bukkit type: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
-[13:14:56] [Server thread/INFO]: 404NOTFOUND joined the game
-[13:14:56] [Server thread/INFO]: 404NOTFOUND[/127.0.0.1:55744] logged in with entity id 9977 at ([world]-659.0, 145.0, -463.0)
-[13:16:06] [Server thread/INFO]: Parzival5077 has made the advancement [Stone Age]
-[13:16:36] [Server thread/INFO]: 404NOTFOUND issued server command: /tpa Parzival5077
-[13:16:41] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
-[13:17:11] [Server thread/INFO]: 404NOTFOUND issued server command: /sethome
-[13:17:12] [Server thread/INFO]: Parzival5077 issued server command: /sethome
-[13:17:16] [Server thread/INFO]: Parzival5077 issued server command: /sethome
-[13:17:50] [Server thread/INFO]: 404NOTFOUND has made the advancement [Stone Age]
-[13:18:02] [Server thread/INFO]: 404NOTFOUND has made the advancement [Getting an Upgrade]
-[13:19:04] [Server thread/INFO]: 404NOTFOUND has made the advancement [Acquire Hardware]
-[13:19:56] [Server thread/INFO]: 404NOTFOUND has made the advancement [Isn't It Iron Pick]
-[13:19:56] [Server thread/INFO]: Parzival5077 has made the advancement [Acquire Hardware]
-[13:23:04] [Server thread/INFO]: 404NOTFOUND issued server command: /home
-[13:28:41] [Server thread/INFO]: Parzival5077 issued server command: /team
-[13:32:31] [Server thread/INFO]: 404NOTFOUND was slain by Iron Golem
-[13:32:38] [Server thread/INFO]: 404NOTFOUND issued server command: /home
-[13:32:40] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[13:32:40] [Server thread/INFO]: hhhh_w left the game
-[13:32:47] [Server thread/INFO]: 404NOTFOUND issued server command: /tp 404NOTFOUND -376.0 63 -782.0
-[13:32:47] [Server thread/INFO]: [Essentials] 404NOTFOUND was denied access to command.
-[13:33:12] [Server thread/INFO]: 404NOTFOUND issued server command: /tp 404NOTFOUND -677.5 99 -483.5
-[13:33:12] [Server thread/INFO]: [Essentials] 404NOTFOUND was denied access to command.
-[13:33:27] [User Authenticator #6/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[13:33:27] [Server thread/INFO]: hhhh_w joined the game
-[13:33:27] [Server thread/INFO]: hhhh_w[/127.0.0.1:51148] logged in with entity id 17608 at ([world]-659.0, 145.0, -463.0)
-[13:33:33] [Server thread/INFO]: 404NOTFOUND has made the advancement [Sweet Dreams]
-[13:33:45] [Server thread/INFO]: Parzival5077 was slain by Zombie
-[13:34:02] [Server thread/INFO]: 404NOTFOUND has made the advancement [Monster Hunter]
-[13:34:58] [Server thread/INFO]: Parzival5077 has made the advancement [Getting an Upgrade]
-[13:36:31] [User Authenticator #7/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
-[13:36:31] [Server thread/INFO]: CheessRevolution joined the game
-[13:36:31] [Server thread/INFO]: CheessRevolution[/127.0.0.1:34534] logged in with entity id 19147 at ([world]-659.0, 145.0, -463.0)
-[13:36:58] [Server thread/INFO]: 404NOTFOUND has made the advancement [What a Deal!]
-[13:38:33] [Server thread/INFO]: CheessRevolution issued server command: /home
-[13:39:20] [Server thread/INFO]: Parzival5077 was blown up by Creeper
-[13:41:24] [Server thread/INFO]: 404NOTFOUND issued server command: /home
-[13:41:29] [Server thread/INFO]: CheessRevolution fell from a high place
-[13:41:56] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[13:41:56] [Server thread/INFO]: Parzival5077 left the game
-[13:41:56] [Server thread/INFO]: 404NOTFOUND lost connection: Disconnected
-[13:41:56] [Server thread/INFO]: 404NOTFOUND left the game
-[13:41:56] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
-[13:41:56] [Server thread/INFO]: CheessRevolution left the game
-[13:41:58] [User Authenticator #8/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[13:41:59] [Server thread/INFO]: Parzival5077 joined the game
-[13:41:59] [Server thread/INFO]: Parzival5077[/127.0.0.1:34722] logged in with entity id 22848 at ([world]-701.5551787935589, 96.0, -407.3540087595945)
-[13:42:07] [User Authenticator #8/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
-[13:42:07] [Server thread/INFO]: CheessRevolution joined the game
-[13:42:07] [Server thread/INFO]: CheessRevolution[/127.0.0.1:34794] logged in with entity id 22958 at ([world]-1064.3054338250754, 88.15474166694585, -580.7845810285702)
-[13:42:12] [User Authenticator #8/INFO]: UUID of player 404NOTFOUND is 295b035e-514e-380d-94a7-82a9b5a571d7
-[13:42:12] [Server thread/INFO]: 404NOTFOUND joined the game
-[13:42:13] [Server thread/INFO]: 404NOTFOUND[/127.0.0.1:47940] logged in with entity id 23098 at ([world]-554.4875000119209, 97.0, -397.4936351592544)
-[13:42:13] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
-[13:42:13] [Server thread/INFO]: CheessRevolution left the game
-[13:42:14] [User Authenticator #8/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
-[13:42:14] [Server thread/INFO]: CheessRevolution joined the game
-[13:42:14] [Server thread/INFO]: CheessRevolution[/127.0.0.1:47984] logged in with entity id 23109 at ([world]-1064.3054338250754, 88.0, -580.7845810285702)
-[13:42:26] [Server thread/INFO]: hhhh_w has made the advancement [Diamonds!]
-[13:42:51] [Server thread/INFO]: CheessRevolution issued server command: /home
-[13:47:20] [Server thread/INFO]: 404NOTFOUND has made the advancement [Suit Up]
-[13:48:04] [Server thread/INFO]: Parzival5077 issued server command: /home
-[13:48:20] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[13:48:20] [Server thread/INFO]: Parzival5077 left the game
-[13:48:47] [Server thread/INFO]: 404NOTFOUND lost connection: Disconnected
-[13:48:47] [Server thread/INFO]: 404NOTFOUND left the game
-[13:49:35] [Server thread/INFO]: hhhh_w has made the advancement [Sneak 100]
-[13:49:46] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
-[13:49:46] [Server thread/INFO]: CheessRevolution left the game
-[13:50:02] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[13:50:03] [Server thread/INFO]: hhhh_w left the game
-[13:50:04] [User Authenticator #9/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[13:50:04] [Server thread/INFO]: hhhh_w joined the game
-[13:50:04] [Server thread/INFO]: hhhh_w[/127.0.0.1:48468] logged in with entity id 26537 at ([world]-1110.8157639132048, -38.0, 47.48255107591944)
-[13:50:09] [Server thread/INFO]: hhhh_w issued server command: /save-all
-[13:50:10] [Server thread/INFO]: [hhhh_w: Saved the game]
-[13:50:11] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[13:50:12] [Server thread/INFO]: hhhh_w left the game
-[15:14:50] [HttpClient-1-Worker-1/INFO]: 中国地震台网 (正式测定)
- 2024年06月16日 22時47分32秒 发生
- 震中: 秘鲁 (北纬: -15.70度 东经: -74.35度)
- 震级: 5.9
- 深度: 30km
- 最大烈度: 7
+[01:20:11] [BlueMap-Load/INFO]: [BlueMap] Loading textures...
+[01:20:14] [BlueMap-Load/INFO]: [BlueMap] Baking resources...
+[01:20:14] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
+[01:20:14] [BlueMap-Load/INFO]: [BlueMap] Loading world '6b8fb539-85fc-4228-bac5-d7838492d5a8' (/workspaces/Ourcraft/server/world_the_end/DIM1)...
+[01:20:14] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: FILE)
+[01:20:14] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
+[01:20:14] [BlueMap-Load/INFO]: [BlueMap] Loading world '7cd003a8-ce4a-4930-8ddb-838d2799704f' (/workspaces/Ourcraft/server/world)...
+[01:20:14] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
+[01:20:14] [BlueMap-Load/INFO]: [BlueMap] Loading world '5a8dad09-d1bd-4f1d-bdc6-f6aa89dc9098' (/workspaces/Ourcraft/server/world_nether/DIM-1)...
+[01:20:14] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
+[01:20:15] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 25566
+[01:20:15] [Thread-15/INFO]: [BlueMap] WebServer started.
+[01:20:15] [BlueMap-Load/INFO]: [BlueMap] Loaded!
+[01:20:16] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:20:16] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[01:20:20] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:20:20] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
+[01:20:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:20:21] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[01:20:31] [Server thread/INFO]: Loaded 7 recipes
+[01:20:32] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[01:20:32] [Server thread/INFO]: Done (40.200s)! For help, type "help"
+[01:20:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24119ms or 482 ticks behind
+[01:20:32] [Server thread/INFO]: Timings Reset
+[01:20:33] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[01:20:33] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[01:20:33] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[01:20:40] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:20:41] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
+[01:20:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:20:42] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[01:20:58] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[01:20:58] [Server thread/INFO]: hhhh_w joined the game
+[01:20:58] [Server thread/INFO]: hhhh_w[/127.0.0.1:44642] logged in with entity id 209 at ([world]-659.0, 145.0, -463.0)
+[01:21:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:21:36] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
+[01:21:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:21:37] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[01:21:46] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[01:21:46] [Server thread/INFO]: Parzival5077 joined the game
+[01:21:46] [Server thread/INFO]: Parzival5077[/127.0.0.1:51520] logged in with entity id 659 at ([world]-659.0, 145.0, -463.0)
+[01:22:11] [Server thread/INFO]: hhhh_w was shot by Skeleton
+[01:23:06] [User Authenticator #1/INFO]: UUID of player 404NOTFOUND is 295b035e-514e-380d-94a7-82a9b5a571d7
+[01:23:06] [Server thread/INFO]: 404NOTFOUND joined the game
+[01:23:06] [Server thread/INFO]: 404NOTFOUND[/127.0.0.1:45952] logged in with entity id 1690 at ([world]-659.0, 145.0, -463.0)
+[01:24:06] [Server thread/INFO]: 404NOTFOUND lost connection: [Passky] You have only 60 seconds to login. 你还有 60 秒时间登录
+[01:24:06] [Server thread/INFO]: 404NOTFOUND left the game
+[01:24:12] [User Authenticator #2/INFO]: UUID of player 404NOTFOUND is 295b035e-514e-380d-94a7-82a9b5a571d7
+[01:24:12] [Server thread/INFO]: 404NOTFOUND joined the game
+[01:24:12] [Server thread/INFO]: 404NOTFOUND[/127.0.0.1:51926] logged in with entity id 1947 at ([world]-659.0, 145.0, -463.0)
+[01:24:45] [Server thread/INFO]: 404NOTFOUND issued server command: /home
+[01:27:32] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[01:27:32] [Server thread/INFO]: Parzival5077 left the game
+[01:28:15] [User Authenticator #3/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[01:28:15] [Server thread/INFO]: Parzival5077 joined the game
+[01:28:15] [Server thread/INFO]: Parzival5077[/127.0.0.1:47046] logged in with entity id 3596 at ([world]-774.3000000119209, 96.0, -523.6999999880791)
+[01:29:53] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[01:29:53] [Server thread/INFO]: Parzival5077 left the game
+[01:31:45] [User Authenticator #4/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[01:31:45] [Server thread/INFO]: Parzival5077 joined the game
+[01:31:45] [Server thread/INFO]: Parzival5077[/127.0.0.1:41700] logged in with entity id 4638 at ([world]-774.6764006601807, 102.0, -511.12010207936015)
+[01:34:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:34:24] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
+[01:34:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:34:29] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
+[01:34:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:34:30] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
