@@ -1,96 +1,97 @@
-[03:27:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:27:11] [ServerMain/INFO]: Loaded 7 recipes
-[03:27:13] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:27:13] [Server thread/INFO]: Loading properties
-[03:27:13] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[03:27:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:27:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:27:16] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[09:55:45] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:55:48] [ServerMain/INFO]: Loaded 7 recipes
+[09:55:48] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[09:55:48] [Server thread/INFO]: Loading properties
+[09:55:49] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[09:55:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:55:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:55:50] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[03:27:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[03:27:16] [Server thread/INFO]: Default game type: SURVIVAL
-[03:27:16] [Server thread/INFO]: Generating keypair
-[03:27:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:27:17] [Server thread/INFO]: Using default channel type
-[03:27:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:27:17] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:27:18] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[03:27:19] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[03:27:19] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[03:27:19] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
-[03:27:19] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
-[03:27:19] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
-[03:27:19] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
-[03:27:19] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
-[03:27:19] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
-[03:27:19] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
-[03:27:19] [Server thread/INFO]: [LightUp] Loading server plugin LightUp v1.1.4.0
-[03:27:19] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
-[03:27:19] [Server thread/INFO]: [MCEEW] Loading server plugin MCEEW v2.4.2
-[03:27:19] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v3.21
-[03:27:19] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
-[03:27:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:27:19] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[03:27:21] [Server thread/INFO]:         __    
-[03:27:21] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[03:27:21] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[03:27:21] [Server thread/INFO]: 
-[03:27:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[03:27:21] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[03:27:23] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[03:27:23] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[03:27:24] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4641ms)
-[03:27:24] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[03:27:24] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[03:27:24] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[03:27:24] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[03:27:24] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[03:27:24] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
-[03:27:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:27:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:27:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:27:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:27:24] [Server thread/INFO]: Preparing level "world"
-[03:27:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:27:26] [Server thread/INFO]: Time elapsed: 748 ms
-[03:27:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:27:27] [Server thread/INFO]: Time elapsed: 298 ms
-[03:27:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:27:27] [Server thread/INFO]: Time elapsed: 152 ms
-[03:27:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[03:27:28] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[03:27:28] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[03:27:29] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[03:27:29] [Server thread/INFO]: [Essentials] Using locale en
-[03:27:29] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[03:27:29] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[03:27:29] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[03:27:29] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[03:27:29] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
-[03:27:29] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
-[03:27:29] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[03:27:29] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[03:27:29] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
-[03:27:29] [Server thread/INFO]: [LightUp] Enabling LightUp v1.1.4.0
-[03:27:29] [Server thread/INFO]: LightUp has been enabled!
-[03:27:29] [Server thread/INFO]: [MCEEW] Enabling MCEEW v2.4.2
-[03:27:30] [Server thread/INFO]: [BlueMap] Enabling BlueMap v3.21
-[03:27:30] [BlueMap-Load/INFO]: [BlueMap] Loading...
-[03:27:30] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
-[03:27:30] [Folia Async Scheduler Thread #1/INFO]: [MCEEW] You are running the latest plugin version.
-[03:27:31] [Thread-13/INFO]: [MCEEW] Connected to WebSocket API.
-[03:27:31] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
-[03:27:31] [Server thread/INFO]: Starting remote control listener
-[03:27:31] [Server thread/INFO]: Thread RCON Listener started
-[03:27:31] [Server thread/INFO]: RCON running on 0.0.0.0:25567
-[03:27:31] [Server thread/INFO]: Running delayed init tasks
-[03:27:31] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[03:27:31] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[03:27:31] [Server thread/INFO]: [CommandAPI] Linked 4 Bukkit permissions to commands
-[03:27:31] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
-[03:27:31] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] Checking for Updates ... 
-[03:27:31] [Craft Scheduler Thread - 2 - Passky/INFO]: 
+[09:55:50] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[09:55:51] [Server thread/INFO]: Default game type: SURVIVAL
+[09:55:51] [Server thread/INFO]: Generating keypair
+[09:55:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:55:51] [Server thread/INFO]: Using default channel type
+[09:55:51] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[09:55:51] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[09:55:52] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[09:55:53] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[09:55:53] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[09:55:53] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
+[09:55:53] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
+[09:55:53] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[09:55:53] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[09:55:53] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[09:55:53] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[09:55:53] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
+[09:55:53] [Server thread/INFO]: [LightUp] Loading server plugin LightUp v1.1.4.0
+[09:55:53] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
+[09:55:53] [Server thread/INFO]: [MCEEW] Loading server plugin MCEEW v2.4.2
+[09:55:53] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v3.21
+[09:55:53] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
+[09:55:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:55:53] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[09:55:54] [Server thread/INFO]:         __    
+[09:55:54] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[09:55:54] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[09:55:54] [Server thread/INFO]: 
+[09:55:54] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[09:55:54] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[09:55:55] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[09:55:55] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[09:55:56] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2934ms)
+[09:55:56] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[09:55:56] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[09:55:56] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[09:55:56] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[09:55:56] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[09:55:56] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
+[09:55:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:55:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:55:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:55:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:55:56] [Server thread/INFO]: Preparing level "world"
+[09:55:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:55:58] [Server thread/INFO]: Time elapsed: 684 ms
+[09:55:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[09:55:58] [Server thread/INFO]: Time elapsed: 175 ms
+[09:55:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[09:55:58] [Server thread/INFO]: Time elapsed: 188 ms
+[09:55:58] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[09:55:59] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[09:55:59] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[09:56:00] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[09:56:00] [Server thread/INFO]: [Essentials] Using locale en
+[09:56:00] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[09:56:01] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[09:56:01] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[09:56:01] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[09:56:01] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
+[09:56:01] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[09:56:01] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[09:56:01] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[09:56:01] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[09:56:01] [Server thread/INFO]: [LightUp] Enabling LightUp v1.1.4.0
+[09:56:01] [Server thread/INFO]: LightUp has been enabled!
+[09:56:01] [Server thread/INFO]: [MCEEW] Enabling MCEEW v2.4.2
+[09:56:01] [Server thread/INFO]: [BlueMap] Enabling BlueMap v3.21
+[09:56:01] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[09:56:01] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
+[09:56:01] [Folia Async Scheduler Thread #1/INFO]: [MCEEW] You are running the latest plugin version.
+[09:56:02] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
+[09:56:02] [Server thread/INFO]: Starting remote control listener
+[09:56:02] [Server thread/INFO]: Thread RCON Listener started
+[09:56:02] [Server thread/INFO]: RCON running on 0.0.0.0:25567
+[09:56:02] [Thread-13/INFO]: [MCEEW] Connected to WebSocket API.
+[09:56:02] [Server thread/INFO]: Running delayed init tasks
+[09:56:02] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[09:56:02] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] Checking for Updates ... 
+[09:56:02] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[09:56:02] [Server thread/INFO]: [CommandAPI] Linked 4 Bukkit permissions to commands
+[09:56:02] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[09:56:02] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] No new version available
+[09:56:03] [Craft Scheduler Thread - 2 - Passky/INFO]: 
 
 []============[Enabling Passky]============[]
 |
@@ -113,189 +114,53 @@
 |
 []=========================================[]
 
-[03:27:31] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] No new version available
-[03:27:33] [BlueMap-Load/INFO]: [BlueMap] Loading textures...
-[03:27:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[03:27:34] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
-[03:27:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[03:27:35] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[03:27:37] [BlueMap-Load/INFO]: [BlueMap] Baking resources...
-[03:27:37] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
-[03:27:37] [BlueMap-Load/INFO]: [BlueMap] Loading world '6b8fb539-85fc-4228-bac5-d7838492d5a8' (/workspaces/Ourcraft/server/world_the_end/DIM1)...
-[03:27:37] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: FILE)
-[03:27:37] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
-[03:27:37] [BlueMap-Load/INFO]: [BlueMap] Loading world '7cd003a8-ce4a-4930-8ddb-838d2799704f' (/workspaces/Ourcraft/server/world)...
-[03:27:37] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
-[03:27:38] [BlueMap-Load/INFO]: [BlueMap] Loading world '5a8dad09-d1bd-4f1d-bdc6-f6aa89dc9098' (/workspaces/Ourcraft/server/world_nether/DIM-1)...
-[03:27:38] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
-[03:27:38] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 25566
-[03:27:38] [Thread-15/INFO]: [BlueMap] WebServer started.
-[03:27:38] [BlueMap-Load/INFO]: [BlueMap] Loaded!
-[03:28:06] [Server thread/INFO]: Loaded 7 recipes
-[03:28:08] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
-[03:28:08] [Server thread/INFO]: Done (55.435s)! For help, type "help"
-[03:28:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37277ms or 745 ticks behind
-[03:28:08] [Server thread/INFO]: Timings Reset
-[03:28:10] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[03:28:10] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[03:28:10] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[03:30:13] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[03:30:14] [Server thread/INFO]: hhhh_w joined the game
-[03:30:14] [Server thread/INFO]: hhhh_w[/127.0.0.1:57398] logged in with entity id 194 at ([world]-659.0, 145.0, -463.0)
-[03:30:14] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 33.384847ms. Summary: Getting prefix for hhhh_w
-[03:42:24] [Server thread/INFO]: hhhh_w lost connection: Kicked for exceeding packet rate limit
-[03:42:24] [Server thread/INFO]: hhhh_w left the game
-[03:42:26] [User Authenticator #1/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[03:42:26] [Server thread/INFO]: hhhh_w joined the game
-[03:42:26] [Server thread/INFO]: hhhh_w[/127.0.0.1:47086] logged in with entity id 2527 at ([world]-1308.2233743745546, -38.898684790125245, -168.28122043019428)
-[03:51:08] [Server thread/INFO]: hhhh_w tried to swim in lava
-[03:54:00] [Server thread/INFO]: hhhh_w lost connection: Kicked for exceeding packet rate limit
-[03:54:00] [Server thread/INFO]: hhhh_w left the game
-[03:57:53] [User Authenticator #2/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[03:57:53] [Server thread/INFO]: hhhh_w joined the game
-[03:57:53] [Server thread/INFO]: hhhh_w[/127.0.0.1:35830] logged in with entity id 4167 at ([world]-1160.3050902662044, 95.0, 57.45935335045652)
-[03:58:20] [Server thread/INFO]: hhhh_w has made the advancement [We Need to Go Deeper]
-[04:00:25] [Server thread/INFO]: hhhh_w tried to swim in lava
-[04:00:53] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[04:00:53] [Server thread/INFO]: hhhh_w left the game
-[04:00:54] [User Authenticator #3/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[04:00:55] [Server thread/INFO]: hhhh_w joined the game
-[04:00:55] [Server thread/INFO]: hhhh_w[/127.0.0.1:34560] logged in with entity id 5066 at ([world_nether]0.0, 66.0, 0.0)
-[04:01:26] [Server thread/INFO]: hhhh_w went up in flames
-[04:04:14] [Server thread/INFO]: hhhh_w tried to swim in lava
-[04:05:18] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[04:05:18] [Server thread/INFO]: hhhh_w left the game
-[04:47:53] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第1報 
- 2024年06月17日 13時47分22秒 発生
- 震央: 沖縄本島近海 (北緯: 26.5度 東経: 130.1度)
- マグニチュード: 4.7
- 深さ: 60km
- 最大震度: 2
- 更新時間: 2024/06/17 13:47:52
-[04:47:54] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第5報 
- 2024年06月17日 13時47分21秒 発生
- 震央: 奄美大島近海 (北緯: 26.7度 東経: 130.2度)
- マグニチュード: 4.3
- 深さ: 20km
- 最大震度: 1
- 更新時間: 2024/06/17 13:47:54
-[04:47:56] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第6報 
- 2024年06月17日 13時47分21秒 発生
- 震央: 奄美大島近海 (北緯: 26.6度 東経: 130.2度)
- マグニチュード: 4.2
- 深さ: 90km
- 最大震度: 1
- 更新時間: 2024/06/17 13:47:56
-[04:48:00] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第7報 
- 2024年06月17日 13時47分22秒 発生
- 震央: 奄美大島近海 (北緯: 26.7度 東経: 130.2度)
- マグニチュード: 4.7
- 深さ: 60km
- 最大震度: 2
- 更新時間: 2024/06/17 13:48:00
-[04:48:03] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第8報 
- 2024年06月17日 13時47分22秒 発生
- 震央: 奄美大島近海 (北緯: 26.7度 東経: 130.2度)
- マグニチュード: 4.8
- 深さ: 60km
- 最大震度: 2
- 更新時間: 2024/06/17 13:48:02
-[04:48:15] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第9報 
- 2024年06月17日 13時47分22秒 発生
- 震央: 奄美大島近海 (北緯: 26.7度 東経: 130.2度)
- マグニチュード: 4.9
- 深さ: 60km
- 最大震度: 2
- 更新時間: 2024/06/17 13:48:14
-[04:48:32] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第10報 最終報
- 2024年06月17日 13時47分22秒 発生
- 震央: 奄美大島近海 (北緯: 26.7度 東経: 130.2度)
- マグニチュード: 4.9
- 深さ: 60km
- 最大震度: 2
- 更新時間: 2024/06/17 13:48:31
-[06:56:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:57:33] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第1報 
- 2024年06月17日 15時57分21秒 発生
- 震央: 日向灘 (北緯: 31.6度 東経: 131.9度)
- マグニチュード: 4.9
- 深さ: 10km
- 最大震度: 3
- 更新時間: 2024/06/17 15:57:32
-[06:57:33] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第2報 
- 2024年06月17日 15時57分21秒 発生
- 震央: 日向灘 (北緯: 31.6度 東経: 131.9度)
- マグニチュード: 4.9
- 深さ: 10km
- 最大震度: 3
- 更新時間: 2024/06/17 15:57:33
-[06:57:36] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第3報 
- 2024年06月17日 15時57分21秒 発生
- 震央: 日向灘 (北緯: 31.5度 東経: 131.8度)
- マグニチュード: 4.5
- 深さ: 10km
- 最大震度: 3
- 更新時間: 2024/06/17 15:57:36
-[06:57:38] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第5報 
- 2024年06月17日 15時57分20秒 発生
- 震央: 日向灘 (北緯: 31.5度 東経: 131.9度)
- マグニチュード: 4.7
- 深さ: 10km
- 最大震度: 3
- 更新時間: 2024/06/17 15:57:37
-[06:57:39] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第7報 
- 2024年06月17日 15時57分23秒 発生
- 震央: 日向灘 (北緯: 31.6度 東経: 131.7度)
- マグニチュード: 4.2
- 深さ: 20km
- 最大震度: 3
- 更新時間: 2024/06/17 15:57:38
-[06:57:41] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第8報 
- 2024年06月17日 15時57分19秒 発生
- 震央: 日向灘 (北緯: 31.5度 東経: 131.9度)
- マグニチュード: 4.7
- 深さ: 10km
- 最大震度: 3
- 更新時間: 2024/06/17 15:57:41
-[06:57:59] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第9報 
- 2024年06月17日 15時57分22秒 発生
- 震央: 日向灘 (北緯: 31.6度 東経: 131.7度)
- マグニチュード: 4.5
- 深さ: 30km
- 最大震度: 3
- 更新時間: 2024/06/17 15:57:58
-[06:58:19] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第10報 
- 2024年06月17日 15時57分22秒 発生
- 震央: 日向灘 (北緯: 31.6度 東経: 131.7度)
- マグニチュード: 4.5
- 深さ: 30km
- 最大震度: 3
- 更新時間: 2024/06/17 15:58:18
-[06:58:29] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第11報 最終報
- 2024年06月17日 15時57分22秒 発生
- 震央: 日向灘 (北緯: 31.6度 東経: 131.7度)
- マグニチュード: 4.5
- 深さ: 30km
- 最大震度: 3
- 更新時間: 2024/06/17 15:58:19
-[07:01:08] [HttpClient-1-Worker-1/INFO]: 地震情報
- 2024年06月17日 15時57分28秒 発生
- 震央:  (北緯: 0.0度 東経: 0.0度)
- マグニチュード: 
- 深さ: 0km
- 最大震度: 3
- 津波情報: 今後の情報に注意してください。
-[07:02:00] [HttpClient-1-Worker-1/INFO]: 地震情報
- 2024年06月17日 15時57分28秒 発生
- 震央: 日向灘 (北緯: 31.5度 東経: 131.9度)
- マグニチュード: 4.6
- 深さ: 20km
- 最大震度: 不明
- 津波情報: この地震による津波の心配はありません。
-[07:02:50] [HttpClient-1-Worker-1/INFO]: 地震情報
- 2024年06月17日 15時57分28秒 発生
- 震央: 日向灘 (北緯: 31.5度 東経: 131.9度)
- マグニチュード: 4.6
- 深さ: 20km
- 最大震度: 3
- 津波情報: この地震による津波の心配はありません。
+[09:56:04] [BlueMap-Load/INFO]: [BlueMap] Loading textures...
+[09:56:07] [BlueMap-Load/INFO]: [BlueMap] Baking resources...
+[09:56:07] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
+[09:56:07] [BlueMap-Load/INFO]: [BlueMap] Loading world '6b8fb539-85fc-4228-bac5-d7838492d5a8' (/workspaces/Ourcraft/server/world_the_end/DIM1)...
+[09:56:07] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: FILE)
+[09:56:07] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
+[09:56:07] [BlueMap-Load/INFO]: [BlueMap] Loading world '7cd003a8-ce4a-4930-8ddb-838d2799704f' (/workspaces/Ourcraft/server/world)...
+[09:56:07] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
+[09:56:08] [BlueMap-Load/INFO]: [BlueMap] Loading world '5a8dad09-d1bd-4f1d-bdc6-f6aa89dc9098' (/workspaces/Ourcraft/server/world_nether/DIM-1)...
+[09:56:08] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
+[09:56:08] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 25566
+[09:56:08] [Thread-15/INFO]: [BlueMap] WebServer started.
+[09:56:08] [BlueMap-Load/INFO]: [BlueMap] Loaded!
+[09:56:17] [Server thread/INFO]: Loaded 7 recipes
+[09:56:18] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[09:56:18] [Server thread/INFO]: Done (29.476s)! For help, type "help"
+[09:56:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15980ms or 319 ticks behind
+[09:56:18] [Server thread/INFO]: Timings Reset
+[09:56:19] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[09:56:19] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[09:56:19] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[09:59:22] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[09:59:22] [Server thread/INFO]: Parzival5077 joined the game
+[09:59:22] [Server thread/INFO]: Parzival5077[/127.0.0.1:60532] logged in with entity id 275 at ([world]-659.0, 145.0, -463.0)
+[09:59:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[09:59:45] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
+[09:59:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[09:59:45] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[09:59:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[09:59:51] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[09:59:56] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[09:59:56] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
+[09:59:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[09:59:57] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[10:01:53] [Server thread/INFO]: Parzival5077 has made the advancement [Isn't It Iron Pick]
+[10:03:28] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[10:03:28] [Server thread/INFO]: Parzival5077 left the game
+[10:04:16] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:04:16] [Server thread/INFO]: Parzival5077 joined the game
+[10:04:16] [Server thread/INFO]: Parzival5077[/127.0.0.1:48056] logged in with entity id 976 at ([world]-545.024935159569, 94.9375, -401.54548082028856)
+[10:05:33] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[10:05:33] [Server thread/INFO]: Parzival5077 left the game
+[10:06:59] [User Authenticator #2/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:06:59] [Server thread/INFO]: Parzival5077 joined the game
+[10:06:59] [Server thread/INFO]: Parzival5077[/127.0.0.1:42468] logged in with entity id 1092 at ([world]-563.2065120498356, 95.0, -400.98735176676536)
+[10:07:10] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[10:07:10] [Server thread/INFO]: Parzival5077 left the game
+[10:07:24] [User Authenticator #2/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:07:24] [Server thread/INFO]: Parzival5077 joined the game
+[10:07:24] [Server thread/INFO]: Parzival5077[/127.0.0.1:48874] logged in with entity id 1124 at ([world]-568.3000000119209, 95.0, -410.0423139517611)
