@@ -315,6 +315,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-06-17 13:03:22 +0000",
       "minecraft:spider": "2024-06-17 12:02:54 +0000",
       "minecraft:creeper": "2024-06-17 11:59:25 +0000",
       "minecraft:zombie": "2024-06-17 12:05:51 +0000"
@@ -367,6 +368,7 @@
     "criteria": {
       "chicken": "2024-06-17 12:05:17 +0000",
       "cooked_mutton": "2024-06-17 12:01:03 +0000",
+      "cooked_beef": "2024-06-17 12:53:25 +0000",
       "porkchop": "2024-06-17 12:04:48 +0000",
       "apple": "2024-06-17 12:14:56 +0000",
       "cooked_chicken": "2024-06-17 12:06:34 +0000"
@@ -775,6 +777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-17 12:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-06-17 12:48:13 +0000"
@@ -784,6 +792,24 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-06-17 12:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-06-17 12:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-06-17 12:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-06-17 12:50:46 +0000"
     },
     "done": true
   },
@@ -799,9 +825,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-06-17 12:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-17 12:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-06-17 12:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-06-17 12:56:48 +0000"
     },
     "done": true
   },
@@ -811,15 +855,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-06-17 12:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-06-17 12:48:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-06-17 12:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-06-17 12:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-06-17 12:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-17 12:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-17 12:50:46 +0000"
     },
     "done": true
   },

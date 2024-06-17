@@ -25,3 +25,5 @@
 [2024-06-17 11:55:02][FINE] No player-skin provided for UUID: 82867bfb-596f-3077-8318-20b27d811fdd
 [2024-06-17 11:58:34][FINE] Failed to load skin from mojang for player: 'b4b9e614-520e-3ae4-9959-b65f758a60dd' - java.io.IOException: java.lang.IllegalStateException: Not a JSON Object: null
 [2024-06-17 11:58:34][FINE] No player-skin provided for UUID: b4b9e614-520e-3ae4-9959-b65f758a60dd
+[2024-06-17 13:06:22][FINE] Failed to load skin from mojang for player: 'a05f0943-81e8-3f66-9bc0-42b7c70f2a48' - java.io.IOException: java.lang.IllegalStateException: Not a JSON Object: null
+[2024-06-17 13:06:22][FINE] No player-skin provided for UUID: a05f0943-81e8-3f66-9bc0-42b7c70f2a48
