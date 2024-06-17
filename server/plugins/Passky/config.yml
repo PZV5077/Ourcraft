@@ -24,7 +24,7 @@ hide_password: true
 # If you enable session, player won't need to log in every time he enters this server (Awesome feature for Bungeecord servers)
 session_enabled: true
 # How many minutes do you want session to last?
-session_time: 30
+session_time: 240
 # Do you want to enable titles and subtitles?
 titles_enabled: true
 # This title will show when player is required to login
