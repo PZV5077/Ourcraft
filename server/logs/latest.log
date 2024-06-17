@@ -1,96 +1,123 @@
-[11:53:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:53:18] [ServerMain/INFO]: Loaded 7 recipes
-[11:53:19] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[11:53:19] [Server thread/INFO]: Loading properties
-[11:53:20] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[11:53:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[11:53:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[11:53:22] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[13:20:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:20:09] [ServerMain/INFO]: Loaded 7 recipes
+[13:20:10] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[13:20:10] [Server thread/INFO]: Loading properties
+[13:20:10] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[13:20:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:20:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:20:12] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[11:53:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[11:53:23] [Server thread/INFO]: Default game type: SURVIVAL
-[11:53:23] [Server thread/INFO]: Generating keypair
-[11:53:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:53:23] [Server thread/INFO]: Using default channel type
-[11:53:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[11:53:23] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[11:53:24] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[11:53:25] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[11:53:25] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[11:53:25] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
-[11:53:25] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
-[11:53:25] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
-[11:53:25] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
-[11:53:25] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
-[11:53:25] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
-[11:53:25] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
-[11:53:25] [Server thread/INFO]: [LightUp] Loading server plugin LightUp v1.1.4.0
-[11:53:25] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
-[11:53:25] [Server thread/INFO]: [MCEEW] Loading server plugin MCEEW v2.4.2
-[11:53:25] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v3.21
-[11:53:25] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
-[11:53:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[11:53:25] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[11:53:27] [Server thread/INFO]:         __    
-[11:53:27] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[11:53:27] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[11:53:27] [Server thread/INFO]: 
-[11:53:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[11:53:27] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[11:53:29] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[11:53:29] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[11:53:29] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4120ms)
-[11:53:29] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[11:53:30] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[11:53:30] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[11:53:30] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[11:53:30] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[11:53:30] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
-[11:53:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:53:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:53:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:53:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:53:30] [Server thread/INFO]: Preparing level "world"
-[11:53:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:53:32] [Server thread/INFO]: Time elapsed: 610 ms
-[11:53:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[11:53:32] [Server thread/INFO]: Time elapsed: 206 ms
-[11:53:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[11:53:32] [Server thread/INFO]: Time elapsed: 123 ms
-[11:53:32] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[11:53:33] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[11:53:33] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[11:53:34] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[11:53:34] [Server thread/INFO]: [Essentials] Using locale en
-[11:53:34] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[11:53:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[11:53:34] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[11:53:34] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[11:53:34] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
-[11:53:34] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
-[11:53:34] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[11:53:34] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[11:53:34] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
-[11:53:34] [Server thread/INFO]: [LightUp] Enabling LightUp v1.1.4.0
-[11:53:34] [Server thread/INFO]: LightUp has been enabled!
-[11:53:34] [Server thread/INFO]: [MCEEW] Enabling MCEEW v2.4.2
-[11:53:34] [Server thread/INFO]: [BlueMap] Enabling BlueMap v3.21
-[11:53:34] [BlueMap-Load/INFO]: [BlueMap] Loading...
-[11:53:35] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
-[11:53:35] [Folia Async Scheduler Thread #1/INFO]: [MCEEW] You are running the latest plugin version.
-[11:53:35] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
-[11:53:35] [Thread-13/INFO]: [MCEEW] Connected to WebSocket API.
-[11:53:35] [Server thread/INFO]: Starting remote control listener
-[11:53:35] [Server thread/INFO]: Thread RCON Listener started
-[11:53:35] [Server thread/INFO]: RCON running on 0.0.0.0:25567
-[11:53:35] [Server thread/INFO]: Running delayed init tasks
-[11:53:35] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[11:53:35] [Server thread/INFO]: [CommandAPI] Linked 4 Bukkit permissions to commands
-[11:53:35] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
-[11:53:35] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[11:53:35] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] Checking for Updates ... 
-[11:53:36] [Craft Scheduler Thread - 2 - Passky/INFO]: 
+[13:20:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[13:20:12] [Server thread/INFO]: Default game type: SURVIVAL
+[13:20:12] [Server thread/INFO]: Generating keypair
+[13:20:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:20:13] [Server thread/INFO]: Using default channel type
+[13:20:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:20:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:20:14] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[13:20:14] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[13:20:14] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[13:20:14] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
+[13:20:14] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
+[13:20:14] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[13:20:14] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[13:20:14] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[13:20:14] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[13:20:14] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
+[13:20:14] [Server thread/INFO]: [LightUp] Loading server plugin LightUp v1.1.4.0
+[13:20:14] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
+[13:20:14] [Server thread/INFO]: [MCEEW] Loading server plugin MCEEW v2.4.2
+[13:20:14] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v3.21
+[13:20:14] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
+[13:20:14] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[13:20:14] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[13:20:15] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[13:20:15] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[13:20:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:20:15] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[13:20:16] [Server thread/INFO]:         __    
+[13:20:16] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[13:20:16] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[13:20:16] [Server thread/INFO]: 
+[13:20:16] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[13:20:17] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[13:20:18] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[13:20:18] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[13:20:18] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2824ms)
+[13:20:18] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[13:20:18] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[13:20:18] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:20:18] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[13:20:18] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[13:20:18] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
+[13:20:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:20:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:20:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:20:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:20:18] [Server thread/INFO]: Preparing level "world"
+[13:20:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:20:20] [Server thread/INFO]: Time elapsed: 603 ms
+[13:20:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:20:20] [Server thread/INFO]: Time elapsed: 169 ms
+[13:20:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:20:20] [Server thread/INFO]: Time elapsed: 110 ms
+[13:20:20] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[13:20:21] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[13:20:21] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[13:20:22] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[13:20:22] [Server thread/INFO]: [Essentials] Using locale en
+[13:20:22] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:20:23] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:20:23] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[13:20:23] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[13:20:23] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
+[13:20:23] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[13:20:23] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[13:20:23] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[13:20:23] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[13:20:23] [Server thread/INFO]: [LightUp] Enabling LightUp v1.1.4.0
+[13:20:23] [Server thread/INFO]: LightUp has been enabled!
+[13:20:23] [Server thread/INFO]: [MCEEW] Enabling MCEEW v2.4.2
+[13:20:23] [Server thread/INFO]: [BlueMap] Enabling BlueMap v3.21
+[13:20:23] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[13:20:23] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
+[13:20:23] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[13:20:23] [Folia Async Scheduler Thread #1/INFO]: [MCEEW] You are running the latest plugin version.
+[13:20:23] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[13:20:23] [Server thread/INFO]: [Geyser-Spigot] 
+[13:20:23] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
+[13:20:23] [Server thread/INFO]: [Geyser-Spigot] 
+[13:20:23] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[13:20:23] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
+[13:20:24] [Thread-13/INFO]: [MCEEW] Connected to WebSocket API.
+[13:20:26] [BlueMap-Load/INFO]: [BlueMap] Loading textures...
+[13:20:29] [BlueMap-Load/INFO]: [BlueMap] Baking resources...
+[13:20:29] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
+[13:20:29] [BlueMap-Load/INFO]: [BlueMap] Loading world '6b8fb539-85fc-4228-bac5-d7838492d5a8' (/workspaces/Ourcraft/server/world_the_end/DIM1)...
+[13:20:29] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: FILE)
+[13:20:29] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
+[13:20:30] [BlueMap-Load/INFO]: [BlueMap] Loading world '7cd003a8-ce4a-4930-8ddb-838d2799704f' (/workspaces/Ourcraft/server/world)...
+[13:20:30] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
+[13:20:30] [BlueMap-Load/INFO]: [BlueMap] Loading world '5a8dad09-d1bd-4f1d-bdc6-f6aa89dc9098' (/workspaces/Ourcraft/server/world_nether/DIM-1)...
+[13:20:30] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
+[13:20:30] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 25566
+[13:20:30] [Thread-14/INFO]: [BlueMap] WebServer started.
+[13:20:30] [BlueMap-Load/INFO]: [BlueMap] Loaded!
+[13:20:36] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:25565
+[13:20:36] [Server thread/INFO]: [Geyser-Spigot] Done (12.973s)! Run /geyser help for help!
+[13:20:36] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[13:20:37] [Server thread/INFO]: Starting remote control listener
+[13:20:37] [Server thread/INFO]: Thread RCON Listener started
+[13:20:37] [Server thread/INFO]: RCON running on 0.0.0.0:25567
+[13:20:37] [Server thread/INFO]: Running delayed init tasks
+[13:20:37] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[13:20:37] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[13:20:37] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] Checking for Updates ... 
+[13:20:37] [Server thread/INFO]: [CommandAPI] Linked 4 Bukkit permissions to commands
+[13:20:37] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[13:20:37] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] No new version available
+[13:20:38] [Craft Scheduler Thread - 2 - Passky/INFO]: 
 
 []============[Enabling Passky]============[]
 |
@@ -113,102 +140,88 @@
 |
 []=========================================[]
 
-[11:53:36] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] No new version available
-[11:53:38] [BlueMap-Load/INFO]: [BlueMap] Loading textures...
-[11:53:42] [BlueMap-Load/INFO]: [BlueMap] Baking resources...
-[11:53:42] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
-[11:53:42] [BlueMap-Load/INFO]: [BlueMap] Loading world '6b8fb539-85fc-4228-bac5-d7838492d5a8' (/workspaces/Ourcraft/server/world_the_end/DIM1)...
-[11:53:42] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: FILE)
-[11:53:42] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
-[11:53:43] [BlueMap-Load/INFO]: [BlueMap] Loading world '7cd003a8-ce4a-4930-8ddb-838d2799704f' (/workspaces/Ourcraft/server/world)...
-[11:53:43] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
-[11:53:43] [BlueMap-Load/INFO]: [BlueMap] Loading world '5a8dad09-d1bd-4f1d-bdc6-f6aa89dc9098' (/workspaces/Ourcraft/server/world_nether/DIM-1)...
-[11:53:43] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
-[11:53:43] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 25566
-[11:53:43] [Thread-15/INFO]: [BlueMap] WebServer started.
-[11:53:43] [BlueMap-Load/INFO]: [BlueMap] Loaded!
-[11:53:59] [Server thread/INFO]: Loaded 7 recipes
-[11:54:00] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
-[11:54:00] [Server thread/INFO]: Done (40.837s)! For help, type "help"
-[11:54:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24888ms or 497 ticks behind
-[11:54:00] [Server thread/INFO]: Timings Reset
-[11:54:02] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[11:54:02] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[11:54:02] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[11:55:01] [User Authenticator #0/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
-[11:55:01] [Server thread/INFO]: AwaKING joined the game
-[11:55:01] [Server thread/INFO]: AwaKING[/127.0.0.1:35848] logged in with entity id 353 at ([world]-659.0, 145.0, -463.0)
-[11:56:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:56:34] [Server thread/INFO]: [Rcon: Showing new subtitle for AwaKING]
-[11:56:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:56:35] [Server thread/INFO]: [Rcon: Showing new title for AwaKING]
-[11:56:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:56:35] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[11:56:42] [Async Chat Thread - #3/INFO]: [Not Secure] <AwaKING> SB
-[11:56:42] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:56:42] [Server thread/INFO]: [Rcon: Showing new subtitle for AwaKING]
-[11:56:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:56:43] [Server thread/INFO]: [Rcon: Showing new title for AwaKING]
-[11:56:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:56:44] [Server thread/INFO]: [Rcon: Gave 1 experience points to AwaKING]
-[11:56:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:56:44] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[11:57:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:57:30] [Server thread/INFO]: [Rcon: Showing new subtitle for AwaKING]
-[11:57:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:57:31] [Server thread/INFO]: [Rcon: Showing new title for AwaKING]
-[11:57:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:57:31] [Server thread/INFO]: [Rcon: Gave 1 experience points to AwaKING]
-[11:57:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:57:41] [Server thread/INFO]: [Rcon: Showing new subtitle for AwaKING]
-[11:57:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:57:41] [Server thread/INFO]: [Rcon: Gave 1 experience points to AwaKING]
-[11:57:42] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:57:42] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[11:58:00] [Server thread/INFO]: AwaKING has made the advancement [Stone Age]
-[11:58:33] [Server thread/INFO]: AwaKING has made the advancement [Getting an Upgrade]
-[11:58:34] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[11:58:34] [Server thread/INFO]: Parzival5077 joined the game
-[11:58:34] [Server thread/INFO]: Parzival5077[/127.0.0.1:58982] logged in with entity id 910 at ([world]-659.0, 145.0, -463.0)
-[11:59:25] [Server thread/INFO]: AwaKING has made the advancement [Monster Hunter]
-[12:02:27] [Server thread/INFO]: AwaKING has made the advancement [Acquire Hardware]
-[12:02:37] [Server thread/INFO]: AwaKING has made the advancement [Isn't It Iron Pick]
-[12:05:37] [Server thread/INFO]: Parzival5077 fell from a high place
-[12:05:48] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:06:42] [Server thread/INFO]: Parzival5077 issued server command: /h
-[12:06:44] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:09:40] [Server thread/INFO]: AwaKING has made the advancement [Suit Up]
-[12:13:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:13:32] [Server thread/INFO]: [Rcon: Showing new subtitle for 2 players]
-[12:13:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:13:33] [Server thread/INFO]: [Rcon: Showing new title for 2 players]
-[12:13:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[12:13:34] [Server thread/INFO]: [Rcon: Gave 2 experience points to 2 players]
-[12:16:54] [Server thread/INFO]: AwaKING has made the advancement [Sweet Dreams]
-[12:27:50] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:30:34] [Server thread/INFO]: Parzival5077 has made the advancement [Hot Stuff]
-[12:31:06] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:33:07] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:39:10] [Server thread/INFO]: Villager EntityVillager['Farmer'/30, uuid='cf9b33a9-06e9-4796-89c8-b976c781b91f', l='ServerLevel[world]', x=-764.70, y=118.00, z=-468.45, cpos=[-48, -30], tl=1272216, v=true] died, message: 'Farmer was slain by Zombie'
-[12:40:48] [Server thread/INFO]: Parzival5077 issued server command: /tpa AwaKING
-[12:41:03] [Server thread/INFO]: AwaKING issued server command: /tpaccept
-[12:42:40] [Server thread/INFO]: AwaKING lost connection: Disconnected
-[12:42:40] [Server thread/INFO]: AwaKING left the game
-[12:44:38] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:45:27] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:45:28] [User Authenticator #2/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
-[12:45:28] [Server thread/INFO]: AwaKING joined the game
-[12:45:28] [Server thread/INFO]: AwaKING[/127.0.0.1:55280] logged in with entity id 14297 at ([world]-659.0, 145.0, -463.0)
-[12:47:06] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:47:23] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:48:53] [Server thread/INFO]: Parzival5077 fell from a high place
-[12:51:38] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[12:51:38] [Server thread/INFO]: Parzival5077 left the game
-[13:06:21] [User Authenticator #3/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
-[13:06:21] [Server thread/INFO]: Jasper joined the game
-[13:06:21] [Server thread/INFO]: Jasper[/127.0.0.1:34474] logged in with entity id 17889 at ([world]-659.0, 145.0, -463.0)
-[13:07:21] [Server thread/INFO]: Jasper lost connection: [Passky] You have only 60 seconds to login. 你还有 60 秒时间登录
-[13:07:21] [Server thread/INFO]: Jasper left the game
-[13:07:27] [User Authenticator #4/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
-[13:07:27] [Server thread/INFO]: Jasper joined the game
-[13:07:27] [Server thread/INFO]: Jasper[/127.0.0.1:59092] logged in with entity id 18137 at ([world]-659.0, 145.0, -463.0)
+[13:20:45] [Server thread/INFO]: Loaded 7 recipes
+[13:20:47] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[13:20:47] [Server thread/INFO]: Done (37.113s)! For help, type "help"
+[13:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10248ms or 204 ticks behind
+[13:20:47] [Server thread/INFO]: Timings Reset
+[13:20:49] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[13:20:49] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[13:20:49] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[13:22:01] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[13:22:01] [Server thread/INFO]: Parzival5077 joined the game
+[13:22:02] [Server thread/INFO]: Parzival5077[/127.0.0.1:35238] logged in with entity id 341 at ([world]-659.0, 145.0, -463.0)
+[13:22:02] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 47.659606ms. Summary: Getting prefix for Parzival5077
+[13:22:17] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[13:22:17] [Server thread/INFO]: Parzival5077 left the game
+[13:25:02] [Server thread/INFO]: Stopping the server
+[13:25:02] [Server thread/INFO]: Stopping server
+[13:25:02] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.0-SNAPSHOT
+[13:25:02] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[13:25:02] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[13:25:02] [Server thread/INFO]: [Passky] Disabling Passky v2.1.1
+[13:25:02] [Server thread/INFO]: 
+
+[]============[Disabling Passky]============[]
+|
+| Information:
+|
+|   Name: Passky
+|   Developer: Black1_TV
+|   Version: 2.1.1 (update available)
+|   Website: https://rabbit-company.com
+|
+| Sponsors:
+|
+|   - https://rabbitserverlist.com
+|
+| Support:
+|
+|   Discord: ziga.zajc007
+|   Mail: ziga.zajc007@gmail.com
+|   Discord: https://discord.gg/hUNymXX
+|
+[]=========================================[]
+
+[13:25:02] [Server thread/INFO]: [BlueMap] Disabling BlueMap v3.21
+[13:25:02] [Server thread/INFO]: [BlueMap] Stopping...
+[13:25:02] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[13:25:02] [Server thread/INFO]: [MCEEW] Disabling MCEEW v2.4.2
+[13:25:02] [Server thread/INFO]: [EndPortalTimer] Disabling EndPortalTimer v1.7
+[13:25:02] [Server thread/INFO]: [EndPortalTimer] Plugin disabled.
+[13:25:02] [Server thread/INFO]: [LightUp] Disabling LightUp v1.1.4.0
+[13:25:02] [Server thread/INFO]: LightUp has been disabled!
+[13:25:02] [Server thread/INFO]: [TreeFella] Disabling TreeFella v1.2
+[13:25:02] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[13:25:02] [Server thread/INFO]: [CommandAPI] Disabling CommandAPI v9.5.0
+[13:25:02] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[13:25:02] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[13:25:02] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[13:25:02] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[13:25:02] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[13:25:02] [Server thread/INFO]: [LuckPerms] Closing storage...
+[13:25:02] [Server thread/INFO]: [LuckPerms] Goodbye!
+[13:25:02] [Server thread/INFO]: Saving players
+[13:25:02] [Server thread/INFO]: Saving worlds
+[13:25:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:25:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[13:25:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[13:25:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[13:25:06] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 841 entity chunks, 0 poi chunks in world 'world' in 3.52s
+[13:25:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:25:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:25:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[13:25:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[13:25:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[13:25:07] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.86s
+[13:25:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:25:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:25:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[13:25:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[13:25:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[13:25:07] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.25s
+[13:25:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:25:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:25:07] [Server thread/INFO]: Flushing Chunk IO
+[13:25:07] [Server thread/INFO]: Closing Thread Pool
+[13:25:07] [Server thread/INFO]: Closing Server

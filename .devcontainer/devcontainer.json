@@ -2,7 +2,7 @@
     "name": "Server Autorun",
     "remoteUser": "codespace",
     "containerUser": "codespace",
-    "forwardPorts": [25565, 25566, 25567], // [codespace-id]-[port].githubpreview.dev
+    "forwardPorts": [25565, 25566, 25567, 25568], // [codespace-id]-[port].githubpreview.dev
     "customizations": {
         // Configure properties specific to VS Code.
         "vscode": {
