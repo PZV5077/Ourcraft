@@ -7,10 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-06-18 12:34:07 +0000",
+      "minecraft:cherry_grove": "2024-06-18 12:33:48 +0000",
+      "minecraft:sunflower_plains": "2024-06-18 12:33:07 +0000",
       "minecraft:savanna_plateau": "2024-06-18 08:01:39 +0000",
+      "minecraft:river": "2024-06-18 12:32:57 +0000",
       "minecraft:dripstone_caves": "2024-06-18 12:17:00 +0000",
+      "minecraft:forest": "2024-06-18 12:30:27 +0000",
+      "minecraft:flower_forest": "2024-06-18 12:32:02 +0000",
+      "minecraft:frozen_peaks": "2024-06-18 12:35:10 +0000",
       "minecraft:meadow": "2024-06-18 07:57:46 +0000",
-      "minecraft:savanna": "2024-06-18 08:04:19 +0000"
+      "minecraft:savanna": "2024-06-18 08:04:19 +0000",
+      "minecraft:plains": "2024-06-18 12:36:41 +0000"
     },
     "done": false
   },
@@ -576,6 +584,84 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-06-18 12:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-06-18 12:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-06-18 12:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-06-18 12:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-06-18 12:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-06-18 12:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-06-18 12:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-06-18 12:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-06-18 12:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-06-18 12:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-06-18 12:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-06-18 12:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-06-18 12:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-06-18 12:33:01 +0000"
     },
     "done": true
   },
