@@ -503,3 +503,52 @@ gamerule randomTickspeed 3<--[HERE]
 [11:34:01] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
 [11:34:01] [Server thread/INFO]: RulySphinx32354 lost connection: Disconnected
 [11:34:01] [Server thread/INFO]: RulySphinx32354 left the game
+[11:34:15] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[11:34:15] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[11:34:15] [Geyser Spigot connection thread-6-2/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[11:34:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[11:34:15] [Server thread/INFO]: .RulySphinx32354 joined the game
+[11:34:15] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 30820 at ([world]-509.55524, 64.0, -243.51947)
+[11:34:38] [Server thread/INFO]: Jasper issued server command: /tpa Parzival5077
+[11:34:55] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
+[11:35:31] [User Authenticator #9/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
+[11:35:31] [Server thread/INFO]: CheessRevolution joined the game
+[11:35:31] [Server thread/INFO]: CheessRevolution[/127.0.0.1:59464] logged in with entity id 31331 at ([world]-659.0, 145.0, -463.0)
+[11:35:47] [Server thread/INFO]: Jasper has made the advancement [Suit Up]
+[11:35:57] [Server thread/INFO]: Littlebugs_ issued server command: /tpa AwaKING
+[11:35:57] [Server thread/INFO]: AwaKING issued server command: /tpaccept
+[11:35:58] [Server thread/INFO]: CheessRevolution issued server command: /tpa
+[11:36:01] [Server thread/INFO]: CheessRevolution issued server command: /tpa AwaKING
+[11:36:08] [Server thread/INFO]: AwaKING issued server command: /tpaccept
+[11:37:28] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[11:37:43] [Server thread/INFO]: CheessRevolution issued server command: /tpa Littlebugs_
+[11:37:50] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
+[11:37:59] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
+[11:39:00] [Server thread/INFO]: CheessRevolution issued server command: /home
+[11:40:02] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
+[11:41:07] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
+[11:42:43] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[11:42:43] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[11:42:43] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[11:42:43] [Server thread/INFO]: .RulySphinx32354 left the game
+[11:43:17] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[11:43:17] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[11:43:17] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[11:43:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[11:43:17] [Server thread/INFO]: .RulySphinx32354 joined the game
+[11:43:17] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 35346 at ([world]-546.6788, 65.0, -209.14842)
+[11:44:09] [Server thread/INFO]: CheessRevolution issued server command: /home
+[11:45:38] [Server thread/INFO]: CheessRevolution issued server command: /tpa Littlebugs_
+[11:45:59] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
+[11:47:39] [Server thread/INFO]: Parzival5077 issued server command: /home
+[11:47:56] [Server thread/INFO]: Parzival5077 issued server command: /sethome
+[11:49:34] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[11:49:34] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[11:49:34] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[11:49:34] [Server thread/INFO]: .RulySphinx32354 left the game
+[11:49:50] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[11:49:50] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[11:49:51] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[11:49:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[11:49:51] [Server thread/INFO]: .RulySphinx32354 joined the game
+[11:49:51] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 38326 at ([world]-569.8874, 64.0, -225.06024)
