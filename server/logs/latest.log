@@ -205,3 +205,41 @@
 [10:29:49] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
 [10:30:00] [Server thread/INFO]: .RulySphinx32354 was impaled on a stalagmite
 [10:31:21] [Async Chat Thread - #3/INFO]: [Not Secure] <Parzival5077> Parzival5077
+[10:32:21] [Server thread/INFO]: .RulySphinx32354 issued server command: /tba parzival5077
+[10:33:10] [Server thread/INFO]: AwaKING lost connection: Timed out
+[10:33:10] [Server thread/INFO]: AwaKING left the game
+[10:33:26] [User Authenticator #4/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
+[10:33:26] [Server thread/INFO]: AwaKING joined the game
+[10:33:26] [Server thread/INFO]: AwaKING[/127.0.0.1:51110] logged in with entity id 4542 at ([world]-172.5841809012055, 68.59747824458206, 54.30000001192093)
+[10:33:31] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 4.212099999999964,0.0,9.333500000000015
+[10:34:10] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[10:34:10] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[10:34:10] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[10:34:10] [Server thread/INFO]: .RulySphinx32354 left the game
+[10:35:16] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[10:35:16] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[10:35:17] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[10:35:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[10:35:17] [Server thread/INFO]: .RulySphinx32354 joined the game
+[10:35:17] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 5173 at ([world]-663.6138, 143.0, -450.1164)
+[10:35:17] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[10:35:17] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[10:37:10] [Server thread/INFO]: .RulySphinx32354 was slain by Enderman
+[10:38:38] [Server thread/INFO]: .RulySphinx32354 issued server command: /tba Jasper
+[10:39:17] [Server thread/INFO]: Jasper issued server command: /tpa AwaKING
+[10:39:42] [Server thread/INFO]: Jasper issued server command: /tpa AwaKING
+[10:41:15] [Server thread/INFO]: AwaKING fell from a high place
+[10:43:52] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[10:43:52] [Server thread/INFO]: AwaKING left the game
+[10:44:58] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[10:44:58] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[10:44:58] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[10:44:58] [Server thread/INFO]: .RulySphinx32354 left the game
+[10:47:16] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[10:47:16] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[10:47:17] [Geyser Spigot connection thread-6-1/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[10:47:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[10:47:17] [Server thread/INFO]: .RulySphinx32354 joined the game
+[10:47:17] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 9785 at ([world]-711.1361, 74.0, -2.0613153)
+[10:47:17] [localSession-7-4/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[10:47:17] [localSession-7-4/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
