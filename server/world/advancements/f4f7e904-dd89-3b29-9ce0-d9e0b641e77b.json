@@ -1920,69 +1920,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2024-06-18 12:06:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2024-06-18 11:53:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-06-18 11:53:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-06-18 11:43:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
+  "minecraft:recipes/food/cooked_beef": {
     "criteria": {
-      "has_planks": "2024-06-18 11:51:19 +0000"
+      "has_beef": "2024-06-18 11:43:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "has_vine": "2024-06-18 11:51:16 +0000"
+      "has_beef": "2024-06-18 11:43:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
-      "has_log": "2024-06-18 11:50:16 +0000"
+      "has_log": "2024-06-18 11:46:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
+  "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
-      "has_planks": "2024-06-18 11:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-06-18 11:50:16 +0000"
+      "has_log": "2024-06-18 11:46:15 +0000"
     },
     "done": true
   },
@@ -1992,105 +1956,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2024-06-18 11:56:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-06-18 11:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-06-18 11:53:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-06-18 11:48:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-06-18 11:53:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-06-18 11:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2024-06-18 11:46:15 +0000"
     },
     "done": true
   },
@@ -2106,6 +1974,192 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-06-18 11:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-06-18 11:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-06-18 11:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-06-18 11:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-06-18 11:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-06-18 11:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-06-18 11:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-06-18 11:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-18 11:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-06-18 11:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2024-06-18 11:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-06-18 11:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-06-18 11:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-06-18 11:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-06-18 11:53:30 +0000"
@@ -2118,15 +2172,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_bamboo": "2024-06-18 11:51:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:51:19 +0000"
+      "has_glowstone_dust": "2024-06-18 11:54:01 +0000"
     },
     "done": true
   },
@@ -2136,75 +2184,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
-      "has_bamboo": "2024-06-18 11:51:09 +0000"
+      "has_clay_block": "2024-06-18 11:56:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_door": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_planks": "2024-06-18 11:50:59 +0000"
+      "has_smelts_to_glass": "2024-06-18 11:56:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_door": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_planks": "2024-06-18 11:51:19 +0000"
+      "has_sand": "2024-06-18 11:56:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_wood": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_log": "2024-06-18 11:46:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2024-06-18 11:54:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2024-06-18 11:51:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-06-18 11:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_copper": {
-    "criteria": {
-      "has_raw_copper_block": "2024-06-18 11:53:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-06-18 11:48:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2024-06-18 11:51:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2024-06-18 11:43:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2024-06-18 11:43:50 +0000"
+      "has_egg": "2024-06-18 12:06:41 +0000"
     },
     "done": true
   },

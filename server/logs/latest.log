@@ -1,132 +1,134 @@
-[10:16:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:16:54] [ServerMain/INFO]: Loaded 7 recipes
-[10:16:55] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[10:16:55] [Server thread/INFO]: Loading properties
-[10:16:55] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[10:16:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[10:16:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[10:16:57] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[13:01:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:01:36] [ServerMain/INFO]: Loaded 7 recipes
+[13:01:37] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[13:01:37] [Server thread/INFO]: Loading properties
+[13:01:37] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[13:01:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:01:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:01:39] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[10:16:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[10:16:57] [Server thread/INFO]: Default game type: SURVIVAL
-[10:16:57] [Server thread/INFO]: Generating keypair
-[10:16:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:16:58] [Server thread/INFO]: Using default channel type
-[10:16:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[10:16:58] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[10:16:59] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
-[10:16:59] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
-[10:17:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[10:17:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[10:17:00] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[10:17:01] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[10:17:01] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[10:17:01] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
-[10:17:01] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
-[10:17:01] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
-[10:17:01] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
-[10:17:01] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
-[10:17:01] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[10:17:02] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[10:17:02] [Server thread/INFO]: [floodgate] Took 984ms to boot Floodgate
-[10:17:02] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
-[10:17:02] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
-[10:17:02] [Server thread/INFO]: [LightUp] Loading server plugin LightUp v1.1.4.0
-[10:17:02] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
-[10:17:02] [Server thread/INFO]: [MCEEW] Loading server plugin MCEEW v2.4.2
-[10:17:02] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v3.21
-[10:17:02] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
-[10:17:02] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
-[10:17:02] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
-[10:17:03] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[10:17:03] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[10:17:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[10:17:03] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[10:17:03] [Server thread/INFO]:         __    
-[10:17:03] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[10:17:03] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[10:17:03] [Server thread/INFO]: 
-[10:17:03] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[10:17:04] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[10:17:05] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[10:17:05] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[10:17:05] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2877ms)
-[10:17:05] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[10:17:06] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[10:17:06] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[10:17:06] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[10:17:06] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[10:17:06] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
-[10:17:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:17:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:17:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:17:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:17:06] [Server thread/INFO]: Preparing level "world"
-[10:17:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:17:08] [Server thread/INFO]: Time elapsed: 640 ms
-[10:17:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[10:17:08] [Server thread/INFO]: Time elapsed: 215 ms
-[10:17:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[10:17:08] [Server thread/INFO]: Time elapsed: 184 ms
-[10:17:08] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
-[10:17:08] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
-[10:17:08] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[10:17:09] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[10:17:09] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[10:17:10] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[10:17:10] [Server thread/INFO]: [Essentials] Using locale en
-[10:17:10] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[10:17:10] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[10:17:10] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[10:17:10] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[10:17:10] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
-[10:17:10] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
-[10:17:10] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[10:17:11] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[10:17:11] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[10:17:11] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
-[10:17:11] [Server thread/INFO]: [LightUp] Enabling LightUp v1.1.4.0
-[10:17:11] [Server thread/INFO]: LightUp has been enabled!
-[10:17:11] [Server thread/INFO]: [MCEEW] Enabling MCEEW v2.4.2
-[10:17:11] [Server thread/INFO]: [BlueMap] Enabling BlueMap v3.21
-[10:17:11] [BlueMap-Load/INFO]: [BlueMap] Loading...
-[10:17:11] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
-[10:17:12] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
-[10:17:12] [Folia Async Scheduler Thread #1/INFO]: [MCEEW] You are running the latest plugin version.
-[10:17:12] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
-[10:17:12] [Thread-13/INFO]: [MCEEW] Connected to WebSocket API.
-[10:17:12] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[10:17:12] [Server thread/INFO]: [Geyser-Spigot] 
-[10:17:12] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
-[10:17:12] [Server thread/INFO]: [Geyser-Spigot] 
-[10:17:12] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[10:17:15] [BlueMap-Load/INFO]: [BlueMap] Loading textures...
-[10:17:18] [BlueMap-Load/INFO]: [BlueMap] Baking resources...
-[10:17:18] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
-[10:17:18] [BlueMap-Load/INFO]: [BlueMap] Loading world '6b8fb539-85fc-4228-bac5-d7838492d5a8' (/workspaces/Ourcraft/server/world_the_end/DIM1)...
-[10:17:18] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: FILE)
-[10:17:18] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
-[10:17:18] [BlueMap-Load/INFO]: [BlueMap] Loading world '7cd003a8-ce4a-4930-8ddb-838d2799704f' (/workspaces/Ourcraft/server/world)...
-[10:17:18] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
-[10:17:19] [BlueMap-Load/INFO]: [BlueMap] Loading world '5a8dad09-d1bd-4f1d-bdc6-f6aa89dc9098' (/workspaces/Ourcraft/server/world_nether/DIM-1)...
-[10:17:19] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
-[10:17:19] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 25566
-[10:17:19] [Thread-14/INFO]: [BlueMap] WebServer started.
-[10:17:19] [BlueMap-Load/INFO]: [BlueMap] Loaded!
-[10:17:25] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
-[10:17:25] [Server thread/INFO]: [Geyser-Spigot] Done (12.674s)! Run /geyser help for help!
-[10:17:25] [Server thread/INFO]: Starting remote control listener
-[10:17:25] [Server thread/INFO]: Thread RCON Listener started
-[10:17:25] [Server thread/INFO]: RCON running on 0.0.0.0:25567
-[10:17:25] [Server thread/INFO]: Running delayed init tasks
-[10:17:25] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[10:17:25] [Server thread/INFO]: [CommandAPI] Linked 4 Bukkit permissions to commands
-[10:17:25] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
-[10:17:25] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[10:17:25] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
-[10:17:25] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
-[10:17:26] [Craft Scheduler Thread - 7 - Passky/INFO]: 
+[13:01:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[13:01:39] [Server thread/INFO]: Default game type: SURVIVAL
+[13:01:39] [Server thread/INFO]: Generating keypair
+[13:01:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:01:40] [Server thread/INFO]: Using default channel type
+[13:01:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:01:40] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:01:41] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
+[13:01:41] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
+[13:01:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:01:43] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[13:01:43] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[13:01:43] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[13:01:43] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[13:01:43] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
+[13:01:43] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
+[13:01:43] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[13:01:43] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[13:01:43] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[13:01:43] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[13:01:44] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[13:01:44] [Server thread/INFO]: [floodgate] Took 993ms to boot Floodgate
+[13:01:44] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[13:01:44] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
+[13:01:44] [Server thread/INFO]: [LightUp] Loading server plugin LightUp v1.1.4.0
+[13:01:44] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
+[13:01:44] [Server thread/INFO]: [MCEEW] Loading server plugin MCEEW v2.4.2
+[13:01:44] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v3.21
+[13:01:44] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
+[13:01:44] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[13:01:44] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[13:01:45] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[13:01:45] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[13:01:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:01:45] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[13:01:46] [Server thread/INFO]:         __    
+[13:01:46] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[13:01:46] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[13:01:46] [Server thread/INFO]: 
+[13:01:46] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[13:01:46] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[13:01:47] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[13:01:48] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[13:01:48] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3331ms)
+[13:01:48] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[13:01:48] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[13:01:48] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:01:49] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[13:01:49] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[13:01:49] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
+[13:01:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:01:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:01:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:01:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:01:49] [Server thread/INFO]: Preparing level "world"
+[13:01:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:01:50] [Server thread/INFO]: Time elapsed: 534 ms
+[13:01:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:01:50] [Server thread/INFO]: Time elapsed: 223 ms
+[13:01:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:01:51] [Server thread/INFO]: Time elapsed: 152 ms
+[13:01:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
+[13:01:51] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[13:01:51] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[13:01:52] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[13:01:52] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[13:01:52] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[13:01:53] [Server thread/INFO]: [Essentials] Using locale en
+[13:01:53] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:01:53] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:01:53] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[13:01:53] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[13:01:53] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
+[13:01:53] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[13:01:53] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[13:01:54] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[13:01:54] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[13:01:54] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[13:01:54] [Server thread/INFO]: [LightUp] Enabling LightUp v1.1.4.0
+[13:01:54] [Server thread/INFO]: LightUp has been enabled!
+[13:01:54] [Server thread/INFO]: [MCEEW] Enabling MCEEW v2.4.2
+[13:01:54] [Server thread/INFO]: [BlueMap] Enabling BlueMap v3.21
+[13:01:54] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[13:01:54] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
+[13:01:54] [Folia Async Scheduler Thread #1/INFO]: [MCEEW] You are running the latest plugin version.
+[13:01:54] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[13:01:55] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
+[13:01:55] [Thread-13/INFO]: [MCEEW] Connected to WebSocket API.
+[13:01:55] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[13:01:55] [Server thread/INFO]: [Geyser-Spigot] 
+[13:01:55] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
+[13:01:55] [Server thread/INFO]: [Geyser-Spigot] 
+[13:01:55] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[13:01:58] [BlueMap-Load/INFO]: [BlueMap] Loading textures...
+[13:02:01] [BlueMap-Load/INFO]: [BlueMap] Baking resources...
+[13:02:01] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
+[13:02:01] [BlueMap-Load/INFO]: [BlueMap] Loading world '6b8fb539-85fc-4228-bac5-d7838492d5a8' (/workspaces/Ourcraft/server/world_the_end/DIM1)...
+[13:02:01] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: FILE)
+[13:02:01] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
+[13:02:02] [BlueMap-Load/INFO]: [BlueMap] Loading world '7cd003a8-ce4a-4930-8ddb-838d2799704f' (/workspaces/Ourcraft/server/world)...
+[13:02:02] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
+[13:02:02] [BlueMap-Load/INFO]: [BlueMap] Loading world '5a8dad09-d1bd-4f1d-bdc6-f6aa89dc9098' (/workspaces/Ourcraft/server/world_nether/DIM-1)...
+[13:02:02] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
+[13:02:02] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 25566
+[13:02:02] [Thread-14/INFO]: [BlueMap] WebServer started.
+[13:02:03] [BlueMap-Load/INFO]: [BlueMap] Loaded!
+[13:02:08] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
+[13:02:08] [Server thread/INFO]: [Geyser-Spigot] Done (12.612s)! Run /geyser help for help!
+[13:02:08] [Server thread/INFO]: Starting remote control listener
+[13:02:08] [Server thread/INFO]: Thread RCON Listener started
+[13:02:08] [Server thread/INFO]: RCON running on 0.0.0.0:25567
+[13:02:08] [Server thread/INFO]: Running delayed init tasks
+[13:02:08] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[13:02:08] [Server thread/INFO]: [CommandAPI] Linked 4 Bukkit permissions to commands
+[13:02:08] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[13:02:08] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[13:02:08] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[13:02:08] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
+[13:02:09] [User Authenticator #0/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
+[13:02:09] [User Authenticator #1/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
+[13:02:09] [Craft Scheduler Thread - 7 - Passky/INFO]: 
 
 []============[Enabling Passky]============[]
 |
@@ -149,782 +151,147 @@
 |
 []=========================================[]
 
-[10:17:26] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
-[10:17:39] [Server thread/INFO]: Loaded 7 recipes
-[10:17:40] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
-[10:17:40] [Server thread/INFO]: Done (45.132s)! For help, type "help"
-[10:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14968ms or 299 ticks behind
-[10:17:40] [Server thread/INFO]: Timings Reset
-[10:17:42] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[10:17:42] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[10:17:42] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[10:18:01] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[10:18:01] [Server thread/INFO]: Parzival5077 joined the game
-[10:18:01] [Server thread/INFO]: Parzival5077[/127.0.0.1:44804] logged in with entity id 250 at ([world]-659.0, 145.0, -463.0)
-[10:18:02] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 26.221890ms. Summary: Getting prefix for Parzival5077
-[10:19:16] [User Authenticator #1/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
-[10:19:16] [Server thread/INFO]: Jasper joined the game
-[10:19:16] [Server thread/INFO]: Jasper[/127.0.0.1:39070] logged in with entity id 765 at ([world]-659.0, 145.0, -463.0)
-[10:20:43] [Server thread/INFO]: Parzival5077 drowned
-[10:21:06] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[10:21:06] [Server thread/INFO]: Parzival5077 left the game
-[10:21:07] [User Authenticator #2/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[10:21:07] [Server thread/INFO]: Parzival5077 joined the game
-[10:21:07] [Server thread/INFO]: Parzival5077[/127.0.0.1:43266] logged in with entity id 1314 at ([world]-513.2842627382605, 63.0, -244.50330149114012)
-[10:22:49] [Server thread/INFO]: Parzival5077 fell from a high place
-[10:23:00] [Server thread/INFO]: Parzival5077 fell from a high place
-[10:23:34] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[10:24:23] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[10:24:57] [Server thread/INFO]: Jasper issued server command: /TPA
-[10:25:01] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[10:25:01] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[10:25:01] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[10:25:02] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[10:25:02] [Server thread/INFO]: .RulySphinx32354 joined the game
-[10:25:02] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 1851 at ([world]-659.0, 145.0, -463.0)
-[10:25:02] [localSession-7-2/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[10:25:02] [localSession-7-2/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[10:25:25] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 146.87019999999995,-82.0,219.42581
-[10:25:25] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 146.87019999999995,-82.0,219.42581
-[10:25:25] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 146.87019999999995,-82.0,219.42581
-[10:25:25] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 146.87019999999995,-82.0,219.42581
-[10:25:25] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 146.87019999999995,-82.0,219.42581
-[10:25:25] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 146.87019999999995,-82.0,219.42581
-[10:25:25] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 146.87019999999995,-82.0,219.42581
-[10:25:25] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 146.87019999999995,-82.0,219.42581
-[10:25:25] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 146.87019999999995,-82.0,219.42581
-[10:25:25] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 146.87019999999995,-82.0,219.42581
-[10:29:01] [User Authenticator #3/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
-[10:29:01] [Server thread/INFO]: AwaKING joined the game
-[10:29:01] [Server thread/INFO]: AwaKING[/127.0.0.1:58356] logged in with entity id 2598 at ([world]-659.0, 145.0, -463.0)
-[10:29:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[10:29:47] [Server thread/INFO]: [Rcon: Showing new subtitle for 4 players]
-[10:29:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[10:29:48] [Server thread/INFO]: [Rcon: Showing new title for 4 players]
-[10:29:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[10:29:49] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[10:30:00] [Server thread/INFO]: .RulySphinx32354 was impaled on a stalagmite
-[10:31:21] [Async Chat Thread - #3/INFO]: [Not Secure] <Parzival5077> Parzival5077
-[10:32:21] [Server thread/INFO]: .RulySphinx32354 issued server command: /tba parzival5077
-[10:33:10] [Server thread/INFO]: AwaKING lost connection: Timed out
-[10:33:10] [Server thread/INFO]: AwaKING left the game
-[10:33:26] [User Authenticator #4/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
-[10:33:26] [Server thread/INFO]: AwaKING joined the game
-[10:33:26] [Server thread/INFO]: AwaKING[/127.0.0.1:51110] logged in with entity id 4542 at ([world]-172.5841809012055, 68.59747824458206, 54.30000001192093)
-[10:33:31] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 4.212099999999964,0.0,9.333500000000015
-[10:34:10] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
-[10:34:10] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[10:34:10] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[10:34:10] [Server thread/INFO]: .RulySphinx32354 left the game
-[10:35:16] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[10:35:16] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[10:35:17] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[10:35:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[10:35:17] [Server thread/INFO]: .RulySphinx32354 joined the game
-[10:35:17] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 5173 at ([world]-663.6138, 143.0, -450.1164)
-[10:35:17] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[10:35:17] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[10:37:10] [Server thread/INFO]: .RulySphinx32354 was slain by Enderman
-[10:38:38] [Server thread/INFO]: .RulySphinx32354 issued server command: /tba Jasper
-[10:39:17] [Server thread/INFO]: Jasper issued server command: /tpa AwaKING
-[10:39:42] [Server thread/INFO]: Jasper issued server command: /tpa AwaKING
-[10:41:15] [Server thread/INFO]: AwaKING fell from a high place
-[10:43:52] [Server thread/INFO]: AwaKING lost connection: Disconnected
-[10:43:52] [Server thread/INFO]: AwaKING left the game
-[10:44:58] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
-[10:44:58] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[10:44:58] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[10:44:58] [Server thread/INFO]: .RulySphinx32354 left the game
-[10:47:16] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[10:47:16] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[10:47:17] [Geyser Spigot connection thread-6-1/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[10:47:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[10:47:17] [Server thread/INFO]: .RulySphinx32354 joined the game
-[10:47:17] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 9785 at ([world]-711.1361, 74.0, -2.0613153)
-[10:47:17] [localSession-7-4/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[10:47:17] [localSession-7-4/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[10:48:40] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[10:48:56] [Server thread/INFO]: Parzival5077 issued server command: /home
-[10:54:00] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
-[10:54:00] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[10:54:00] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[10:54:00] [Server thread/INFO]: .RulySphinx32354 left the game
-[10:54:45] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[10:54:45] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[10:54:46] [Geyser Spigot connection thread-6-2/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[10:54:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[10:54:46] [Server thread/INFO]: .RulySphinx32354 joined the game
-[10:54:46] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 12476 at ([world]-590.69999, -2.0, 21.467133)
-[10:57:27] [Server thread/INFO]: Parzival5077 issued server command: /home
-[11:00:17] [Server thread/INFO]: Jasper issued server command: /tpa .RulySphinx32354
-[11:00:40] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpaccept
-[11:01:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:02:10] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:05:07] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
-[11:05:07] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[11:05:07] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[11:05:07] [Server thread/INFO]: .RulySphinx32354 left the game
-[11:05:28] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[11:05:28] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[11:05:28] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[11:05:28] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[11:05:28] [Server thread/INFO]: .RulySphinx32354 joined the game
-[11:05:28] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 15366 at ([world]-640.69366, -47.0, 20.30001)
-[11:10:36] [User Authenticator #5/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
-[11:10:36] [Server thread/INFO]: AwaKING joined the game
-[11:10:36] [Server thread/INFO]: AwaKING[/127.0.0.1:35782] logged in with entity id 16937 at ([world]-210.49235678165343, 75.0, 11.310707536958688)
-[11:11:34] [Server thread/INFO]: .RulySphinx32354 has made the advancement [Diamonds!]
-[11:11:38] [Server thread/INFO]: Villager EntityVillager['Librarian'/3, uuid='0ea420d9-b926-4f2b-a48f-8e5383bb625e', l='ServerLevel[world]', x=-800.50, y=115.00, z=-494.70, cpos=[-51, -31], tl=916113, v=true] died, message: 'Librarian was slain by Parzival5077'
-[11:12:26] [Server thread/INFO]: .RulySphinx32354 was slain by Zombie
-[11:12:48] [User Authenticator #6/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[11:12:48] [Server thread/INFO]: Littlebugs_ joined the game
-[11:12:48] [Server thread/INFO]: Littlebugs_[/127.0.0.1:33480] logged in with entity id 18252 at ([world]-659.0, 145.0, -463.0)
-[11:13:28] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
-[11:13:28] [Server thread/INFO]: Littlebugs_ left the game
-[11:14:24] [User Authenticator #7/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[11:14:24] [Server thread/INFO]: Littlebugs_ joined the game
-[11:14:24] [Server thread/INFO]: Littlebugs_[/127.0.0.1:50044] logged in with entity id 19387 at ([world]-258.58386334783586, -2.0, -306.81578541654096)
-[11:14:44] [Server thread/INFO]: AwaKING fell off a ladder
-[11:16:06] [Server thread/INFO]: .RulySphinx32354 has made the advancement [Suit Up]
-[11:17:08] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
-[11:17:08] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[11:17:08] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[11:17:08] [Server thread/INFO]: .RulySphinx32354 left the game
-[11:18:00] [Server thread/INFO]: Littlebugs_ has made the advancement [Stone Age]
-[11:18:42] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[11:18:42] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[11:18:42] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[11:18:42] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[11:18:42] [Server thread/INFO]: .RulySphinx32354 joined the game
-[11:18:42] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 23005 at ([world]-505.91263, 64.0, -247.53444)
-[11:19:31] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpa Jasper
-[11:19:45] [Server thread/INFO]: Jasper issued server command: /tpaccept
-[11:20:48] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[11:21:06] [Server thread/INFO]: Parzival5077 issued server command: /home
-[11:21:26] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第1報 
- 2024年06月18日 20時21分10秒 発生
- 震央: 宮古島近海 (北緯: 25.0度 東経: 125.5度)
- マグニチュード: 4.6
- 深さ: 50km
- 最大震度: 3
- 更新時間: 2024/06/18 20:21:25
-[11:21:27] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第2報 
- 2024年06月18日 20時21分08秒 発生
- 震央: 宮古島近海 (北緯: 24.8度 東経: 125.5度)
- マグニチュード: 4.6
- 深さ: 60km
- 最大震度: 3
- 更新時間: 2024/06/18 20:21:26
-[11:21:29] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第3報 
- 2024年06月18日 20時21分08秒 発生
- 震央: 宮古島近海 (北緯: 24.8度 東経: 125.5度)
- マグニチュード: 4.6
- 深さ: 60km
- 最大震度: 3
- 更新時間: 2024/06/18 20:21:28
-[11:21:49] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第4報 
- 2024年06月18日 20時21分08秒 発生
- 震央: 宮古島近海 (北緯: 25.0度 東経: 125.5度)
- マグニチュード: 4.6
- 深さ: 60km
- 最大震度: 3
- 更新時間: 2024/06/18 20:21:48
-[11:22:08] [HttpClient-1-Worker-1/INFO]: 緊急地震速報 (予報) | 第5報 最終報
- 2024年06月18日 20時21分08秒 発生
- 震央: 宮古島近海 (北緯: 25.0度 東経: 125.5度)
- マグニチュード: 4.6
- 深さ: 60km
- 最大震度: 3
- 更新時間: 2024/06/18 20:22:07
-[11:22:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:22:54] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[11:23:02] [Server thread/INFO]: [Essentials] Rcon issued server command: /help 
-[11:24:01] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
-[11:24:35] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpa Jasper
-[11:24:53] [Server thread/INFO]: Jasper issued server command: /tpaccept
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:24:53] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 13.249149999999986,-97.0,295.18881
-[11:26:11] [HttpClient-1-Worker-1/INFO]: 地震情報
- 2024年06月18日 20時21分18秒 発生
- 震央: 宮古島近海 (北緯: 24.8度 東経: 125.4度)
- マグニチュード: 4.2
- 深さ: 50km
- 最大震度: 2
- 津波情報: この地震による津波の心配はありません。
-[11:28:57] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:28:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -15.906600000000026,101.0,-353.618256
-[11:29:44] [Server thread/INFO]: Jasper was blown up by Creeper
-[11:30:25] [Server thread/INFO]: AwaKING issued server command: /tpa
-[11:30:38] [Server thread/INFO]: .RulySphinx32354 issued server command: /tap Jasper
-[11:30:45] [Server thread/INFO]: AwaKING issued server command: /tpa
-[11:30:54] [Server thread/INFO]: AwaKING issued server command: /tpa L
-[11:30:59] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[11:31:03] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 5.953120000000013,1.0,-7.993920000000003
-[11:31:37] [Server thread/INFO]: [MCEEW] Configuration reload successfully.
-[11:31:37] [Thread-81/INFO]: [MCEEW] Connected to WebSocket API.
-[11:31:53] [Server thread/INFO]: Incorrect argument for command
-gamerule RandomTickTime 3<--[HERE]
-[11:32:22] [Server thread/INFO]: Incorrect argument for command
-gamerule randomTickspeed 3<--[HERE]
-[11:32:22] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[11:32:22] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
-[11:32:22] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[11:32:22] [Server thread/INFO]: .RulySphinx32354 left the game
-[11:32:31] [Server thread/INFO]: Gamerule randomTickSpeed is now set to: 3
-[11:32:33] [Server thread/INFO]: AwaKING issued server command: /kill
-[11:32:33] [Server thread/INFO]: [Essentials] AwaKING was denied access to command.
-[11:33:02] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[11:33:02] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[11:33:02] [User Authenticator #8/INFO]: UUID of player RulySphinx32354 is 7223f767-b668-3091-8128-277ad2265854
-[11:33:02] [Server thread/INFO]: RulySphinx32354 joined the game
-[11:33:02] [Server thread/INFO]: RulySphinx32354[/127.0.0.1:0] logged in with entity id 30149 at ([world]-659.0, 145.0, -463.0)
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:19] [Server thread/WARN]: RulySphinx32354 moved too quickly! 149.44475999999997,-81.0,219.48053
-[11:33:29] [Server thread/INFO]: AwaKING was slain by Zombie
-[11:34:01] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
-[11:34:01] [Server thread/INFO]: RulySphinx32354 lost connection: Disconnected
-[11:34:01] [Server thread/INFO]: RulySphinx32354 left the game
-[11:34:15] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[11:34:15] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[11:34:15] [Geyser Spigot connection thread-6-2/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[11:34:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[11:34:15] [Server thread/INFO]: .RulySphinx32354 joined the game
-[11:34:15] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 30820 at ([world]-509.55524, 64.0, -243.51947)
-[11:34:38] [Server thread/INFO]: Jasper issued server command: /tpa Parzival5077
-[11:34:55] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
-[11:35:31] [User Authenticator #9/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
-[11:35:31] [Server thread/INFO]: CheessRevolution joined the game
-[11:35:31] [Server thread/INFO]: CheessRevolution[/127.0.0.1:59464] logged in with entity id 31331 at ([world]-659.0, 145.0, -463.0)
-[11:35:47] [Server thread/INFO]: Jasper has made the advancement [Suit Up]
-[11:35:57] [Server thread/INFO]: Littlebugs_ issued server command: /tpa AwaKING
-[11:35:57] [Server thread/INFO]: AwaKING issued server command: /tpaccept
-[11:35:58] [Server thread/INFO]: CheessRevolution issued server command: /tpa
-[11:36:01] [Server thread/INFO]: CheessRevolution issued server command: /tpa AwaKING
-[11:36:08] [Server thread/INFO]: AwaKING issued server command: /tpaccept
-[11:37:28] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[11:37:43] [Server thread/INFO]: CheessRevolution issued server command: /tpa Littlebugs_
-[11:37:50] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[11:37:59] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
-[11:39:00] [Server thread/INFO]: CheessRevolution issued server command: /home
-[11:40:02] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
-[11:41:07] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
-[11:42:43] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
-[11:42:43] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[11:42:43] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[11:42:43] [Server thread/INFO]: .RulySphinx32354 left the game
-[11:43:17] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[11:43:17] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[11:43:17] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[11:43:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[11:43:17] [Server thread/INFO]: .RulySphinx32354 joined the game
-[11:43:17] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 35346 at ([world]-546.6788, 65.0, -209.14842)
-[11:44:09] [Server thread/INFO]: CheessRevolution issued server command: /home
-[11:45:38] [Server thread/INFO]: CheessRevolution issued server command: /tpa Littlebugs_
-[11:45:59] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[11:47:39] [Server thread/INFO]: Parzival5077 issued server command: /home
-[11:47:56] [Server thread/INFO]: Parzival5077 issued server command: /sethome
-[11:49:34] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
-[11:49:34] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[11:49:34] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[11:49:34] [Server thread/INFO]: .RulySphinx32354 left the game
-[11:49:50] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[11:49:50] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[11:49:51] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[11:49:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[11:49:51] [Server thread/INFO]: .RulySphinx32354 joined the game
-[11:49:51] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 38326 at ([world]-569.8874, 64.0, -225.06024)
-[11:50:49] [User Authenticator #10/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[11:50:49] [Server thread/INFO]: hhhh_w joined the game
-[11:50:49] [Server thread/INFO]: hhhh_w[/127.0.0.1:59214] logged in with entity id 38685 at ([world]-659.0, 145.0, -463.0)
-[11:51:40] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[11:51:40] [Server thread/INFO]: hhhh_w left the game
-[11:52:03] [Server thread/INFO]: CheessRevolution issued server command: /tpa AwaKING
-[11:52:03] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
-[11:52:03] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[11:52:03] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[11:52:03] [Server thread/INFO]: .RulySphinx32354 left the game
-[11:52:18] [Server thread/INFO]: AwaKING issued server command: /tpaccept
-[11:52:21] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[11:52:21] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[11:52:21] [Geyser Spigot connection thread-6-1/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[11:52:21] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[11:52:21] [Server thread/INFO]: .RulySphinx32354 joined the game
-[11:52:21] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 39497 at ([world]-564.9918, 64.0, -230.4359)
-[11:52:52] [Server thread/INFO]: CheessRevolution issued server command: /tpa
-[11:52:54] [Server thread/INFO]: AwaKING lost connection: Disconnected
-[11:52:54] [Server thread/INFO]: AwaKING left the game
-[11:52:57] [Server thread/INFO]: CheessRevolution issued server command: /tpa Littlebugs_
-[11:53:05] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[11:53:53] [User Authenticator #11/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[11:53:53] [Server thread/INFO]: hhhh_w joined the game
-[11:53:53] [Server thread/INFO]: hhhh_w[/127.0.0.1:44730] logged in with entity id 40018 at ([world]-1182.268270080084, 95.0, 61.449380551749975)
-[11:54:26] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
-[11:54:33] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[11:54:34] [Server thread/INFO]: hhhh_w left the game
-[11:55:45] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
-[11:55:58] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
-[11:55:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -10.306100000000015,-4.0,-218.377327
-[11:57:42] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
-[11:57:51] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:57:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -114.95013,-2.0,47.42293999999998
-[11:59:00] [User Authenticator #12/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[11:59:00] [Server thread/INFO]: hhhh_w joined the game
-[11:59:00] [Server thread/INFO]: hhhh_w[/127.0.0.1:34688] logged in with entity id 41762 at ([world]-1172.7851689328697, 95.0, 70.87369064326774)
-[12:01:04] [Server thread/INFO]: CheessRevolution issued server command: /home
-[12:01:58] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
-[12:03:58] [Async Chat Thread - #6/INFO]: [Not Secure] <hhhh_w> what r u doing
-[12:04:00] [Async Chat Thread - #5/INFO]: [Not Secure] <Littlebugs_> 高石头呢
-[12:04:11] [Async Chat Thread - #5/INFO]: [Not Secure] <hhhh_w> why
-[12:04:18] [Async Chat Thread - #6/INFO]: [Not Secure] <Littlebugs_> 铺路
-[12:04:23] [Async Chat Thread - #5/INFO]: [Not Secure] <Littlebugs_> 刷石机
-[12:05:14] [User Authenticator #13/INFO]: UUID of player ryanxd7635authur is 08f9f3e4-9874-355a-97a9-7bbccdb932c6
-[12:05:14] [Server thread/INFO]: ryanxd7635authur joined the game
-[12:05:14] [Server thread/INFO]: ryanxd7635authur[/127.0.0.1:58426] logged in with entity id 44142 at ([world]-659.0, 145.0, -463.0)
-[12:05:29] [Server thread/INFO]: CheessRevolution issued server command: /home
-[12:06:44] [Server thread/INFO]: CheessRevolution issued server command: /tpa Littlebugs_
-[12:06:48] [Async Chat Thread - #7/INFO]: [Not Secure] <hhhh_w> wait
-[12:06:52] [Server thread/INFO]: Littlebugs_ issued server command: /tpa CheessRevolution
-[12:06:56] [Async Chat Thread - #8/INFO]: [Not Secure] <hhhh_w> 挖这里
-[12:06:58] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[12:07:22] [Async Chat Thread - #8/INFO]: [Not Secure] <hhhh_w> 这个区块
-[12:07:37] [Async Chat Thread - #8/INFO]: [Not Secure] <hhhh_w> 正好史莱姆区块
-[12:07:45] [Server thread/INFO]: Littlebugs_ has made the advancement [The Parrots and the Bats]
-[12:08:19] [HttpClient-1-Worker-2/INFO]: 地震情報
- 2024年06月18日 21時04分22秒 発生
- 震央: 石川県能登地方 (北緯: 37.3度 東経: 136.8度)
- マグニチュード: 3.2
- 深さ: 10km
- 最大震度: 1
- 津波情報: この地震による津波の心配はありません。
-[12:08:19] [HttpClient-1-Worker-2/INFO]: 地震情報
- 2024年06月18日 21時04分22秒 発生
- 震央: 石川県能登地方 (北緯: 37.3度 東経: 136.8度)
- マグニチュード: 3.2
- 深さ: 10km
- 最大震度: 1
- 津波情報: この地震による津波の心配はありません。
-[12:08:23] [Server thread/INFO]: CheessRevolution issued server command: /home
-[12:08:55] [Server thread/INFO]: Parzival5077 burned to death
-[12:09:01] [Server thread/INFO]: Parzival5077 issued server command: /tpa Jasper
-[12:09:15] [Server thread/INFO]: Parzival5077 issued server command: /tp Parzival5077 -646.0 69 -607.0
-[12:09:15] [Server thread/INFO]: [Essentials] Parzival5077 was denied access to command.
-[12:09:17] [Server thread/INFO]: Jasper issued server command: /tpaccept
-[12:10:56] [Server thread/INFO]: Jasper tried to swim in lava
-[12:11:18] [Server thread/INFO]: Jasper issued server command: /tpa Parzival5077
-[12:11:19] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
-[12:12:43] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:12:54] [Server thread/INFO]: Jasper issued server command: /home
-[12:15:02] [Server thread/INFO]: Parzival5077 has made the advancement [Ice Bucket Challenge]
-[12:16:14] [Server thread/INFO]: Littlebugs_ issued server command: /tpa CheessRevolution
-[12:16:17] [Server thread/INFO]: Jasper has made the advancement [Ice Bucket Challenge]
-[12:16:19] [Server thread/INFO]: CheessRevolution issued server command: /tpaccept
-[12:16:54] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
-[12:16:54] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[12:16:54] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[12:16:54] [Server thread/INFO]: .RulySphinx32354 left the game
-[12:17:14] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[12:17:14] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[12:17:15] [Geyser Spigot connection thread-6-2/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[12:17:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[12:17:15] [Server thread/INFO]: .RulySphinx32354 joined the game
-[12:17:15] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 52115 at ([world]-210.74748, 66.09394799548339, -337.21738)
-[12:17:42] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
-[12:17:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -310.12039,-3.0,93.96359999999999
-[12:18:08] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[12:19:34] [Server thread/INFO]: CheessRevolution issued server command: /home
-[12:20:46] [User Authenticator #14/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
-[12:20:46] [Server thread/INFO]: AwaKING joined the game
-[12:20:46] [Server thread/INFO]: AwaKING[/127.0.0.1:45772] logged in with entity id 53781 at ([world]-179.05612814561633, 76.5, 104.93628231337986)
-[12:21:29] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
-[12:21:29] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[12:21:30] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[12:21:30] [Server thread/INFO]: .RulySphinx32354 left the game
-[12:22:11] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[12:22:11] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[12:22:11] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[12:22:11] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[12:22:11] [Server thread/INFO]: .RulySphinx32354 joined the game
-[12:22:11] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 55049 at ([world]-504.41544, 63.0, -214.76547)
-[12:24:00] [Server thread/INFO]: CheessRevolution issued server command: /home
-[12:24:26] [Server thread/INFO]: CheessRevolution issued server command: /tpa AwaKING
-[12:24:48] [Server thread/INFO]: AwaKING issued server command: /tpaccept
-[12:25:04] [Server thread/INFO]: ryanxd7635authur fell from a high place
-[12:25:41] [Server thread/INFO]: CheessRevolution issued server command: /tpahere AwaKING
-[12:25:46] [Server thread/INFO]: .RulySphinx32354 has made the advancement [We Need to Go Deeper]
-[12:25:47] [Server thread/INFO]: AwaKING issued server command: /tpaccept
-[12:26:03] [Server thread/INFO]: CheessRevolution issued server command: /home
-[12:26:16] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
-[12:26:16] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[12:26:16] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[12:26:16] [Server thread/INFO]: .RulySphinx32354 left the game
-[12:26:47] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[12:26:47] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[12:26:47] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[12:26:47] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[12:26:47] [Server thread/INFO]: .RulySphinx32354 joined the game
-[12:26:47] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[12:26:47] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 59109 at ([world]-477.5, 61.0, -187.58713)
-[12:26:58] [Server thread/WARN]: .RulySphinx32354 moved wrongly!
-[12:28:48] [Async Chat Thread - #9/INFO]: [Not Secure] <hhhh_w> 我皮革嘞
-[12:29:00] [Async Chat Thread - #10/INFO]: [Not Secure] <Littlebugs_> 有牛牛
-[12:29:21] [Async Chat Thread - #10/INFO]: [Not Secure] <hhhh_w> 我记得我箱子里有半组多皮革来着
-[12:29:23] [Async Chat Thread - #10/INFO]: [Not Secure] <Littlebugs_> 为生物繁衍做点贡献
-[12:29:31] [Async Chat Thread - #10/INFO]: [Not Secure] <Littlebugs_> 这我不知道
-[12:29:32] [Async Chat Thread - #10/INFO]: [Not Secure] <hhhh_w> 6
-[12:31:01] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
-[12:31:01] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[12:31:01] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[12:31:01] [Server thread/INFO]: .RulySphinx32354 left the game
-[12:31:02] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[12:31:02] [Server thread/INFO]: Parzival5077 left the game
-[12:31:35] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[12:31:35] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[12:31:35] [Geyser Spigot connection thread-6-1/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[12:31:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[12:31:35] [Server thread/INFO]: .RulySphinx32354 joined the game
-[12:31:35] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 62738 at ([world_nether]-49.30001, 65.0, -19.454208)
-[12:31:35] [localSession-7-4/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[12:31:35] [localSession-7-4/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[12:31:35] [localSession-7-4/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[12:31:35] [localSession-7-4/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[12:31:58] [User Authenticator #15/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[12:31:59] [Server thread/INFO]: Parzival5077 joined the game
-[12:31:59] [Server thread/INFO]: Parzival5077[/127.0.0.1:43016] logged in with entity id 63022 at ([world]-481.09073567492436, 60.0, -186.47432344882822)
-[12:32:12] [Async Chat Thread - #11/INFO]: [Not Secure] <hhhh_w> 屑ZC
-[12:32:24] [Server thread/INFO]: hhhh_w was slain by Zombie
-[12:32:25] [Server thread/INFO]: ryanxd7635authur has made the advancement [Sweet Dreams]
-[12:32:48] [Server thread/INFO]: hhhh_w was slain by Zombie
-[12:33:52] [HttpClient-1-Worker-2/INFO]: 中国地震台网 (自动测定)
- 2024年06月18日 20時31分32秒 发生
- 震中: 陕西宝鸡市扶风县 (北纬: 34.32度 东经: 107.86度)
- 震级: 3.0
- 深度: 14km
- 最大烈度: 4
-[12:33:52] [HttpClient-1-Worker-2/INFO]: 中国地震台网 (自动测定)
- 2024年06月18日 20時31分32秒 发生
- 震中: 陕西宝鸡市扶风县 (北纬: 34.32度 东经: 107.86度)
- 震级: 3.0
- 深度: 14km
- 最大烈度: 4
-[12:34:39] [Server thread/INFO]: Parzival5077 has made the advancement [We Need to Go Deeper]
-[12:35:24] [Server thread/INFO]: .RulySphinx32354 tried to swim in lava
-[12:35:30] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:35:35] [Server thread/INFO]: Parzival5077 was doomed to fall by Ghast
-[12:35:41] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:36:33] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
-[12:36:33] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[12:36:33] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[12:36:33] [Server thread/INFO]: .RulySphinx32354 left the game
-[12:37:55] [HttpClient-1-Worker-2/INFO]: 中国地震台网 (正式测定)
- 2024年06月18日 20時31分31秒 发生
- 震中: 陕西宝鸡市扶风县 (北纬: 34.33度 东经: 107.80度)
- 震级: 2.8
- 深度: 15km
- 最大烈度: 4
-[12:37:55] [HttpClient-1-Worker-2/INFO]: 中国地震台网 (正式测定)
- 2024年06月18日 20時31分31秒 发生
- 震中: 陕西宝鸡市扶风县 (北纬: 34.33度 东经: 107.80度)
- 震级: 2.8
- 深度: 15km
- 最大烈度: 4
-[12:38:29] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[12:38:29] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[12:38:29] [Geyser Spigot connection thread-6-2/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[12:38:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[12:38:29] [Server thread/INFO]: .RulySphinx32354 joined the game
-[12:38:29] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 67477 at ([world]-660.3124, 140.0, -402.83035)
-[12:38:54] [Server thread/INFO]: Parzival5077 fell from a high place
-[12:39:02] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:39:38] [Server thread/INFO]: .RulySphinx32354 issued server command: /tap Jasper
-[12:39:38] [Server thread/INFO]: CheessRevolution issued server command: /home
-[12:39:56] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpa Jasper
-[12:40:00] [Server thread/INFO]: Jasper issued server command: /tpaccept
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:00] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 124.67110000000002,-85.0,197.86218000000002
-[12:40:40] [Server thread/INFO]: Parzival5077 fell from a high place
-[12:40:48] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:41:16] [Server thread/INFO]: AwaKING lost connection: Disconnected
-[12:41:16] [Server thread/INFO]: AwaKING left the game
-[12:41:48] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 14.967726999999996,-1.330849999999998,1.7010020000000026
-[12:42:44] [Server thread/INFO]: ryanxd7635authur lost connection: Disconnected
-[12:42:44] [Server thread/INFO]: ryanxd7635authur left the game
-[12:44:13] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[12:44:13] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
-[12:44:13] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[12:44:13] [Server thread/INFO]: .RulySphinx32354 left the game
-[12:44:30] [User Authenticator #16/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
-[12:44:30] [Server thread/INFO]: AwaKING joined the game
-[12:44:30] [Server thread/INFO]: AwaKING[/127.0.0.1:57854] logged in with entity id 71242 at ([world]-237.12509293831482, 71.0, 1.300000011920929)
-[12:44:35] [User Authenticator #16/INFO]: UUID of player ryanxd7635authur is 08f9f3e4-9874-355a-97a9-7bbccdb932c6
-[12:44:35] [Server thread/INFO]: ryanxd7635authur joined the game
-[12:44:35] [Server thread/INFO]: ryanxd7635authur[/127.0.0.1:57882] logged in with entity id 71447 at ([world]-1143.1848988797108, 91.5625, -57.879580457614054)
-[12:45:21] [Server thread/INFO]: Parzival5077 fell from a high place
-[12:45:25] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:45:33] [Server thread/INFO]: Parzival5077 issued server command: /tpa Jasper
-[12:45:49] [Server thread/INFO]: Jasper issued server command: /tpaccept
-[12:45:58] [Server thread/INFO]: Jasper has made the advancement [We Need to Go Deeper]
-[12:48:04] [Server thread/INFO]: Parzival5077 was slain by Piglin
-[12:48:07] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:48:18] [Server thread/INFO]: Jasper was slain by Piglin
-[12:48:55] [Server thread/INFO]: Jasper issued server command: /tp Jasper -96.5 49 -26.5
-[12:48:55] [Server thread/INFO]: [Essentials] Jasper was denied access to command.
-[12:49:36] [Server thread/INFO]: AwaKING has made the advancement [Cover Me with Diamonds]
-[12:49:48] [Server thread/INFO]: Jasper issued server command: /tpa
-[12:49:56] [Server thread/INFO]: Jasper issued server command: /tpa Parzival5077
-[12:49:59] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
-[12:50:10] [Server thread/INFO]: AwaKING lost connection: Disconnected
-[12:50:10] [Server thread/INFO]: AwaKING left the game
-[12:50:47] [Server thread/INFO]: Jasper tried to swim in lava
-[12:50:53] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:51:07] [Server thread/INFO]: Jasper issued server command: /home
-[12:51:21] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:51:24] [Server thread/INFO]: Parzival5077 fell from a high place
-[12:51:31] [Server thread/INFO]: Parzival5077 issued server command: /home
-[12:51:57] [Server thread/INFO]: Jasper fell from a high place
-[12:52:37] [Server thread/INFO]: Jasper issued server command: /tpa Parzival5077
-[12:52:46] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
-[12:53:46] [User Authenticator #17/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
-[12:53:46] [Server thread/INFO]: AwaKING joined the game
-[12:53:46] [Server thread/INFO]: AwaKING[/127.0.0.1:42562] logged in with entity id 77552 at ([world]-188.19661689898393, 73.0, 20.394509100874302)
-[12:54:33] [Server thread/INFO]: Jasper issued server command: /home
-[12:54:34] [Server thread/INFO]: Stopping server
-[12:54:34] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.0-SNAPSHOT
-[12:54:34] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[12:54:34] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[12:54:34] [Server thread/INFO]: [Passky] Disabling Passky v2.1.1
-[12:54:34] [Server thread/INFO]: 
-
-[]============[Disabling Passky]============[]
-|
-| Information:
-|
-|   Name: Passky
-|   Developer: Black1_TV
-|   Version: 2.1.1 (update available)
-|   Website: https://rabbit-company.com
-|
-| Sponsors:
-|
-|   - https://rabbitserverlist.com
-|
-| Support:
-|
-|   Discord: ziga.zajc007
-|   Mail: ziga.zajc007@gmail.com
-|   Discord: https://discord.gg/hUNymXX
-|
-[]=========================================[]
-
-[12:54:34] [Server thread/INFO]: [BlueMap] Disabling BlueMap v3.21
-[12:54:34] [Server thread/INFO]: [BlueMap] Stopping...
-[12:54:35] [WebSocketConnectReadThread-123/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[12:54:36] [Server thread/INFO]: [BlueMap] Saved and stopped!
-[12:54:36] [Server thread/INFO]: [MCEEW] Disabling MCEEW v2.4.2
-[12:54:36] [Server thread/INFO]: [EndPortalTimer] Disabling EndPortalTimer v1.7
-[12:54:36] [Server thread/INFO]: [EndPortalTimer] Plugin disabled.
-[12:54:36] [Server thread/INFO]: [LightUp] Disabling LightUp v1.1.4.0
-[12:54:36] [Server thread/INFO]: LightUp has been disabled!
-[12:54:36] [Server thread/INFO]: [TreeFella] Disabling TreeFella v1.2
-[12:54:36] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
-[12:54:36] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[12:54:36] [Server thread/INFO]: [CommandAPI] Disabling CommandAPI v9.5.0
-[12:54:36] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[12:54:36] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[12:54:36] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[12:54:36] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[12:54:36] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[12:54:37] [Server thread/INFO]: [LuckPerms] Closing storage...
-[12:54:37] [Server thread/INFO]: [LuckPerms] Goodbye!
-[12:54:37] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.0
-[12:54:37] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[12:54:37] [Server thread/INFO]: Saving players
-[12:54:37] [Server thread/INFO]: Littlebugs_ lost connection: Server closed
-[12:54:37] [Server thread/INFO]: Littlebugs_ left the game
-[12:54:37] [Server thread/INFO]: CheessRevolution lost connection: Server closed
-[12:54:37] [Server thread/INFO]: CheessRevolution left the game
-[12:54:37] [Server thread/INFO]: hhhh_w lost connection: Server closed
-[12:54:37] [Server thread/INFO]: hhhh_w left the game
-[12:54:37] [Server thread/INFO]: ryanxd7635authur lost connection: Server closed
-[12:54:37] [Server thread/INFO]: ryanxd7635authur left the game
-[12:54:37] [Server thread/INFO]: Parzival5077 lost connection: Server closed
-[12:54:37] [Server thread/INFO]: Parzival5077 left the game
-[12:54:37] [Server thread/INFO]: Jasper lost connection: Server closed
-[12:54:37] [Server thread/INFO]: Jasper left the game
-[12:54:37] [Server thread/INFO]: AwaKING lost connection: Server closed
-[12:54:37] [Server thread/INFO]: AwaKING left the game
-[12:54:37] [Server thread/INFO]: Saving worlds
-[12:54:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:54:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[12:54:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[12:54:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[12:54:48] [Server thread/INFO]: [ChunkHolderManager] Saved 1700 chunks (93.19%) in world 'world'
-[12:54:49] [Server thread/INFO]: [ChunkHolderManager] Saved 1044 block chunks, 1798 entity chunks, 0 poi chunks in world 'world' in 12.01s
-[12:54:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:54:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[12:54:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[12:54:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[12:54:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[12:54:52] [Server thread/INFO]: [ChunkHolderManager] Saved 31 block chunks, 97 entity chunks, 0 poi chunks in world 'world_nether' in 0.92s
-[12:54:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:54:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[12:54:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[12:54:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[12:54:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[12:54:52] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.21s
-[12:54:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:54:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[12:54:52] [Server thread/INFO]: Flushing Chunk IO
-[12:54:52] [Server thread/INFO]: Closing Thread Pool
-[12:54:52] [Server thread/INFO]: Closing Server
+[13:02:09] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
+[13:02:10] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[13:02:24] [Server thread/INFO]: Loaded 7 recipes
+[13:02:26] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[13:02:26] [Server thread/INFO]: Done (48.511s)! For help, type "help"
+[13:02:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17329ms or 346 ticks behind
+[13:02:26] [Server thread/INFO]: Timings Reset
+[13:02:26] [Server thread/INFO]: Jasper lost connection: Disconnected
+[13:02:27] [Server thread/INFO]: Jasper left the game
+[13:02:27] [Server thread/INFO]: AwaKING joined the game
+[13:02:27] [Server thread/INFO]: AwaKING[/127.0.0.1:57784] logged in with entity id 8 at ([world]-659.0, 145.0, -463.0)
+[13:02:27] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[13:02:27] [Server thread/INFO]: AwaKING left the game
+[13:02:27] [Server thread/INFO]: Parzival5077 joined the game
+[13:02:27] [Server thread/INFO]: Parzival5077[/127.0.0.1:47890] logged in with entity id 9 at ([world]-659.0, 145.0, -463.0)
+[13:02:27] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 47.121263ms. Summary: Getting prefix for Parzival5077
+[13:02:30] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[13:02:30] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[13:02:30] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[13:02:31] [User Authenticator #1/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
+[13:02:31] [Server thread/INFO]: AwaKING joined the game
+[13:02:31] [Server thread/INFO]: AwaKING[/127.0.0.1:56660] logged in with entity id 316 at ([world]-659.0, 145.0, -463.0)
+[13:02:38] [User Authenticator #1/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
+[13:02:38] [Server thread/INFO]: CheessRevolution joined the game
+[13:02:38] [Server thread/INFO]: CheessRevolution[/127.0.0.1:53214] logged in with entity id 519 at ([world]-659.0, 145.0, -463.0)
+[13:02:39] [User Authenticator #1/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
+[13:02:39] [Server thread/INFO]: Jasper joined the game
+[13:02:39] [Server thread/INFO]: Jasper[/127.0.0.1:53220] logged in with entity id 539 at ([world_nether]0.0, 66.0, 0.0)
+[13:02:41] [User Authenticator #1/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[13:02:41] [Server thread/INFO]: hhhh_w joined the game
+[13:02:42] [Server thread/INFO]: hhhh_w[/127.0.0.1:53252] logged in with entity id 609 at ([world]-659.0, 145.0, -463.0)
+[13:03:03] [User Authenticator #1/INFO]: UUID of player ryanxd7635authur is 08f9f3e4-9874-355a-97a9-7bbccdb932c6
+[13:03:03] [Server thread/INFO]: ryanxd7635authur joined the game
+[13:03:03] [Server thread/INFO]: ryanxd7635authur[/127.0.0.1:43862] logged in with entity id 1521 at ([world]-659.0, 145.0, -463.0)
+[13:03:11] [User Authenticator #1/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[13:03:11] [Server thread/INFO]: Littlebugs_ joined the game
+[13:03:11] [Server thread/INFO]: Littlebugs_[/127.0.0.1:48430] logged in with entity id 1675 at ([world]-659.0, 145.0, -463.0)
+[13:03:23] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
+[13:03:23] [Server thread/INFO]: Littlebugs_ left the game
+[13:03:25] [User Authenticator #1/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[13:03:25] [Server thread/INFO]: Littlebugs_ joined the game
+[13:03:25] [Server thread/INFO]: Littlebugs_[/127.0.0.1:35788] logged in with entity id 1843 at ([world]-659.0, 145.0, -463.0)
+[13:03:26] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[13:03:26] [Server thread/INFO]: Parzival5077 left the game
+[13:03:32] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[13:03:32] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[13:03:33] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[13:03:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[13:03:33] [Server thread/INFO]: .RulySphinx32354 joined the game
+[13:03:33] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 2074 at ([world]-659.0, 145.0, -463.0)
+[13:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39880ms or 797 ticks behind
+[13:03:42] [WebSocketConnectReadThread-188/INFO]: [floodgate] Got disconnected from the skin uploader: failed to find the given code in combination with the verify code
+[13:03:44] [Server thread/INFO]: Jasper issued server command: /home
+[13:03:48] [Server thread/WARN]: ryanxd7635authur was kicked due to keepalive timeout!
+[13:03:48] [Server thread/INFO]: ryanxd7635authur lost connection: Timed out
+[13:03:48] [Server thread/INFO]: ryanxd7635authur left the game
+[13:03:56] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 136.5,-82.0,221.5
+[13:03:56] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 136.5,-82.0,221.5
+[13:03:56] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 136.5,-82.0,221.5
+[13:03:56] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 136.5,-82.0,221.5
+[13:03:56] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 136.5,-82.0,221.5
+[13:03:56] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 136.5,-82.0,221.5
+[13:03:56] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 136.5,-82.0,221.5
+[13:03:56] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 136.5,-82.0,221.5
+[13:03:56] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 136.5,-82.0,221.5
+[13:03:56] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 136.5,-82.0,221.5
+[13:04:02] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kill Littlebugs_
+[13:04:02] [Server thread/INFO]: Littlebugs_ died
+[13:04:02] [Server thread/INFO]: Killed Littlebugs_.
+[13:04:10] [Server thread/WARN]: Littlebugs_ was kicked due to keepalive timeout!
+[13:04:10] [Server thread/INFO]: Littlebugs_ lost connection: Timed out
+[13:04:10] [Server thread/INFO]: Littlebugs_ left the game
+[13:04:13] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kick Littlebugs_
+[13:04:13] [Server thread/INFO]: Error: Player not found.
+[13:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10055ms or 201 ticks behind
+[13:04:28] [User Authenticator #2/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[13:04:28] [Server thread/INFO]: Littlebugs_ joined the game
+[13:04:28] [Server thread/INFO]: Littlebugs_[/127.0.0.1:53256] logged in with entity id 2682 at ([world]-242.34649566571068, -2.0, -308.7610442113051)
+[13:04:28] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[13:04:28] [Server thread/INFO]: hhhh_w left the game
+[13:04:40] [User Authenticator #2/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[13:04:40] [Server thread/INFO]: Parzival5077 joined the game
+[13:04:40] [Server thread/INFO]: Parzival5077[/127.0.0.1:47450] logged in with entity id 2847 at ([world]-516.2627840121332, 65.0, -203.7582085300382)
+[13:04:51] [User Authenticator #2/INFO]: UUID of player ryanxd7635authur is 08f9f3e4-9874-355a-97a9-7bbccdb932c6
+[13:04:51] [Server thread/INFO]: ryanxd7635authur joined the game
+[13:04:51] [Server thread/INFO]: ryanxd7635authur[/127.0.0.1:34622] logged in with entity id 2980 at ([world]-1143.1848988797108, 91.5625, -57.879580457614054)
+[13:05:02] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
+[13:05:02] [Server thread/INFO]: Littlebugs_ left the game
+[13:05:04] [User Authenticator #2/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[13:05:04] [Server thread/INFO]: Littlebugs_ joined the game
+[13:05:04] [Server thread/INFO]: Littlebugs_[/127.0.0.1:57284] logged in with entity id 3177 at ([world]-1146.7152877385852, 95.0, 64.17780301676393)
+[13:05:08] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
+[13:05:08] [Server thread/INFO]: Littlebugs_ left the game
+[13:05:13] [Server thread/INFO]: .RulySphinx32354 was slain by Parzival5077
+[13:05:22] [User Authenticator #2/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[13:05:22] [Server thread/INFO]: Littlebugs_ joined the game
+[13:05:22] [Server thread/INFO]: Littlebugs_[/127.0.0.1:53012] logged in with entity id 3339 at ([world]-1154.441569553946, 95.0, 62.94505438260715)
+[13:05:32] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[13:05:32] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[13:05:32] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[13:05:32] [Server thread/INFO]: .RulySphinx32354 left the game
+[13:05:36] [Server thread/WARN]: ryanxd7635authur was kicked due to keepalive timeout!
+[13:05:36] [Server thread/INFO]: ryanxd7635authur lost connection: Timed out
+[13:05:36] [Server thread/INFO]: ryanxd7635authur left the game
+[13:05:46] [User Authenticator #2/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[13:05:46] [Server thread/INFO]: hhhh_w joined the game
+[13:05:46] [Server thread/INFO]: hhhh_w[/127.0.0.1:52246] logged in with entity id 3579 at ([world]-1168.5771311135602, 95.0, 75.56856905565989)
+[13:05:48] [User Authenticator #2/INFO]: UUID of player ryanxd7635authur is 08f9f3e4-9874-355a-97a9-7bbccdb932c6
+[13:05:48] [Server thread/INFO]: ryanxd7635authur joined the game
+[13:05:48] [Server thread/INFO]: ryanxd7635authur[/127.0.0.1:50422] logged in with entity id 3599 at ([world]-1144.0969228908973, 91.0, -57.66970123944763)
+[13:05:49] [Server thread/INFO]: Littlebugs_ issued server command: /tpa hhhh_w
+[13:05:56] [Server thread/INFO]: hhhh_w issued server command: /tpa Littlebugs_
+[13:06:28] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[13:06:28] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[13:06:28] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[13:06:28] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[13:06:28] [Server thread/INFO]: .RulySphinx32354 joined the game
+[13:06:28] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 3988 at ([world]-522.5, 63.0, -241.5)
+[13:06:28] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[13:06:28] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[13:07:06] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpa Jasper
+[13:07:16] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[13:07:16] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[13:07:16] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[13:07:16] [Server thread/INFO]: .RulySphinx32354 left the game
+[13:07:47] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[13:07:47] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[13:07:47] [Geyser Spigot connection thread-6-1/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[13:07:47] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[13:07:47] [Server thread/INFO]: .RulySphinx32354 joined the game
+[13:07:47] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 4910 at ([world]-659.18677, 145.0, -460.2786)
+[13:07:50] [Server thread/INFO]: Littlebugs_ issued server command: /tpa CheessRevolution
+[13:07:55] [Server thread/INFO]: CheessRevolution issued server command: /tpaccept
+[13:08:03] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -11.244940000000042,1.0,-7.119049999999959
+[13:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5144ms or 102 ticks behind
+[13:08:45] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpa Jasper
+[13:09:06] [Server thread/INFO]: Jasper issued server command: /tpaccept
+[13:09:09] [Server thread/INFO]: Littlebugs_ issued server command: /tpa hhhh_w
+[13:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13337ms or 266 ticks behind
+[13:09:13] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
+[13:09:31] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpa Jasper
+[13:09:38] [Server thread/INFO]: Jasper issued server command: /tpaccept
+[13:09:40] [Server thread/INFO]: Littlebugs_ issued server command: /tpa CheessRevolution
+[13:09:44] [Server thread/INFO]: CheessRevolution issued server command: /tpaccept
