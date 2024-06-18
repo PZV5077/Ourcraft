@@ -297,3 +297,54 @@
 [00:43:24] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
 [00:43:24] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
 [00:43:24] [Server thread/INFO]: .RulySphinx32354 left the game
+[00:46:42] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[00:47:32] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[00:47:41] [RCON Client /0:0:0:0:0:0:0:1 #4/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[00:48:32] [RCON Client /0:0:0:0:0:0:0:1 #5/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[00:49:31] [User Authenticator #5/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[00:49:31] [Server thread/INFO]: hhhh_w joined the game
+[00:49:31] [Server thread/INFO]: hhhh_w[/127.0.0.1:55554] logged in with entity id 5403 at ([world]-1188.4903879843655, 94.0, 74.17777609841777)
+[00:50:54] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[00:50:54] [Server thread/INFO]: There are 1 out of maximum 8 players online.
+[00:50:54] [Server thread/INFO]: default: hhhh_w
+[00:51:27] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kick hhhh_w
+[00:51:27] [Server thread/INFO]: hhhh_w lost connection: Kicked from server.
+[00:51:27] [Server thread/INFO]: hhhh_w left the game
+[00:51:27] [Server thread/INFO]: [Essentials] Player Console kicked hhhh_w for Kicked from server..
+[00:51:38] [User Authenticator #6/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[00:51:38] [Server thread/INFO]: hhhh_w joined the game
+[00:51:38] [Server thread/INFO]: hhhh_w[/127.0.0.1:48464] logged in with entity id 5825 at ([world]-1171.9135714056165, 94.0, 56.97301823305777)
+[00:51:51] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kick hhhh_w
+[00:51:51] [Server thread/INFO]: hhhh_w lost connection: Kicked from server.
+[00:51:51] [Server thread/INFO]: hhhh_w left the game
+[00:51:51] [Server thread/INFO]: [Essentials] Player Console kicked hhhh_w for Kicked from server..
+[00:51:58] [User Authenticator #6/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[00:51:58] [Server thread/INFO]: hhhh_w joined the game
+[00:51:58] [Server thread/INFO]: hhhh_w[/127.0.0.1:40026] logged in with entity id 6037 at ([world]-1172.794733996959, 94.0, 56.71001008047234)
+[00:52:22] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[00:52:25] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /tempban 
+[00:52:25] [Server thread/INFO]: Command Help: /tempban
+[00:52:25] [Server thread/INFO]: Description: Temporary ban a user.
+[00:52:25] [Server thread/INFO]: Usage(s);
+[00:52:25] [Server thread/INFO]: /tempban <player> <datediff> [reason] - Bans the given player for the specified amount of time with an optional reason
+[00:52:31] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /unban 
+[00:52:31] [Server thread/INFO]: Command Help: /unban
+[00:52:31] [Server thread/INFO]: Description: Unbans the specified player.
+[00:52:31] [Server thread/INFO]: Usage(s);
+[00:52:31] [Server thread/INFO]: /unban <player> - Unbans the specified player
+[00:52:56] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /tempban hhhh_w 2024/06/19 You suck
+[00:52:56] [Server thread/INFO]: hhhh_w lost connection: You have been temporarily banned for 33 minutes 44 seconds:
+/06/19 You suck
+[00:52:56] [Server thread/INFO]: hhhh_w left the game
+[00:52:56] [Server thread/INFO]: [Essentials] Player Console temporarily banned hhhh_w for 33 minutes 44 seconds: /06/19 You suck.
+[00:53:17] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /unban hhhh_w
+[00:53:17] [Server thread/INFO]: [Essentials] Player Console unbanned hhhh_w
+[00:54:10] [User Authenticator #7/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[00:54:10] [Server thread/INFO]: hhhh_w joined the game
+[00:54:10] [Server thread/INFO]: hhhh_w[/127.0.0.1:41984] logged in with entity id 6299 at ([world]-1169.8670573612185, 94.0, 56.182636858657695)
+[00:54:42] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[00:54:42] [Server thread/INFO]: hhhh_w left the game
+[00:54:58] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[00:54:58] [Server thread/INFO]: There are 0 out of maximum 8 players online.
+[00:56:50] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[00:56:50] [Server thread/INFO]: There are 0 out of maximum 8 players online.
