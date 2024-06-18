@@ -243,3 +243,20 @@
 [10:47:17] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 9785 at ([world]-711.1361, 74.0, -2.0613153)
 [10:47:17] [localSession-7-4/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
 [10:47:17] [localSession-7-4/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[10:48:40] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[10:48:56] [Server thread/INFO]: Parzival5077 issued server command: /home
+[10:54:00] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[10:54:00] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[10:54:00] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[10:54:00] [Server thread/INFO]: .RulySphinx32354 left the game
+[10:54:45] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[10:54:45] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[10:54:46] [Geyser Spigot connection thread-6-2/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[10:54:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[10:54:46] [Server thread/INFO]: .RulySphinx32354 joined the game
+[10:54:46] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 12476 at ([world]-590.69999, -2.0, 21.467133)
+[10:57:27] [Server thread/INFO]: Parzival5077 issued server command: /home
+[11:00:17] [Server thread/INFO]: Jasper issued server command: /tpa .RulySphinx32354
+[11:00:40] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpaccept
+[11:01:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[11:02:10] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
