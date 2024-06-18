@@ -169,3 +169,23 @@
 [00:08:42] [localSession-7-2/INFO]: [Geyser-Spigot] PZV5858 has disconnected from the Java server because of Bedrock client disconnected
 [00:08:42] [Server thread/INFO]: .PZV5858 lost connection: Disconnected
 [00:08:42] [Server thread/INFO]: .PZV5858 left the game
+[00:14:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[00:14:47] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
+[00:14:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[00:14:48] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[00:25:20] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[00:25:21] [Server thread/INFO]: hhhh_w joined the game
+[00:25:21] [Server thread/INFO]: hhhh_w[/127.0.0.1:47266] logged in with entity id 535 at ([world]-659.0, 145.0, -463.0)
+[00:26:37] [Server thread/INFO]: hhhh_w lost connection: Kicked for exceeding packet rate limit
+[00:26:37] [Server thread/INFO]: hhhh_w left the game
+[00:26:40] [User Authenticator #1/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[00:26:40] [Server thread/INFO]: hhhh_w joined the game
+[00:26:40] [Server thread/INFO]: hhhh_w[/127.0.0.1:52636] logged in with entity id 1069 at ([world]-1088.9872031595587, 94.0, -37.14401548944695)
+[00:27:57] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[00:27:57] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[00:27:57] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[00:27:57] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[00:27:58] [Server thread/INFO]: .RulySphinx32354 joined the game
+[00:27:58] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 1603 at ([world]-659.0, 145.0, -463.0)
+[00:27:58] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[00:27:58] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
