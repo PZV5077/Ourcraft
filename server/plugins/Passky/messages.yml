@@ -1,0 +1,91 @@
+#       ------------ + Passky by Ziga Zajc + ------------   #
+#                                                           #
+#                           Messages                        #
+#                                                           #
+#       --------- + ------------------------- + ---------   #
+#
+#       You can use chat colors:
+#                ________________________
+#               |   code: | color:       |
+#               |________________________|
+#               |     &0  |	Black	     |
+#               |     &1  |	Dark Blue	 |
+#               |     &2  |	Dark Green	 |
+#               |     &3  |	Dark Aqua	 |
+#               |     &4  |	Dark Red	 |
+#               |     &5  |	Dark Purple	 |
+#               |     &6  |	Gold	     |
+#               |     &7  |	Gray	     |
+#               |     &8  |	Dark Gray	 |
+#               |     &9  |	Blue	     |
+#               |     &a  |	Green	     |
+#               |     &b  |	Aqua	     |
+#               |     &c  |	Red	         |
+#               |     &d  |	Light Purple |
+#               |     &e  |	Yellow	     |
+#               |     &f  |	White	     |
+#               |     &k  |	Obfuscated	 |
+#               |     &l  |	Bold	     |
+#               |     &m  |	Strikethrough|
+#               |     &n  |	Underline	 |
+#               |     &o  |	Italic	     |
+#               |     &r  |	Reset	     |
+#               |________________________|
+#
+#----------------------------------------------------------
+#                         Prefix
+#----------------------------------------------------------
+prefix: "&7[&aPassky&7] "
+#----------------------------------------------------------
+#                       Register
+#----------------------------------------------------------
+register_successfully: "&2Successfully registered. Auto logging-in! \u6ce8\u518c\u6210\u529f\uff0c\u5df2\u81ea\u52a8\u767b\u5f55"
+register_too_short: "&cPassword is too short! \u5bc6\u7801\u592a\u77ed"
+register_too_long: "&cPassword is too long! \u5bc6\u7801\u592a\u957f"
+register_doesnt_match: "&cPassword doesn't match! \u5bc6\u7801\u4e0d\u5339\u914d"
+register_already: "&cYou are already registered! \u4f60\u5df2\u7ecf\u6ce8\u518c\u8fc7\u4e86"
+register_account_already: "&cYour account is already registered. Please use /login <password> \u4f60\u5df2\u7ecf\u6ce8\u518c\u8fc7\u4e86\uff0c\u8bf7\u4f7f\u7528\u002f\u006c\u006f\u0067\u0069\u006e\u7a7a\u683c\u52a0\u5bc6\u7801\u767b\u5f55"
+register_syntax: "&cPlease use: \u8bf7\u4f7f\u7528 /register <pass> <pass> "
+#----------------------------------------------------------
+#                        Login
+#----------------------------------------------------------
+login_successfully: "&2Successfully logged-in!"
+login_too_many_attempts: "&cYou entered wrong password too many times! \u8f93\u5165\u5bc6\u7801\u9519\u8bef\u6b21\u6570\u8fc7\u591a"
+login_time: "&cYou have only {time} seconds to login. \u4f60\u8fd8\u6709 {time} \u79d2\u65f6\u95f4\u767b\u5f55"
+login_incorrect: "&cYour password is incorrect! \u5bc6\u7801\u9519\u8bef"
+login_register: "&cYou need to register first! \u8bf7\u5148\u6ce8\u518c"
+login_already: "&cYou are already logged in! \u4f60\u5df2\u767b\u5f55"
+login_syntax: "&cPlease use: \u8bf7\u4f7f\u7528 /login <password>"
+#----------------------------------------------------------
+#                        Logout
+#----------------------------------------------------------
+logout_successfully: "&2Successfully logged-out! \u4f60\u5df2\u767b\u51fa"
+logout_login_first: "&cYou need to be logged in first! \u8bf7\u5148\u767b\u5f55"
+#----------------------------------------------------------
+#                   Change password
+#----------------------------------------------------------
+changepass_successfully: "&aYour password has been changed successfully! \u4fee\u6539\u6210\u529f"
+changepass_register: "&cYou need to register first!"
+changepass_login_first: "&cYou need to be logged in first!"
+changepass_syntax: "&cTo change your password you have to use: /cp <password> <newPassword>"
+changepass_same: "&cNew password can't be the same as old password! \u65b0\u65e7\u5bc6\u7801\u76f8\u540c"
+changepass_incorrect: "&cYour password is incorrect! \u65e7\u5bc6\u7801\u9519\u8bef"
+changepass_too_long: "&cNew password is too long!"
+changepass_too_short: "&cNew password is too short!"
+#----------------------------------------------------------
+#                Force change password
+#----------------------------------------------------------
+force_changepass_successfully: "&2Player password has been changed successfully!"
+force_changepass_register: "&cPlayer need to register first!"
+force_changepass_syntax: "&cTo change an player password you have to use: /fcp <playerName> <newPassword>"
+force_changepass_notice: "&cPassword was changed, please re-login."
+#----------------------------------------------------------
+#                   Force register
+#----------------------------------------------------------
+force_register_successfully: "&2Successfully registered."
+force_register_already: "&cPlayer is already registered! Please use /fcp <playerName> <newPassword> to change password!"
+force_register_syntax: "&cPlease use: /fr <playerName> <pass>"
+#----------------------------------------------------------
+#                   Illegal username
+#----------------------------------------------------------
+illegal_username_kick: "&cYour username contains illegal characters!\nYou are only allowed to use characters from A-Z, 0-9 and _\nAlso make sure that you username is between 3-16 characters long. \u975e\u6cd5\u7528\u6237\u540d"

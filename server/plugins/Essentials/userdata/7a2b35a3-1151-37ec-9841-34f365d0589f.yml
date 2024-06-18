@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718531607708
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718531725870
+  login: 1718531381764
+money: '0'
+last-account-name: PZV
+logoutlocation:
+  world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
+  world-name: world
+  x: -664.7762115901851
+  y: 145.0
+  z: -461.98955647357747
+  yaw: 75.60025024414062
+  pitch: 77.24993896484375
+lastlocation:
+  world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
+  world-name: world
+  x: -571.0901522865519
+  y: 124.54833227543666
+  z: -400.6784841585653
+  yaw: 107.09992218017578
+  pitch: 13.349953651428223
+homes:
+  home:
+    world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
+    world-name: world
+    x: -665.5
+    y: 144.0
+    z: -458.5
+    yaw: 0.0
+    pitch: 0.0
