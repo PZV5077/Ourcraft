@@ -10,13 +10,17 @@
       "minecraft:snowy_slopes": "2024-06-17 23:39:49 +0000",
       "minecraft:cherry_grove": "2024-06-16 13:44:07 +0000",
       "minecraft:sunflower_plains": "2024-06-16 13:39:58 +0000",
+      "minecraft:birch_forest": "2024-06-18 05:24:12 +0000",
       "minecraft:bamboo_jungle": "2024-06-17 02:32:43 +0000",
       "minecraft:savanna_plateau": "2024-06-15 08:56:49 +0000",
+      "minecraft:dark_forest": "2024-06-18 05:24:28 +0000",
       "minecraft:sparse_jungle": "2024-06-15 09:09:30 +0000",
       "minecraft:river": "2024-06-15 09:09:24 +0000",
       "minecraft:dripstone_caves": "2024-06-15 09:01:55 +0000",
       "minecraft:forest": "2024-06-15 09:04:43 +0000",
+      "minecraft:lush_caves": "2024-06-18 05:27:28 +0000",
       "minecraft:jungle": "2024-06-16 13:02:16 +0000",
+      "minecraft:old_growth_birch_forest": "2024-06-18 05:23:23 +0000",
       "minecraft:deep_dark": "2024-06-16 13:44:11 +0000",
       "minecraft:meadow": "2024-06-15 08:56:18 +0000",
       "minecraft:savanna": "2024-06-15 09:02:59 +0000",
@@ -2257,6 +2261,66 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-06-18 04:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-06-18 05:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-06-18 05:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-06-18 05:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-06-18 05:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-06-18 05:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-06-18 05:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-06-18 05:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-06-18 05:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-06-18 05:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-06-18 05:24:49 +0000"
     },
     "done": true
   },
