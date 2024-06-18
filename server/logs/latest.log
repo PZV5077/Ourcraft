@@ -348,3 +348,43 @@
 [00:54:58] [Server thread/INFO]: There are 0 out of maximum 8 players online.
 [00:56:50] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
 [00:56:50] [Server thread/INFO]: There are 0 out of maximum 8 players online.
+[00:59:34] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[00:59:34] [Server thread/INFO]: There are 0 out of maximum 8 players online.
+[00:59:44] [User Authenticator #8/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[00:59:44] [Server thread/INFO]: hhhh_w joined the game
+[00:59:44] [Server thread/INFO]: hhhh_w[/127.0.0.1:41510] logged in with entity id 6525 at ([world]-1171.6032221317128, 98.0, 60.08944939629791)
+[01:00:28] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give hhhh_w minecraft:diamond_pickaxe
+[01:00:28] [Server thread/INFO]: Giving 64 of diamond pickaxe to hhhh_w.
+[01:00:28] [Server thread/INFO]: Not enough space, 51 diamond pickaxe was lost.
+[01:00:53] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /remove 
+[01:00:53] [Server thread/INFO]: Command Help: /remove
+[01:00:53] [Server thread/INFO]: Description: Removes entities in your world.
+[01:00:53] [Server thread/INFO]: Usage(s);
+[01:00:53] [Server thread/INFO]: /remove <mob type> [world] - Removes all of the given mob type in the current world or another one if specified
+[01:00:53] [Server thread/INFO]: /remove <mob type> <radius> [world] - Removes the given mob type within the given radius in the current world or another one if specified
+[01:00:57] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[01:01:00] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[01:01:10] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[01:01:14] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[01:02:23] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give hhhh_w minecraft:iron_axe 1
+[01:02:23] [Server thread/INFO]: Giving 1 of iron axe to hhhh_w.
+[01:02:34] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give hhhh_w minecraft:bone_block 1
+[01:02:34] [Server thread/INFO]: Giving 1 of bone block to hhhh_w.
+[01:02:46] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give hhhh_w minecraft:cooked_prokchop 32
+[01:02:46] [Server thread/INFO]: Error: Unknown item name: minecraft:cooked_prokchop.
+[01:03:07] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give hhhh_w minecraft:cooked_prokchop 32/give hhhh_w minecraft:experience_bottle 112
+[01:03:07] [Server thread/INFO]: Error: Unknown item name: minecraft:cooked_prokchop.
+[01:03:12] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give hhhh_w minecraft:experience_bottle 112
+[01:03:12] [Server thread/INFO]: Giving 112 of experience bottle to hhhh_w.
+[01:03:46] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give hhhh_w minecraft:bone_block 22
+[01:03:46] [Server thread/INFO]: Giving 22 of bone block to hhhh_w.
+[01:04:14] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[01:04:22] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give hhhh_w minecraft:cooked_pork 32
+[01:04:22] [Server thread/INFO]: Error: Unknown item name: minecraft:cooked_pork.
+[01:04:27] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give hhhh_w minecraft:cooked_porkchop 32
+[01:04:27] [Server thread/INFO]: Giving 32 of cooked porkchop to hhhh_w.
+[01:10:41] [Server thread/INFO]: hhhh_w lost connection: Kicked for exceeding packet rate limit
+[01:10:41] [Server thread/INFO]: hhhh_w left the game
+[01:10:44] [User Authenticator #9/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[01:10:44] [Server thread/INFO]: hhhh_w joined the game
+[01:10:44] [Server thread/INFO]: hhhh_w[/127.0.0.1:38172] logged in with entity id 8360 at ([world]-1184.5448356107747, 94.125, 70.42500001192093)
