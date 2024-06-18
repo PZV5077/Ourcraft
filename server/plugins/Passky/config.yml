@@ -15,7 +15,7 @@ min_password_length: 4
 # Maximum characters for password
 max_password_length: 32
 # Don't allow players with illegal usernames to join your server
-kick_illegal_usernames: true
+kick_illegal_usernames: false
 # Do you want players to be identified with usernames (0) or UUIDs (1) (Default is usernames (0))
 player_identifier: 0
 # Hiding the command log of the plugin command in console?
