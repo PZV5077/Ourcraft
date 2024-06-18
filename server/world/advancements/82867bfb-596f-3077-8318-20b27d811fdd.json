@@ -371,6 +371,7 @@
       "cooked_beef": "2024-06-17 12:53:25 +0000",
       "porkchop": "2024-06-17 12:04:48 +0000",
       "apple": "2024-06-17 12:14:56 +0000",
+      "melon_slice": "2024-06-18 02:40:56 +0000",
       "cooked_chicken": "2024-06-17 12:06:34 +0000"
     },
     "done": false
@@ -897,15 +898,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
-    "criteria": {
-      "has_vine": "2024-06-18 01:46:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2024-06-18 01:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-06-18 01:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-06-18 01:46:23 +0000"
     },
     "done": true
   },
@@ -915,9 +922,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "has_pumpkin": "2024-06-18 01:38:37 +0000"
+      "has_cocoa_beans": "2024-06-18 02:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-06-18 02:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-06-18 02:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-06-18 02:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-06-18 02:40:54 +0000"
     },
     "done": true
   },
