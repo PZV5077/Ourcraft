@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:birch_forest": "2024-06-18 13:08:15 +0000",
       "minecraft:savanna_plateau": "2024-06-18 12:30:12 +0000",
+      "minecraft:dark_forest": "2024-06-18 13:08:23 +0000",
       "minecraft:sparse_jungle": "2024-06-17 12:20:26 +0000",
       "minecraft:river": "2024-06-17 12:07:53 +0000",
       "minecraft:dripstone_caves": "2024-06-17 11:57:58 +0000",
@@ -370,6 +371,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-06-18 13:41:06 +0000",
       "chicken": "2024-06-17 12:05:17 +0000",
       "cooked_mutton": "2024-06-17 12:01:03 +0000",
       "cooked_beef": "2024-06-17 12:53:25 +0000",
@@ -2000,6 +2002,18 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2024-06-18 13:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-06-18 13:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-06-18 13:08:53 +0000"
     },
     "done": true
   },
