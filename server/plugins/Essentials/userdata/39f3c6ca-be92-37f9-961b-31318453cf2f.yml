@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1718675189318
   login: 1718674209788
 money: '0'
 last-account-name: hizuki
@@ -37,3 +37,11 @@ homes:
     z: 60.269010086935005
     yaw: -89.1519546508789
     pitch: 12.489874839782715
+logoutlocation:
+  world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
+  world-name: world
+  x: -1167.583224949529
+  y: 95.0
+  z: 73.53677188996464
+  yaw: -91.19507598876953
+  pitch: 13.093944549560547

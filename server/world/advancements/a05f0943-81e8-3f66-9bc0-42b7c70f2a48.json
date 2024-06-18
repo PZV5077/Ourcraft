@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2024-06-18 01:42:07 +0000",
       "minecraft:meadow": "2024-06-17 13:06:22 +0000",
       "minecraft:plains": "2024-06-17 13:10:50 +0000"
     },
@@ -210,12 +211,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-06-18 01:35:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-06-18 01:35:31 +0000"
@@ -225,6 +220,30 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-06-18 01:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-06-18 01:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-06-18 01:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-06-18 01:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-06-18 01:42:30 +0000"
     },
     "done": true
   },
