@@ -1,104 +1,301 @@
-[01:29:32] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:29:36] [ServerMain/INFO]: Loaded 7 recipes
-[01:29:37] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[01:29:37] [Server thread/INFO]: Loading properties
-[01:29:37] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[01:29:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:29:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:29:40] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[01:31:53] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:31:56] [ServerMain/INFO]: Loaded 7 recipes
+[01:31:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:31:57] [Server thread/INFO]: Loading properties
+[01:31:57] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[01:31:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:31:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:31:59] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[01:29:40] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[01:29:41] [Server thread/INFO]: Default game type: SURVIVAL
-[01:29:41] [Server thread/INFO]: Generating keypair
-[01:29:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:29:42] [Server thread/INFO]: Using default channel type
-[01:29:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:29:42] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:29:44] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
-[01:29:44] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
-[01:29:45] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[01:29:45] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[01:29:46] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[01:29:46] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[01:29:46] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[01:29:46] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
-[01:29:46] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
-[01:29:46] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
-[01:29:46] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
-[01:29:46] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
-[01:29:46] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[01:29:47] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[01:29:48] [Server thread/INFO]: [floodgate] Took 1,092ms to boot Floodgate
-[01:29:48] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
-[01:29:48] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
-[01:29:48] [Server thread/INFO]: [LightUp] Loading server plugin LightUp v1.1.4.0
-[01:29:48] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
-[01:29:48] [Server thread/INFO]: [MCEEW] Loading server plugin MCEEW v2.4.2
-[01:29:48] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v3.21
-[01:29:48] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
-[01:29:48] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
-[01:29:48] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
-[01:29:48] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[01:29:48] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[01:29:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:29:49] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[01:29:49] [Server thread/INFO]:         __    
-[01:29:49] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[01:29:49] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[01:29:49] [Server thread/INFO]: 
-[01:29:49] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[01:29:50] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[01:29:51] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[01:29:51] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[01:29:51] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2767ms)
-[01:29:51] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[01:29:51] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[01:29:51] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[01:29:52] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[01:29:52] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[01:29:52] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
-[01:29:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:29:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:29:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:29:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:29:52] [Server thread/INFO]: Preparing level "world"
-[01:29:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:29:54] [Server thread/INFO]: Time elapsed: 625 ms
-[01:29:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:29:54] [Server thread/INFO]: Time elapsed: 202 ms
-[01:29:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:29:54] [Server thread/INFO]: Time elapsed: 199 ms
-[01:29:54] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
-[01:29:54] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
-[01:29:54] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[01:29:55] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[01:29:55] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[01:29:56] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[01:29:56] [Server thread/INFO]: [Essentials] Using locale en
-[01:29:56] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[01:29:56] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[01:29:56] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[01:29:56] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[01:29:56] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
-[01:29:56] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
-[01:29:56] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[01:29:57] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[01:29:57] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[01:29:57] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
-[01:29:58] [Server thread/INFO]: [LightUp] Enabling LightUp v1.1.4.0
-[01:29:58] [Server thread/INFO]: LightUp has been enabled!
-[01:29:58] [Server thread/INFO]: [MCEEW] Enabling MCEEW v2.4.2
-[01:29:58] [Server thread/INFO]: [BlueMap] Enabling BlueMap v3.21
-[01:29:58] [BlueMap-Load/INFO]: [BlueMap] Loading...
-[01:29:58] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
-[01:29:58] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
-[01:29:58] [Folia Async Scheduler Thread #1/INFO]: [MCEEW] You are running the latest plugin version.
-[01:29:58] [Thread-13/INFO]: [MCEEW] Connected to WebSocket API.
-[01:29:59] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
-[01:29:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:29:59] [Server thread/INFO]: [Geyser-Spigot] 
-[01:29:59] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
-[01:29:59] [Server thread/INFO]: [Geyser-Spigot] 
-[01:29:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:30:01] [Thread-1/INFO]: Stopping main thread (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
+[01:31:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[01:31:59] [Server thread/INFO]: Default game type: SURVIVAL
+[01:31:59] [Server thread/INFO]: Generating keypair
+[01:31:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:31:59] [Server thread/INFO]: Using default channel type
+[01:32:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:32:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:32:00] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
+[01:32:00] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
+[01:32:01] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[01:32:02] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:32:02] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[01:32:02] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[01:32:02] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[01:32:02] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[01:32:03] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[01:32:03] [Server thread/INFO]: [floodgate] Took 789ms to boot Floodgate
+[01:32:03] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[01:32:03] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
+[01:32:03] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
+[01:32:03] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
+[01:32:03] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[01:32:03] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[01:32:03] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[01:32:03] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
+[01:32:03] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
+[01:32:03] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[01:32:03] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[01:32:04] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:32:04] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:32:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:32:04] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[01:32:05] [Server thread/INFO]:         __    
+[01:32:05] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[01:32:05] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[01:32:05] [Server thread/INFO]: 
+[01:32:05] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:32:05] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[01:32:06] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:32:06] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:32:06] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2163ms)
+[01:32:06] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[01:32:06] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[01:32:06] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[01:32:06] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[01:32:06] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[01:32:06] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
+[01:32:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:32:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:32:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:32:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:32:06] [Server thread/INFO]: Preparing level "world"
+[01:32:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:32:08] [Server thread/INFO]: Time elapsed: 651 ms
+[01:32:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:32:08] [Server thread/INFO]: Time elapsed: 157 ms
+[01:32:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:32:09] [Server thread/INFO]: Time elapsed: 176 ms
+[01:32:09] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
+[01:32:09] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[01:32:09] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[01:32:09] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[01:32:09] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[01:32:10] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[01:32:10] [Server thread/INFO]: [Essentials] Using locale en
+[01:32:10] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[01:32:10] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[01:32:10] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[01:32:10] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[01:32:10] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[01:32:11] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[01:32:11] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[01:32:11] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[01:32:11] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
+[01:32:11] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[01:32:11] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
+[01:32:11] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[01:32:12] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:32:12] [Server thread/INFO]: [Geyser-Spigot] 
+[01:32:12] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
+[01:32:12] [Server thread/INFO]: [Geyser-Spigot] 
+[01:32:12] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:32:20] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
+[01:32:20] [Server thread/INFO]: [Geyser-Spigot] Done (8.286s)! Run /geyser help for help!
+[01:32:20] [Server thread/INFO]: Starting remote control listener
+[01:32:20] [Server thread/INFO]: Thread RCON Listener started
+[01:32:20] [Server thread/INFO]: RCON running on 0.0.0.0:25567
+[01:32:20] [Server thread/INFO]: Running delayed init tasks
+[01:32:20] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[01:32:20] [Server thread/INFO]: [CommandAPI] Linked 0 Bukkit permissions to commands
+[01:32:20] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[01:32:20] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[01:32:20] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[01:32:20] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] Checking for Updates ... 
+[01:32:21] [Craft Scheduler Thread - 0 - Vault/WARN]: [Vault] No files found, or Feed URL is bad.
+[01:32:21] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] No new version available
+[01:32:21] [Craft Scheduler Thread - 1 - Passky/INFO]: 
+
+[]============[Enabling Passky]============[]
+|
+| Information:
+|
+|   Name: Passky
+|   Developer: Black1_TV
+|   Version: 2.1.1 (update available)
+|   Website: https://rabbit-company.com
+|
+| Sponsors:
+|
+|   - https://rabbitserverlist.com
+|
+| Support:
+|
+|   Discord: ziga.zajc007
+|   Mail: ziga.zajc007@gmail.com
+|   Discord: https://discord.gg/hUNymXX
+|
+[]=========================================[]
+
+[01:32:27] [Server thread/INFO]: Loaded 7 recipes
+[01:32:28] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[01:32:28] [Server thread/INFO]: Done (31.181s)! For help, type "help"
+[01:32:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7485ms or 149 ticks behind
+[01:32:28] [Server thread/INFO]: Timings Reset
+[01:32:30] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[01:32:30] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[01:32:30] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[01:33:45] [User Authenticator #0/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
+[01:33:45] [Server thread/INFO]: AwaKING joined the game
+[01:33:45] [Server thread/INFO]: AwaKING[/127.0.0.1:50110] logged in with entity id 351 at ([world]-659.0, 145.0, -463.0)
+[01:34:09] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[01:34:09] [Server thread/INFO]: hhhh_w joined the game
+[01:34:09] [Server thread/INFO]: hhhh_w[/127.0.0.1:37452] logged in with entity id 808 at ([world]-659.0, 145.0, -463.0)
+[01:34:54] [Server thread/WARN]: hhhh_w was kicked due to keepalive timeout!
+[01:34:54] [Server thread/INFO]: hhhh_w lost connection: Timed out
+[01:34:54] [Server thread/INFO]: hhhh_w left the game
+[01:35:04] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[01:35:04] [Server thread/INFO]: hhhh_w joined the game
+[01:35:04] [Server thread/INFO]: hhhh_w[/127.0.0.1:51428] logged in with entity id 1269 at ([world]-1168.5771311135602, 95.0, 75.56856905565989)
+[01:35:46] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[01:35:47] [Server thread/INFO]: hhhh_w lost connection: You logged in from another location
+[01:35:47] [Server thread/INFO]: hhhh_w left the game
+[01:35:47] [Server thread/INFO]: hhhh_w joined the game
+[01:35:47] [Server thread/INFO]: hhhh_w[/127.0.0.1:57920] logged in with entity id 1673 at ([world]-1205.5696514148356, 101.79389671930073, 81.46654569485543)
+[01:35:47] [Paper Async Command Builder Thread Pool - 0/INFO]: [Essentials] Essentials updated the underlying Player object for 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[01:35:52] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[01:35:52] [Server thread/INFO]: hhhh_w left the game
+[01:35:54] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[01:35:54] [Server thread/INFO]: hhhh_w joined the game
+[01:35:54] [Server thread/INFO]: hhhh_w[/127.0.0.1:57936] logged in with entity id 1690 at ([world]-1195.0453708125997, 101.0, 78.2535353392644)
+[01:36:06] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[01:36:06] [Server thread/INFO]: Parzival5077 joined the game
+[01:36:07] [Server thread/INFO]: Parzival5077[/127.0.0.1:51596] logged in with entity id 2077 at ([world]-659.0, 145.0, -463.0)
+[01:38:33] [Server thread/INFO]: AwaKING has made the advancement [We Need to Go Deeper]
+[01:38:46] [Server thread/INFO]: Parzival5077 issued server command: /home
+[01:39:03] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[01:39:03] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[01:39:03] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[01:39:03] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[01:39:03] [Server thread/INFO]: .RulySphinx32354 joined the game
+[01:39:03] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 3145 at ([world]-659.0, 145.0, -463.0)
+[01:39:05] [User Authenticator #1/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[01:39:05] [Server thread/INFO]: Littlebugs_ joined the game
+[01:39:05] [Server thread/INFO]: Littlebugs_[/127.0.0.1:58316] logged in with entity id 3214 at ([world]-659.0, 145.0, -463.0)
+[01:39:21] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 127.17267000000004,-80.99866,157.5199
+[01:39:21] [Server thread/INFO]: Parzival5077 issued server command: /home
+[01:42:27] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 5.071520000000021,-0.23152000000000328,8.626190000000008
+[01:42:57] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 2.9629400000000032,-2.0,9.463509999999985
+[01:43:20] [Server thread/INFO]: .RulySphinx32354 drowned
+[01:43:29] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[01:43:29] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[01:43:29] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[01:43:29] [Server thread/INFO]: .RulySphinx32354 left the game
+[01:43:59] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[01:43:59] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[01:44:00] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[01:44:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[01:44:00] [Server thread/INFO]: .RulySphinx32354 joined the game
+[01:44:00] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 5917 at ([world]-495.532, 61.0, -207.36826)
+[01:44:01] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[01:44:01] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[01:44:21] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
+[01:44:21] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 136.822,-82.0,218.85806000000002
+[01:44:24] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[01:44:24] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[01:44:24] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[01:44:24] [Server thread/INFO]: .RulySphinx32354 left the game
+[01:44:36] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[01:44:36] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[01:44:37] [Geyser Spigot connection thread-6-1/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[01:44:37] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[01:44:37] [Server thread/INFO]: .RulySphinx32354 joined the game
+[01:44:37] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 6317 at ([world]-522.5, 63.0, -241.5)
+[01:44:39] [Async Chat Thread - #2/INFO]: [Not Secure] <AwaKING> ADDADA
+[01:45:31] [Server thread/INFO]: hhhh_w issued server command: /tpa Littlebugs_
+[01:45:37] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
+[01:45:39] [User Authenticator #2/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
+[01:45:39] [Server thread/INFO]: Jasper joined the game
+[01:45:39] [Server thread/INFO]: Jasper[/127.0.0.1:46746] logged in with entity id 6868 at ([world]-659.0, 145.0, -463.0)
+[01:46:31] [Server thread/INFO]: Jasper issued server command: /home
+[01:46:44] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
+[01:47:13] [Server thread/INFO]: Jasper issued server command: /tpa .RulySphinx32354
+[01:47:26] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpaccept
+[01:48:30] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[01:48:30] [Server thread/INFO]: AwaKING left the game
+[01:49:23] [Server thread/INFO]: hhhh_w lost connection: Timed out
+[01:49:23] [Server thread/INFO]: hhhh_w left the game
+[01:49:31] [Server thread/INFO]: Littlebugs_ lost connection: Timed out
+[01:49:31] [Server thread/INFO]: Littlebugs_ left the game
+[01:51:32] [Server thread/INFO]: Parzival5077 issued server command: /sethome
+[01:52:06] [User Authenticator #3/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[01:52:06] [Server thread/INFO]: hhhh_w joined the game
+[01:52:06] [Server thread/INFO]: hhhh_w[/127.0.0.1:47986] logged in with entity id 8751 at ([world]-1186.2215267232993, 95.0, 45.69277196416876)
+[01:52:08] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[01:52:08] [Server thread/INFO]: hhhh_w left the game
+[01:52:26] [User Authenticator #3/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[01:52:26] [Server thread/INFO]: Littlebugs_ joined the game
+[01:52:26] [Server thread/INFO]: Littlebugs_[/127.0.0.1:59620] logged in with entity id 8935 at ([world]-1179.2175925814156, 95.0, 49.58521257454448)
+[01:52:52] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
+[01:53:05] [Server thread/INFO]: Jasper issued server command: /home
+[01:53:39] [User Authenticator #4/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[01:53:39] [Server thread/INFO]: hhhh_w joined the game
+[01:53:39] [Server thread/INFO]: hhhh_w[/127.0.0.1:53080] logged in with entity id 9541 at ([world]-1186.2215267232993, 95.0, 45.69277196416876)
+[01:54:58] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpa Jasper
+[01:55:07] [Server thread/INFO]: Jasper issued server command: /tpaccept
+[01:55:41] [User Authenticator #5/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
+[01:55:41] [Server thread/INFO]: AwaKING joined the game
+[01:55:41] [Server thread/INFO]: AwaKING[/127.0.0.1:56226] logged in with entity id 10154 at ([world]-183.48750001192093, 84.55267511044399, 44.51961046789609)
+[01:55:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Littlebugs_> zzz
+[01:57:03] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
+[01:57:21] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[01:57:21] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[01:57:21] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[01:57:21] [Server thread/INFO]: .RulySphinx32354 left the game
+[01:57:47] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[01:57:47] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[01:57:47] [Geyser Spigot connection thread-6-2/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[01:57:47] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[01:57:47] [Server thread/INFO]: .RulySphinx32354 joined the game
+[01:57:47] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 11245 at ([world]-522.5, 63.0, -241.5)
+[01:58:51] [Server thread/INFO]: Parzival5077 issued server command: /luckperms:permission e
+[01:58:56] [Server thread/INFO]: Parzival5077 issued server command: /luckperms:permission
+[01:59:08] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.131.
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission user <user>
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission group <group>
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission track <track>
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission log
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission sync
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission info
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission editor [type]
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission verbose <on|record|off|upload> [filter]
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission tree [scope] [player]
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission search <permission>
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission networksync
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission import <file>
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission export <file>
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission reloadconfig
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission bulkupdate
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission translations
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission creategroup <group>
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission deletegroup <group>
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission listgroups
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission createtrack <track>
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission deletetrack <track>
+[01:59:08] [luckperms-command-executor/INFO]: > /luckperms:permission listtracks
+[01:59:10] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[01:59:13] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[01:59:13] [luckperms-command-executor/INFO]: https://luckperms.net/editor/yebuN19asJ
+[01:59:23] [luckperms-worker-0/INFO]: [LP] Editor window connected successfully.
+[02:00:09] [luckperms-worker-0/INFO]: [LP] Changes have been received from the connected web editor session.
+[02:00:09] [luckperms-worker-0/INFO]: [LP] Web editor data was applied to group default successfully.
+[02:00:09] [luckperms-worker-0/INFO]: [LP] (5 additions and 0 deletions)
+[02:00:09] [luckperms-worker-0/INFO]: +  talk (true)
+[02:00:09] [luckperms-worker-0/INFO]: +  minecraft.command.say (true)
+[02:00:09] [luckperms-worker-0/INFO]: +  minecraft.command.msg (true)
+[02:00:09] [luckperms-worker-0/INFO]: +  minecraft.command.teammsg (true)
+[02:00:09] [luckperms-worker-0/INFO]: +  essentials.msg (true)
+[02:00:30] [luckperms-worker-0/INFO]: [LP] Changes have been received from the connected web editor session.
+[02:00:30] [luckperms-worker-0/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
+[02:00:39] [Server thread/INFO]: Incorrect argument for command
+title @a Hi<--[HERE]
+[02:00:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:00:49] [Server thread/INFO]: [Rcon: Gave 28 experience points to 6 players]
+[02:00:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:00:51] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[02:01:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:01:27] [Server thread/INFO]: [Rcon: Showing new subtitle for 6 players]
+[02:01:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:01:27] [Server thread/INFO]: [Rcon: Showing new title for 6 players]
+[02:01:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:01:28] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 

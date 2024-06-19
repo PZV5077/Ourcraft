@@ -2017,5 +2017,31 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-06-19 01:38:57 +0000",
+      "minecraft:nether_wastes": "2024-06-19 01:38:33 +0000",
+      "minecraft:soul_sand_valley": "2024-06-19 01:39:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-06-19 01:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-06-19 01:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-06-19 01:39:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
