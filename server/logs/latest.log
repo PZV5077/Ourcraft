@@ -643,3 +643,75 @@
 [08:39:23] [Server thread/INFO]: CheessRevolution lost connection: Timed out
 [08:39:23] [Server thread/INFO]: CheessRevolution left the game
 [08:47:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[08:53:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[08:53:19] [Server thread/INFO]: [Rcon: Saved the game]
+[08:53:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[08:53:25] [Server thread/INFO]: [Rcon: Stopping the server]
+[08:53:25] [Server thread/INFO]: Stopping server
+[08:53:25] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.0-SNAPSHOT
+[08:53:25] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[08:53:25] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[08:53:25] [Server thread/INFO]: [Passky] Disabling Passky v2.1.1
+[08:53:25] [Server thread/INFO]: 
+
+[]============[Disabling Passky]============[]
+|
+| Information:
+|
+|   Name: Passky
+|   Developer: Black1_TV
+|   Version: 2.1.1 (update available)
+|   Website: https://rabbit-company.com
+|
+| Sponsors:
+|
+|   - https://rabbitserverlist.com
+|
+| Support:
+|
+|   Discord: ziga.zajc007
+|   Mail: ziga.zajc007@gmail.com
+|   Discord: https://discord.gg/hUNymXX
+|
+[]=========================================[]
+
+[08:53:25] [Server thread/INFO]: [EndPortalTimer] Disabling EndPortalTimer v1.7
+[08:53:25] [Server thread/INFO]: [EndPortalTimer] Plugin disabled.
+[08:53:25] [Server thread/INFO]: [CommandAPI] Disabling CommandAPI v9.5.0
+[08:53:25] [Server thread/INFO]: [TreeFella] Disabling TreeFella v1.2
+[08:53:25] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[08:53:25] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[08:53:25] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[08:53:25] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[08:53:25] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[08:53:25] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[08:53:25] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[08:53:25] [Server thread/INFO]: [LuckPerms] Closing storage...
+[08:53:25] [Server thread/INFO]: [LuckPerms] Goodbye!
+[08:53:25] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.0
+[08:53:25] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[08:53:25] [Server thread/INFO]: Saving players
+[08:53:25] [WebSocketConnectReadThread-94/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[08:53:25] [Server thread/INFO]: Saving worlds
+[08:53:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:53:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:53:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:53:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:53:25] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 391 entity chunks, 0 poi chunks in world 'world' in 0.05s
+[08:53:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:53:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:53:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:53:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:53:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:53:26] [Server thread/INFO]: [ChunkHolderManager] Saved 453 block chunks, 111 entity chunks, 0 poi chunks in world 'world_nether' in 0.26s
+[08:53:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:53:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:53:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:53:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:53:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:53:26] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[08:53:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:53:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:53:26] [Server thread/INFO]: Flushing Chunk IO
+[08:53:26] [Server thread/INFO]: Closing Thread Pool
+[08:53:26] [Server thread/INFO]: Closing Server
