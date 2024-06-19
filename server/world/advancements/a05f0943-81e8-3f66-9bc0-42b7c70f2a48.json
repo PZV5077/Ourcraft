@@ -832,8 +832,10 @@
       "cooked_porkchop": "2024-06-18 05:11:46 +0000",
       "cooked_mutton": "2024-06-18 07:14:04 +0000",
       "baked_potato": "2024-06-18 07:42:54 +0000",
+      "apple": "2024-06-19 05:09:53 +0000",
       "mutton": "2024-06-19 03:49:27 +0000",
       "cooked_chicken": "2024-06-18 06:32:49 +0000",
+      "cooked_salmon": "2024-06-19 05:06:33 +0000",
       "carrot": "2024-06-18 13:08:51 +0000"
     },
     "done": false
@@ -2067,6 +2069,30 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-06-19 04:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-06-19 04:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-06-19 04:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-06-19 04:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-06-19 05:01:52 +0000"
     },
     "done": true
   },
