@@ -1,108 +1,109 @@
-[04:45:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:46:01] [ServerMain/INFO]: Loaded 7 recipes
-[04:46:02] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[04:46:02] [Server thread/INFO]: Loading properties
-[04:46:02] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[04:46:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:46:03] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:46:03] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[06:34:29] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:34:31] [ServerMain/INFO]: Loaded 7 recipes
+[06:34:32] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[06:34:32] [Server thread/INFO]: Loading properties
+[06:34:32] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[06:34:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:34:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:34:34] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[04:46:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[04:46:04] [Server thread/INFO]: Default game type: SURVIVAL
-[04:46:04] [Server thread/INFO]: Generating keypair
-[04:46:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:46:04] [Server thread/INFO]: Using default channel type
-[04:46:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:46:04] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[04:46:05] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
-[04:46:05] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
-[04:46:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[04:46:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[04:46:06] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[04:46:07] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[04:46:07] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[04:46:07] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[04:46:07] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[04:46:07] [Server thread/INFO]: [floodgate] Took 671ms to boot Floodgate
-[04:46:07] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
-[04:46:07] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
-[04:46:07] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
-[04:46:08] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
-[04:46:08] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
-[04:46:08] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
-[04:46:08] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
-[04:46:08] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
-[04:46:08] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
-[04:46:08] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
-[04:46:08] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
-[04:46:09] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[04:46:09] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[04:46:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:46:09] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[04:46:09] [Server thread/INFO]:         __    
-[04:46:09] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[04:46:09] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[04:46:09] [Server thread/INFO]: 
-[04:46:09] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[04:46:09] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[04:46:10] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[04:46:10] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[04:46:11] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2138ms)
-[04:46:11] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[04:46:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[04:46:11] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[04:46:11] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[04:46:11] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[04:46:11] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
-[04:46:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:46:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:46:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:46:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:46:11] [Server thread/INFO]: Preparing level "world"
-[04:46:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:46:13] [Server thread/INFO]: Time elapsed: 783 ms
-[04:46:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:46:13] [Server thread/INFO]: Time elapsed: 192 ms
-[04:46:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:46:13] [Server thread/INFO]: Time elapsed: 152 ms
-[04:46:13] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
-[04:46:13] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
-[04:46:13] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[04:46:14] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[04:46:14] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[04:46:15] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[04:46:15] [Server thread/INFO]: [Essentials] Using locale en
-[04:46:16] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[04:46:16] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[04:46:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[04:46:16] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[04:46:16] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[04:46:17] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[04:46:17] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[04:46:17] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
-[04:46:17] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
-[04:46:17] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
-[04:46:17] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
-[04:46:17] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
-[04:46:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[04:46:17] [Server thread/INFO]: [Geyser-Spigot] 
-[04:46:17] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
-[04:46:17] [Server thread/INFO]: [Geyser-Spigot] 
-[04:46:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[04:46:25] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
-[04:46:25] [Server thread/INFO]: [Geyser-Spigot] Done (8.015s)! Run /geyser help for help!
-[04:46:26] [Server thread/INFO]: Starting remote control listener
-[04:46:26] [Server thread/INFO]: Thread RCON Listener started
-[04:46:26] [Server thread/INFO]: RCON running on 0.0.0.0:25567
-[04:46:26] [Server thread/INFO]: Running delayed init tasks
-[04:46:26] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[04:46:26] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[04:46:26] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[04:46:26] [Server thread/INFO]: [CommandAPI] Linked 0 Bukkit permissions to commands
-[04:46:26] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
-[04:46:26] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] Checking for Updates ... 
-[04:46:26] [Craft Scheduler Thread - 2 - Passky/INFO]: 
+[06:34:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[06:34:34] [Server thread/INFO]: Default game type: SURVIVAL
+[06:34:34] [Server thread/INFO]: Generating keypair
+[06:34:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:34:35] [Server thread/INFO]: Using default channel type
+[06:34:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[06:34:35] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[06:34:36] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
+[06:34:36] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
+[06:34:36] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[06:34:37] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[06:34:37] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[06:34:37] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[06:34:37] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[06:34:37] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[06:34:38] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[06:34:38] [Server thread/INFO]: [floodgate] Took 869ms to boot Floodgate
+[06:34:38] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[06:34:38] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
+[06:34:38] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
+[06:34:38] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
+[06:34:38] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[06:34:38] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[06:34:38] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[06:34:38] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
+[06:34:38] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
+[06:34:38] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[06:34:38] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[06:34:39] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[06:34:39] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[06:34:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:34:39] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[06:34:40] [Server thread/INFO]:         __    
+[06:34:40] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[06:34:40] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[06:34:40] [Server thread/INFO]: 
+[06:34:40] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[06:34:40] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[06:34:41] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[06:34:41] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[06:34:41] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2201ms)
+[06:34:41] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[06:34:41] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[06:34:41] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[06:34:42] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[06:34:42] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[06:34:42] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
+[06:34:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:34:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:34:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:34:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:34:42] [Server thread/INFO]: Preparing level "world"
+[06:34:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:34:43] [Server thread/INFO]: Time elapsed: 509 ms
+[06:34:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:34:43] [Server thread/INFO]: Time elapsed: 171 ms
+[06:34:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:34:43] [Server thread/INFO]: Time elapsed: 119 ms
+[06:34:43] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
+[06:34:44] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[06:34:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[06:34:45] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[06:34:45] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[06:34:46] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[06:34:46] [Server thread/INFO]: [Essentials] Using locale en
+[06:34:46] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[06:34:46] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[06:34:46] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[06:34:46] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[06:34:46] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[06:34:47] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[06:34:47] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[06:34:47] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[06:34:47] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
+[06:34:47] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[06:34:47] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
+[06:34:47] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[06:34:48] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[06:34:48] [Server thread/INFO]: [Geyser-Spigot] 
+[06:34:48] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
+[06:34:48] [Server thread/INFO]: [Geyser-Spigot] 
+[06:34:48] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[06:34:56] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
+[06:34:56] [Server thread/INFO]: [Geyser-Spigot] Done (8.108s)! Run /geyser help for help!
+[06:34:56] [Server thread/INFO]: Starting remote control listener
+[06:34:56] [Server thread/INFO]: Thread RCON Listener started
+[06:34:56] [Server thread/INFO]: RCON running on 0.0.0.0:25567
+[06:34:56] [Server thread/INFO]: Running delayed init tasks
+[06:34:56] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[06:34:56] [Server thread/INFO]: [CommandAPI] Linked 0 Bukkit permissions to commands
+[06:34:56] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[06:34:56] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[06:34:56] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[06:34:56] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] Checking for Updates ... 
+[06:34:56] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] No new version available
+[06:34:56] [Craft Scheduler Thread - 1 - Passky/INFO]: 
 
 []============[Enabling Passky]============[]
 |
@@ -125,689 +126,44 @@
 |
 []=========================================[]
 
-[04:46:26] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:46:26] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] No new version available
-[04:46:27] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:46:32] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[04:46:33] [Server thread/INFO]: Loaded 7 recipes
-[04:46:33] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
-[04:46:33] [Server thread/INFO]: Done (31.953s)! For help, type "help"
-[04:46:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7843ms or 156 ticks behind
-[04:46:33] [Server thread/INFO]: Timings Reset
-[04:46:34] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[04:46:34] [Server thread/INFO]: Parzival5077 left the game
-[04:46:34] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:46:34] [Server thread/INFO]: Parzival5077 joined the game
-[04:46:34] [Server thread/INFO]: Parzival5077[/127.0.0.1:36174] logged in with entity id 11 at ([world]-659.0, 145.0, -463.0)
-[04:46:34] [Server thread/INFO]: hhhh_w joined the game
-[04:46:34] [Server thread/INFO]: hhhh_w[/127.0.0.1:36182] logged in with entity id 12 at ([world]-659.0, 145.0, -463.0)
-[04:46:34] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:46:34] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:46:34] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:46:34] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:46:34] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:46:34] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:46:36] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[04:46:36] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[04:46:36] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[04:46:38] [User Authenticator #0/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
-[04:46:39] [Server thread/INFO]: Jasper joined the game
-[04:46:39] [Server thread/INFO]: Jasper[/127.0.0.1:60452] logged in with entity id 312 at ([world]-659.0, 145.0, -463.0)
-[04:47:05] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[04:47:05] [Server thread/INFO]: hhhh_w left the game
-[04:47:07] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[04:47:07] [Server thread/INFO]: hhhh_w joined the game
-[04:47:07] [Server thread/INFO]: hhhh_w[/127.0.0.1:57172] logged in with entity id 874 at ([world]-1182.9241862690542, 95.0, 64.45643070159629)
-[04:47:08] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[04:47:09] [Server thread/INFO]: hhhh_w lost connection: You logged in from another location
-[04:47:09] [Server thread/INFO]: hhhh_w left the game
-[04:47:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:47:09] [Server thread/INFO]: hhhh_w joined the game
-[04:47:09] [Server thread/INFO]: hhhh_w[/127.0.0.1:57188] logged in with entity id 930 at ([world]-1182.9241862690542, 95.0, 64.45643070159629)
-[04:47:09] [Paper Async Command Builder Thread Pool - 0/INFO]: [Essentials] Essentials updated the underlying Player object for 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[04:47:09] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
-[04:47:10] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:47:10] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[04:47:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:47:15] [Server thread/INFO]: [Essentials] Rcon issued server command: /gc 
-[04:47:16] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:47:17] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[04:47:19] [Server thread/WARN]: Parzival5077 was kicked due to keepalive timeout!
-[04:47:19] [Server thread/INFO]: Parzival5077 lost connection: Timed out
-[04:47:19] [Server thread/INFO]: Parzival5077 left the game
-[04:47:24] [Server thread/WARN]: Jasper was kicked due to keepalive timeout!
-[04:47:24] [Server thread/INFO]: Jasper lost connection: Timed out
-[04:47:24] [Server thread/INFO]: Jasper left the game
-[04:47:25] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:47:25] [Server thread/INFO]: Parzival5077 joined the game
-[04:47:25] [Server thread/INFO]: Parzival5077[/127.0.0.1:51210] logged in with entity id 1185 at ([world]-510.2955718907246, 64.0, -225.71909322642531)
-[04:47:28] [User Authenticator #0/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
-[04:47:28] [Server thread/INFO]: Jasper joined the game
-[04:47:28] [Server thread/INFO]: Jasper[/127.0.0.1:51226] logged in with entity id 1205 at ([world]-786.7626686497564, 110.0, -493.27905307707596)
-[04:53:05] [Server thread/INFO]: Parzival5077 issued server command: /home
-[04:53:11] [Server thread/INFO]: hhhh_w issued server command: /tpa Jasper
-[04:53:27] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[04:53:49] [Server thread/WARN]: Parzival5077 was kicked due to keepalive timeout!
-[04:53:49] [Server thread/INFO]: Parzival5077 lost connection: Timed out
-[04:53:49] [Server thread/INFO]: Parzival5077 left the game
-[04:54:04] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:54:04] [Server thread/INFO]: Parzival5077 joined the game
-[04:54:04] [Server thread/INFO]: Parzival5077[/127.0.0.1:45254] logged in with entity id 4084 at ([world]-651.3661273359666, 66.0, -607.1838354293404)
-[04:54:20] [Server thread/INFO]: hhhh_w issued server command: /tpa Jasper
-[04:54:51] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[04:54:51] [Server thread/INFO]: Parzival5077 left the game
-[04:54:53] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:54:53] [Server thread/INFO]: Parzival5077 joined the game
-[04:54:53] [Server thread/INFO]: Parzival5077[/127.0.0.1:43542] logged in with entity id 4459 at ([world]-512.7963802177436, 63.0, -247.10090552332892)
-[05:00:29] [Server thread/INFO]: Parzival5077 was slain by Zombie
-[05:01:00] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[05:01:01] [Server thread/INFO]: Parzival5077 left the game
-[05:02:04] [User Authenticator #2/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[05:02:04] [Server thread/INFO]: Parzival5077 joined the game
-[05:02:04] [Server thread/INFO]: Parzival5077[/127.0.0.1:42472] logged in with entity id 7593 at ([world]-531.5, 83.0, -240.5)
-[05:03:29] [Server thread/INFO]: hhhh_w lost connection: Kicked for exceeding packet rate limit
-[05:03:29] [Server thread/INFO]: hhhh_w left the game
-[05:03:32] [User Authenticator #3/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[05:03:32] [Server thread/INFO]: hhhh_w joined the game
-[05:03:32] [Server thread/INFO]: hhhh_w[/127.0.0.1:54456] logged in with entity id 8423 at ([world]-1153.925000011921, 95.0, 40.81158943661492)
-[05:10:23] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[05:10:23] [Server thread/INFO]: hhhh_w left the game
-[05:10:39] [User Authenticator #4/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[05:10:39] [Server thread/INFO]: hhhh_w joined the game
-[05:10:39] [Server thread/INFO]: hhhh_w[/127.0.0.1:53986] logged in with entity id 11247 at ([world]-1169.5605840990074, 98.0, 56.81565626249175)
-[05:10:41] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[05:10:41] [Server thread/INFO]: hhhh_w left the game
-[05:10:43] [User Authenticator #4/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[05:10:43] [Server thread/INFO]: hhhh_w joined the game
-[05:10:43] [Server thread/INFO]: hhhh_w[/127.0.0.1:54014] logged in with entity id 11424 at ([world]-1169.5605840990074, 98.0, 56.81565626249175)
-[05:10:47] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[05:10:47] [Server thread/INFO]: hhhh_w left the game
-[05:10:48] [User Authenticator #4/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[05:10:48] [Server thread/INFO]: hhhh_w joined the game
-[05:10:48] [Server thread/INFO]: hhhh_w[/127.0.0.1:39360] logged in with entity id 11622 at ([world]-1169.5605840990074, 98.0, 56.81565626249175)
-[05:10:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[05:10:51] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[05:10:51] [Server thread/INFO]: hhhh_w left the game
-[05:10:54] [User Authenticator #4/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[05:10:54] [Server thread/INFO]: hhhh_w joined the game
-[05:10:54] [Server thread/INFO]: hhhh_w[/127.0.0.1:39406] logged in with entity id 11772 at ([world]-1169.5605840990074, 98.0, 56.81565626249175)
-[05:10:55] [Server thread/INFO]: [Essentials] Rcon issued server command: /kick hhhh_w
-[05:10:55] [Server thread/INFO]: hhhh_w lost connection: Kicked from server.
-[05:10:55] [Server thread/INFO]: hhhh_w left the game
-[05:10:55] [Server thread/INFO]: [Essentials] Player Console kicked hhhh_w for Kicked from server..
-[05:10:59] [Server thread/INFO]: [Essentials] Rcon issued server command: /kick hhhh_w
-[05:11:00] [User Authenticator #4/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[05:11:00] [Server thread/INFO]: hhhh_w joined the game
-[05:11:00] [Server thread/INFO]: hhhh_w[/127.0.0.1:43058] logged in with entity id 11950 at ([world]-1169.5605840990074, 98.0, 56.81565626249175)
-[05:11:01] [Server thread/INFO]: [Essentials] Rcon issued server command: /kick hhhh_w
-[05:11:01] [Server thread/INFO]: hhhh_w lost connection: Kicked from server.
-[05:11:01] [Server thread/INFO]: hhhh_w left the game
-[05:11:01] [Server thread/INFO]: [Essentials] Player Console kicked hhhh_w for Kicked from server..
-[05:11:20] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[05:11:20] [Server thread/INFO]: Littlebugs_ joined the game
-[05:11:20] [Server thread/INFO]: Littlebugs_[/127.0.0.1:58274] logged in with entity id 12194 at ([world]-659.0, 145.0, -463.0)
-[05:11:42] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
-[05:11:42] [Server thread/INFO]: Littlebugs_ left the game
-[05:11:48] [User Authenticator #4/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[05:11:48] [Server thread/INFO]: hhhh_w joined the game
-[05:11:48] [Server thread/INFO]: hhhh_w[/127.0.0.1:57826] logged in with entity id 12633 at ([world]-1169.5605840990074, 98.0, 56.81565626249175)
-[05:12:29] [Server thread/INFO]: Jasper issued server command: /tpa Parzival5077
-[05:12:39] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
-[05:14:26] [Server thread/INFO]: Parzival5077 was impaled by Drowned
-[05:25:43] [Server thread/INFO]: Jasper was slain by Parzival5077
-[05:26:05] [Server thread/INFO]: hhhh_w issued server command: /tpa Jasper
-[05:26:13] [Server thread/INFO]: hhhh_w issued server command: /tpa Parzival5077
-[05:26:19] [Server thread/INFO]: Parzival5077 issued server command: /tpdeny
-[05:26:23] [Server thread/INFO]: Parzival5077 issued server command: /tpdeny
-[05:28:32] [Server thread/WARN]: Player Jasper just tried to change non-editable sign
-[05:28:32] [Server thread/WARN]: Player Jasper just tried to change non-editable sign
-[05:28:32] [Server thread/WARN]: Player Jasper just tried to change non-editable sign
-[05:28:33] [Server thread/WARN]: Player Jasper just tried to change non-editable sign
-[05:30:14] [Server thread/WARN]: Player Parzival5077 just tried to change non-editable sign
-[05:31:28] [Server thread/WARN]: Player Parzival5077 just tried to change non-editable sign
-[05:31:31] [Server thread/INFO]: hhhh_w issued server command: /tpa Jasper
-[05:31:42] [Server thread/INFO]: Jasper issued server command: /tpaccept
-[05:32:21] [Server thread/INFO]: Parzival5077 was slain by hhhh_w
-[05:32:57] [Server thread/INFO]: Parzival5077 was slain by hhhh_w
-[05:33:07] [Server thread/INFO]: hhhh_w fell from a high place
-[05:33:31] [Server thread/INFO]: hhhh_w issued server command: /tpa Jasper
-[05:33:45] [Server thread/WARN]: Parzival5077 was kicked due to keepalive timeout!
-[05:33:45] [Server thread/INFO]: Parzival5077 lost connection: Timed out
-[05:33:45] [Server thread/INFO]: Parzival5077 left the game
-[05:33:51] [User Authenticator #5/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[05:33:51] [Server thread/INFO]: Parzival5077 joined the game
-[05:33:51] [Server thread/INFO]: Parzival5077[/127.0.0.1:41750] logged in with entity id 18877 at ([world]-530.5843773991159, 78.04666837698264, -230.30000001192093)
-[05:33:52] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[05:33:52] [Server thread/INFO]: Parzival5077 left the game
-[05:33:52] [User Authenticator #5/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[05:33:52] [Server thread/INFO]: Parzival5077 joined the game
-[05:33:52] [Server thread/INFO]: Parzival5077[/127.0.0.1:41752] logged in with entity id 18891 at ([world]-530.5843773991159, 77.95205088316885, -230.30000001192093)
-[05:33:55] [Server thread/WARN]: hhhh_w was kicked due to keepalive timeout!
-[05:33:55] [Server thread/INFO]: hhhh_w lost connection: Timed out
-[05:33:55] [Server thread/INFO]: hhhh_w left the game
-[05:34:02] [User Authenticator #5/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[05:34:02] [Server thread/INFO]: hhhh_w joined the game
-[05:34:02] [Server thread/INFO]: hhhh_w[/127.0.0.1:53636] logged in with entity id 18913 at ([world]-1179.025702463002, 95.0, 49.69999998807907)
-[05:34:39] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[05:34:39] [Server thread/INFO]: hhhh_w left the game
-[05:34:42] [User Authenticator #5/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[05:34:42] [Server thread/INFO]: hhhh_w joined the game
-[05:34:42] [Server thread/INFO]: hhhh_w[/127.0.0.1:47130] logged in with entity id 19260 at ([world]-1151.856624352107, 94.0, 25.025129224767724)
-[05:34:46] [Server thread/INFO]: hhhh_w issued server command: /tpa Jasper
-[05:34:47] [Server thread/INFO]: Jasper has made the advancement [Enchanter]
-[05:34:55] [Server thread/INFO]: hhhh_w issued server command: /tpa Jasper
-[05:35:28] [Server thread/INFO]: Parzival5077 issued server command: /home
-[05:35:36] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[05:35:39] [Server thread/INFO]: hhhh_w issued server command: /tpa Parzival5077
-[05:36:29] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[05:36:29] [Server thread/INFO]: Parzival5077 left the game
-[05:36:34] [Server thread/INFO]: hhhh_w issued server command: /tpa Jasper
-[05:37:39] [User Authenticator #6/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[05:37:40] [Server thread/INFO]: Parzival5077 joined the game
-[05:37:40] [Server thread/INFO]: Parzival5077[/127.0.0.1:33916] logged in with entity id 20503 at ([world]-530.9529300669348, 57.398844693641216, -229.69999998807907)
-[05:37:43] [Server thread/INFO]: hhhh_w issued server command: /tpa Parzival5077
-[05:38:04] [Server thread/INFO]: hhhh_w issued server command: /tpa Jasper
-[05:38:20] [Server thread/INFO]: Parzival5077 was shot by Skeleton
-[05:38:36] [Server thread/INFO]: hhhh_w issued server command: /tell Jasper 让我过去给一颗钻石
-[05:41:48] [Server thread/INFO]: Parzival5077 issued server command: /home
-[05:41:52] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[05:42:35] [Server thread/INFO]: hhhh_w issued server command: /tpa Jasper
-[05:46:29] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[05:46:29] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[05:46:29] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[05:46:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[05:46:29] [Server thread/INFO]: .RulySphinx32354 joined the game
-[05:46:29] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 25810 at ([world]-659.0, 145.0, -463.0)
-[05:46:34] [Server thread/INFO]: hhhh_w issued server command: /tpa .RulySphinx32354
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:46:45] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 120.30001000000004,-116.0,185.08923
-[05:47:09] [Server thread/INFO]: Parzival5077 issued server command: /home
-[05:47:17] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[05:47:21] [Server thread/INFO]: .RulySphinx32354 went up in flames
-[05:48:30] [Server thread/INFO]: hhhh_w issued server command: /tpa .RulySphinx32354
-[05:48:51] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
-[05:48:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 137.06529999999998,-82.0,218.50619999999998
-[05:48:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 137.06529999999998,-82.0,218.50619999999998
-[05:48:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 137.06529999999998,-82.0,218.50619999999998
-[05:48:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 137.06529999999998,-82.0,218.50619999999998
-[05:48:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 137.06529999999998,-82.0,218.50619999999998
-[05:48:51] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 137.06529999999998,-82.0,218.50619999999998
-[05:49:36] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpaccept
-[05:49:46] [Server thread/INFO]: hhhh_w issued server command: /tpa .RulySphinx32354
-[05:49:56] [Server thread/INFO]: Parzival5077 issued server command: /home
-[05:49:59] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpaccept
-[05:50:46] [Server thread/INFO]: Jasper was slain by hhhh_w
-[05:50:59] [Server thread/INFO]: Jasper was slain by hhhh_w
-[05:51:18] [Server thread/INFO]: .RulySphinx32354 fell from a high place
-[05:51:32] [Server thread/WARN]: Jasper was kicked due to keepalive timeout!
-[05:51:32] [Server thread/INFO]: Jasper lost connection: Timed out
-[05:51:32] [Server thread/INFO]: Jasper left the game
-[05:51:35] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:35] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 130.0,-82.0,217.0
-[05:51:41] [Server thread/INFO]: Parzival5077 issued server command: /home
-[05:51:42] [User Authenticator #7/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
-[05:51:42] [Server thread/INFO]: Jasper joined the game
-[05:51:42] [Server thread/INFO]: Jasper[/127.0.0.1:40162] logged in with entity id 28899 at ([world]-540.5, 83.875, -228.5)
-[05:51:46] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[05:52:01] [Server thread/INFO]: Jasper was slain by hhhh_w
-[05:52:06] [Server thread/INFO]: Parzival5077 was slain by hhhh_w
-[05:52:15] [Server thread/INFO]: Parzival5077 issued server command: /home
-[05:52:20] [Server thread/INFO]: Jasper was slain by hhhh_w
-[05:52:26] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[05:52:34] [Server thread/INFO]: .RulySphinx32354 drowned
-[05:52:34] [Server thread/INFO]: Parzival5077 was slain by hhhh_w
-[05:52:40] [Server thread/INFO]: Jasper was slain by hhhh_w
-[05:52:48] [Server thread/INFO]: Parzival5077 was slain by hhhh_w
-[05:53:09] [Server thread/INFO]: Parzival5077 was slain by hhhh_w
-[05:53:20] [Server thread/INFO]: Parzival5077 was slain by hhhh_w
-[05:53:27] [Server thread/INFO]: Parzival5077 was slain by hhhh_w
-[05:53:30] [Server thread/INFO]: Jasper was slain by hhhh_w
-[05:53:36] [Server thread/INFO]: Parzival5077 was slain by hhhh_w
-[05:53:39] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
-[05:53:39] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[05:53:39] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
-[05:53:39] [Server thread/INFO]: .RulySphinx32354 left the game
-[05:53:42] [Server thread/INFO]: Jasper was slain by hhhh_w
-[05:54:17] [Server thread/INFO]: Jasper was slain by hhhh_w
-[05:54:25] [Server thread/INFO]: Parzival5077 was slain by hhhh_w
-[05:54:30] [Server thread/INFO]: [Essentials] Rcon issued server command: /kick hhhh_w
-[05:54:30] [Server thread/INFO]: hhhh_w lost connection: Kicked from server.
-[05:54:30] [Server thread/INFO]: hhhh_w left the game
-[05:54:30] [Server thread/INFO]: [Essentials] Player Console kicked hhhh_w for Kicked from server..
-[05:54:39] [User Authenticator #8/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[05:54:39] [Server thread/INFO]: hhhh_w joined the game
-[05:54:39] [Server thread/INFO]: hhhh_w[/127.0.0.1:33254] logged in with entity id 29788 at ([world]-530.5880704706892, 83.0, -237.8723990593331)
-[05:54:49] [Server thread/INFO]: Parzival5077 issued server command: /home
-[05:54:54] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[05:55:15] [Server thread/INFO]: Parzival5077 issued server command: /home
-[05:55:18] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[05:55:18] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[05:55:18] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[05:55:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[05:55:18] [Server thread/INFO]: .RulySphinx32354 joined the game
-[05:55:18] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 30254 at ([world]-528.87915, 70.57498, -221.63826)
-[05:55:18] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[05:55:18] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
-[05:55:18] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[05:55:35] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
-[05:56:58] [Server thread/INFO]: Jasper was slain by .RulySphinx32354
-[05:58:20] [Server thread/INFO]: .RulySphinx32354 drowned
-[05:59:15] [Server thread/INFO]: Jasper lost connection: Disconnected
-[05:59:15] [Server thread/INFO]: Jasper left the game
-[05:59:42] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:42] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:43] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:43] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:43] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:43] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:43] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:43] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:43] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:43] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[05:59:43] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 139.0,-81.0,225.0
-[06:04:01] [Server thread/INFO]: Parzival5077 drowned
-[06:07:19] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:27] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:32] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:33] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:34] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:34] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:35] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:35] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:36] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:36] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:36] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:37] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:37] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:38] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:38] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:39] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:39] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:40] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:40] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:41] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:41] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:42] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:42] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:42] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:43] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:44] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:44] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:45] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:45] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:45] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:46] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:46] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:47] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:47] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:48] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:48] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:48] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:49] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:50] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:50] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:51] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:51] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:52] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:52] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:53] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:53] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:53] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:54] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:54] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:55] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:56] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:56] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:56] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:57] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:57] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:58] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:58] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:59] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:59] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:07:59] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:00] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:00] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:01] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:01] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:02] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:03] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:03] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:04] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:04] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:05] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:05] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:06] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:06] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:06] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:07] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:07] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:08] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:08] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:09] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:09] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:10] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:10] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:10] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:11] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:11] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:12] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:12] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:13] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:13] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:14] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:14] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:15] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:15] [Server thread/INFO]: hhhh_w has made the advancement [Take Aim]
-[06:08:15] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:17] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:17] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:18] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:18] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:19] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:19] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:19] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:20] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:37] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:38] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:38] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:40] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:40] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:41] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:42] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:43] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:44] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:44] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:45] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:45] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:46] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:46] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:46] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:47] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:48] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:48] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:49] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:49] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:49] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:50] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:50] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:51] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:51] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:53] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:53] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:53] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:54] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:08:59] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:00] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:01] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:02] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:02] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:03] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:04] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:05] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:08] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:09] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:09] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:12] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:12] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:13] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:14] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:14] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:15] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:15] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:15] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:16] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:16] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:17] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:17] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:18] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:18] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:18] [Server thread/INFO]: hhhh_w issued server command: /tell Parzival5077 再叫就点火了嗷
-[06:09:18] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:19] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:19] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:20] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:20] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:21] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:21] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:22] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:22] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:23] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:23] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:24] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:24] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:25] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:26] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:27] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:27] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:28] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:28] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:28] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:29] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:29] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:30] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:30] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:30] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:31] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:31] [Server thread/INFO]: hhhh_w fell from a high place
-[06:09:31] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:32] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:32] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:33] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:33] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:33] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:34] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:34] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:35] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:35] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:36] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:36] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:36] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:37] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:37] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:38] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:38] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:39] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:39] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:40] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:40] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:40] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:42] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:43] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:43] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:44] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:44] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:45] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:45] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:45] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:46] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:46] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:47] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:47] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:48] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:48] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:48] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:49] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:49] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:50] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:50] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:51] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:51] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:52] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:52] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:53] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:53] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:53] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:54] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:54] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:55] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:55] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:56] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:56] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:57] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:57] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:57] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:58] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:58] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:59] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:09:59] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:10:00] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:10:00] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:10:00] [Server thread/INFO]: Parzival5077 issued server command: /home
-[06:10:01] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:10:03] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[06:11:56] [Server thread/INFO]: Parzival5077 issued server command: /home
-[06:12:23] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[06:12:48] [Server thread/INFO]: Parzival5077 was slain by .RulySphinx32354
-[06:12:58] [Server thread/INFO]: Parzival5077 was slain by .RulySphinx32354
-[06:13:29] [Server thread/INFO]: Parzival5077 was slain by hhhh_w
-[06:14:56] [Server thread/INFO]: hhhh_w fell from a high place
-[06:15:18] [Server thread/INFO]: hhhh_w fell from a high place
-[06:15:39] [Server thread/INFO]: hhhh_w fell from a high place
-[06:15:54] [Server thread/INFO]: hhhh_w fell from a high place
-[06:16:04] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[06:16:04] [Server thread/INFO]: hhhh_w left the game
-[06:18:31] [Server thread/INFO]: Parzival5077 fell from a high place
-[06:19:13] [Server thread/INFO]: Parzival5077 issued server command: /home
-[06:19:17] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[06:21:04] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[06:21:04] [Server thread/INFO]: Parzival5077 left the game
-[06:21:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:21:15] [Server thread/INFO]: [Rcon: Saved the game]
-[06:21:20] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:21:20] [Server thread/INFO]: [Rcon: Stopping the server]
-[06:21:21] [Server thread/INFO]: Stopping server
-[06:21:21] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.0-SNAPSHOT
-[06:21:21] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[06:21:21] [Server thread/INFO]: [Geyser-Spigot] Kicking 1 player(s)
-[06:21:21] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
-[06:21:21] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
-[06:21:21] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Geyser代理正在关闭
-[06:21:21] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[06:21:21] [Server thread/INFO]: [Passky] Disabling Passky v2.1.1
-[06:21:21] [Server thread/INFO]: 
-
-[]============[Disabling Passky]============[]
-|
-| Information:
-|
-|   Name: Passky
-|   Developer: Black1_TV
-|   Version: 2.1.1 (update available)
-|   Website: https://rabbit-company.com
-|
-| Sponsors:
-|
-|   - https://rabbitserverlist.com
-|
-| Support:
-|
-|   Discord: ziga.zajc007
-|   Mail: ziga.zajc007@gmail.com
-|   Discord: https://discord.gg/hUNymXX
-|
-[]=========================================[]
-
-[06:21:21] [Server thread/INFO]: [EndPortalTimer] Disabling EndPortalTimer v1.7
-[06:21:21] [Server thread/INFO]: [EndPortalTimer] Plugin disabled.
-[06:21:21] [Server thread/INFO]: [CommandAPI] Disabling CommandAPI v9.5.0
-[06:21:21] [Server thread/INFO]: [TreeFella] Disabling TreeFella v1.2
-[06:21:21] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
-[06:21:21] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[06:21:21] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[06:21:21] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[06:21:21] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[06:21:21] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[06:21:21] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[06:21:21] [Server thread/INFO]: [LuckPerms] Closing storage...
-[06:21:21] [Server thread/INFO]: [LuckPerms] Goodbye!
-[06:21:21] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.0
-[06:21:21] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[06:21:21] [Server thread/INFO]: Saving players
-[06:21:21] [Server thread/INFO]: .RulySphinx32354 lost connection: Server closed
-[06:21:21] [Server thread/INFO]: .RulySphinx32354 left the game
-[06:21:21] [WebSocketConnectReadThread-91/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[06:21:21] [Server thread/INFO]: Saving worlds
-[06:21:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:21:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[06:21:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[06:21:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[06:21:21] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 513 entity chunks, 0 poi chunks in world 'world' in 0.08s
-[06:21:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:21:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[06:21:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[06:21:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[06:21:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[06:21:21] [Server thread/INFO]: [ChunkHolderManager] Saved 7 block chunks, 84 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
-[06:21:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:21:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[06:21:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[06:21:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[06:21:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[06:21:22] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[06:21:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:21:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[06:21:22] [Server thread/INFO]: Flushing Chunk IO
-[06:21:22] [Server thread/INFO]: Closing Thread Pool
-[06:21:22] [Server thread/INFO]: Closing Server
+[06:34:59] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[06:35:02] [Server thread/INFO]: Loaded 7 recipes
+[06:35:03] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[06:35:03] [Server thread/INFO]: Done (31.243s)! For help, type "help"
+[06:35:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7521ms or 150 ticks behind
+[06:35:03] [Server thread/INFO]: Timings Reset
+[06:35:04] [Server thread/INFO]: Parzival5077 joined the game
+[06:35:04] [Server thread/INFO]: Parzival5077[/127.0.0.1:32884] logged in with entity id 9 at ([world]-659.0, 145.0, -463.0)
+[06:35:06] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[06:35:06] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[06:35:06] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[06:35:49] [Server thread/WARN]: Parzival5077 was kicked due to keepalive timeout!
+[06:35:49] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[06:35:49] [Server thread/INFO]: Parzival5077 left the game
+[06:35:58] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[06:35:58] [Server thread/INFO]: Parzival5077 joined the game
+[06:35:58] [Server thread/INFO]: Parzival5077[/127.0.0.1:56722] logged in with entity id 542 at ([world]-530.5055299332312, 83.0, -225.0756781797348)
+[06:36:17] [Server thread/INFO]: Parzival5077 went up in flames
+[06:36:43] [Server thread/WARN]: Parzival5077 was kicked due to keepalive timeout!
+[06:36:43] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[06:36:43] [Server thread/INFO]: Parzival5077 left the game
+[06:36:47] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[06:36:47] [Server thread/INFO]: Parzival5077 joined the game
+[06:36:47] [Server thread/INFO]: Parzival5077[/127.0.0.1:51060] logged in with entity id 613 at ([world]-529.9520241670589, 83.0, -224.8458890023823)
+[06:37:55] [Server thread/INFO]: Parzival5077 issued server command: /home
+[06:38:00] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[06:38:07] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[06:38:07] [Server thread/INFO]: Parzival5077 left the game
+[06:38:16] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[06:38:16] [Server thread/INFO]: Parzival5077 joined the game
+[06:38:16] [Server thread/INFO]: Parzival5077[/127.0.0.1:50638] logged in with entity id 899 at ([world]-651.6618255403647, 65.59998046875, -606.5134538940341)
+[06:40:28] [User Authenticator #2/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
+[06:40:28] [Server thread/INFO]: Jasper joined the game
+[06:40:28] [Server thread/INFO]: Jasper[/127.0.0.1:45120] logged in with entity id 1212 at ([world]-541.6999999880791, 83.0, -231.69999998807907)
+[06:41:22] [Server thread/INFO]: Jasper lost connection: Disconnected
+[06:41:22] [Server thread/INFO]: Jasper left the game
+[06:41:23] [Server thread/INFO]: Parzival5077 issued server command: /home
+[06:41:27] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[06:42:33] [Server thread/INFO]: Parzival5077 was slain by Zombie
+[06:48:44] [Server thread/INFO]: Parzival5077 issued server command: /home
+[06:48:49] [Server thread/INFO]: Parzival5077 tried to swim in lava
