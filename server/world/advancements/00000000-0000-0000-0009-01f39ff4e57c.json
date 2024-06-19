@@ -757,8 +757,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-06-18 06:38:45 +0000",
+      "minecraft:skeleton": "2024-06-19 03:24:17 +0000",
       "minecraft:spider": "2024-06-18 10:26:43 +0000",
-      "minecraft:zombie": "2024-06-18 10:26:52 +0000"
+      "minecraft:zombie": "2024-06-18 10:26:52 +0000",
+      "minecraft:zombie_villager": "2024-06-19 02:47:10 +0000"
     },
     "done": false
   },
@@ -1622,6 +1624,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-06-19 02:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-06-19 02:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2024-06-19 02:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-06-19 02:31:30 +0000"
@@ -1634,21 +1654,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2024-06-19 02:08:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-06-19 02:35:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-06-19 02:08:21 +0000"
     },
     "done": true
   },
@@ -1670,12 +1678,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "beetroots": "2024-06-19 02:09:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-06-19 02:35:03 +0000"
@@ -1685,6 +1687,30 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-06-19 02:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-06-19 02:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-06-19 02:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-06-19 03:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-06-19 03:24:09 +0000"
     },
     "done": true
   },
