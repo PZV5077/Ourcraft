@@ -592,7 +592,8 @@
       "minecraft:slime": "2024-06-16 13:46:55 +0000",
       "minecraft:witch": "2024-06-17 03:47:51 +0000",
       "minecraft:enderman": "2024-06-16 09:55:02 +0000",
-      "minecraft:zombie": "2024-06-15 09:19:12 +0000"
+      "minecraft:zombie": "2024-06-15 09:19:12 +0000",
+      "minecraft:drowned": "2024-06-19 03:47:02 +0000"
     },
     "done": false
   },
@@ -2947,81 +2948,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/building_blocks/dye_green_bed": {
     "criteria": {
-      "has_stone": "2024-06-19 03:08:03 +0000"
+      "has_needed_dye": "2024-06-19 02:57:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
     "criteria": {
-      "has_smooth_stone": "2024-06-19 03:26:03 +0000"
+      "has_needed_dye": "2024-06-19 02:57:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
+  "minecraft:recipes/decorations/green_candle": {
     "criteria": {
-      "has_planks": "2024-06-19 03:24:29 +0000"
+      "has_green_dye": "2024-06-19 02:57:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
+  "minecraft:recipes/building_blocks/dye_green_wool": {
     "criteria": {
-      "has_planks": "2024-06-19 03:09:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-06-19 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-06-19 03:23:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2024-06-19 03:24:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-06-19 03:10:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2024-06-19 03:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-06-19 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-06-19 03:24:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2024-06-19 03:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
-    "criteria": {
-      "has_cyan_terracotta": "2024-06-19 02:57:23 +0000"
+      "has_needed_dye": "2024-06-19 02:57:05 +0000"
     },
     "done": true
   },
@@ -3031,75 +2978,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
     "criteria": {
-      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+      "has_needed_dye": "2024-06-19 02:57:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
     "criteria": {
-      "has_yellow_terracotta": "2024-06-19 03:30:35 +0000"
+      "has_needed_dye": "2024-06-19 02:57:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
     "criteria": {
-      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+      "has_needed_dye": "2024-06-19 02:57:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
-      "has_planks": "2024-06-19 03:09:51 +0000"
+      "has_cyan_terracotta": "2024-06-19 02:57:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "has_planks": "2024-06-19 03:24:29 +0000"
+      "has_stone": "2024-06-19 03:08:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+      "has_stone": "2024-06-19 03:08:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
-      "has_quartz_block": "2024-06-19 03:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_yellow_dye": "2024-06-19 03:30:18 +0000"
+      "has_stone": "2024-06-19 03:08:03 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-06-19 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2024-06-19 03:30:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-06-19 03:23:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2024-06-19 03:09:51 +0000"
     },
     "done": true
   },
@@ -3115,21 +3038,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_candle": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
-      "has_yellow_dye": "2024-06-19 03:30:18 +0000"
+      "has_stone": "2024-06-19 03:08:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
-      "has_needed_dye": "2024-06-19 03:30:18 +0000"
+      "has_stone": "2024-06-19 03:08:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+  "minecraft:recipes/redstone/stone_button": {
     "criteria": {
-      "has_needed_dye": "2024-06-19 02:57:10 +0000"
+      "has_stone": "2024-06-19 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-06-19 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-06-19 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-06-19 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-06-19 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-06-19 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-06-19 03:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-06-19 03:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-19 03:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-06-19 03:09:51 +0000"
     },
     "done": true
   },
@@ -3151,51 +3128,27 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "diamond_helmet": "2024-06-19 03:12:32 +0000"
+      "has_planks": "2024-06-19 03:09:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "has_stone": "2024-06-19 03:08:03 +0000"
+      "has_planks": "2024-06-19 03:09:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_button": {
+  "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
-      "has_planks": "2024-06-19 03:24:29 +0000"
+      "has_planks": "2024-06-19 03:09:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_stone": "2024-06-19 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-06-19 03:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-06-19 03:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 02:57:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 03:30:18 +0000"
+      "has_logs": "2024-06-19 03:10:19 +0000"
     },
     "done": true
   },
@@ -3205,87 +3158,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+      "diamond_helmet": "2024-06-19 03:12:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_stone": "2024-06-19 03:08:03 +0000"
+      "has_log": "2024-06-19 03:23:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
-      "has_stone": "2024-06-19 03:08:03 +0000"
+      "has_log": "2024-06-19 03:23:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
-      "has_needed_dye": "2024-06-19 02:57:10 +0000"
+      "has_planks": "2024-06-19 03:24:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
+  "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
-      "has_stone": "2024-06-19 03:08:03 +0000"
+      "has_planks": "2024-06-19 03:24:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
-      "has_stone_slab": "2024-06-19 03:08:51 +0000"
+      "has_planks": "2024-06-19 03:24:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
-      "has_needed_dye": "2024-06-19 02:57:05 +0000"
+      "has_planks": "2024-06-19 03:24:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
+  "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
-      "has_quartz_block": "2024-06-19 03:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2024-06-19 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-06-19 03:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 02:57:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 03:30:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-06-19 03:26:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2024-06-19 03:09:51 +0000"
+      "has_planks": "2024-06-19 03:24:29 +0000"
     },
     "done": true
   },
@@ -3301,9 +3218,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
-      "has_planks": "2024-06-19 03:09:51 +0000"
+      "has_planks": "2024-06-19 03:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-06-19 03:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-06-19 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-06-19 03:26:03 +0000"
     },
     "done": true
   },
@@ -3313,45 +3248,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
-      "has_planks": "2024-06-19 03:09:51 +0000"
+      "has_white_terracotta": "2024-06-19 03:30:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_candle": {
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
-      "has_green_dye": "2024-06-19 02:57:05 +0000"
+      "has_yellow_dye": "2024-06-19 03:30:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_wool": {
+  "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
-      "has_needed_dye": "2024-06-19 02:57:05 +0000"
+      "has_yellow_dye": "2024-06-19 03:30:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
-      "has_planks": "2024-06-19 03:24:29 +0000"
+      "has_needed_dye": "2024-06-19 03:30:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
-      "has_stone": "2024-06-19 03:08:03 +0000"
+      "has_needed_dye": "2024-06-19 03:30:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
-      "has_stone": "2024-06-19 03:08:03 +0000"
+      "has_needed_dye": "2024-06-19 03:30:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_fence": {
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
-      "has_planks": "2024-06-19 03:24:29 +0000"
+      "has_yellow_terracotta": "2024-06-19 03:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-06-19 03:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-06-19 03:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-06-19 03:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-06-19 03:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-06-19 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-06-19 03:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-06-19 03:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-06-19 03:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-06-19 03:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-06-19 03:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-06-19 03:59:31 +0000"
     },
     "done": true
   },
