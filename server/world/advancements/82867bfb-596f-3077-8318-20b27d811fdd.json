@@ -400,7 +400,8 @@
       "melon_slice": "2024-06-18 02:40:56 +0000",
       "cooked_chicken": "2024-06-17 12:06:34 +0000",
       "cod": "2024-06-19 09:10:23 +0000",
-      "cooked_salmon": "2024-06-19 10:57:35 +0000"
+      "cooked_salmon": "2024-06-19 10:57:35 +0000",
+      "carrot": "2024-06-19 11:51:28 +0000"
     },
     "done": false
   },
@@ -3016,6 +3017,12 @@
   "minecraft:husbandry/ride_a_boat_with_a_goat": {
     "criteria": {
       "ride_a_boat_with_a_goat": "2024-06-19 11:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-06-19 11:50:36 +0000"
     },
     "done": true
   },
