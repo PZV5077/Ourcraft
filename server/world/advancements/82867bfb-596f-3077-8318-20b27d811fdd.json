@@ -324,6 +324,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-06-17 13:03:22 +0000",
+      "minecraft:ghast": "2024-06-19 07:15:56 +0000",
       "minecraft:spider": "2024-06-17 12:02:54 +0000",
       "minecraft:creeper": "2024-06-17 11:59:25 +0000",
       "minecraft:zombie": "2024-06-17 12:05:51 +0000",
@@ -2131,27 +2132,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2024-06-19 04:21:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-06-19 04:16:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2024-06-19 04:21:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2024-06-19 04:21:23 +0000"
     },
     "done": true
   },
@@ -2161,33 +2144,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+  "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
-      "has_mud_bricks": "2024-06-19 04:21:23 +0000"
+      "has_copper_ingot": "2024-06-19 04:16:53 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-06-19 04:17:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2024-06-19 04:21:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2024-06-19 04:21:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
-    "criteria": {
-      "has_red_terracotta": "2024-06-19 04:21:24 +0000"
     },
     "done": true
   },
@@ -2198,15 +2163,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
-      "has_bricks": "2024-06-19 04:21:30 +0000"
+      "has_mud_bricks": "2024-06-19 04:21:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
-      "has_bricks": "2024-06-19 04:21:30 +0000"
+      "has_mud_bricks": "2024-06-19 04:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-06-19 04:21:23 +0000"
     },
     "done": true
   },
@@ -2228,9 +2199,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lightning_rod": {
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
-      "has_copper_ingot": "2024-06-19 04:16:53 +0000"
+      "has_red_terracotta": "2024-06-19 04:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-06-19 04:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-06-19 04:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-06-19 04:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-06-19 04:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-06-19 04:21:30 +0000"
     },
     "done": true
   },
@@ -2243,6 +2244,30 @@
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2024-06-19 04:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-06-19 07:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-06-19 07:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-06-19 07:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-06-19 07:15:56 +0000"
     },
     "done": true
   },
