@@ -851,3 +851,37 @@ title @a Hi<--[HERE]
 [03:32:21] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -6.800050000000056,57.0,-6.552279999999996
 [03:32:21] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -6.800050000000056,57.0,-6.552279999999996
 [03:32:28] [Async Chat Thread - #18/INFO]: [Not Secure] <Parzival5077> sleep
+[03:32:41] [Async Chat Thread - #18/INFO]: [Not Secure] <Littlebugs_> zzz
+[03:32:54] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpa Jasper
+[03:36:19] [Server thread/INFO]: Jasper fell from a high place
+[03:36:41] [Server thread/INFO]: Jasper issued server command: /tpa Parzival5077
+[03:36:43] [Async Chat Thread - #20/INFO]: [Not Secure] <hhhh_w> 石英
+[03:36:55] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
+[03:37:49] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[03:37:49] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[03:37:49] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[03:37:49] [Server thread/INFO]: .RulySphinx32354 left the game
+[03:38:06] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[03:38:06] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[03:38:06] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[03:38:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[03:38:06] [Server thread/INFO]: .RulySphinx32354 joined the game
+[03:38:06] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 72030 at ([world]-499.67456, 59.70964999850989, -325.2381)
+[03:39:55] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[03:39:55] [Server thread/INFO]: Parzival5077 left the game
+[03:40:09] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
+[03:40:31] [Server thread/INFO]: hizuki drowned
+[03:40:53] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpa Jasper
+[03:41:21] [Server thread/INFO]: hhhh_w was impaled by Drowned
+[03:42:38] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
+[03:42:38] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 6.199989999999957,41.0,-30.313770000000005
+[03:42:38] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 6.199989999999957,41.0,-30.313770000000005
+[03:42:38] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 6.199989999999957,41.0,-30.313770000000005
+[03:42:38] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 6.199989999999957,41.0,-30.313770000000005
+[03:42:38] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 6.199989999999957,41.0,-30.313770000000005
+[03:42:53] [Server thread/INFO]: Jasper issued server command: /tpa .RulySphinx32354
+[03:43:23] [Server thread/INFO]: Jasper issued server command: /tpa
+[03:45:09] [Server thread/INFO]: Littlebugs_ was slain by Zombie
+[03:46:18] [Async Chat Thread - #22/INFO]: [Not Secure] <Littlebugs_> zzz
+[03:46:31] [Server thread/INFO]: Villager EntityVillager['Villager'/251, uuid='e4793280-572f-4b55-80b1-a27da91ea43f', l='ServerLevel[world]', x=-522.29, y=98.50, z=-400.72, cpos=[-33, -26], tl=1571108, v=true] died, message: 'Villager was slain by Jasper'
+[03:47:24] [Server thread/INFO]: Villager EntityVillager['Villager'/382, uuid='8d1ea38d-a1f7-4230-8a1b-b3913b635ec6', l='ServerLevel[world]', x=-545.46, y=88.00, z=-420.50, cpos=[-35, -27], tl=615709, v=true] died, message: 'Villager was slain by Jasper'
