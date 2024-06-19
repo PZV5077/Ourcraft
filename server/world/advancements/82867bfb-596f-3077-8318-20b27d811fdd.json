@@ -325,8 +325,10 @@
     "criteria": {
       "minecraft:pillager": "2024-06-19 10:43:15 +0000",
       "minecraft:skeleton": "2024-06-17 13:03:22 +0000",
+      "minecraft:ravager": "2024-06-19 10:52:23 +0000",
       "minecraft:ghast": "2024-06-19 07:15:56 +0000",
       "minecraft:hoglin": "2024-06-19 07:26:09 +0000",
+      "minecraft:vindicator": "2024-06-19 10:47:45 +0000",
       "minecraft:spider": "2024-06-17 12:02:54 +0000",
       "minecraft:creeper": "2024-06-17 11:59:25 +0000",
       "minecraft:zombified_piglin": "2024-06-19 09:23:41 +0000",
@@ -394,7 +396,8 @@
       "rotten_flesh": "2024-06-18 07:46:12 +0000",
       "melon_slice": "2024-06-18 02:40:56 +0000",
       "cooked_chicken": "2024-06-17 12:06:34 +0000",
-      "cod": "2024-06-19 09:10:23 +0000"
+      "cod": "2024-06-19 09:10:23 +0000",
+      "cooked_salmon": "2024-06-19 10:57:35 +0000"
     },
     "done": false
   },
@@ -2983,9 +2986,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-06-19 10:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-06-19 10:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-06-19 10:52:37 +0000"
     },
     "done": true
   },
