@@ -386,6 +386,8 @@
       "baked_potato": "2024-06-18 08:10:52 +0000",
       "porkchop": "2024-06-17 12:04:48 +0000",
       "apple": "2024-06-17 12:14:56 +0000",
+      "cooked_cod": "2024-06-19 09:42:44 +0000",
+      "rabbit": "2024-06-19 09:41:49 +0000",
       "bread": "2024-06-18 12:33:33 +0000",
       "rotten_flesh": "2024-06-18 07:46:12 +0000",
       "melon_slice": "2024-06-18 02:40:56 +0000",
@@ -2910,6 +2912,36 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-06-19 08:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-06-19 09:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-06-19 09:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-06-19 09:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-06-19 09:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-06-19 09:36:27 +0000"
     },
     "done": true
   },
