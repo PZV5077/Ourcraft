@@ -16,6 +16,7 @@
       "minecraft:sparse_jungle": "2024-06-17 12:20:26 +0000",
       "minecraft:river": "2024-06-17 12:07:53 +0000",
       "minecraft:dripstone_caves": "2024-06-17 11:57:58 +0000",
+      "minecraft:jagged_peaks": "2024-06-19 11:15:11 +0000",
       "minecraft:forest": "2024-06-17 12:11:16 +0000",
       "minecraft:jungle": "2024-06-17 12:20:38 +0000",
       "minecraft:flower_forest": "2024-06-17 11:56:45 +0000",
@@ -2971,6 +2972,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-06-19 10:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/ride_a_boat_with_a_goat": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2024-06-19 11:15:12 +0000"
     },
     "done": true
   },

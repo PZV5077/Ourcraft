@@ -7,14 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-06-19 11:12:55 +0000",
       "minecraft:cherry_grove": "2024-06-18 06:53:38 +0000",
       "minecraft:sunflower_plains": "2024-06-18 06:54:10 +0000",
+      "minecraft:birch_forest": "2024-06-19 11:10:29 +0000",
       "minecraft:bamboo_jungle": "2024-06-18 07:21:26 +0000",
       "minecraft:savanna_plateau": "2024-06-18 07:37:48 +0000",
       "minecraft:sparse_jungle": "2024-06-18 05:28:11 +0000",
       "minecraft:river": "2024-06-18 06:40:51 +0000",
+      "minecraft:stony_shore": "2024-06-19 11:11:03 +0000",
       "minecraft:dripstone_caves": "2024-06-18 07:55:43 +0000",
       "minecraft:grove": "2024-06-18 13:28:04 +0000",
+      "minecraft:jagged_peaks": "2024-06-19 11:13:28 +0000",
       "minecraft:forest": "2024-06-18 07:11:20 +0000",
       "minecraft:jungle": "2024-06-18 06:41:16 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-18 13:27:24 +0000",
@@ -2564,6 +2568,54 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-06-19 08:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/ride_a_boat_with_a_goat": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2024-06-19 11:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-19 11:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-19 11:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2024-06-19 11:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-06-19 11:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-06-19 11:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-06-19 11:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-06-19 11:11:58 +0000"
     },
     "done": true
   },
