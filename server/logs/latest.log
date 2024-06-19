@@ -353,3 +353,176 @@
 [07:30:07] [Server thread/INFO]: hhhh_w issued server command: /tpa Littlebugs_
 [07:30:17] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
 [07:31:19] [Server thread/INFO]: hhhh_w issued server command: /tpa Littlebugs_
+[07:35:23] [epollEventLoopGroup-3-1/WARN]: [org.cloudburstmc.netty.handler.codec.raknet.server.RakServerRateLimiter] [/127.0.0.1] Blocked because packet limit was reached
+[07:35:33] [epollEventLoopGroup-3-1/INFO]: [org.cloudburstmc.netty.handler.codec.raknet.server.RakServerRateLimiter] Unblocked address /127.0.0.1
+[07:35:33] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[07:35:33] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[07:35:33] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[07:35:33] [Server thread/INFO]: .RulySphinx32354 left the game
+[07:36:06] [Server thread/INFO]: Parzival5077 issued server command: /home
+[07:36:09] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[07:36:09] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[07:36:09] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[07:36:10] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[07:36:10] [Server thread/INFO]: .RulySphinx32354 joined the game
+[07:36:10] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 25041 at ([world]-203.8876, 65.0, -321.9108)
+[07:36:10] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[07:36:10] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[07:36:29] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[07:36:29] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[07:36:29] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[07:36:29] [Server thread/INFO]: .RulySphinx32354 left the game
+[07:36:51] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[07:37:03] [Server thread/INFO]: AwaKING issued server command: /tpa Littlebugs_
+[07:37:07] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
+[07:37:10] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[07:37:10] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[07:37:10] [Geyser Spigot connection thread-6-1/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[07:37:10] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[07:37:10] [Server thread/INFO]: .RulySphinx32354 joined the game
+[07:37:10] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 25918 at ([world]-203.8876, 65.0, -321.9108)
+[07:37:14] [Server thread/INFO]: AwaKING has made the advancement [Hidden in the Depths]
+[07:37:21] [Server thread/INFO]: Parzival5077 issued server command: /home
+[07:38:04] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[07:38:04] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[07:38:04] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[07:38:04] [Server thread/INFO]: .RulySphinx32354 left the game
+[07:38:24] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[07:39:06] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[07:39:06] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[07:39:07] [Geyser Spigot connection thread-6-2/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[07:39:07] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[07:39:07] [Server thread/INFO]: .RulySphinx32354 joined the game
+[07:39:07] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 27547 at ([world]-187.66757, 64.0, -334.57773)
+[07:39:41] [Server thread/INFO]: .RulySphinx32354 issued server command: /home
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:39:41] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -331.02826,-1.0,99.3236
+[07:41:02] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[07:41:02] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[07:41:02] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[07:41:02] [Server thread/INFO]: .RulySphinx32354 left the game
+[07:41:50] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[07:41:50] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[07:41:50] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[07:41:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[07:41:51] [Server thread/INFO]: .RulySphinx32354 joined the game
+[07:41:51] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 29083 at ([world]-522.5, 63.0, -241.5)
+[07:42:07] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -12.568420000000003,-1.0,4.8951999999999884
+[07:42:48] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[07:42:48] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[07:42:48] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[07:42:48] [Server thread/INFO]: .RulySphinx32354 left the game
+[07:42:50] [Server thread/INFO]: AwaKING issued server command: /tpa hhhh_w
+[07:42:51] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
+[07:43:16] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[07:43:16] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[07:43:16] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[07:43:16] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[07:43:16] [Server thread/INFO]: .RulySphinx32354 joined the game
+[07:43:16] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 29508 at ([world]-509.93158, 64.0, -246.3952)
+[07:43:31] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 5.7044199999999705,0.0,9.182530000000014
+[07:43:37] [Server thread/INFO]: Parzival5077 was slain by .RulySphinx32354
+[07:44:35] [Server thread/INFO]: hhhh_w issued server command: /tpa Littlebugs_
+[07:44:42] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
+[07:44:56] [Server thread/INFO]: hhhh_w issued server command: /tpa AwaKING
+[07:45:04] [Server thread/INFO]: AwaKING issued server command: /tpaccept
+[07:46:52] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[07:46:52] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[07:46:52] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[07:46:52] [Server thread/INFO]: .RulySphinx32354 left the game
+[07:46:53] [epollEventLoopGroup-3-2/WARN]: [org.cloudburstmc.netty.handler.codec.raknet.server.RakServerRateLimiter] [/127.0.0.1] Blocked because packet limit was reached
+[07:47:03] [epollEventLoopGroup-3-2/INFO]: [org.cloudburstmc.netty.handler.codec.raknet.server.RakServerRateLimiter] Unblocked address /127.0.0.1
+[07:47:23] [Server thread/INFO]: AwaKING issued server command: /tpa Littlebugs_
+[07:47:23] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
+[07:47:31] [Server thread/INFO]: AwaKING issued server command: /tpa hhhh_w\
+[07:47:36] [Server thread/INFO]: AwaKING issued server command: /tpa hhhh_w
+[07:47:41] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
+[07:47:54] [Server thread/INFO]: AwaKING has made the advancement [The Parrots and the Bats]
+[07:47:55] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Bedrock client timed out
+[07:48:50] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[07:48:50] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: java.lang.NullPointerException
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at java.base/java.lang.invoke.DirectMethodHandle.checkBase(DirectMethodHandle.java:547)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.get(MethodHandleObjectFieldAccessorImpl.java:57)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at java.base/java.lang.reflect.Field.get(Field.java:444)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.addon.data.SpigotDataHandler.checkAndHandleLogin(SpigotDataHandler.java:150)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.addon.data.SpigotDataHandler.channelRead(SpigotDataHandler.java:145)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.addon.data.CommonDataHandler.channelRead(CommonDataHandler.java:178)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.handler.flush.FlushConsolidationHandler.channelRead(FlushConsolidationHandler.java:152)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.local.LocalChannel.readInbound(LocalChannel.java:299)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.local.LocalChannel.finishPeerRead0(LocalChannel.java:445)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.local.LocalChannel.access$400(LocalChannel.java:50)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.local.LocalChannel$5.run(LocalChannel.java:403)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[07:48:50] [Geyser Spigot connection thread-6-1/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[07:48:50] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Connection closed.
+[07:48:50] [Server thread/INFO]: /127.0.0.1:0 lost connection: Disconnected
