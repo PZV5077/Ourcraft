@@ -21,6 +21,7 @@
       "minecraft:lukewarm_ocean": "2024-06-19 02:33:52 +0000",
       "minecraft:stony_shore": "2024-06-19 02:33:42 +0000",
       "minecraft:dripstone_caves": "2024-06-15 09:01:55 +0000",
+      "minecraft:grove": "2024-06-19 11:28:40 +0000",
       "minecraft:jagged_peaks": "2024-06-19 11:14:52 +0000",
       "minecraft:forest": "2024-06-15 09:04:43 +0000",
       "minecraft:lush_caves": "2024-06-18 05:27:28 +0000",
@@ -3761,75 +3762,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 11:17:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/ride_a_boat_with_a_goat": {
-    "criteria": {
-      "ride_a_boat_with_a_goat": "2024-06-19 11:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 11:14:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-06-19 10:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_glazed_terracotta": {
-    "criteria": {
-      "has_purple_terracotta": "2024-06-19 11:18:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 11:14:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
-    "criteria": {
-      "has_magenta_terracotta": "2024-06-19 11:19:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2024-06-19 10:38:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 11:17:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 11:17:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 11:17:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 11:17:58 +0000"
     },
     "done": true
   },
@@ -3839,27 +3774,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2024-06-19 11:14:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-06-19 10:37:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_candle": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "has_purple_dye": "2024-06-19 11:17:57 +0000"
+      "cod": "2024-06-19 10:38:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+  "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
-      "has_pink_terracotta": "2024-06-19 11:14:26 +0000"
+      "has_needed_dye": "2024-06-19 11:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-19 11:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-06-19 11:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-06-19 11:14:18 +0000"
     },
     "done": true
   },
@@ -3887,15 +3834,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-06-19 11:14:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_pink_carpet": {
     "criteria": {
       "has_needed_dye": "2024-06-19 11:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2024-06-19 11:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/ride_a_boat_with_a_goat": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2024-06-19 11:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-19 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-06-19 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-06-19 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-19 11:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-19 11:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-19 11:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-06-19 11:17:58 +0000"
     },
     "done": true
   },
@@ -3905,9 +3900,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
     "criteria": {
-      "has_needed_dye": "2024-06-19 11:17:57 +0000"
+      "has_purple_terracotta": "2024-06-19 11:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2024-06-19 11:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-06-19 11:24:40 +0000"
     },
     "done": true
   },

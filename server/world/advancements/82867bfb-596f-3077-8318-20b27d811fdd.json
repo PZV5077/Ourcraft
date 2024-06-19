@@ -16,12 +16,14 @@
       "minecraft:sparse_jungle": "2024-06-17 12:20:26 +0000",
       "minecraft:river": "2024-06-17 12:07:53 +0000",
       "minecraft:dripstone_caves": "2024-06-17 11:57:58 +0000",
+      "minecraft:grove": "2024-06-19 11:36:11 +0000",
       "minecraft:jagged_peaks": "2024-06-19 11:15:11 +0000",
       "minecraft:forest": "2024-06-17 12:11:16 +0000",
       "minecraft:jungle": "2024-06-17 12:20:38 +0000",
       "minecraft:flower_forest": "2024-06-17 11:56:45 +0000",
       "minecraft:frozen_peaks": "2024-06-19 03:11:41 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-18 05:06:27 +0000",
+      "minecraft:deep_dark": "2024-06-19 11:41:12 +0000",
       "minecraft:meadow": "2024-06-17 11:55:02 +0000",
       "minecraft:savanna": "2024-06-17 12:04:52 +0000",
       "minecraft:plains": "2024-06-17 11:56:20 +0000"
@@ -2975,9 +2977,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/ride_a_boat_with_a_goat": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "ride_a_boat_with_a_goat": "2024-06-19 11:15:12 +0000"
+      "has_iron_block": "2024-06-19 10:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-06-19 10:18:29 +0000"
     },
     "done": true
   },
@@ -2987,9 +2995,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_iron_block": "2024-06-19 10:18:29 +0000"
+      "voluntary_exile": "2024-06-19 10:43:22 +0000"
     },
     "done": true
   },
@@ -2999,21 +3007,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-06-19 10:43:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2024-06-19 10:52:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:husbandry/ride_a_boat_with_a_goat": {
     "criteria": {
-      "has_iron_block": "2024-06-19 10:18:29 +0000"
+      "ride_a_boat_with_a_goat": "2024-06-19 11:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-06-19 11:42:08 +0000"
     },
     "done": true
   },

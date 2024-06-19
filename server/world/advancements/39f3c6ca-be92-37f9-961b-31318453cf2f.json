@@ -1251,9 +1251,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_cobbled_deepslate": "2024-06-19 03:27:24 +0000"
+      "has_red_mushroom": "2024-06-19 03:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-06-19 03:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-06-19 03:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-06-19 03:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-06-19 03:20:10 +0000"
     },
     "done": true
   },
@@ -1263,21 +1287,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
+  "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
-      "has_copper_ingot": "2024-06-19 03:41:33 +0000"
+      "has_leather": "2024-06-19 03:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-06-19 03:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-06-19 03:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-06-19 03:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-06-19 03:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-06-19 03:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-06-19 03:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-06-19 03:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-06-19 03:27:24 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-19 03:27:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-06-19 03:20:12 +0000"
     },
     "done": true
   },
@@ -1293,27 +1359,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2024-06-19 03:20:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-19 03:27:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2024-06-19 03:41:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2024-06-19 03:21:38 +0000"
     },
     "done": true
   },
@@ -1347,24 +1395,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2024-06-19 03:18:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2024-06-19 03:20:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2024-06-19 03:20:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-19 03:27:24 +0000"
@@ -1383,21 +1413,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2024-06-19 03:41:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-19 03:27:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2024-06-19 03:21:38 +0000"
     },
     "done": true
   },
@@ -1419,33 +1437,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2024-06-19 03:21:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2024-06-19 03:20:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2024-06-19 03:18:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-06-19 03:27:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2024-06-19 03:20:12 +0000"
     },
     "done": true
   },
@@ -1467,15 +1461,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
-      "has_beef": "2024-06-19 03:20:10 +0000"
+      "has_copper_ingot": "2024-06-19 03:41:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/tools/brush": {
     "criteria": {
-      "has_beef": "2024-06-19 03:20:10 +0000"
+      "has_copper_ingot": "2024-06-19 03:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-06-19 03:41:33 +0000"
     },
     "done": true
   },
