@@ -579,7 +579,9 @@
       "cooked_beef": "2024-06-18 11:52:46 +0000",
       "porkchop": "2024-06-18 10:27:29 +0000",
       "mutton": "2024-06-18 13:29:41 +0000",
-      "cooked_chicken": "2024-06-18 12:15:40 +0000"
+      "beetroot": "2024-06-19 02:08:36 +0000",
+      "cooked_chicken": "2024-06-18 12:15:40 +0000",
+      "carrot": "2024-06-19 01:58:01 +0000"
     },
     "done": false
   },
@@ -1589,12 +1591,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-06-19 01:56:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2024-06-19 01:47:03 +0000"
@@ -1604,6 +1600,42 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-06-19 01:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-06-19 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-06-19 01:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-06-19 01:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-06-19 02:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-06-19 02:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2024-06-19 02:09:05 +0000"
     },
     "done": true
   },
