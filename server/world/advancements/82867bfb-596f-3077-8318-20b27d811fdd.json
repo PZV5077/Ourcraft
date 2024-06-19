@@ -2321,6 +2321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-06-19 07:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2024-06-19 07:40:27 +0000"
@@ -2386,6 +2392,14 @@
       "has_obsidian": "2024-06-19 07:21:48 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2024-06-19 07:47:58 +0000",
+      "minecraft:cow": "2024-06-19 07:47:54 +0000",
+      "minecraft:chicken": "2024-06-19 07:48:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
@@ -2465,6 +2479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-06-19 07:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2024-06-19 07:15:56 +0000"
@@ -2507,6 +2527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-06-19 07:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-06-19 07:21:08 +0000"
@@ -2540,6 +2566,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2024-06-19 07:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-06-19 07:58:48 +0000"
     },
     "done": true
   },
@@ -2624,6 +2656,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-06-19 07:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-06-19 07:47:54 +0000"
     },
     "done": true
   },
