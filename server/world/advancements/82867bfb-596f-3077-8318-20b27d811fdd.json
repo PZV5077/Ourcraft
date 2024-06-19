@@ -323,6 +323,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-06-19 10:43:15 +0000",
       "minecraft:skeleton": "2024-06-17 13:03:22 +0000",
       "minecraft:ghast": "2024-06-19 07:15:56 +0000",
       "minecraft:hoglin": "2024-06-19 07:26:09 +0000",
@@ -2970,9 +2971,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-06-19 10:42:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-06-19 10:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-06-19 10:43:22 +0000"
     },
     "done": true
   },
