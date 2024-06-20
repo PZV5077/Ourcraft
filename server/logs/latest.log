@@ -200,3 +200,31 @@
 [06:29:39] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
 [06:29:39] [Server thread/INFO]: Littlebugs_ left the game
 [06:39:01] [Server thread/INFO]: Jasper was slain by Drowned
+[06:50:09] [Server thread/INFO]: Jasper fell from a high place
+[06:51:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[06:52:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[06:53:42] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[06:53:42] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[06:53:42] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[06:53:43] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[06:53:43] [Server thread/INFO]: .RulySphinx32354 joined the game
+[06:53:43] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 12916 at ([world]-1134.1089, -50.0, -158.42381)
+[06:54:11] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -102.60889999999995,-58.0,58.07619
+[06:56:40] [Server thread/INFO]: .RulySphinx32354 was obliterated by a sonically-charged shriek
+[06:56:58] [Server thread/INFO]: Jasper has made the advancement [Best Friends Forever]
+[06:58:24] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[06:58:24] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[06:58:24] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[06:58:24] [Server thread/INFO]: .RulySphinx32354 left the game
+[06:59:43] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[06:59:43] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[06:59:44] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[06:59:44] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[06:59:44] [Server thread/INFO]: .RulySphinx32354 joined the game
+[06:59:44] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 15255 at ([world]-1039.796, -50.5, -262.92697)
+[06:59:44] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[06:59:44] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[06:59:47] [Async Chat Thread - #4/INFO]: [Not Secure] <Jasper> HOME
+[07:00:08] [Server thread/INFO]: .RulySphinx32354 was obliterated by a sonically-charged shriek
+[07:00:28] [Server thread/INFO]: Jasper issued server command: /HOME
+[07:00:34] [Server thread/INFO]: Jasper issued server command: /home
