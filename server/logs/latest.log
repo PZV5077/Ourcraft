@@ -2163,3 +2163,59 @@ me.lucko.luckperms.common.http.UnsuccessfulRequestException: Request was unsucce
 [13:29:55] [Server thread/INFO]: Parzival5077 issued server command: /tpacancel
 [13:30:00] [Server thread/INFO]: Parzival5077 issued server command: /tpahere .RulySphinx32354
 [13:30:02] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpaccept
+[13:36:24] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[13:36:24] [Server thread/INFO]: hhhh_w left the game
+[13:36:39] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[13:36:39] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[13:36:39] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[13:36:39] [Server thread/INFO]: .RulySphinx32354 left the game
+[13:37:05] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[13:37:05] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[13:37:05] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[13:37:05] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[13:37:05] [Server thread/INFO]: .RulySphinx32354 joined the game
+[13:37:05] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 139591 at ([world]846.0833, 65.0, -1973.3972)
+[13:37:45] [User Authenticator #28/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[13:37:45] [Server thread/INFO]: hhhh_w joined the game
+[13:37:45] [Server thread/INFO]: hhhh_w[/127.0.0.1:37166] logged in with entity id 139842 at ([world]-1124.3701068214439, 66.0, 131.62888488149105)
+[13:39:44] [Server thread/INFO]: .RulySphinx32354 has made the advancement [What a Deal!]
+[13:40:56] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[13:41:24] [Server thread/INFO]: Parzival5077 issued server command: /tpa .RulySphinx32354
+[13:41:44] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpaccept
+[13:42:13] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[13:43:16] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -2.3282999999998992,0.0,-16.49440000000004
+[13:44:02] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[13:44:02] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[13:44:02] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[13:44:02] [Server thread/INFO]: .RulySphinx32354 left the game
+[13:44:29] [Server thread/INFO]: Littlebugs_ issued server command: /tpa hhhh_w
+[13:44:35] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
+[13:44:38] [Server thread/WARN]: Jasper moved wrongly!
+[13:44:54] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[13:44:54] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[13:44:54] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[13:44:54] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[13:44:54] [Server thread/INFO]: .RulySphinx32354 joined the game
+[13:44:54] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 144427 at ([world]-659.0, 145.0, -463.0)
+[13:44:54] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[13:44:54] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[13:45:12] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[13:45:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 1504.41425,-79.83389,-1479.2758
+[13:48:16] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpa Parzival5077
+[13:48:20] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
+[13:48:20] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 537.6548,-5.0,-298.6582000000001
+[13:48:20] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 537.6548,-5.0,-298.6582000000001
+[13:48:20] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 537.6548,-5.0,-298.6582000000001
+[13:48:20] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 537.6548,-5.0,-298.6582000000001
+[13:48:20] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 537.6548,-5.0,-298.6582000000001
+[13:48:20] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 537.6548,-5.0,-298.6582000000001
+[13:48:20] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 537.6548,-5.0,-298.6582000000001
+[13:48:20] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 537.6548,-5.0,-298.6582000000001
+[13:48:20] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 537.6548,-5.0,-298.6582000000001
+[13:48:20] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 537.6548,-5.0,-298.6582000000001
+[13:48:20] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 537.6548,-5.0,-298.6582000000001
+[13:48:57] [Server thread/INFO]: Littlebugs_ issued server command: /tpa hhhh_w
+[13:49:00] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
+[13:49:08] [Server thread/INFO]: Littlebugs_ has made the advancement [Voluntary Exile]
+[13:49:16] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[13:49:28] [Server thread/INFO]: Jasper issued server command: /home
