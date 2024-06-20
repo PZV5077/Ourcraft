@@ -3002,27 +3002,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/building_blocks/dye_green_bed": {
     "criteria": {
-      "has_lime_dye": "2024-06-20 09:35:22 +0000"
+      "has_needed_dye": "2024-06-20 09:34:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_bed": {
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
     "criteria": {
-      "has_orange_wool": "2024-06-20 09:38:41 +0000"
+      "has_needed_dye": "2024-06-20 09:34:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_lime_wool": {
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_needed_dye": "2024-06-20 09:35:22 +0000"
+      "has_green_dye": "2024-06-20 09:34:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_banner": {
+  "minecraft:recipes/decorations/green_candle": {
     "criteria": {
-      "has_orange_wool": "2024-06-20 09:38:41 +0000"
+      "has_green_dye": "2024-06-20 09:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-20 09:34:34 +0000"
     },
     "done": true
   },
@@ -3038,27 +3044,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_carpet": {
-    "criteria": {
-      "has_lime_wool": "2024-06-20 09:35:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2024-06-20 09:40:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2024-06-20 09:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_candle": {
-    "criteria": {
-      "has_lime_dye": "2024-06-20 09:35:22 +0000"
     },
     "done": true
   },
@@ -3074,27 +3062,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_lime_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-06-20 09:35:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-06-20 09:34:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-06-20 09:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_banner": {
-    "criteria": {
-      "has_lime_wool": "2024-06-20 09:35:39 +0000"
     },
     "done": true
   },
@@ -3104,15 +3074,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_red_mushroom": "2024-06-20 09:40:01 +0000"
+      "has_white_dye": "2024-06-20 09:35:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_carpet": {
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_needed_dye": "2024-06-20 09:34:34 +0000"
+      "has_lime_dye": "2024-06-20 09:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-20 09:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2024-06-20 09:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-20 09:35:22 +0000"
     },
     "done": true
   },
@@ -3122,9 +3110,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
-      "has_green_dye": "2024-06-20 09:34:34 +0000"
+      "has_lime_wool": "2024-06-20 09:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2024-06-20 09:35:39 +0000"
     },
     "done": true
   },
@@ -3134,27 +3128,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2024-06-20 09:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2024-06-20 09:38:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2024-06-20 09:38:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_candle": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_green_dye": "2024-06-20 09:34:34 +0000"
+      "has_red_mushroom": "2024-06-20 09:40:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_white_dye": "2024-06-20 09:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-06-20 09:34:34 +0000"
+      "has_red_mushroom": "2024-06-20 09:40:01 +0000"
     },
     "done": true
   },
