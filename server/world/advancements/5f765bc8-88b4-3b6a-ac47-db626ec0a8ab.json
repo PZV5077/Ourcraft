@@ -3937,12 +3937,6 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2024-06-20 04:25:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2024-06-20 04:24:54 +0000"
@@ -3955,6 +3949,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-06-20 04:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2024-06-20 04:35:45 +0000"
@@ -3964,6 +3964,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-06-20 04:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-06-20 11:44:37 +0000"
     },
     "done": true
   },
