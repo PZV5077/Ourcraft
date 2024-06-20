@@ -2358,36 +2358,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2024-06-20 11:01:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2024-06-20 11:01:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_bed": {
-    "criteria": {
-      "has_orange_wool": "2024-06-20 10:54:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2024-06-20 10:54:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_banner": {
-    "criteria": {
-      "has_orange_wool": "2024-06-20 10:54:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-06-20 10:13:36 +0000"
@@ -2406,6 +2376,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-20 10:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-20 10:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-06-20 10:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2024-06-20 10:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2024-06-20 10:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2024-06-20 10:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-06-20 10:54:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2024-06-20 10:54:06 +0000"
@@ -2418,39 +2430,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2024-06-20 11:01:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-06-20 10:13:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2024-06-20 11:01:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2024-06-20 10:54:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-06-20 11:00:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_mossy_cobblestone": "2024-06-20 10:13:36 +0000"
+      "has_quartz": "2024-06-20 11:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-06-20 11:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-06-20 11:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-06-20 11:01:02 +0000"
     },
     "done": true
   },
@@ -2463,12 +2469,6 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-06-20 11:01:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-06-20 10:13:36 +0000"
     },
     "done": true
   },
