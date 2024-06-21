@@ -213,3 +213,16 @@
 [04:37:13] [Server thread/INFO]: Littlebugs_ joined the game
 [04:37:13] [Server thread/INFO]: Littlebugs_[/127.0.0.1:60452] logged in with entity id 1848 at ([world]-659.0, 145.0, -463.0)
 [04:38:05] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[04:41:14] [Server thread/INFO]: ADMIN issued server command: /jex
+[04:41:38] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[04:41:38] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[04:41:39] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[04:41:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[04:41:39] [Server thread/INFO]: .RulySphinx32354 joined the game
+[04:41:39] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 2892 at ([world]-659.0, 145.0, -463.0)
+[04:41:41] [Server thread/INFO]: Disconnecting .RulySphinx32354 due to resource pack rejection
+[04:41:41] [Server thread/INFO]: .RulySphinx32354 lost connection: Server requires a custom resource pack
+[04:41:41] [Server thread/INFO]: .RulySphinx32354 left the game
+[04:41:41] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Server requires a custom resource pack
+[04:41:41] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[04:42:05] [Server thread/INFO]: ADMIN issued server command: /jext disc ADMIN
