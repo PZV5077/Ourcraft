@@ -181,3 +181,30 @@
 [04:53:05] [Server thread/INFO]: ADMIN[/127.0.0.1:36808] logged in with entity id 360 at ([world]-659.0, 145.0, -463.0)
 [04:53:16] [Server thread/INFO]: ADMIN lost connection: Disconnected
 [04:53:16] [Server thread/INFO]: ADMIN left the game
+[04:53:22] [User Authenticator #0/INFO]: UUID of player ADMIN is f462eb29-aa29-3588-8da2-a2565774ca02
+[04:53:22] [Server thread/INFO]: ADMIN joined the game
+[04:53:22] [Server thread/INFO]: ADMIN[/127.0.0.1:50188] logged in with entity id 385 at ([world]-659.0, 145.0, -463.0)
+[04:53:54] [Server thread/INFO]: ADMIN issued server command: /disc ADMIN
+[04:54:00] [Server thread/INFO]: ADMIN issued server command: /jextadmingui
+[04:54:07] [Server thread/INFO]: ADMIN issued server command: /jextadmingui
+[04:54:14] [Server thread/INFO]: ADMIN issued server command: /jextreload
+[04:54:14] [Server thread/INFO]: [JEXT] Warning: Geyser won't apply the resource pack changes until you restart the server!
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: Exception in thread "DefaultDispatcher-worker-1" java.lang.NoSuchFieldError: Class org.bukkit.inventory.ItemFlag does not have member field 'org.bukkit.inventory.ItemFlag HIDE_ADDITIONAL_TOOLTIP'
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.discs.sources.file.FileDisc.getDiscItemStack(Unknown Source)
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.discs.sources.file.FileDisc.toJextDisc(Unknown Source)
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.discs.sources.file.FileSource.getDiscs(Unknown Source)
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.discs.sources.file.FileSource$getDiscs$1.invokeSuspend(Unknown Source)
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(Unknown Source)
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.DispatchedTask.run(Unknown Source)
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(Unknown Source)
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(Unknown Source)
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(Unknown Source)
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(Unknown Source)
+[04:54:14] [DefaultDispatcher-worker-1/WARN]: 	Suppressed: me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.internal.DiagnosticCoroutineContextException: [StandaloneCoroutine{Cancelling}@737ede02, Dispatchers.Default]
+[04:54:48] [Server thread/INFO]: ADMIN issued server command: /jext discgive
+[04:55:19] [Server thread/INFO]: ADMIN issued server command: /jext discgive ADMIN royaldaysatlustwo
+[04:59:26] [User Authenticator #1/INFO]: UUID of player hizuki is 39f3c6ca-be92-37f9-961b-31318453cf2f
+[04:59:26] [Server thread/INFO]: hizuki joined the game
+[04:59:26] [Server thread/INFO]: hizuki[/127.0.0.1:52900] logged in with entity id 881 at ([world]-659.0, 145.0, -463.0)
+[04:59:44] [Server thread/INFO]: hizuki lost connection: Disconnected
+[04:59:44] [Server thread/INFO]: hizuki left the game
