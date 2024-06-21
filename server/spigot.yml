@@ -23,7 +23,7 @@ advancements:
   - minecraft:story/disabled
 settings:
   timeout-time: 60
-  restart-on-crash: true
+  restart-on-crash: false
   restart-script: ./start.sh
   save-user-cache-on-stop-only: false
   sample-count: 12
