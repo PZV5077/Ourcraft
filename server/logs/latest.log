@@ -172,3 +172,44 @@
 [04:28:03] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
 [04:28:03] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
 [04:28:43] [Server thread/INFO]: ADMIN issued server command: /gamemode creative\
+[04:30:03] [Server thread/INFO]: ADMIN issued server command: /give ADMIN 10cd
+[04:30:14] [Server thread/INFO]: ADMIN issued server command: /give ADMIN 10disc
+[04:30:29] [Server thread/INFO]: ADMIN issued server command: /give ADMIN 1disc
+[04:30:47] [Server thread/INFO]: ADMIN issued server command: /jext disc ADMIN ADMIN
+[04:30:58] [Server thread/INFO]: ADMIN issued server command: /jext discgive ADMIN
+[04:31:03] [Server thread/INFO]: ADMIN issued server command: /jext discgive ADMIN 1
+[04:31:08] [Server thread/INFO]: ADMIN issued server command: /jext discgive ADMIN ADMIN 1
+[04:31:45] [User Authenticator #1/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[04:31:46] [Server thread/INFO]: hhhh_w joined the game
+[04:31:46] [Server thread/INFO]: hhhh_w[/127.0.0.1:39090] logged in with entity id 667 at ([world]-659.0, 145.0, -463.0)
+[04:31:52] [Server thread/INFO]: Disconnecting hhhh_w due to resource pack rejection
+[04:31:52] [Server thread/INFO]: hhhh_w lost connection: Server requires a custom resource pack
+[04:31:52] [Server thread/INFO]: hhhh_w left the game
+[04:31:57] [User Authenticator #1/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[04:31:57] [Server thread/INFO]: hhhh_w joined the game
+[04:31:57] [Server thread/INFO]: hhhh_w[/127.0.0.1:42296] logged in with entity id 684 at ([world]-659.0, 145.0, -463.0)
+[04:32:38] [Server thread/INFO]: ADMIN issued server command: /jext discgive ADMIN main 1
+[04:34:07] [Server thread/INFO]: ADMIN issued server command: /jext discgive ADMIN colorsflyinghighatlusone
+[04:34:53] [Server thread/INFO]: ADMIN issued server command: /jext jukeboxgui
+[04:35:16] [Server thread/INFO]: ADMIN issued server command: /jext disc ADMIN ADMIN ADMIN
+[04:35:26] [Server thread/INFO]: ADMIN issued server command: /jext jukeboxgui
+[04:35:39] [Server thread/INFO]: ADMIN issued server command: /jext reload
+[04:35:39] [Server thread/INFO]: [JEXT] Warning: Geyser won't apply the resource pack changes until you restart the server!
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: Exception in thread "DefaultDispatcher-worker-1" java.lang.NoSuchFieldError: Class org.bukkit.inventory.ItemFlag does not have member field 'org.bukkit.inventory.ItemFlag HIDE_ADDITIONAL_TOOLTIP'
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.discs.sources.file.FileDisc.getDiscItemStack(Unknown Source)
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.discs.sources.file.FileDisc.toJextDisc(Unknown Source)
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.discs.sources.file.FileSource.getDiscs(Unknown Source)
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.discs.sources.file.FileSource$getDiscs$1.invokeSuspend(Unknown Source)
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(Unknown Source)
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.DispatchedTask.run(Unknown Source)
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(Unknown Source)
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(Unknown Source)
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(Unknown Source)
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: 	at JEXT-Reborn_2.0.8.jar//me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(Unknown Source)
+[04:35:39] [DefaultDispatcher-worker-1/WARN]: 	Suppressed: me.spartacus04.jext.dependencies.jext-reborn.kotlinx.coroutines.internal.DiagnosticCoroutineContextException: [StandaloneCoroutine{Cancelling}@5b1c6af5, Dispatchers.Default]
+[04:35:44] [Server thread/INFO]: ADMIN issued server command: /jext admingui
+[04:36:01] [Server thread/INFO]: ADMIN issued server command: /jextwebui
+[04:37:13] [User Authenticator #2/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[04:37:13] [Server thread/INFO]: Littlebugs_ joined the game
+[04:37:13] [Server thread/INFO]: Littlebugs_[/127.0.0.1:60452] logged in with entity id 1848 at ([world]-659.0, 145.0, -463.0)
+[04:38:05] [Server thread/INFO]: Littlebugs_ issued server command: /home
