@@ -163,3 +163,11 @@
 [06:36:02] [Server thread/INFO]: ADMIN[/127.0.0.1:52950] logged in with entity id 254 at ([world]-659.0, 145.0, -463.0)
 [06:38:01] [Server thread/INFO]: ADMIN lost connection: [Passky] You have only 120 seconds to login. 你还有 120 秒时间登录
 [06:38:01] [Server thread/INFO]: ADMIN left the game
+[06:39:50] [User Authenticator #1/INFO]: UUID of player ADMIN is f462eb29-aa29-3588-8da2-a2565774ca02
+[06:39:50] [Server thread/INFO]: ADMIN joined the game
+[06:39:50] [Server thread/INFO]: ADMIN[/127.0.0.1:57592] logged in with entity id 527 at ([world]-659.0, 145.0, -463.0)
+[06:40:29] [Server thread/INFO]: ADMIN issued server command: /lp editor
+[06:40:53] [Server thread/INFO]: ADMIN issued server command: /back
+[06:41:10] [Server thread/INFO]: ADMIN issued server command: /lp applyedits 8YbqgR3nMB
+[06:41:11] [luckperms-command-executor/INFO]: [LP] LOG > (ADMIN) [G] (default)
+[06:41:11] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.back true
