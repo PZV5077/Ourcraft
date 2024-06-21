@@ -182,3 +182,94 @@
 [06:14:20] [Server thread/INFO]: [Maintenance] 维护模式将在2 秒后关闭
 [06:14:21] [Server thread/INFO]: [Maintenance] 维护模式将在1 秒后关闭
 [06:14:22] [Server thread/INFO]: [Maintenance] 维护模式已停用。
+[06:21:17] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[06:21:17] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[06:21:18] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[06:21:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[06:21:18] [Server thread/INFO]: .RulySphinx32354 joined the game
+[06:21:18] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 491 at ([world]-659.0, 145.0, -463.0)
+[06:21:43] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 1504.41425,-79.83389,-1479.2758
+[06:21:43] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 1504.41425,-79.83389,-1479.2758
+[06:22:39] [Server thread/WARN]: .RulySphinx32354 moved wrongly!
+[06:23:22] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Connection closed.
+[06:23:22] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[06:23:22] [Server thread/INFO]: Stopping server
+[06:23:22] [Server thread/INFO]: [VoteRestart] Disabling VoteRestart v1.0-SNAPSHOT
+[06:23:22] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.0-SNAPSHOT
+[06:23:22] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[06:23:22] [Server thread/INFO]: [Geyser-Spigot] Kicking 1 player(s)
+[06:23:22] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
+[06:23:22] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[06:23:22] [Server thread/INFO]: [Passky] Disabling Passky v2.1.1
+[06:23:22] [Server thread/INFO]: 
+
+[]============[Disabling Passky]============[]
+|
+| Information:
+|
+|   Name: Passky
+|   Developer: Black1_TV
+|   Version: 2.1.1 (update available)
+|   Website: https://rabbit-company.com
+|
+| Sponsors:
+|
+|   - https://rabbitserverlist.com
+|
+| Support:
+|
+|   Discord: ziga.zajc007
+|   Mail: ziga.zajc007@gmail.com
+|   Discord: https://discord.gg/hUNymXX
+|
+[]=========================================[]
+
+[06:23:22] [Server thread/INFO]: [Maintenance] Disabling Maintenance v4.2.1
+[06:23:22] [Server thread/INFO]: [DamageIndicator] Disabling DamageIndicator v2.0.1
+[06:23:22] [Server thread/INFO]: [EndPortalTimer] Disabling EndPortalTimer v1.7
+[06:23:22] [Server thread/INFO]: [EndPortalTimer] Plugin disabled.
+[06:23:22] [Server thread/INFO]: [LightUp] Disabling LightUp v1.1.4.0
+[06:23:22] [Server thread/INFO]: LightUp has been disabled!
+[06:23:22] [Server thread/INFO]: [TreeFella] Disabling TreeFella v1.2
+[06:23:22] [Server thread/INFO]: [DynamicLights] Disabling DynamicLights v1.0.6-SNAPSHOT
+[06:23:22] [Server thread/INFO]: [MiniMOTD] Disabling MiniMOTD v2.1.1
+[06:23:22] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[06:23:22] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[06:23:22] [Server thread/INFO]: [CommandAPI] Disabling CommandAPI v9.5.0
+[06:23:22] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.1.0
+[06:23:22] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[06:23:22] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[06:23:22] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[06:23:22] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[06:23:22] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[06:23:22] [Server thread/INFO]: [LuckPerms] Closing storage...
+[06:23:22] [Server thread/INFO]: [LuckPerms] Goodbye!
+[06:23:22] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.0
+[06:23:22] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[06:23:22] [Server thread/INFO]: Saving players
+[06:23:22] [Server thread/INFO]: .RulySphinx32354 lost connection: Server closed
+[06:23:22] [Server thread/INFO]: .RulySphinx32354 left the game
+[06:23:22] [Server thread/INFO]: Saving worlds
+[06:23:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:23:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:23:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:23:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:23:22] [WebSocketConnectReadThread-104/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[06:23:24] [Server thread/INFO]: [ChunkHolderManager] Saved 901 block chunks, 1054 entity chunks, 0 poi chunks in world 'world' in 1.93s
+[06:23:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:23:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:23:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:23:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:23:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:23:25] [Server thread/INFO]: [ChunkHolderManager] Saved 23 block chunks, 34 entity chunks, 0 poi chunks in world 'world_nether' in 0.04s
+[06:23:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:23:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:23:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:23:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:23:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:23:25] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[06:23:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:23:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:23:25] [Server thread/INFO]: Flushing Chunk IO
+[06:23:25] [Server thread/INFO]: Closing Thread Pool
+[06:23:25] [Server thread/INFO]: Closing Server
