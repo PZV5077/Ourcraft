@@ -31,7 +31,7 @@ commands-on-maintenance-disable: []
 # instead of the ones above, so you can have different messages for when an endtimer is running/not running.
 enable-timerspecific-messages: true
 timerspecific-pingmessages:
-- <red>Currently under maintenance<br><gradient:#fbffc2:#fffff>Come back in:</gradient> <color:#aa55ee>%TIMER%
+- <red>服务器正在维护中<br><gradient:#fbffc2:#fffff>在</gradient> <color:#aa55ee>%TIMER% <gradient:#fbffc2:#fffff>分钟后回来</gradient>
 # - "Other entry"
 
 # If set to true, the message below will be shown in the top right corner of the server in the serverlist, where the playercount would normally be displayed.
@@ -74,7 +74,7 @@ continue-endtimer-after-restart:
   enabled: true
   # This value is set everytime an endtimer is started, cancelled or ended.
   # Do not manually change this value.
-  end: 0
+  end: 1718950462136
 
 # If using the timer command: In what intervalls before enabling/disabling maintenance there will be a broadcast.
 timer-broadcast-for-seconds:
