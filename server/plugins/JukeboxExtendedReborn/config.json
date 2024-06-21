@@ -16,7 +16,7 @@
 
   "fragment-loottables-limit": {},
 
-  "check-for-updates": true,
+  "check-for-updates": false,
 
   "allow-metrics": true,
 
@@ -24,9 +24,9 @@
 
   "enable-resource-pack-host": true,
 
-  "web-interface-port": 56282,
+  "web-interface-port": 9871,
 
-  "web-interface-api-enabled": true,
+  "web-interface-api-enabled": false,
 
-  "web-interface-password": "090807"
+  "web-interface-password": ""
 }
