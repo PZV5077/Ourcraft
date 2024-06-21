@@ -18,7 +18,7 @@ maintenance-enabled: true
 # If you put in multiple entries, one of them will be chosen randomly on every ping.
 # If running an endtimer, the time left can be displayed by including '%TIMER%' in a pingmessage (also works in playercount(-hover) message).
 pingmessages:
-- <red>Currently under maintenance<br><gradient:#fbffc2:#0fffff>We will be back soon!
+- <red>服务器正在维护中<br><gradient:#fbffc2:#0fffff>我们马上回来！
 # - "Other entry"
 enable-pingmessages: true
 
@@ -46,14 +46,14 @@ playercountmessage: <dark_red>维护中
 # where the playercount would normally be displayed.
 # DOES NOT SUPPORT RGB!
 enable-playercounthovermessage: true
-playercounthovermessage: <red>Currently under<br><red>maintenance
+playercounthovermessage: <red>服务器正在<br><red>维护中
 
 # If set to true, the server icon will be changed to the 'maintenance-icon.png' file in the plugin's folder during maintenance.
 custom-maintenance-icon: false
 
 # If set to true, players with the 'maintenance.joinnotification' permission will receive a message,
 # that a player tried to join the server while maintenance is enabled.
-send-join-notification: false
+send-join-notification: true
 
 # Set this to false if you do not want players to be kicked when you enable maintenance (new connections will still be blocked).
 # ... I don't know why you would want that, but you can disable it. :p
@@ -71,7 +71,7 @@ language: zh
 # If enabled and the server is restarted while running an endtimer, the timer will be continued after the restart.
 # If the timer ends while the server is offline, maintenance will be disabled as soon as the server starts again.
 continue-endtimer-after-restart:
-  enabled: false
+  enabled: true
   # This value is set everytime an endtimer is started, cancelled or ended.
   # Do not manually change this value.
   end: 0
@@ -96,7 +96,7 @@ timer-broadcast-for-seconds:
 # If disabled, you will no longer receive any messages if there is an update.
 # Not recommended to disable, as new versions generally tend to run better and with fewer bugs.
 # However, you can always check for updates manually using the '/maintenance update' command.
-update-checks: true
+update-checks: false
 
 # Used for autoupdating the config, do not change this value.
 config-version: 8
