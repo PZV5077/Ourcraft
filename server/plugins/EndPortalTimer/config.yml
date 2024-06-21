@@ -17,4 +17,4 @@ blockEndPortal: true
 
 # The format of the message to send to players when they attempt to use the end portal and when the portal is accessible
 messageFormat: "&7Hey there, just wanted to give you a heads up that the end portal is currently disabled. But no need to fret, it will be accessible again on &a%endportaltimer_date% %endportaltimer_time% %endportaltimer_timezone%. &7This gives us plenty of time to gear up and prepare to fight the ender dragon together! Keep on mining and building, and we'll take on the ender dragon in no time."
-accessibleMessage: "&bEnd Portal is now accessible!"
+accessibleMessage: "&bEnd Portal is now accessible for 24 hours!"

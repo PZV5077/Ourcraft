@@ -14,6 +14,7 @@
       "minecraft:dripstone_caves": "2024-06-18 01:33:47 +0000",
       "minecraft:forest": "2024-06-18 06:32:01 +0000",
       "minecraft:jungle": "2024-06-19 03:17:02 +0000",
+      "minecraft:windswept_savanna": "2024-06-20 11:22:14 +0000",
       "minecraft:flower_forest": "2024-06-18 01:32:39 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-18 06:58:47 +0000",
       "minecraft:meadow": "2024-06-18 01:30:10 +0000",
@@ -1476,6 +1477,42 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-06-19 03:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-06-20 11:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-06-20 11:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-06-20 11:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-06-20 11:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-06-20 11:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-06-20 11:21:35 +0000"
     },
     "done": true
   },
