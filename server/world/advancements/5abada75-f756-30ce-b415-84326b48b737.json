@@ -250,6 +250,7 @@
       "minecraft:skeleton": "2024-06-18 07:23:31 +0000",
       "minecraft:vindicator": "2024-06-22 16:26:59 +0000",
       "minecraft:spider": "2024-06-18 05:22:33 +0000",
+      "minecraft:piglin_brute": "2024-06-22 17:26:44 +0000",
       "minecraft:creeper": "2024-06-19 03:21:23 +0000",
       "minecraft:zombified_piglin": "2024-06-21 08:14:41 +0000",
       "minecraft:piglin": "2024-06-18 05:12:48 +0000",
@@ -3291,6 +3292,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-06-22 16:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-06-22 17:28:02 +0000"
     },
     "done": true
   },
