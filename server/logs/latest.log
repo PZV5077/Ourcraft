@@ -225,3 +225,33 @@
 [04:49:58] [User Authenticator #4/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
 [04:49:58] [Server thread/INFO]: hhhh_w joined the game
 [04:49:58] [Server thread/INFO]: hhhh_w[/127.0.0.1:55020] logged in with entity id 27596 at ([world]-1125.0157473025888, 66.0, 131.30000001192093)
+[04:59:30] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[04:59:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:59:48] [Server thread/INFO]: [Rcon: Showing new title for hhhh_w]
+[04:59:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:59:49] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[05:00:23] [User Authenticator #5/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[05:00:23] [Server thread/INFO]: Parzival5077 joined the game
+[05:00:23] [Server thread/INFO]: Parzival5077[/127.0.0.1:52012] logged in with entity id 28880 at ([world]-532.1150482205103, 91.0, -203.22106981767845)
+[05:00:46] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[05:00:46] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[05:00:46] [Server thread/INFO]: Parzival5077 left the game
+[05:00:48] [User Authenticator #5/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[05:00:48] [Server thread/INFO]: Parzival5077 joined the game
+[05:00:48] [Server thread/INFO]: Parzival5077[/127.0.0.1:48122] logged in with entity id 28988 at ([world]-532.1150482205103, 91.0, -203.22106981767845)
+[05:00:49] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[05:00:49] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[05:00:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[05:00:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[05:00:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[05:12:42] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[05:12:42] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[05:12:42] [Server thread/INFO]: Parzival5077 left the game
+[05:12:43] [User Authenticator #6/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[05:12:43] [Server thread/INFO]: Parzival5077 joined the game
+[05:12:43] [Server thread/INFO]: Parzival5077[/127.0.0.1:36070] logged in with entity id 31603 at ([world]-543.7943523637351, 63.0, -263.04774717186916)
+[05:12:43] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[05:12:43] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[05:12:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[05:12:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[05:12:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
