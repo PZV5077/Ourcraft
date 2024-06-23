@@ -204,3 +204,122 @@
 [12:30:45] [Server thread/INFO]: hhhh_w issued server command: /tpa Littlebugs_
 [12:30:48] [Server thread/INFO]: hhhh_w issued server command: /tpa AwaKING
 [12:30:49] [Server thread/INFO]: AwaKING issued server command: /tpaccept
+[12:30:53] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
+[12:30:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:30:57] [Server thread/INFO]: [Rcon: Showing new subtitle for 4 players]
+[12:30:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:30:58] [Server thread/INFO]: [Rcon: Showing new title for 4 players]
+[12:30:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:30:58] [Server thread/INFO]: [Rcon: Gave 180 experience points to 4 players]
+[12:30:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:30:59] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[12:32:24] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[12:32:24] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[12:32:25] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[12:32:25] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[12:32:25] [Server thread/INFO]: .RulySphinx32354 joined the game
+[12:32:25] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 6261 at ([world]-659.0, 145.0, -463.0)
+[12:32:47] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 1505.39996,-81.87872,-1469.3434
+[12:32:47] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 1505.39996,-81.87872,-1469.3434
+[12:32:47] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 1505.39996,-81.87872,-1469.3434
+[12:32:47] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 1505.39996,-81.87872,-1469.3434
+[12:32:47] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 1505.39996,-81.87872,-1469.3434
+[12:32:47] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 1505.39996,-81.87872,-1469.3434
+[12:34:41] [Server thread/INFO]: Parzival5077 issued server command: /home
+[12:36:16] [Server thread/INFO]: Parzival5077 drowned
+[12:37:10] [Server thread/INFO]: Littlebugs_ drowned
+[12:37:21] [Server thread/INFO]: Littlebugs_ issued server command: /tpa hhhh_w
+[12:37:26] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
+[12:39:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:39:36] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[12:39:36] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
+[12:39:36] [Server thread/INFO]: hhhh_w left the game
+[12:39:36] [Server thread/INFO]: [Essentials] Rcon issued server command: /ban Littlebug_
+[12:39:36] [Server thread/INFO]: [Essentials] Created a User for Littlebug_ (359a8c44-981a-3007-9a50-18a750b7b153) for non Bukkit type: com.earth2me.essentials.OfflinePlayerStub
+[12:39:36] [Server thread/INFO]: [Essentials] Player Console banned Littlebug_ for: You have been banned:
+The Ban Hammer has spoken!.
+[12:39:38] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
+[12:39:38] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
+[12:39:38] [Server thread/INFO]: Littlebugs_ left the game
+[12:40:00] [Server thread/INFO]: [Essentials] Rcon issued server command: /ban Littlebug_
+[12:40:00] [Server thread/INFO]: [Essentials] Player Console banned Littlebug_ for: You have been banned:
+The Ban Hammer has spoken!.
+[12:40:39] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[12:40:39] [Server thread/INFO]: Littlebugs_ joined the game
+[12:40:39] [Server thread/INFO]: Littlebugs_[/127.0.0.1:40764] logged in with entity id 10497 at ([world]-497.0994313582287, 63.0, -243.47327507285164)
+[12:41:01] [Server thread/INFO]: [Essentials] Rcon issued server command: /ban Littlebug_
+[12:41:01] [Server thread/INFO]: [Essentials] Player Console banned Littlebug_ for: You have been banned:
+The Ban Hammer has spoken!.
+[12:41:09] [Server thread/INFO]: [Essentials] Rcon issued server command: /ban Littlebugs
+[12:41:09] [Server thread/INFO]: Littlebugs_ lost connection: You have been banned:
+The Ban Hammer has spoken!
+[12:41:09] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
+[12:41:09] [Server thread/INFO]: Littlebugs_ left the game
+[12:41:09] [Server thread/INFO]: [Essentials] Player Console banned Littlebugs_ for: You have been banned:
+The Ban Hammer has spoken!.
+[12:41:11] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[12:41:11] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@392fa6ad[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:43994): You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@392fa6ad[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:43994) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:13] [User Authenticator #4/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[12:41:13] [Server thread/INFO]: hhhh_w joined the game
+[12:41:13] [Server thread/INFO]: hhhh_w[/127.0.0.1:44032] logged in with entity id 10697 at ([world]-531.0082282139158, 83.0, -239.48976219730307)
+[12:41:14] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[12:41:14] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1aed640a[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:44046): You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@1aed640a[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:44046) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:21] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[12:41:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@100a6ec9[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:52230): You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@100a6ec9[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:52230) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:25] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[12:41:25] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@12bc33e6[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:52238): You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@12bc33e6[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:52238) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:27] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[12:41:27] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@41d0b89e[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:52254): You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@41d0b89e[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:52254) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:28] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[12:41:28] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5a4533e3[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:52258): You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a4533e3[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:52258) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:33] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[12:41:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@20603694[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:53058): You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@20603694[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:53058) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:45] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[12:41:45] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@11acd9f8[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:53150): You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@11acd9f8[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:53150) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:46] [Server thread/INFO]: AwaKING issued server command: /home
+[12:41:47] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[12:41:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7e21cd83[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:53154): You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@7e21cd83[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:53154) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:49] [User Authenticator #4/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[12:41:49] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@271d1478[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:53162): You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:41:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@271d1478[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:53162) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
+[12:42:16] [Server thread/INFO]: Parzival5077 drowned
+[12:42:45] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[12:42:45] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[12:42:45] [Server thread/INFO]: Parzival5077 left the game
+[12:42:46] [User Authenticator #4/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[12:42:47] [Server thread/INFO]: Parzival5077 joined the game
+[12:42:47] [Server thread/INFO]: Parzival5077[/127.0.0.1:50048] logged in with entity id 11594 at ([world]-531.9301610543672, 91.0, -203.25850115768046)
+[12:42:47] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[12:42:47] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[12:42:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[12:42:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[12:42:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[12:42:52] [User Authenticator #4/INFO]: UUID of player 404NOTFOUND is 295b035e-514e-380d-94a7-82a9b5a571d7
+[12:42:52] [Server thread/INFO]: 404NOTFOUND joined the game
+[12:42:52] [Server thread/INFO]: 404NOTFOUND[/127.0.0.1:57584] logged in with entity id 11645 at ([world]-659.0, 145.0, -463.0)
+[12:43:07] [Server thread/INFO]: AwaKING issued server command: /tpa hhhh_w
+[12:43:09] [Server thread/INFO]: 404NOTFOUND lost connection: Disconnected
+[12:43:09] [Server thread/INFO]: [voicechat] Disconnecting client 404NOTFOUND
+[12:43:09] [Server thread/INFO]: 404NOTFOUND left the game
+[12:43:10] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
+[12:43:12] [User Authenticator #4/INFO]: UUID of player 404NOTFOUND is 295b035e-514e-380d-94a7-82a9b5a571d7
+[12:43:12] [Server thread/INFO]: 404NOTFOUND joined the game
+[12:43:12] [Server thread/INFO]: 404NOTFOUND[/127.0.0.1:33828] logged in with entity id 11960 at ([world]-659.0, 145.0, -463.0)
+[12:43:24] [Server thread/INFO]: 404NOTFOUND lost connection: Disconnected
+[12:43:24] [Server thread/INFO]: [voicechat] Disconnecting client 404NOTFOUND
+[12:43:24] [Server thread/INFO]: 404NOTFOUND left the game
+[12:43:28] [Server thread/INFO]: [Essentials] Rcon issued server command: /ban 404NOTFOUND
+[12:43:28] [Server thread/INFO]: [Essentials] Player Console banned 404NOTFOUND for: You have been banned:
+The Ban Hammer has spoken!.
+[12:43:53] [Server thread/INFO]: AwaKING issued server command: /home
+[12:45:29] [Server thread/INFO]: Parzival5077 fell from a high place
+[12:45:44] [Server thread/INFO]: Parzival5077 issued server command: /home
