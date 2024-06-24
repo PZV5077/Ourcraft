@@ -64,7 +64,9 @@ chunks:
     snowball: -1
   fixed-chunk-inhabited-time: -1
   flush-regions-on-save: false
-  max-auto-save-chunks-per-tick: 24
+  # Default:24. Changed 06/24
+  max-auto-save-chunks-per-tick: 6
+
   prevent-moving-into-unloaded-chunks: false
 collisions:
   allow-player-cramming-damage: false

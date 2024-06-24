@@ -50,8 +50,8 @@ world-settings:
     simulation-distance: default
     thunder-chance: 100000
     merge-radius:
-      item: 2.5
-      exp: 3.0
+      item: 4.0
+      exp: 6.0
     mob-spawn-range: 8
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
@@ -154,8 +154,8 @@ world-settings:
       other-multiplier: 0.0
     max-tnt-per-tick: 100
     max-tick-time:
-      tile: 50
-      entity: 50
+      tile: 1000
+      entity: 1000
     verbose: false
 commands:
   tab-complete: 0
