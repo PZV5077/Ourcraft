@@ -336,6 +336,7 @@
       "minecraft:ravager": "2024-06-19 10:52:23 +0000",
       "minecraft:ghast": "2024-06-19 07:15:56 +0000",
       "minecraft:hoglin": "2024-06-19 07:26:09 +0000",
+      "minecraft:guardian": "2024-06-24 06:21:01 +0000",
       "minecraft:vindicator": "2024-06-19 10:47:45 +0000",
       "minecraft:spider": "2024-06-17 12:02:54 +0000",
       "minecraft:creeper": "2024-06-17 11:59:25 +0000",
@@ -3412,6 +3413,24 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-06-24 04:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-06-24 06:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-06-24 06:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-06-24 06:21:02 +0000"
     },
     "done": true
   },
