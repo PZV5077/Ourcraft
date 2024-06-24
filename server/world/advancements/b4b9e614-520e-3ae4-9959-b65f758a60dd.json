@@ -1677,6 +1677,7 @@
     "criteria": {
       "minecraft:pillager": "2024-06-18 06:39:12 +0000",
       "minecraft:skeleton": "2024-06-18 12:32:45 +0000",
+      "minecraft:guardian": "2024-06-24 06:56:25 +0000",
       "minecraft:spider": "2024-06-18 11:14:17 +0000",
       "minecraft:zombified_piglin": "2024-06-18 12:54:04 +0000",
       "minecraft:piglin": "2024-06-19 09:19:42 +0000",
@@ -3454,6 +3455,18 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-06-24 05:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-06-24 06:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-06-24 06:46:21 +0000"
     },
     "done": true
   },

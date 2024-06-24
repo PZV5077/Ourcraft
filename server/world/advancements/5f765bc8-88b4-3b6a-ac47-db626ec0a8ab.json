@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-06-17 23:39:49 +0000",
+      "minecraft:deep_ocean": "2024-06-24 06:49:47 +0000",
       "minecraft:cherry_grove": "2024-06-16 13:44:07 +0000",
       "minecraft:sunflower_plains": "2024-06-16 13:39:58 +0000",
       "minecraft:birch_forest": "2024-06-18 05:24:12 +0000",
@@ -599,8 +600,10 @@
     "criteria": {
       "minecraft:pillager": "2024-06-20 13:48:55 +0000",
       "minecraft:skeleton": "2024-06-16 09:56:35 +0000",
+      "minecraft:elder_guardian": "2024-06-24 06:51:26 +0000",
       "minecraft:ghast": "2024-06-20 13:06:41 +0000",
       "minecraft:hoglin": "2024-06-22 17:32:48 +0000",
+      "minecraft:guardian": "2024-06-24 06:51:52 +0000",
       "minecraft:spider": "2024-06-16 11:32:44 +0000",
       "minecraft:piglin_brute": "2024-06-20 12:47:31 +0000",
       "minecraft:creeper": "2024-06-15 09:23:17 +0000",
@@ -4247,6 +4250,12 @@
   "minecraft:recipes/decorations/crimson_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-06-23 12:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-06-24 06:51:29 +0000"
     },
     "done": true
   },
