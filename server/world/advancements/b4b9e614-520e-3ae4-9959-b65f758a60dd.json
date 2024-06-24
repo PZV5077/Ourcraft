@@ -13,6 +13,8 @@
       "minecraft:birch_forest": "2024-06-23 13:00:10 +0000",
       "minecraft:windswept_hills": "2024-06-23 13:02:11 +0000",
       "minecraft:bamboo_jungle": "2024-06-19 07:51:14 +0000",
+      "minecraft:wooded_badlands": "2024-06-24 01:34:06 +0000",
+      "minecraft:badlands": "2024-06-24 01:34:10 +0000",
       "minecraft:savanna_plateau": "2024-06-18 11:07:07 +0000",
       "minecraft:beach": "2024-06-19 07:53:50 +0000",
       "minecraft:mangrove_swamp": "2024-06-19 08:00:28 +0000",
@@ -3340,6 +3342,18 @@
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-06-23 13:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-06-24 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-06-24 01:23:51 +0000"
     },
     "done": true
   },
