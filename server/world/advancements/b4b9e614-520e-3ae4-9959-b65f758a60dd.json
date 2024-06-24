@@ -227,6 +227,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-06-24 07:29:52 +0000",
+      "chicken": "2024-06-24 07:28:13 +0000",
       "beef": "2024-06-22 03:15:04 +0000",
       "porkchop": "2024-06-19 10:51:53 +0000",
       "apple": "2024-06-17 10:34:06 +0000",
@@ -3458,15 +3460,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2024-06-24 06:58:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-06-24 06:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-06-24 06:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-06-24 06:58:59 +0000"
     },
     "done": true
   },
@@ -3479,12 +3487,6 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-06-24 06:58:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-06-24 06:46:21 +0000"
     },
     "done": true
   },
