@@ -300,3 +300,19 @@
 [02:50:57] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
 [02:50:57] [Server thread/INFO]: .RulySphinx32354 joined the game
 [02:50:57] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 19721 at ([world]-552.7835, 85.0, -203.69999)
+[02:51:32] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[02:51:32] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[02:51:32] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[02:51:32] [Server thread/INFO]: [voicechat] Disconnecting client .RulySphinx32354
+[02:51:32] [Server thread/INFO]: .RulySphinx32354 left the game
+[02:54:30] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[02:54:30] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[02:54:31] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[02:54:31] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[02:54:31] [Server thread/INFO]: .RulySphinx32354 joined the game
+[02:54:31] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 19818 at ([world]-555.90533, 84.0, -200.69999)
+[02:55:51] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client timed out
+[02:55:51] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[02:55:51] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[02:55:51] [Server thread/INFO]: [voicechat] Disconnecting client .RulySphinx32354
+[02:55:51] [Server thread/INFO]: .RulySphinx32354 left the game
