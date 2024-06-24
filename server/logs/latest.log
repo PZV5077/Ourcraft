@@ -257,3 +257,11 @@
 [01:48:46] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
 [01:48:46] [Server thread/INFO]: [voicechat] Disconnecting client .RulySphinx32354
 [01:48:47] [Server thread/INFO]: .RulySphinx32354 left the game
+[02:33:45] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[02:33:45] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[02:33:45] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[02:33:45] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[02:33:45] [Server thread/INFO]: .RulySphinx32354 joined the game
+[02:33:45] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 16633 at ([world]7978.4917, 68.0, -1513.3032)
+[02:33:46] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[02:33:46] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
