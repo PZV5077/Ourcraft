@@ -233,6 +233,7 @@
       "porkchop": "2024-06-19 10:51:53 +0000",
       "apple": "2024-06-17 10:34:06 +0000",
       "potato": "2024-06-16 10:05:10 +0000",
+      "cooked_cod": "2024-06-24 09:21:30 +0000",
       "bread": "2024-06-17 01:32:18 +0000",
       "rotten_flesh": "2024-06-22 03:31:03 +0000",
       "melon_slice": "2024-06-19 07:53:09 +0000",
@@ -3487,6 +3488,36 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-06-24 06:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-06-24 09:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-06-24 09:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-06-24 09:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-06-24 09:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-06-24 09:27:52 +0000"
     },
     "done": true
   },
