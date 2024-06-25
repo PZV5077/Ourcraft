@@ -20,9 +20,11 @@
       "minecraft:river": "2024-06-18 06:40:51 +0000",
       "minecraft:lukewarm_ocean": "2024-06-20 11:40:01 +0000",
       "minecraft:stony_shore": "2024-06-19 11:11:03 +0000",
+      "minecraft:snowy_plains": "2024-06-25 13:25:23 +0000",
       "minecraft:dripstone_caves": "2024-06-18 07:55:43 +0000",
       "minecraft:grove": "2024-06-18 13:28:04 +0000",
       "minecraft:jagged_peaks": "2024-06-19 11:13:28 +0000",
+      "minecraft:cold_ocean": "2024-06-25 13:20:22 +0000",
       "minecraft:forest": "2024-06-18 07:11:20 +0000",
       "minecraft:jungle": "2024-06-18 06:41:16 +0000",
       "minecraft:ocean": "2024-06-24 06:20:40 +0000",
@@ -3564,6 +3566,60 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-06-25 11:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-06-25 13:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-06-25 13:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-06-25 13:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-25 13:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-06-25 13:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-25 13:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-25 13:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-06-25 13:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-25 13:13:11 +0000"
     },
     "done": true
   },
