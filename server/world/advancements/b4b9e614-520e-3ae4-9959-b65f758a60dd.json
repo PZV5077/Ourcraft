@@ -237,6 +237,7 @@
       "bread": "2024-06-17 01:32:18 +0000",
       "rotten_flesh": "2024-06-22 03:31:03 +0000",
       "cookie": "2024-06-24 09:53:07 +0000",
+      "salmon": "2024-06-25 00:50:38 +0000",
       "melon_slice": "2024-06-19 07:53:09 +0000",
       "cooked_chicken": "2024-06-19 12:33:23 +0000",
       "carrot": "2024-06-18 11:14:32 +0000"
@@ -2198,7 +2199,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-06-18 12:57:19 +0000",
       "minecraft:nether_wastes": "2024-06-18 12:34:39 +0000",
-      "minecraft:soul_sand_valley": "2024-06-18 12:34:49 +0000"
+      "minecraft:soul_sand_valley": "2024-06-18 12:34:49 +0000",
+      "minecraft:basalt_deltas": "2024-06-25 00:54:39 +0000"
     },
     "done": false
   },
@@ -3651,6 +3653,24 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-06-25 00:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-06-25 00:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-06-25 00:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-06-25 00:49:58 +0000"
     },
     "done": true
   },
