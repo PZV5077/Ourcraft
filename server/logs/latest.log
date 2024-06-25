@@ -250,3 +250,53 @@
 [00:39:09] [Server thread/INFO]: hhhh_w lost connection: Timed out
 [00:39:09] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
 [00:39:09] [Server thread/INFO]: hhhh_w left the game
+[00:42:14] [Server thread/INFO]: Parzival5077 drowned
+[00:42:25] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[00:42:25] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[00:42:25] [Server thread/INFO]: Parzival5077 left the game
+[00:42:27] [User Authenticator #2/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[00:42:27] [Server thread/INFO]: Parzival5077 joined the game
+[00:42:27] [Server thread/INFO]: Parzival5077[/127.0.0.1:51422] logged in with entity id 5160 at ([world]-531.5, 83.0, -240.5)
+[00:42:27] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[00:42:27] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[00:43:46] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[00:44:03] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
+[00:44:05] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[00:44:13] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[00:44:13] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[00:44:13] [Server thread/INFO]: Parzival5077 left the game
+[00:44:15] [User Authenticator #3/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[00:44:15] [Server thread/INFO]: Parzival5077 joined the game
+[00:44:15] [Server thread/INFO]: Parzival5077[/127.0.0.1:53430] logged in with entity id 6121 at ([world]-530.9401622864777, 83.0, -239.72388825885616)
+[00:44:16] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[00:44:16] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[00:44:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[00:44:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[00:44:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[00:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[00:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[00:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[00:45:10] [User Authenticator #3/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[00:45:10] [Server thread/INFO]: Parzival5077 lost connection: You logged in from another location
+[00:45:10] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[00:45:10] [Server thread/INFO]: Parzival5077 left the game
+[00:45:10] [Paper Async Command Builder Thread Pool - 3/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
+[00:45:10] [Server thread/INFO]: Parzival5077 joined the game
+[00:45:10] [Server thread/INFO]: Parzival5077[/127.0.0.1:48752] logged in with entity id 6449 at ([world]-530.9401622864777, 83.0, -239.72388825885616)
+[00:45:10] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[00:45:10] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[00:45:24] [User Authenticator #3/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[00:45:24] [Server thread/INFO]: hhhh_w joined the game
+[00:45:24] [Server thread/INFO]: hhhh_w[/127.0.0.1:35658] logged in with entity id 6503 at ([world]-1125.762499988079, 66.0, 131.30000001192093)
+[00:45:25] [Server thread/INFO]: [voicechat] Received secret request of hhhh_w (18)
+[00:45:25] [Server thread/INFO]: [voicechat] Sent secret to hhhh_w
+[00:45:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[00:45:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[00:45:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
+[00:46:09] [Server thread/INFO]: Parzival5077 issued server command: /tpa Littlebugs_
+[00:46:11] [Server thread/INFO]: hhhh_w issued server command: /home
+[00:46:17] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
+[00:47:17] [Server thread/INFO]: Parzival5077 issued server command: /home
+[00:47:39] [Server thread/INFO]: Parzival5077 drowned
+[00:47:45] [Server thread/INFO]: Parzival5077 issued server command: /tpa Littlebugs_
+[00:48:26] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
