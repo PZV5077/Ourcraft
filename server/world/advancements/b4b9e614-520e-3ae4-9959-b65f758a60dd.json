@@ -23,8 +23,10 @@
       "minecraft:river": "2024-06-17 02:24:47 +0000",
       "minecraft:lukewarm_ocean": "2024-06-24 04:57:47 +0000",
       "minecraft:stony_shore": "2024-06-24 01:44:38 +0000",
+      "minecraft:snowy_plains": "2024-06-25 13:28:32 +0000",
       "minecraft:dripstone_caves": "2024-06-16 10:07:31 +0000",
       "minecraft:forest": "2024-06-17 02:09:18 +0000",
+      "minecraft:frozen_ocean": "2024-06-25 13:30:47 +0000",
       "minecraft:desert": "2024-06-19 07:56:03 +0000",
       "minecraft:jungle": "2024-06-19 07:48:29 +0000",
       "minecraft:ocean": "2024-06-20 13:27:47 +0000",
@@ -3869,6 +3871,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2024-06-25 12:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-06-25 13:29:45 +0000"
     },
     "done": true
   },

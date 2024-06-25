@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-06-19 11:12:55 +0000",
       "minecraft:deep_ocean": "2024-06-24 06:28:28 +0000",
+      "minecraft:frozen_river": "2024-06-25 13:35:28 +0000",
       "minecraft:cherry_grove": "2024-06-18 06:53:38 +0000",
       "minecraft:sunflower_plains": "2024-06-18 06:54:10 +0000",
       "minecraft:birch_forest": "2024-06-19 11:10:29 +0000",
@@ -22,12 +23,15 @@
       "minecraft:stony_shore": "2024-06-19 11:11:03 +0000",
       "minecraft:snowy_plains": "2024-06-25 13:25:23 +0000",
       "minecraft:dripstone_caves": "2024-06-18 07:55:43 +0000",
+      "minecraft:snowy_taiga": "2024-06-25 13:27:04 +0000",
       "minecraft:grove": "2024-06-18 13:28:04 +0000",
       "minecraft:jagged_peaks": "2024-06-19 11:13:28 +0000",
       "minecraft:cold_ocean": "2024-06-25 13:20:22 +0000",
       "minecraft:forest": "2024-06-18 07:11:20 +0000",
+      "minecraft:frozen_ocean": "2024-06-25 13:30:18 +0000",
       "minecraft:jungle": "2024-06-18 06:41:16 +0000",
       "minecraft:ocean": "2024-06-24 06:20:40 +0000",
+      "minecraft:snowy_beach": "2024-06-25 13:35:24 +0000",
       "minecraft:flower_forest": "2024-06-19 11:36:40 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-18 13:27:24 +0000",
       "minecraft:deep_dark": "2024-06-19 02:57:27 +0000",
@@ -3590,6 +3594,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-06-25 13:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-06-25 13:37:13 +0000"
     },
     "done": true
   },
