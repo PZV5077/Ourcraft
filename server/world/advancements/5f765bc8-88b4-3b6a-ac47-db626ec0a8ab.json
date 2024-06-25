@@ -616,7 +616,8 @@
       "minecraft:piglin": "2024-06-20 12:45:55 +0000",
       "minecraft:enderman": "2024-06-16 09:55:02 +0000",
       "minecraft:zombie": "2024-06-15 09:19:12 +0000",
-      "minecraft:drowned": "2024-06-19 03:47:02 +0000"
+      "minecraft:drowned": "2024-06-19 03:47:02 +0000",
+      "minecraft:zombie_villager": "2024-06-25 05:21:14 +0000"
     },
     "done": false
   },
@@ -4313,6 +4314,24 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2024-06-24 11:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-06-25 05:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-06-25 05:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-06-25 05:34:59 +0000"
     },
     "done": true
   },

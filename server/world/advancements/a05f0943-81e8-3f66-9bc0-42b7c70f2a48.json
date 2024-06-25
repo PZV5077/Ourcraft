@@ -655,6 +655,7 @@
       "minecraft:skeleton": "2024-06-18 07:36:44 +0000",
       "minecraft:guardian": "2024-06-24 06:39:20 +0000",
       "minecraft:spider": "2024-06-18 06:52:47 +0000",
+      "minecraft:zombified_piglin": "2024-06-25 08:02:57 +0000",
       "minecraft:piglin": "2024-06-24 10:28:40 +0000",
       "minecraft:zombie": "2024-06-18 05:10:08 +0000",
       "minecraft:drowned": "2024-06-18 07:36:32 +0000"
@@ -842,6 +843,7 @@
       "baked_potato": "2024-06-18 07:42:54 +0000",
       "beef": "2024-06-25 04:40:11 +0000",
       "apple": "2024-06-19 05:09:53 +0000",
+      "cooked_cod": "2024-06-25 05:52:45 +0000",
       "mutton": "2024-06-19 03:49:27 +0000",
       "bread": "2024-06-19 10:41:43 +0000",
       "melon_slice": "2024-06-25 04:52:03 +0000",
@@ -2495,6 +2497,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-06-24 12:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-06-25 05:02:33 +0000"
     },
     "done": true
   },

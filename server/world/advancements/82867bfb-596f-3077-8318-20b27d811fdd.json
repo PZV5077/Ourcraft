@@ -3515,5 +3515,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-06-25 05:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2024-06-25 07:45:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
