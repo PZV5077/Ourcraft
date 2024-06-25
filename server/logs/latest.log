@@ -336,3 +336,55 @@
 [01:11:22] [Server thread/INFO]: hhhh_w fell from a high place
 [01:11:27] [Server thread/INFO]: hhhh_w issued server command: /home
 [01:11:35] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[01:11:49] [Server thread/INFO]: hhhh_w was doomed to fall
+[01:11:52] [Server thread/INFO]: Parzival5077 issued server command: /home
+[01:12:16] [Server thread/INFO]: hhhh_w issued server command: /tpa Littlebugs_
+[01:12:18] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
+[01:12:33] [Server thread/INFO]: hhhh_w tried to swim in lava
+[01:12:35] [Server thread/INFO]: Littlebugs_ issued server command: /back
+[01:12:44] [Server thread/INFO]: Littlebugs_ issued server command: /tpa hhhh_w
+[01:12:49] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
+[01:13:11] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[01:14:05] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[01:14:15] [Server thread/INFO]: Parzival5077 issued server command: /home
+[01:14:35] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[01:15:04] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[01:15:04] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[01:15:04] [Server thread/INFO]: Parzival5077 left the game
+[01:15:33] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[01:15:33] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
+[01:15:33] [Server thread/INFO]: hhhh_w left the game
+[01:49:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5abada75-f756-30ce-b415-84326b48b737 timed out
+[01:49:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Littlebugs_
+[01:49:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Littlebugs_
+[01:50:03] [Server thread/WARN]: Littlebugs_ was kicked due to keepalive timeout!
+[01:50:03] [Server thread/INFO]: Littlebugs_ lost connection: Timed out
+[01:50:03] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
+[01:50:03] [Server thread/INFO]: Littlebugs_ left the game
+[04:22:00] [User Authenticator #5/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[04:22:00] [Server thread/INFO]: Parzival5077 joined the game
+[04:22:00] [Server thread/INFO]: Parzival5077[/127.0.0.1:38192] logged in with entity id 21871 at ([world]-531.5413133163214, 91.0, -202.5325258339753)
+[04:22:02] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[04:22:02] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[04:23:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:23:48] [Server thread/INFO]: [Rcon: Showing new subtitle for Parzival5077]
+[04:23:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:23:49] [Server thread/INFO]: [Rcon: Showing new title for Parzival5077]
+[04:23:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:23:50] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[04:23:52] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:23:52] [Server thread/INFO]: [Rcon: Showing new subtitle for Parzival5077]
+[04:23:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:23:53] [Server thread/INFO]: [Rcon: Showing new title for Parzival5077]
+[04:23:54] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:24:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[04:24:26] [Server thread/INFO]: [Essentials] Rcon issued server command: /echo experience add @a %RAND% points | ARRCON -S HAL9000
+[04:24:40] [Server thread/INFO]: [Essentials] Rcon issued server command: /echo experience add @a 2000 points | ARRCON -S HAL9000
+[04:25:17] [Server thread/INFO]: [Rcon: Gave 2000 experience points to Parzival5077]
+[04:27:07] [Server thread/INFO]: [Rcon: Gave 2000 experience points to Parzival5077]
+[04:28:31] [Server thread/INFO]: Parzival5077 issued server command: /home
+[04:29:56] [Server thread/INFO]: Parzival5077 drowned
+[04:29:59] [Server thread/INFO]: Parzival5077 issued server command: /home
+[04:31:32] [Server thread/INFO]: Parzival5077 was slain by Guardian
+[04:32:25] [Server thread/INFO]: Parzival5077 issued server command: /home
+[04:34:35] [Server thread/INFO]: Parzival5077 drowned
