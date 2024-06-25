@@ -1,125 +1,128 @@
-[00:26:17] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:26:18] [ServerMain/INFO]: Loaded 7 recipes
-[00:26:19] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[00:26:19] [Server thread/INFO]: Loading properties
-[00:26:19] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[00:26:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:26:20] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:26:20] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[10:08:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:08:22] [ServerMain/INFO]: Loaded 7 recipes
+[10:08:22] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[10:08:22] [Server thread/INFO]: Loading properties
+[10:08:22] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[10:08:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:08:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:08:23] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[00:26:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[00:26:20] [Server thread/INFO]: Default game type: SURVIVAL
-[00:26:20] [Server thread/INFO]: Generating keypair
-[00:26:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:26:21] [Server thread/INFO]: Using default channel type
-[00:26:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:26:21] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:26:21] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
-[00:26:21] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
-[00:26:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[00:26:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[00:26:22] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[00:26:22] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[00:26:22] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.16
-[00:26:22] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[00:26:22] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.0
-[00:26:23] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[00:26:24] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[00:26:24] [Server thread/INFO]: [floodgate] Took 415ms to boot Floodgate
-[00:26:24] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.0.1
-[00:26:24] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.1.1
-[00:26:24] [Server thread/INFO]: [voicechat_broadcast] Loading server plugin voicechat_broadcast v1.0.1
-[00:26:24] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
-[00:26:24] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
-[00:26:24] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
-[00:26:24] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
-[00:26:24] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
-[00:26:24] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
-[00:26:24] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
-[00:26:24] [Server thread/INFO]: [DynamicLights] Loading server plugin DynamicLights v1.0.6-SNAPSHOT
-[00:26:24] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
-[00:26:24] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
-[00:26:24] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[00:26:24] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[00:26:24] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
-[00:26:24] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
-[00:26:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:26:24] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[00:26:25] [Server thread/INFO]:         __    
-[00:26:25] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[00:26:25] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[00:26:25] [Server thread/INFO]: 
-[00:26:25] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[00:26:25] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[00:26:25] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[00:26:26] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[00:26:26] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1565ms)
-[00:26:26] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[00:26:26] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[00:26:26] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[00:26:26] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[00:26:26] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[00:26:26] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
-[00:26:26] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
-[00:26:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:26:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:26:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:26:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:26:26] [Server thread/INFO]: Preparing level "world"
-[00:26:27] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
-[00:26:27] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
-[00:26:27] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.16
-[00:26:27] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[00:26:27] [Server thread/INFO]: [voicechat] Compatibility version 18
-[00:26:27] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[00:26:27] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
-[00:26:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[00:26:27] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[00:26:27] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[00:26:27] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[00:26:27] [Server thread/INFO]: [Essentials] Using locale en
-[00:26:27] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[00:26:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[00:26:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[00:26:27] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[00:26:27] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[00:26:28] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.0.1
-[00:26:28] [Server thread/INFO]: [DamageIndicator] Using server version accessor for v1_20_R1
-[00:26:28] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.1.1
-[00:26:28] [Server thread/INFO]: [voicechat_broadcast] Enabling voicechat_broadcast v1.0.1
-[00:26:28] [Server thread/INFO]: [voicechat_broadcast] Successfully registered voice chat broadcast plugin
-[00:26:28] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
-[00:26:28] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
-[00:26:28] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
-[00:26:28] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[00:26:28] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[00:26:28] [Server thread/INFO]: [DynamicLights] Enabling DynamicLights v1.0.6-SNAPSHOT
-[00:26:28] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Asynchronous Tab Completion Support!
-[00:26:28] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Brigadier Support!
-[00:26:28] [Server thread/INFO]: [DynamicLights] Registered 11 items for Dynamic Lights.
-[00:26:28] [Server thread/INFO]: [DynamicLights] Registered 6 items for Dynamic Submersible Lights.
-[00:26:28] [Server thread/INFO]: [DynamicLights] Registered 4 items for Dynamic Lockable Lights.
-[00:26:28] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
-[00:26:28] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
-[00:26:29] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:26:29] [Server thread/INFO]: [Geyser-Spigot] 
-[00:26:29] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
-[00:26:29] [Server thread/INFO]: [Geyser-Spigot] 
-[00:26:29] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:26:31] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
-[00:26:31] [Server thread/INFO]: [Geyser-Spigot] Done (2.891s)! Run /geyser help for help!
-[00:26:32] [Server thread/INFO]: Starting remote control listener
-[00:26:32] [Server thread/INFO]: Thread RCON Listener started
-[00:26:32] [Server thread/INFO]: RCON running on 0.0.0.0:25567
-[00:26:32] [Server thread/INFO]: Running delayed init tasks
-[00:26:32] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[00:26:32] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[00:26:32] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[00:26:32] [Server thread/INFO]: [CommandAPI] Linked 0 Bukkit permissions to commands
-[00:26:32] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
-[00:26:32] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] Checking for Updates ... 
-[00:26:32] [Craft Scheduler Thread - 0 - Passky/INFO]: 
+[10:08:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[10:08:24] [Server thread/INFO]: Default game type: SURVIVAL
+[10:08:24] [Server thread/INFO]: Generating keypair
+[10:08:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:08:24] [Server thread/INFO]: Using default channel type
+[10:08:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[10:08:24] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[10:08:25] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
+[10:08:25] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
+[10:08:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[10:08:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[10:08:27] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[10:08:27] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[10:08:27] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.16
+[10:08:27] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[10:08:27] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.0
+[10:08:29] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[10:08:30] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[10:08:30] [Server thread/INFO]: [floodgate] Took 978ms to boot Floodgate
+[10:08:30] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.0.1
+[10:08:30] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.1.1
+[10:08:30] [Server thread/INFO]: [voicechat_broadcast] Loading server plugin voicechat_broadcast v1.0.1
+[10:08:30] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
+[10:08:31] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
+[10:08:31] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[10:08:31] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[10:08:31] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[10:08:31] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
+[10:08:31] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[10:08:31] [Server thread/INFO]: [DynamicLights] Loading server plugin DynamicLights v1.0.6-SNAPSHOT
+[10:08:31] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[10:08:31] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[10:08:31] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[10:08:31] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[10:08:31] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
+[10:08:31] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
+[10:08:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:08:31] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[10:08:32] [Server thread/INFO]:         __    
+[10:08:32] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[10:08:32] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[10:08:32] [Server thread/INFO]: 
+[10:08:32] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[10:08:32] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[10:08:33] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[10:08:33] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[10:08:33] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2031ms)
+[10:08:33] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[10:08:33] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[10:08:33] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[10:08:33] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[10:08:33] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[10:08:33] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[10:08:33] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
+[10:08:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:08:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:08:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:08:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:08:33] [Server thread/INFO]: Preparing level "world"
+[10:08:34] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
+[10:08:34] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[10:08:34] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.16
+[10:08:34] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[10:08:34] [Server thread/INFO]: [voicechat] Compatibility version 18
+[10:08:34] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[10:08:34] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[10:08:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[10:08:35] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[10:08:35] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[10:08:35] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[10:08:35] [Server thread/INFO]: [Essentials] Using locale en
+[10:08:35] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[10:08:36] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[10:08:36] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[10:08:36] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[10:08:36] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[10:08:36] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.0.1
+[10:08:36] [Server thread/INFO]: [DamageIndicator] Using server version accessor for v1_20_R1
+[10:08:36] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.1.1
+[10:08:37] [Server thread/INFO]: [voicechat_broadcast] Enabling voicechat_broadcast v1.0.1
+[10:08:37] [Server thread/INFO]: [voicechat_broadcast] Successfully registered voice chat broadcast plugin
+[10:08:37] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
+[10:08:37] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[10:08:37] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
+[10:08:37] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[10:08:37] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[10:08:37] [Server thread/INFO]: [DynamicLights] Enabling DynamicLights v1.0.6-SNAPSHOT
+[10:08:37] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Asynchronous Tab Completion Support!
+[10:08:37] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Brigadier Support!
+[10:08:37] [Server thread/INFO]: [DynamicLights] Registered 11 items for Dynamic Lights.
+[10:08:37] [Server thread/INFO]: [DynamicLights] Registered 6 items for Dynamic Submersible Lights.
+[10:08:37] [Server thread/INFO]: [DynamicLights] Registered 4 items for Dynamic Lockable Lights.
+[10:08:37] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[10:08:37] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[10:08:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:08:38] [Server thread/INFO]: [Geyser-Spigot] 
+[10:08:38] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
+[10:08:38] [Server thread/INFO]: [Geyser-Spigot] 
+[10:08:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:08:43] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
+[10:08:43] [Server thread/INFO]: [Geyser-Spigot] Done (4.821s)! Run /geyser help for help!
+[10:08:43] [Server thread/INFO]: Starting remote control listener
+[10:08:43] [Server thread/INFO]: Thread RCON Listener started
+[10:08:43] [Server thread/INFO]: RCON running on 0.0.0.0:25567
+[10:08:43] [Server thread/INFO]: Running delayed init tasks
+[10:08:43] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[10:08:43] [Server thread/INFO]: [CommandAPI] Linked 0 Bukkit permissions to commands
+[10:08:43] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[10:08:43] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[10:08:43] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[10:08:43] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] Checking for Updates ... 
+[10:08:43] [User Authenticator #0/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
+[10:08:43] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] No new version available
+[10:08:44] [Server thread/INFO]: Loaded 7 recipes
+[10:08:44] [Craft Scheduler Thread - 0 - Passky/INFO]: 
 
 []============[Enabling Passky]============[]
 |
@@ -142,365 +145,113 @@
 |
 []=========================================[]
 
-[00:26:32] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] No new version available
-[00:26:34] [Server thread/INFO]: Loaded 7 recipes
-[00:26:34] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
-[00:26:34] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.1, you're on: 5.0.0
-[00:26:34] [Server thread/INFO]: Done (15.136s)! For help, type "help"
-[00:26:34] [Server thread/INFO]: Timings Reset
-[00:26:34] [Server thread/INFO]: [voicechat] Loading plugins
-[00:26:34] [Server thread/INFO]: [voicechat] Loaded 1 plugin(s)
-[00:26:34] [Server thread/INFO]: [voicechat] Initializing plugins
-[00:26:34] [Server thread/INFO]: [voicechat] Initialized 1 plugin(s)
-[00:26:34] [Server thread/INFO]: [voicechat] Registering events for 'voicechat_broadcast'
-[00:26:34] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[00:26:34] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'mcvoice.zcstudio.online:59003'
-[00:26:34] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '123.182.164.89', binding to wildcard IP instead
-[00:26:34] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 123.182.164.89:59003
-[00:26:34] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.2.0 (Running 5.1.0). Download at https://www.spigotmc.org/resources/protocollib.1997/
-[00:26:34] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[00:26:34] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[00:26:34] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[00:26:53] [User Authenticator #0/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[00:26:53] [Server thread/INFO]: Littlebugs_ joined the game
-[00:26:53] [Server thread/INFO]: Littlebugs_[/127.0.0.1:44052] logged in with entity id 1 at ([world]-659.0, 145.0, -463.0)
-[00:26:54] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 25.100539ms. Summary: Getting prefix for Littlebugs_
-[00:27:38] [Server thread/WARN]: Littlebugs_ was kicked due to keepalive timeout!
-[00:27:38] [Server thread/INFO]: Littlebugs_ lost connection: Timed out
-[00:27:38] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
-[00:27:38] [Server thread/INFO]: Littlebugs_ left the game
-[00:27:49] [User Authenticator #0/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[00:27:49] [Server thread/INFO]: Littlebugs_ joined the game
-[00:27:49] [Server thread/INFO]: Littlebugs_[/127.0.0.1:56350] logged in with entity id 323 at ([world]-299.80578583702834, -34.0, -163.82647637050468)
-[00:28:12] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[00:28:26] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
-[00:28:26] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
-[00:28:26] [Server thread/INFO]: Littlebugs_ left the game
-[00:28:27] [User Authenticator #0/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[00:28:27] [Server thread/INFO]: Littlebugs_ joined the game
-[00:28:27] [Server thread/INFO]: Littlebugs_[/127.0.0.1:55820] logged in with entity id 831 at ([world]-1181.061399148042, 94.5, 92.93261257827501)
-[00:28:37] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
-[00:28:37] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
-[00:28:37] [Server thread/INFO]: Littlebugs_ left the game
-[00:28:38] [User Authenticator #0/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[00:28:38] [Server thread/INFO]: Littlebugs_ joined the game
-[00:28:38] [Server thread/INFO]: Littlebugs_[/127.0.0.1:37548] logged in with entity id 929 at ([world]-1181.9238667221593, 94.5, 89.36458556056911)
-[00:28:41] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
-[00:28:41] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
-[00:28:41] [Server thread/INFO]: Littlebugs_ left the game
-[00:28:43] [User Authenticator #0/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[00:28:43] [Server thread/INFO]: Littlebugs_ joined the game
-[00:28:43] [Server thread/INFO]: Littlebugs_[/127.0.0.1:57632] logged in with entity id 938 at ([world]-1181.9238667221593, 94.5, 89.36458556056911)
-[00:28:54] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
-[00:28:54] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
-[00:28:54] [Server thread/INFO]: Littlebugs_ left the game
-[00:29:17] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[00:29:17] [Server thread/INFO]: Parzival5077 joined the game
-[00:29:17] [Server thread/INFO]: Parzival5077[/127.0.0.1:45412] logged in with entity id 1149 at ([world]-659.0, 145.0, -463.0)
-[00:29:18] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[00:29:18] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[00:30:02] [Server thread/WARN]: Parzival5077 was kicked due to keepalive timeout!
-[00:30:02] [Server thread/INFO]: Parzival5077 lost connection: Timed out
-[00:30:02] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
-[00:30:02] [Server thread/INFO]: Parzival5077 left the game
-[00:30:11] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[00:30:11] [Server thread/INFO]: Parzival5077 joined the game
-[00:30:11] [Server thread/INFO]: Parzival5077[/127.0.0.1:37486] logged in with entity id 1512 at ([world]-529.3117660439573, 83.0, -228.51670935470736)
-[00:30:11] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[00:30:11] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[00:30:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[00:30:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[00:30:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
-[00:30:42] [User Authenticator #0/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[00:30:42] [Server thread/INFO]: Littlebugs_ joined the game
-[00:30:42] [Server thread/INFO]: Littlebugs_[/127.0.0.1:34566] logged in with entity id 1711 at ([world]-1181.9238667221593, 94.5, 89.36458556056911)
-[00:30:45] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
-[00:30:45] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
-[00:30:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
-[00:30:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
-[00:30:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
-[00:31:38] [User Authenticator #0/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[00:31:38] [Server thread/INFO]: hhhh_w joined the game
-[00:31:38] [Server thread/INFO]: hhhh_w[/127.0.0.1:57930] logged in with entity id 2057 at ([world]-659.0, 145.0, -463.0)
-[00:31:41] [Server thread/INFO]: [voicechat] Received secret request of hhhh_w (18)
-[00:31:41] [Server thread/INFO]: [voicechat] Sent secret to hhhh_w
-[00:31:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[00:31:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[00:31:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
-[00:32:03] [Server thread/INFO]: hhhh_w issued server command: /home
-[00:32:43] [Server thread/INFO]: Littlebugs_ issued server command: /tpa Parzival5077
-[00:33:08] [User Authenticator #1/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[00:33:08] [Server thread/INFO]: hhhh_w lost connection: You logged in from another location
-[00:33:08] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
-[00:33:08] [Server thread/INFO]: hhhh_w left the game
-[00:33:08] [Server thread/INFO]: hhhh_w joined the game
-[00:33:08] [Server thread/INFO]: hhhh_w[/127.0.0.1:55828] logged in with entity id 2624 at ([world]-1150.5062565042683, 92.11899173573642, 105.72921147886399)
-[00:33:08] [Craft Scheduler Thread - 39 - Essentials/INFO]: [Essentials] Essentials updated the underlying Player object for 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[00:33:08] [Server thread/INFO]: [voicechat] Received secret request of hhhh_w (18)
-[00:33:08] [Server thread/INFO]: [voicechat] Sent secret to hhhh_w
-[00:33:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[00:33:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[00:33:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
-[00:33:11] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
-[00:33:30] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[00:33:49] [Server thread/INFO]: Littlebugs_ issued server command: /tpa Parzival5077
-[00:38:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab timed out
-[00:38:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player hhhh_w
-[00:38:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to hhhh_w
-[00:39:09] [Server thread/INFO]: hhhh_w lost connection: Timed out
-[00:39:09] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
-[00:39:09] [Server thread/INFO]: hhhh_w left the game
-[00:42:14] [Server thread/INFO]: Parzival5077 drowned
-[00:42:25] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[00:42:25] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
-[00:42:25] [Server thread/INFO]: Parzival5077 left the game
-[00:42:27] [User Authenticator #2/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[00:42:27] [Server thread/INFO]: Parzival5077 joined the game
-[00:42:27] [Server thread/INFO]: Parzival5077[/127.0.0.1:51422] logged in with entity id 5160 at ([world]-531.5, 83.0, -240.5)
-[00:42:27] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[00:42:27] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[00:43:46] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[00:44:03] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[00:44:05] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[00:44:13] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[00:44:13] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
-[00:44:13] [Server thread/INFO]: Parzival5077 left the game
-[00:44:15] [User Authenticator #3/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[00:44:15] [Server thread/INFO]: Parzival5077 joined the game
-[00:44:15] [Server thread/INFO]: Parzival5077[/127.0.0.1:53430] logged in with entity id 6121 at ([world]-530.9401622864777, 83.0, -239.72388825885616)
-[00:44:16] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[00:44:16] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[00:44:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[00:44:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[00:44:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
-[00:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
-[00:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
-[00:45:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
-[00:45:10] [User Authenticator #3/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[00:45:10] [Server thread/INFO]: Parzival5077 lost connection: You logged in from another location
-[00:45:10] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
-[00:45:10] [Server thread/INFO]: Parzival5077 left the game
-[00:45:10] [Paper Async Command Builder Thread Pool - 3/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
-[00:45:10] [Server thread/INFO]: Parzival5077 joined the game
-[00:45:10] [Server thread/INFO]: Parzival5077[/127.0.0.1:48752] logged in with entity id 6449 at ([world]-530.9401622864777, 83.0, -239.72388825885616)
-[00:45:10] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[00:45:10] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[00:45:24] [User Authenticator #3/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[00:45:24] [Server thread/INFO]: hhhh_w joined the game
-[00:45:24] [Server thread/INFO]: hhhh_w[/127.0.0.1:35658] logged in with entity id 6503 at ([world]-1125.762499988079, 66.0, 131.30000001192093)
-[00:45:25] [Server thread/INFO]: [voicechat] Received secret request of hhhh_w (18)
-[00:45:25] [Server thread/INFO]: [voicechat] Sent secret to hhhh_w
-[00:45:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[00:45:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[00:45:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
-[00:46:09] [Server thread/INFO]: Parzival5077 issued server command: /tpa Littlebugs_
-[00:46:11] [Server thread/INFO]: hhhh_w issued server command: /home
-[00:46:17] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[00:47:17] [Server thread/INFO]: Parzival5077 issued server command: /home
-[00:47:39] [Server thread/INFO]: Parzival5077 drowned
-[00:47:45] [Server thread/INFO]: Parzival5077 issued server command: /tpa Littlebugs_
-[00:48:26] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[00:50:37] [Server thread/INFO]: hhhh_w issued server command: /tpa Littlebugs_
-[00:50:41] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[00:51:13] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[00:53:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab timed out
-[00:53:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player hhhh_w
-[00:53:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to hhhh_w
-[00:53:22] [Server thread/INFO]: hhhh_w lost connection: Timed out
-[00:53:22] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
-[00:53:22] [Server thread/INFO]: hhhh_w left the game
-[00:55:32] [Server thread/INFO]: Littlebugs_ fell from a high place
-[00:56:21] [Async Chat Thread - #4/INFO]: [Not Secure] <Littlebugs_> zzz
-[00:58:17] [Server thread/INFO]: Parzival5077 fell from a high place
-[00:59:34] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[01:02:58] [User Authenticator #4/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[01:02:58] [Server thread/INFO]: hhhh_w joined the game
-[01:02:58] [Server thread/INFO]: hhhh_w[/127.0.0.1:49636] logged in with entity id 11365 at ([world_nether]-127.05284095815806, 68.0, 61.90910830338662)
-[01:02:58] [Server thread/INFO]: [voicechat] Received secret request of hhhh_w (18)
-[01:02:58] [Server thread/INFO]: [voicechat] Sent secret to hhhh_w
-[01:02:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[01:03:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[01:03:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
-[01:04:36] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[01:04:50] [Server thread/INFO]: Parzival5077 issued server command: /tpa
-[01:04:56] [Server thread/INFO]: Parzival5077 issued server command: /tpa Littlebugs_
-[01:05:04] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
-[01:05:07] [Server thread/INFO]: Littlebugs_ issued server command: /tpa Parzival5077
-[01:05:09] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
-[01:05:13] [Server thread/INFO]: hhhh_w issued server command: /tpa Parzival5077
-[01:06:36] [Server thread/INFO]: hhhh_w issued server command: /tpa Littlebugs_
-[01:06:39] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[01:08:54] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[01:10:47] [Server thread/INFO]: hhhh_w issued server command: /home
-[01:11:10] [Server thread/INFO]: hhhh_w tried to swim in lava
-[01:11:22] [Server thread/INFO]: hhhh_w fell from a high place
-[01:11:27] [Server thread/INFO]: hhhh_w issued server command: /home
-[01:11:35] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[01:11:49] [Server thread/INFO]: hhhh_w was doomed to fall
-[01:11:52] [Server thread/INFO]: Parzival5077 issued server command: /home
-[01:12:16] [Server thread/INFO]: hhhh_w issued server command: /tpa Littlebugs_
-[01:12:18] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[01:12:33] [Server thread/INFO]: hhhh_w tried to swim in lava
-[01:12:35] [Server thread/INFO]: Littlebugs_ issued server command: /back
-[01:12:44] [Server thread/INFO]: Littlebugs_ issued server command: /tpa hhhh_w
-[01:12:49] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
-[01:13:11] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[01:14:05] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[01:14:15] [Server thread/INFO]: Parzival5077 issued server command: /home
-[01:14:35] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[01:15:04] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[01:15:04] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
-[01:15:04] [Server thread/INFO]: Parzival5077 left the game
-[01:15:33] [Server thread/INFO]: hhhh_w lost connection: Disconnected
-[01:15:33] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
-[01:15:33] [Server thread/INFO]: hhhh_w left the game
-[01:49:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5abada75-f756-30ce-b415-84326b48b737 timed out
-[01:49:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Littlebugs_
-[01:49:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Littlebugs_
-[01:50:03] [Server thread/WARN]: Littlebugs_ was kicked due to keepalive timeout!
-[01:50:03] [Server thread/INFO]: Littlebugs_ lost connection: Timed out
-[01:50:03] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
-[01:50:03] [Server thread/INFO]: Littlebugs_ left the game
-[04:22:00] [User Authenticator #5/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:22:00] [Server thread/INFO]: Parzival5077 joined the game
-[04:22:00] [Server thread/INFO]: Parzival5077[/127.0.0.1:38192] logged in with entity id 21871 at ([world]-531.5413133163214, 91.0, -202.5325258339753)
-[04:22:02] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[04:22:02] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[04:23:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:23:48] [Server thread/INFO]: [Rcon: Showing new subtitle for Parzival5077]
-[04:23:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:23:49] [Server thread/INFO]: [Rcon: Showing new title for Parzival5077]
-[04:23:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:23:50] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[04:23:52] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:23:52] [Server thread/INFO]: [Rcon: Showing new subtitle for Parzival5077]
-[04:23:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:23:53] [Server thread/INFO]: [Rcon: Showing new title for Parzival5077]
-[04:23:54] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:24:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:24:26] [Server thread/INFO]: [Essentials] Rcon issued server command: /echo experience add @a %RAND% points | ARRCON -S HAL9000
-[04:24:40] [Server thread/INFO]: [Essentials] Rcon issued server command: /echo experience add @a 2000 points | ARRCON -S HAL9000
-[04:25:17] [Server thread/INFO]: [Rcon: Gave 2000 experience points to Parzival5077]
-[04:27:07] [Server thread/INFO]: [Rcon: Gave 2000 experience points to Parzival5077]
-[04:28:31] [Server thread/INFO]: Parzival5077 issued server command: /home
-[04:29:56] [Server thread/INFO]: Parzival5077 drowned
-[04:29:59] [Server thread/INFO]: Parzival5077 issued server command: /home
-[04:31:32] [Server thread/INFO]: Parzival5077 was slain by Guardian
-[04:32:25] [Server thread/INFO]: Parzival5077 issued server command: /home
-[04:34:35] [Server thread/INFO]: Parzival5077 drowned
-[04:35:54] [User Authenticator #6/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
-[04:35:54] [Server thread/INFO]: Jasper joined the game
-[04:35:54] [Server thread/INFO]: Jasper[/127.0.0.1:43262] logged in with entity id 24399 at ([world]-659.0, 145.0, -463.0)
-[04:37:42] [User Authenticator #7/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[04:37:42] [Server thread/INFO]: Littlebugs_ joined the game
-[04:37:42] [Server thread/INFO]: Littlebugs_[/127.0.0.1:40492] logged in with entity id 24871 at ([world]-659.0, 145.0, -463.0)
-[04:37:46] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
-[04:37:46] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
-[04:37:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
-[04:37:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
-[04:37:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
-[04:38:04] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
-[04:38:04] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
-[04:38:05] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
-[04:38:05] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
-[04:38:05] [Server thread/INFO]: .RulySphinx32354 joined the game
-[04:38:05] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 25263 at ([world]-659.0, 145.0, -463.0)
-[04:38:06] [Server thread/INFO]: Littlebugs_ issued server command: /tpa Parzival5077
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:26] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 105.69946000000004,-82.0,259.46545000000003
-[04:38:33] [Server thread/INFO]: Jasper issued server command: /home
-[04:38:41] [Server thread/INFO]: Littlebugs_ issued server command: /tpa Jasper
-[04:38:46] [Server thread/INFO]: Jasper issued server command: /tpaccept
-[04:38:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5abada75-f756-30ce-b415-84326b48b737 timed out
-[04:38:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Littlebugs_
-[04:38:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Littlebugs_
-[04:38:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
-[04:38:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
-[04:38:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
-[04:40:20] [Server thread/WARN]: Player .RulySphinx32354 just tried to change non-editable sign
-[04:40:21] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[04:42:39] [User Authenticator #8/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[04:42:39] [Server thread/INFO]: hhhh_w joined the game
-[04:42:39] [Server thread/INFO]: hhhh_w[/127.0.0.1:43524] logged in with entity id 26353 at ([world]-659.0, 145.0, -463.0)
-[04:42:41] [Server thread/INFO]: [voicechat] Received secret request of hhhh_w (18)
-[04:42:41] [Server thread/INFO]: [voicechat] Sent secret to hhhh_w
-[04:42:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[04:42:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
-[04:42:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
-[04:43:39] [Server thread/INFO]: hhhh_w fell from a high place
-[04:43:56] [Server thread/INFO]: hhhh_w tried to swim in lava
-[04:44:04] [Server thread/INFO]: hhhh_w fell from a high place
-[04:44:38] [Server thread/INFO]: Jasper was slain by hhhh_w
-[04:44:43] [Server thread/INFO]: hhhh_w issued server command: /tpa Littlebugs_
-[04:44:46] [Server thread/INFO]: Littlebugs_ issued server command: /tpaccept
-[04:46:46] [Server thread/INFO]: .RulySphinx32354 was impaled by Drowned
-[04:47:18] [Server thread/INFO]: .RulySphinx32354 drowned whilst trying to escape Drowned
-[04:51:27] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[04:51:36] [Server thread/INFO]: Littlebugs_ issued server command: /back
-[04:52:14] [Server thread/INFO]: Parzival5077 was doomed to fall by Spider
-[04:53:37] [Server thread/INFO]: Parzival5077 lost connection: Timed out
-[04:53:37] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
-[04:53:37] [Server thread/INFO]: Parzival5077 left the game
-[04:53:53] [Server thread/WARN]: .RulySphinx32354 moved wrongly!
-[04:53:54] [Server thread/WARN]: .RulySphinx32354 moved wrongly!
-[04:54:03] [Server thread/INFO]: Jasper was slain by Piglin
-[04:54:17] [User Authenticator #9/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:54:17] [Server thread/INFO]: Parzival5077 joined the game
-[04:54:17] [Server thread/INFO]: Parzival5077[/127.0.0.1:39752] logged in with entity id 30843 at ([world]-659.0, 145.0, -463.0)
-[04:54:17] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[04:54:17] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[04:54:36] [Server thread/INFO]: Littlebugs_ has completed the challenge [It Spreads]
-[04:54:57] [Server thread/INFO]: Jasper issued server command: /tpa .RulySphinx32354
-[04:56:05] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpaccept
-[04:56:14] [Server thread/INFO]: .RulySphinx32354 fell from a high place
-[04:56:38] [Server thread/INFO]: .RulySphinx32354 issued server command: /tpa Jasper
-[04:56:52] [Server thread/INFO]: Jasper issued server command: /tpaccept
-[05:02:15] [Server thread/INFO]: hhhh_w issued server command: /home
-[05:03:15] [Server thread/INFO]: hhhh_w issued server command: /home
+[10:08:45] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[10:08:45] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.1, you're on: 5.0.0
+[10:08:45] [Server thread/INFO]: Done (22.366s)! For help, type "help"
+[10:08:45] [Server thread/INFO]: Timings Reset
+[10:08:45] [Server thread/INFO]: [voicechat] Loading plugins
+[10:08:45] [Server thread/INFO]: [voicechat] Loaded 1 plugin(s)
+[10:08:45] [Server thread/INFO]: [voicechat] Initializing plugins
+[10:08:45] [Server thread/INFO]: [voicechat] Initialized 1 plugin(s)
+[10:08:45] [Server thread/INFO]: [voicechat] Registering events for 'voicechat_broadcast'
+[10:08:45] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[10:08:45] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'mcvoice.zcstudio.online:59003'
+[10:08:45] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '123.182.164.89', binding to wildcard IP instead
+[10:08:45] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 123.182.164.89:59003
+[10:08:45] [Server thread/INFO]: AwaKING joined the game
+[10:08:45] [Server thread/INFO]: AwaKING[/127.0.0.1:49656] logged in with entity id 1 at ([world]-659.0, 145.0, -463.0)
+[10:08:46] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 55.020806ms. Summary: Getting prefix for AwaKING
+[10:08:46] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[10:08:46] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[10:08:46] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[10:09:40] [Server thread/INFO]: Stopping server
+[10:09:40] [Server thread/INFO]: [TreeFella] Disabling TreeFella v1.2
+[10:09:40] [Server thread/INFO]: [EndPortalTimer] Disabling EndPortalTimer v1.7
+[10:09:40] [Server thread/INFO]: [EndPortalTimer] Plugin disabled.
+[10:09:40] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.0-SNAPSHOT
+[10:09:40] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[10:09:40] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[10:09:40] [Server thread/INFO]: [DynamicLights] Disabling DynamicLights v1.0.6-SNAPSHOT
+[10:09:40] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[10:09:40] [Server thread/INFO]: [Passky] Disabling Passky v2.1.1
+[10:09:40] [Server thread/INFO]: 
+
+[]============[Disabling Passky]============[]
+|
+| Information:
+|
+|   Name: Passky
+|   Developer: Black1_TV
+|   Version: 2.1.1 (update available)
+|   Website: https://rabbit-company.com
+|
+| Sponsors:
+|
+|   - https://rabbitserverlist.com
+|
+| Support:
+|
+|   Discord: ziga.zajc007
+|   Mail: ziga.zajc007@gmail.com
+|   Discord: https://discord.gg/hUNymXX
+|
+[]=========================================[]
+
+[10:09:40] [Server thread/INFO]: [CommandAPI] Disabling CommandAPI v9.5.0
+[10:09:40] [Server thread/INFO]: [voicechat_broadcast] Disabling voicechat_broadcast v1.0.1
+[10:09:40] [Server thread/INFO]: [voicechat_broadcast] Successfully unregistered voice chat broadcast plugin
+[10:09:40] [Server thread/INFO]: [MiniMOTD] Disabling MiniMOTD v2.1.1
+[10:09:40] [Server thread/INFO]: [DamageIndicator] Disabling DamageIndicator v2.0.1
+[10:09:40] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[10:09:40] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.1.0
+[10:09:40] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[10:09:40] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[10:09:40] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.16
+[10:09:40] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[10:09:40] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[10:09:40] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[10:09:40] [Server thread/INFO]: [LuckPerms] Closing storage...
+[10:09:40] [Server thread/INFO]: [LuckPerms] Goodbye!
+[10:09:40] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.0
+[10:09:40] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[10:09:40] [Server thread/INFO]: Saving players
+[10:09:40] [Thread-8/WARN]: Exception in thread "Thread-8" java.lang.NoClassDefFoundError: org/h2/api/ErrorCode
+[10:09:40] [Thread-8/WARN]: 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:475)
+[10:09:40] [Thread-8/WARN]: 	at org.h2.message.DbException.get(DbException.java:212)
+[10:09:40] [Thread-8/WARN]: 	at org.h2.mvstore.db.Store.close(Store.java:402)
+[10:09:40] [Thread-8/WARN]: 	at org.h2.engine.Database.closeOpenFilesAndUnlock(Database.java:1261)
+[10:09:40] [Thread-8/WARN]: 	at org.h2.engine.Database.closeImpl(Database.java:1225)
+[10:09:40] [Thread-8/WARN]: 	at org.h2.engine.Database.close(Database.java:1144)
+[10:09:40] [Thread-8/WARN]: 	at org.h2.engine.OnExitDatabaseCloser.onShutdown(OnExitDatabaseCloser.java:85)
+[10:09:40] [Thread-8/WARN]: 	at org.h2.engine.OnExitDatabaseCloser.run(OnExitDatabaseCloser.java:114)
+[10:09:40] [Thread-8/WARN]: Caused by: java.lang.ClassNotFoundException: org.h2.api.ErrorCode
+[10:09:40] [Thread-8/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+[10:09:40] [Thread-8/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[10:09:40] [Thread-8/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[10:09:40] [Thread-8/WARN]: 	... 8 more
+[10:09:40] [Server thread/INFO]: AwaKING lost connection: Server closed
+[10:09:40] [Server thread/INFO]: AwaKING left the game
+[10:09:40] [Server thread/INFO]: Saving worlds
+[10:09:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:09:40] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[10:09:40] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[10:09:40] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[10:09:40] [WebSocketConnectReadThread-105/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[10:09:41] [Server thread/INFO]: [ChunkHolderManager] Saved 675 block chunks, 675 entity chunks, 0 poi chunks in world 'world' in 0.99s
+[10:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:09:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:09:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[10:09:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[10:09:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[10:09:41] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[10:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:09:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:09:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[10:09:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[10:09:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[10:09:41] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[10:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:09:41] [Server thread/INFO]: Flushing Chunk IO
+[10:09:41] [Server thread/INFO]: Closing Thread Pool
+[10:09:41] [Server thread/INFO]: Closing Server
