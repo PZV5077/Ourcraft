@@ -3060,12 +3060,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2024-06-26 10:10:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2024-06-26 09:24:30 +0000"
@@ -3090,6 +3084,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-06-26 09:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-06-26 10:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-06-26 10:10:37 +0000"
@@ -3102,9 +3108,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_minecart": "2024-06-26 09:24:30 +0000"
+      "tamed_animal": "2024-06-26 11:18:56 +0000"
     },
     "done": true
   },
