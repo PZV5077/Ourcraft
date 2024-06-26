@@ -819,6 +819,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-06-18 08:28:07 +0000",
       "minecraft:spider": "2024-06-19 03:53:14 +0000",
+      "minecraft:zombified_piglin": "2024-06-26 10:59:41 +0000",
+      "minecraft:piglin": "2024-06-26 10:59:33 +0000",
       "minecraft:zombie": "2024-06-18 06:31:53 +0000"
     },
     "done": false
@@ -1765,6 +1767,20 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-06-26 10:59:56 +0000",
+      "minecraft:nether_wastes": "2024-06-26 10:58:31 +0000",
+      "minecraft:soul_sand_valley": "2024-06-26 11:01:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-06-26 10:58:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-06-26 10:24:28 +0000"
@@ -1786,6 +1802,18 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-06-26 10:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-06-26 10:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-06-26 11:01:07 +0000"
     },
     "done": true
   },
@@ -1816,6 +1844,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-06-26 10:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-06-26 11:01:07 +0000"
     },
     "done": true
   },
@@ -1852,6 +1886,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-06-26 10:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_the_recipe": "2024-06-26 10:55:50 +0000"
     },
     "done": true
   },
