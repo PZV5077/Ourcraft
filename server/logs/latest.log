@@ -418,3 +418,26 @@
 [04:41:41] [Server thread/INFO]: [voicechat] Disconnecting client AwaKING
 [04:41:41] [Server thread/INFO]: AwaKING left the game
 [04:42:41] [Server thread/INFO]: Jasper was slain by Zombie
+[04:51:48] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[04:51:48] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[04:51:48] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[04:51:48] [Server thread/INFO]: [voicechat] Disconnecting client .RulySphinx32354
+[04:51:48] [Server thread/INFO]: .RulySphinx32354 left the game
+[04:53:12] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[04:53:12] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[04:53:12] [Geyser Spigot connection thread-6-2/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[04:53:12] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[04:53:12] [Server thread/INFO]: .RulySphinx32354 joined the game
+[04:53:12] [localSession-7-1/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[04:53:12] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 39089 at ([world]-562.5601, 63.0, -248.7)
+[04:53:12] [localSession-7-1/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[04:54:25] [Server thread/INFO]: Jasper issued server command: /home
+[04:56:35] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[04:56:35] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[04:56:35] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[04:56:35] [Server thread/INFO]: [voicechat] Disconnecting client .RulySphinx32354
+[04:56:35] [Server thread/INFO]: .RulySphinx32354 left the game
+[04:56:52] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[04:57:21] [Server thread/INFO]: Littlebugs_ issued server command: /back
+[04:57:28] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[04:57:42] [Server thread/INFO]: Littlebugs_ issued server command: /back
