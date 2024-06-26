@@ -336,3 +336,87 @@
 [08:57:12] [Server thread/INFO]: Jasper lost connection: Disconnected
 [08:57:12] [Server thread/INFO]: [voicechat] Disconnecting client Jasper
 [08:57:12] [Server thread/INFO]: Jasper left the game
+[09:11:59] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[09:11:59] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[09:11:59] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[09:11:59] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[09:11:59] [Server thread/INFO]: .RulySphinx32354 joined the game
+[09:11:59] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 51099 at ([world]-659.0, 145.0, -463.0)
+[09:12:31] [User Authenticator #6/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[09:12:31] [Server thread/INFO]: Parzival5077 joined the game
+[09:12:31] [Server thread/INFO]: Parzival5077[/127.0.0.1:35788] logged in with entity id 51300 at ([world]-531.2678152009986, 83.0, -226.70301824780793)
+[09:12:31] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[09:12:31] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[09:12:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[09:12:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[09:12:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[09:13:59] [Server thread/INFO]: .RulySphinx32354 lost connection: [Passky] You have only 120 seconds to login. 你还有 120 秒时间登录
+[09:13:59] [Server thread/INFO]: [voicechat] Disconnecting client .RulySphinx32354
+[09:13:59] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of §r§7[§r§aPassky§r§7] §r§cYou have only 120 seconds to login. 你还有 120 秒时间登录
+[09:13:59] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[09:13:59] [Server thread/INFO]: .RulySphinx32354 left the game
+[09:14:25] [User Authenticator #7/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
+[09:14:25] [Server thread/INFO]: AwaKING joined the game
+[09:14:25] [Server thread/INFO]: AwaKING[/127.0.0.1:49828] logged in with entity id 52047 at ([world]-215.69236770354703, 79.0, 41.11324536757435)
+[09:16:38] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[09:16:38] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[09:16:39] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[09:16:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[09:16:39] [Server thread/INFO]: .RulySphinx32354 joined the game
+[09:16:39] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 52601 at ([world]-659.0, 145.0, -463.0)
+[09:16:39] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[09:16:39] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:58] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:59] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:59] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:59] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:59] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:59] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:59] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:59] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:16:59] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 131.71159999999998,-62.0,232.62923
+[09:17:27] [Server thread/INFO]: .RulySphinx32354 fell from a high place
+[09:19:15] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[09:20:43] [Server thread/INFO]: Parzival5077 was slain by AwaKING using [黑切]
+[09:21:54] [User Authenticator #8/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
+[09:21:54] [Server thread/INFO]: CheessRevolution joined the game
+[09:21:54] [Server thread/INFO]: CheessRevolution[/127.0.0.1:57032] logged in with entity id 55198 at ([world]-1126.582644108481, 150.5, -539.0959353799722)
+[09:22:02] [Server thread/INFO]: AwaKING was shot by Parzival5077
+[09:22:11] [Server thread/INFO]: AwaKING issued server command: /tpa Parzival5077
+[09:22:15] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
+[09:22:22] [Server thread/INFO]: AwaKING issued server command: /tpa Parzival5077
+[09:22:25] [Server thread/INFO]: Parzival5077 issued server command: /tpaccept
+[09:22:37] [Server thread/WARN]: Parzival5077 moved wrongly!
