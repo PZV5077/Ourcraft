@@ -18,6 +18,7 @@
       "minecraft:forest": "2024-06-18 07:36:30 +0000",
       "minecraft:jungle": "2024-06-18 05:13:41 +0000",
       "minecraft:flower_forest": "2024-06-16 09:45:02 +0000",
+      "minecraft:frozen_peaks": "2024-06-26 08:43:22 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-18 07:25:44 +0000",
       "minecraft:deep_dark": "2024-06-16 11:47:09 +0000",
       "minecraft:meadow": "2024-06-16 08:35:57 +0000",
@@ -2290,6 +2291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-06-26 08:43:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-06-26 07:38:35 +0000"
@@ -2299,6 +2306,18 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-06-26 07:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-06-26 08:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-06-26 08:43:37 +0000"
     },
     "done": true
   },
