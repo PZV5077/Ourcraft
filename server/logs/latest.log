@@ -170,3 +170,51 @@
 [03:16:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
 [03:16:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
 [03:16:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
+[03:19:33] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[03:19:33] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[03:19:33] [Geyser Spigot connection thread-6-3/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[03:19:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[03:19:33] [Server thread/INFO]: .RulySphinx32354 joined the game
+[03:19:33] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 680 at ([world]-659.0, 145.0, -463.0)
+[03:19:34] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[03:19:34] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[03:19:34] [Server thread/INFO]: .RulySphinx32354 lost connection: Internal Exception: java.nio.channels.ClosedChannelException
+[03:19:34] [Server thread/INFO]: [voicechat] Disconnecting client .RulySphinx32354
+[03:19:34] [Server thread/INFO]: .RulySphinx32354 left the game
+[03:21:05] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[03:21:05] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[03:21:05] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[03:21:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[03:21:06] [Server thread/INFO]: .RulySphinx32354 joined the game
+[03:21:06] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 850 at ([world]-659.0, 145.0, -463.0)
+[03:21:06] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:21:22] [Server thread/WARN]: .RulySphinx32354 moved too quickly! 142.7427,-82.0,225.65208
+[03:23:02] [Server thread/INFO]: .RulySphinx32354 fell from a high place
+[03:23:55] [Server thread/INFO]: .RulySphinx32354 fell from a high place
+[03:25:28] [User Authenticator #1/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
+[03:25:28] [Server thread/INFO]: AwaKING joined the game
+[03:25:28] [Server thread/INFO]: AwaKING[/127.0.0.1:34698] logged in with entity id 2829 at ([world]-659.0, 145.0, -463.0)
+[03:28:04] [Server thread/WARN]: .RulySphinx32354 moved wrongly!
+[03:29:33] [Server thread/INFO]: hhhh_w fell from a high place
+[03:31:28] [Server thread/WARN]: .RulySphinx32354 moved wrongly!
+[03:31:43] [Server thread/INFO]: hhhh_w fell from a high place
+[03:32:20] [Server thread/INFO]: hhhh_w fell off a ladder
