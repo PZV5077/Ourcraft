@@ -33,6 +33,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-06-26 07:38:35 +0000",
       "minecraft:skeleton": "2024-06-16 10:02:42 +0000",
       "minecraft:spider": "2024-06-18 07:46:29 +0000",
       "minecraft:creeper": "2024-06-18 07:52:25 +0000",
@@ -2270,15 +2271,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-06-26 05:56:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-06-26 06:56:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_nautilus_shell": "2024-06-26 05:56:18 +0000"
+      "has_logs": "2024-06-26 07:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-06-26 07:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-06-26 07:35:48 +0000"
     },
     "done": true
   },
