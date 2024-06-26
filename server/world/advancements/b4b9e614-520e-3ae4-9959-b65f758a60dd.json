@@ -3880,5 +3880,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2024-06-26 02:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-06-26 02:17:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
