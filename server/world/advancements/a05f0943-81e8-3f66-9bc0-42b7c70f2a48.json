@@ -661,6 +661,7 @@
       "minecraft:spider": "2024-06-18 06:52:47 +0000",
       "minecraft:zombified_piglin": "2024-06-25 08:02:57 +0000",
       "minecraft:piglin": "2024-06-24 10:28:40 +0000",
+      "minecraft:enderman": "2024-06-26 10:36:05 +0000",
       "minecraft:zombie": "2024-06-18 05:10:08 +0000",
       "minecraft:drowned": "2024-06-18 07:36:32 +0000"
     },
@@ -2609,6 +2610,18 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2024-06-26 10:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-06-26 10:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-06-26 10:42:36 +0000"
     },
     "done": true
   },
