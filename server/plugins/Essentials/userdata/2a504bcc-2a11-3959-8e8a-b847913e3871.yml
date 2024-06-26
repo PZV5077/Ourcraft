@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1719405721293
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1718756100430
-  login: 1718756069537
+  logout: 1719405749589
+  login: 1719405343475
 money: '0'
 last-account-name: hwhw
 logoutlocation:
   world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
   world-name: world
-  x: -659.0
-  y: 145.0
-  z: -463.0
-  yaw: 34.20000457763672
-  pitch: 50.55001449584961
+  x: -1171.4210951975422
+  y: 98.0
+  z: 54.8681928782552
+  yaw: -46.4375
+  pitch: 15.149969100952148
+lastlocation:
+  world: 5a8dad09-d1bd-4f1d-bdc6-f6aa89dc9098
+  world-name: world_nether
+  x: -146.50934856663983
+  y: 77.0
+  z: 10.699999988079071
+  yaw: -120.9069595336914
+  pitch: 26.999828338623047
