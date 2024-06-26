@@ -335,3 +335,23 @@
 [04:15:57] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
 [04:16:59] [Server thread/INFO]: Littlebugs_ issued server command: /home
 [04:18:25] [Server thread/INFO]: Littlebugs_ issued server command: /back
+[04:19:37] [User Authenticator #7/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
+[04:19:37] [Server thread/INFO]: AwaKING joined the game
+[04:19:37] [Server thread/INFO]: AwaKING[/127.0.0.1:60756] logged in with entity id 24506 at ([world]-72.17618890470771, 67.0, -673.2831095321964)
+[04:20:03] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[04:20:06] [Server thread/INFO]: AwaKING issued server command: /home
+[04:25:30] [Async Chat Thread - #7/INFO]: [Not Secure] <hhhh_w> 过来
+[04:25:30] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[04:25:53] [Server thread/INFO]: Littlebugs_ issued server command: /tpa hhhh_w
+[04:25:58] [Server thread/INFO]: hhhh_w issued server command: /tpaccept
+[04:31:33] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
+[04:31:34] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
+[04:31:34] [Server thread/INFO]: Littlebugs_ left the game
+[04:32:08] [User Authenticator #8/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[04:32:08] [Server thread/INFO]: Littlebugs_ joined the game
+[04:32:08] [Server thread/INFO]: Littlebugs_[/127.0.0.1:44772] logged in with entity id 29875 at ([world]-292.72604364300764, 71.0, 22.442525400273635)
+[04:32:11] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
+[04:32:11] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
+[04:32:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
+[04:32:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
+[04:32:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
