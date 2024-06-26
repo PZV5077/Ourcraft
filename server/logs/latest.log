@@ -78,3 +78,18 @@
 [00:18:58] [Server thread/INFO]: AwaKING[/127.0.0.1:44502] logged in with entity id 32448 at ([world]-1104.3613527950595, -37.0, 132.60760422398414)
 [00:19:08] [Server thread/INFO]: AwaKING issued server command: /hime
 [00:19:12] [Server thread/INFO]: AwaKING issued server command: /home
+[00:26:36] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.2.0 (Running 5.1.0). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[00:28:48] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[00:28:48] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[00:28:48] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[00:28:48] [Server thread/INFO]: [voicechat] Disconnecting client .RulySphinx32354
+[00:28:48] [Server thread/INFO]: .RulySphinx32354 left the game
+[00:34:06] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[00:34:06] [localSession-7-1/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[00:34:07] [Geyser Spigot connection thread-6-2/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[00:34:07] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 joined (UUID: 00000000-0000-0000-0009-01f39ff4e57c)
+[00:34:07] [Server thread/INFO]: .RulySphinx32354 joined the game
+[00:34:07] [Server thread/INFO]: .RulySphinx32354[/127.0.0.1:0] logged in with entity id 35713 at ([world]-524.4419, 85.0, -217.60483)
+[00:34:07] [localSession-7-1/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[00:34:07] [localSession-7-1/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[00:34:34] [Server thread/INFO]: AwaKING issued server command: /home
