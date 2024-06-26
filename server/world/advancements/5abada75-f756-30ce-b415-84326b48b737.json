@@ -29,11 +29,13 @@
       "minecraft:jagged_peaks": "2024-06-19 11:13:28 +0000",
       "minecraft:cold_ocean": "2024-06-25 13:20:22 +0000",
       "minecraft:forest": "2024-06-18 07:11:20 +0000",
+      "minecraft:deep_cold_ocean": "2024-06-26 10:02:23 +0000",
       "minecraft:frozen_ocean": "2024-06-25 13:30:18 +0000",
       "minecraft:jungle": "2024-06-18 06:41:16 +0000",
       "minecraft:ocean": "2024-06-24 06:20:40 +0000",
       "minecraft:snowy_beach": "2024-06-25 13:35:24 +0000",
       "minecraft:flower_forest": "2024-06-19 11:36:40 +0000",
+      "minecraft:frozen_peaks": "2024-06-26 09:53:09 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-18 13:27:24 +0000",
       "minecraft:deep_dark": "2024-06-19 02:57:27 +0000",
       "minecraft:meadow": "2024-06-18 01:35:46 +0000",
@@ -3962,6 +3964,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-06-26 09:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-06-26 09:53:24 +0000"
     },
     "done": true
   },
