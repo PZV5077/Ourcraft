@@ -72,3 +72,38 @@
 [01:00:12] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
 [01:00:12] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
 [01:00:35] [Server thread/INFO]: Parzival5077 issued server command: /mail
+[01:03:04] [Server thread/INFO]: Parzival5077 issued server command: /mail sendall 哈喽各位，我们已经为暑假远距离游戏的沟通问题做好了准备，我们将添加游戏内语音聊天功能。暑假前将进行一次客户端更新，提供整合包或mod文件，请自行选其一进行安装。
+[01:03:23] [Server thread/INFO]: Parzival5077 issued server command: /amsg
+[01:03:28] [Server thread/INFO]: Parzival5077 issued server command: /msg
+[01:03:33] [Server thread/INFO]: Parzival5077 issued server command: /msgtoggle
+[01:03:35] [Server thread/INFO]: Parzival5077 issued server command: /msgtoggle
+[01:03:46] [Server thread/INFO]: Parzival5077 issued server command: /tellraw
+[01:03:51] [Server thread/INFO]: Parzival5077 issued server command: /tellraw @a d
+[01:04:06] [Server thread/INFO]: Parzival5077 issued server command: /ess
+[01:04:18] [Server thread/INFO]: Parzival5077 issued server command: /ess commands
+[01:04:29] [Server thread/INFO]: Parzival5077 issued server command: /ess homes
+[01:05:08] [Server thread/INFO]: Parzival5077 issued server command: /list
+[01:05:24] [Server thread/INFO]: Parzival5077 issued server command: /mail read
+[01:05:50] [Server thread/INFO]: Parzival5077 issued server command: /deop Parzival5077
+[01:05:50] [Server thread/INFO]: [Parzival5077: Made Parzival5077 no longer a server operator]
+[01:06:27] [Server thread/INFO]: Parzival5077 issued server command: /luckperms editor
+[01:06:54] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:07:02] [Server thread/INFO]: [Rcon: Made Parziaval5077 a server operator]
+[01:07:06] [Server thread/INFO]: [Rcon: Made Parzival5077 a server operator]
+[01:07:09] [Server thread/INFO]: Parzival5077 issued server command: /luckperms editor
+[01:07:35] [Server thread/INFO]: Parzival5077 issued server command: /luckperms trusteditor 24df-e42a
+[01:09:07] [User Authenticator #13/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
+[01:09:07] [Server thread/INFO]: Jasper joined the game
+[01:09:07] [Server thread/INFO]: Jasper[/127.0.0.1:58254] logged in with entity id 40422 at ([world]-540.4431872891105, 83.0, -230.26013633768827)
+[01:09:33] [Server thread/INFO]: Parzival5077 issued server command: /broadcast Parzival5077
+[01:09:40] [Server thread/INFO]: Parzival5077 issued server command: /broadcast hi
+[01:10:25] [Server thread/INFO]: Parzival5077 issued server command: /broadcast 哈喽各位，我们已经为暑假远距离游戏的沟通问题做好了准备，我们将添加游戏内语音聊天功能。暑假前将进行一次客户端更新，提供整合包或mod文件，请自行选其一进行安装。
+[01:11:15] [Server thread/INFO]: Parzival5077 issued server command: /renamehome home Hi
+[01:11:24] [Server thread/INFO]: Parzival5077 issued server command: /home hi
+[01:12:31] [Server thread/INFO]: Jasper was blown up by Creeper
+[01:13:28] [Server thread/INFO]: Parzival5077 issued server command: /teammsg
+[01:13:46] [Server thread/INFO]: Parzival5077 issued server command: /vanish
+[01:14:10] [Server thread/INFO]: Parzival5077 issued server command: /vanish
+[01:15:47] [Server thread/INFO]: Parzival5077 issued server command: /enchant power 4
+[01:15:59] [Server thread/INFO]: Parzival5077 issued server command: /enchant power 5
+[01:17:21] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 minecraft:netherite_sword 1

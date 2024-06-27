@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1719409955853
+  lastteleport: 1719450684153
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1719447060745
+  logout: 1719450825231
   login: 1719450011282
 money: '0'
 last-account-name: Parzival5077
 lastlocation:
   world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
   world-name: world
-  x: -531.5
+  x: -574.6531710525803
   y: 83.0
-  z: -240.5
-  yaw: 175.65000915527344
-  pitch: -5.5500006675720215
+  z: -218.09507071597278
+  yaw: 103.20011901855469
+  pitch: 46.350223541259766
 logoutlocation:
   world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
   world-name: world
@@ -37,7 +37,7 @@ logoutlocation:
   yaw: 107.70036315917969
   pitch: 37.200218200683594
 homes:
-  home:
+  hi:
     world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
     world-name: world
     x: -983.8726814017343
@@ -45,3 +45,11 @@ homes:
     z: -19.542661023520274
     yaw: 74.24897003173828
     pitch: 39.9003791809082
+mail:
+- legacy: false
+  read: true
+  message: 哈喽各位，我们已经为暑假远距离游戏的沟通问题做好了准备，我们将添加游戏内语音聊天功能。暑假前将进行一次客户端更新，提供整合包或mod文件，请自行选其一进行安装。
+  sender-name: Parzival5077
+  sender-uuid: b4b9e614-520e-3ae4-9959-b65f758a60dd
+  timestamp: 1719450184571
+  expire: 0
