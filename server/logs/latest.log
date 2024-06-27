@@ -227,3 +227,98 @@
 [03:15:59] [Server thread/INFO]: Parzival5077 lost connection: Timed out
 [03:15:59] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
 [03:15:59] [Server thread/INFO]: Parzival5077 left the game
+[03:20:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab timed out
+[03:20:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player hhhh_w
+[03:20:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to hhhh_w
+[03:20:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[03:20:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[03:20:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
+[03:21:01] [Server thread/INFO]: Villager EntityVillager['Villager'/411, uuid='a9236286-301f-457e-8e7d-6d6ec9988445', l='ServerLevel[world]', x=-176.62, y=65.90, z=-31.19, cpos=[-12, -2], tl=442259, v=true] died, message: 'Villager was slain by AwaKING using [黑切]'
+[03:22:39] [Server thread/WARN]: AwaKING moved too quickly! 4.973242545079017,-1.252203340253729,-9.121333138763582
+[03:23:49] [Server thread/INFO]: AwaKING issued server command: /home
+[03:26:46] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[03:28:06] [Server thread/INFO]: Littlebugs_ issued server command: /tpacancel hhhh_w
+[03:29:17] [User Authenticator #5/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[03:29:17] [Server thread/INFO]: Parzival5077 joined the game
+[03:29:17] [Server thread/INFO]: Parzival5077[/127.0.0.1:46740] logged in with entity id 9824 at ([world]-162.30000001192093, 59.5, -16.69999998807907)
+[03:29:17] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[03:29:17] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[03:29:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[03:29:19] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[03:29:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[03:29:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[03:29:29] [Server thread/INFO]: Parzival5077 issued server command: /tp hhhh_w
+[03:30:51] [Server thread/INFO]: Parzival5077 issued server command: /homes
+[03:32:43] [Server thread/INFO]: Parzival5077 issued server command: /broadcast 哈喽各位，我们已经为暑假远距离游戏的沟通问题做好了准备，我们将添加游戏内语音聊天功能。暑假前将进行一次客户端更新，提供整合包或mod文件，请自行选其一进行安装。
+[03:33:01] [Server thread/INFO]: Parzival5077 issued server command: /broadcast 收到扣一
+[03:33:05] [Async Chat Thread - #4/INFO]: [Not Secure] <hhhh_w> 222
+[03:33:05] [Async Chat Thread - #3/INFO]: [Not Secure] <Littlebugs_> 1
+[03:33:09] [Async Chat Thread - #4/INFO]: [Not Secure] <AwaKING> 不用啊
+[03:33:10] [Async Chat Thread - #3/INFO]: [Not Secure] <Littlebugs_> 567
+[03:33:11] [Server thread/INFO]: Parzival5077 issued server command: /全齐我发经验
+[03:33:22] [Server thread/INFO]: Parzival5077 issued server command: /broadcast 全齐我发经验
+[03:33:26] [Async Chat Thread - #4/INFO]: [Not Secure] <AwaKING> 我在kook在各服务器
+[03:33:37] [Async Chat Thread - #3/INFO]: [Not Secure] <Parzival5077> ？
+[03:33:37] [Async Chat Thread - #4/INFO]: [Not Secure] <AwaKING> 不就好了
+[03:33:51] [Async Chat Thread - #3/INFO]: [Not Secure] <hhhh_w> 这个插件能虽距离变小
+[03:33:54] [Async Chat Thread - #4/INFO]: [Not Secure] <Parzival5077> 语音聊很方便，
+[03:34:11] [Async Chat Thread - #3/INFO]: [Not Secure] <hhhh_w> 悄悄话不会被听见
+[03:34:14] [Async Chat Thread - #4/INFO]: [Not Secure] <Parzival5077> 是的
+[03:34:27] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[03:34:48] [Server thread/INFO]: Parzival5077 tried to swim in lava
+[03:35:01] [Server thread/INFO]: Parzival5077 issued server command: /deop Parzival5077
+[03:35:01] [Server thread/INFO]: [Parzival5077: Made Parzival5077 no longer a server operator]
+[03:35:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:16] [Server thread/INFO]: [Rcon: Showing new subtitle for 4 players]
+[03:35:16] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:16] [Server thread/INFO]: [Rcon: Showing new title for 4 players]
+[03:35:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:17] [Server thread/INFO]: [Rcon: Gave 28 experience points to 4 players]
+[03:35:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:18] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[03:35:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:29] [Server thread/INFO]: [Rcon: Showing new subtitle for 4 players]
+[03:35:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:29] [Server thread/INFO]: [Rcon: Gave 28 experience points to 4 players]
+[03:35:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:30] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
+[03:35:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:32] [Server thread/INFO]: [Rcon: Showing new subtitle for 4 players]
+[03:35:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:32] [Server thread/INFO]: [Rcon: Showing new title for 4 players]
+[03:35:33] [RCON Client /127.0.0.1 #10/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[03:35:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:34] [Server thread/INFO]: [Rcon: Showing new subtitle for 4 players]
+[03:35:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:35] [Server thread/INFO]: [Rcon: Showing new title for 4 players]
+[03:35:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:37] [Server thread/INFO]: [Rcon: Showing new subtitle for 4 players]
+[03:35:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:38] [Server thread/INFO]: [Rcon: Showing new title for 4 players]
+[03:35:38] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:38] [Server thread/INFO]: [Rcon: Gave 28 experience points to 4 players]
+[03:35:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:47] [Server thread/INFO]: [Rcon: Showing new subtitle for 4 players]
+[03:35:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:35:48] [Server thread/INFO]: [Rcon: Showing new title for 4 players]
+[03:36:28] [Server thread/INFO]: Littlebugs_ fell from a high place
+[03:36:46] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[03:38:40] [Server thread/INFO]: Littlebugs_ fell from a high place
+[03:38:47] [Server thread/INFO]: Littlebugs_ issued server command: /back
+[03:38:49] [Server thread/INFO]: hhhh_w issued server command: /tp
+[03:38:49] [Server thread/INFO]: [Essentials] hhhh_w was denied access to command.
+[03:38:50] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[03:38:56] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[03:38:58] [Server thread/INFO]: hhhh_w issued server command: /tpdeny
+[03:40:22] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[03:40:33] [Server thread/INFO]: Villager EntityVillager['Villager'/412, uuid='8ac12f07-5d6f-4c94-ac4c-fae5c0fe7538', l='ServerLevel[world]', x=-164.82, y=64.90, z=-37.13, cpos=[-11, -3], tl=459432, v=true] died, message: 'Villager was slain by Zombie'
+[03:41:16] [Server thread/INFO]: Villager EntityVillager['Villager'/406, uuid='a71095af-4392-4112-b09f-5e90621151ee', l='ServerLevel[world]', x=-164.82, y=64.90, z=-37.13, cpos=[-11, -3], tl=513004, v=true] died, message: 'Villager was slain by Zombie'
+[03:41:46] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:41:57] [Server thread/INFO]: [Rcon: Gave 1000 experience points to Parzival5077]
+[03:43:03] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[03:43:03] [Server thread/INFO]: [voicechat] Disconnecting client AwaKING
+[03:43:03] [Server thread/INFO]: AwaKING left the game
+[03:46:05] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[03:48:01] [Server thread/INFO]: hhhh_w issued server command: /home
+[03:48:18] [Server thread/INFO]: [Rcon: Gave 1000 experience points to Parzival5077]
+[03:48:25] [Server thread/INFO]: [Rcon: Gave 3000 experience points to Parzival5077]
