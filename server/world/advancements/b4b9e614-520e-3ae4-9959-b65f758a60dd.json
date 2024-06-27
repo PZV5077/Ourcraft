@@ -18,6 +18,7 @@
       "minecraft:badlands": "2024-06-24 01:34:10 +0000",
       "minecraft:savanna_plateau": "2024-06-18 11:07:07 +0000",
       "minecraft:beach": "2024-06-19 07:53:50 +0000",
+      "minecraft:dark_forest": "2024-06-27 09:16:15 +0000",
       "minecraft:mangrove_swamp": "2024-06-19 08:00:28 +0000",
       "minecraft:sparse_jungle": "2024-06-17 12:41:04 +0000",
       "minecraft:river": "2024-06-17 02:24:47 +0000",
@@ -4269,6 +4270,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "pufferfish": "2024-06-27 07:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-06-27 09:22:13 +0000"
     },
     "done": true
   },

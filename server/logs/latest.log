@@ -360,3 +360,32 @@
 [09:11:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
 [09:12:35] [Server thread/INFO]: [KeepChunks] A new release of KeepChunks, v1.7.2, is available! You are still on v1.6.10.
 [09:12:35] [Server thread/INFO]: [KeepChunks] To download this update, head over to https://www.spigotmc.org/resources/23307/updates in your browser.
+[09:14:21] [User Authenticator #8/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
+[09:14:21] [Server thread/INFO]: Jasper joined the game
+[09:14:21] [Server thread/INFO]: Jasper[/127.0.0.1:58084] logged in with entity id 50594 at ([world]-659.0, 145.0, -463.0)
+[09:14:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[09:14:34] [Server thread/INFO]: [Essentials] Rcon issued server command: /tp Jasper Parzival5077
+[09:14:53] [Server thread/INFO]: [Essentials] Rcon issued server command: /tp Jasper Parzival5077
+[09:16:35] [User Authenticator #9/INFO]: UUID of player AwaKING is 82867bfb-596f-3077-8318-20b27d811fdd
+[09:16:35] [Server thread/INFO]: AwaKING joined the game
+[09:16:35] [Server thread/INFO]: AwaKING[/127.0.0.1:39530] logged in with entity id 51350 at ([world]-171.46020553136162, 65.0, -28.13210370970172)
+[09:16:40] [Server thread/INFO]: [Essentials] Rcon issued server command: /tp Jasper Parzival5077
+[09:20:19] [Server thread/INFO]: AwaKING issued server command: /home
+[09:22:26] [Server thread/INFO]: AwaKING issued server command: /home
+[09:26:15] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[09:26:15] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[09:26:15] [Server thread/INFO]: Parzival5077 left the game
+[09:26:15] [Server thread/INFO]: Jasper lost connection: Timed out
+[09:26:15] [Server thread/INFO]: [voicechat] Disconnecting client Jasper
+[09:26:15] [Server thread/INFO]: Jasper left the game
+[09:26:32] [User Authenticator #10/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
+[09:26:32] [Server thread/INFO]: Jasper joined the game
+[09:26:32] [Server thread/INFO]: Jasper[/127.0.0.1:34806] logged in with entity id 56193 at ([world]789.4644912895786, 63.0, -239.51213728641952)
+[09:26:56] [User Authenticator #10/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[09:26:56] [Server thread/INFO]: Parzival5077 joined the game
+[09:26:56] [Server thread/INFO]: Parzival5077[/127.0.0.1:52682] logged in with entity id 56558 at ([world]794.1309711135326, 63.0, -235.45153043064406)
+[09:26:57] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[09:26:57] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[09:26:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[09:27:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[09:27:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
