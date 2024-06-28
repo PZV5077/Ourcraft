@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1719488117566
+  lastteleport: 1719550184453
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1719491220514
-  login: 1719487268823
+  login: 1719550150925
 money: '0'
 last-account-name: hhhh_w
 logoutlocation:
@@ -40,11 +40,11 @@ homes:
 lastlocation:
   world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
   world-name: world
-  x: -298.5
-  y: 72.875
-  z: 27.5
-  yaw: -57.90000534057617
-  pitch: 49.64999771118164
+  x: -290.0420208003997
+  y: 66.0
+  z: 12.029708311249852
+  yaw: 178.80072021484375
+  pitch: -3.000028133392334
 mail:
 - legacy: false
   read: false
