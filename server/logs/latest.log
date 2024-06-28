@@ -418,3 +418,35 @@
 [05:43:38] [Server thread/INFO]: [voicechat] Disconnecting client .Parzival5077
 [05:43:38] [Server thread/INFO]: .Parzival5077 left the game
 [05:53:02] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[06:12:57] [User Authenticator #4/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[06:12:57] [Server thread/INFO]: hhhh_w joined the game
+[06:12:57] [Server thread/INFO]: hhhh_w[/127.0.0.1:33416] logged in with entity id 34838 at ([world]-520.3174630512714, 83.5625, -230.71132892928932)
+[06:12:58] [Server thread/INFO]: [voicechat] Received secret request of hhhh_w (18)
+[06:12:58] [Server thread/INFO]: [voicechat] Sent secret to hhhh_w
+[06:12:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[06:12:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[06:12:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
+[06:14:00] [Server thread/INFO]: hhhh_w fell from a high place
+[06:18:26] [Server thread/INFO]: Villager EntityVillager['Villager'/24011, uuid='25a3026f-9d6f-410c-9c4d-1f561301580f', l='ServerLevel[world]', x=-288.51, y=70.00, z=10.73, cpos=[-19, 0], tl=65721, v=true] died, message: 'Villager suffocated in a wall'
+[06:18:28] [Server thread/INFO]: hhhh_w lost connection: Kicked for exceeding packet rate limit
+[06:18:28] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
+[06:18:28] [Server thread/INFO]: hhhh_w left the game
+[06:18:38] [User Authenticator #5/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[06:18:38] [Server thread/INFO]: hhhh_w joined the game
+[06:18:38] [Server thread/INFO]: hhhh_w[/127.0.0.1:45474] logged in with entity id 36410 at ([world]-258.5146230956922, 70.45449683417343, 6.8307996278372265)
+[06:18:38] [Server thread/INFO]: [voicechat] Received secret request of hhhh_w (18)
+[06:18:38] [Server thread/INFO]: [voicechat] Sent secret to hhhh_w
+[06:18:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[06:18:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[06:18:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
+[06:19:25] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[06:19:25] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
+[06:19:25] [Server thread/INFO]: hhhh_w left the game
+[06:19:29] [User Authenticator #5/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[06:19:29] [Server thread/INFO]: hhhh_w joined the game
+[06:19:29] [Server thread/INFO]: hhhh_w[/127.0.0.1:50970] logged in with entity id 36550 at ([world]-278.256495214357, 70.0, 7.474772752953274)
+[06:19:29] [Server thread/INFO]: [voicechat] Received secret request of hhhh_w (18)
+[06:19:29] [Server thread/INFO]: [voicechat] Sent secret to hhhh_w
+[06:19:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[06:19:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[06:19:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
