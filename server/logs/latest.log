@@ -340,3 +340,39 @@
 [05:20:31] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -256.3528,-3.0,-224.230793
 [05:20:31] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -256.3528,-3.0,-224.230793
 [05:20:31] [Server thread/WARN]: .RulySphinx32354 moved too quickly! -256.3528,-3.0,-224.230793
+[05:21:41] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Outdated Geyser proxy! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0
+[05:23:39] [Server thread/INFO]: hhhh_w issued server command: /home
+[05:24:11] [Server thread/INFO]: hhhh_w fell from a high place
+[05:24:27] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Outdated Geyser proxy! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0
+[05:24:57] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Outdated Geyser proxy! This server supports the following Bedrock versions: 1.20.80/1.20.81, 1.21.0
+[05:25:08] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[05:25:08] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
+[05:25:08] [Server thread/INFO]: hhhh_w left the game
+[05:25:10] [User Authenticator #3/INFO]: UUID of player hhhh_w is 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[05:25:10] [Server thread/INFO]: hhhh_w joined the game
+[05:25:10] [Server thread/INFO]: hhhh_w[/127.0.0.1:38428] logged in with entity id 25381 at ([world]-336.32496575506076, 72.0, 8.77062858480561)
+[05:25:10] [Server thread/INFO]: [voicechat] Received secret request of hhhh_w (18)
+[05:25:10] [Server thread/INFO]: [voicechat] Sent secret to hhhh_w
+[05:25:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[05:25:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
+[05:25:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
+[05:25:17] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
+[05:25:17] [Server thread/INFO]: [voicechat] Disconnecting client CheessRevolution
+[05:25:17] [Server thread/INFO]: CheessRevolution left the game
+[05:28:46] [Server thread/INFO]: .RulySphinx32354 was slain by hhhh_w using [大马*]
+[05:29:46] [Server thread/INFO]: .RulySphinx32354 has made the advancement [Crafting a New Look]
+[05:32:06] [localSession-7-2/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of Bedrock client disconnected
+[05:32:06] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[05:32:06] [Server thread/INFO]: .RulySphinx32354 lost connection: Disconnected
+[05:32:06] [Server thread/INFO]: [voicechat] Disconnecting client .RulySphinx32354
+[05:32:06] [Server thread/INFO]: .RulySphinx32354 left the game
+[05:32:22] [Server thread/INFO]: Jasper issued server command: /home
+[05:32:34] [Server thread/INFO]: Jasper lost connection: Disconnected
+[05:32:34] [Server thread/INFO]: [voicechat] Disconnecting client Jasper
+[05:32:34] [Server thread/INFO]: Jasper left the game
+[05:33:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab timed out
+[05:33:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player hhhh_w
+[05:33:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to hhhh_w
+[05:34:17] [Server thread/INFO]: hhhh_w lost connection: Timed out
+[05:34:17] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
+[05:34:17] [Server thread/INFO]: hhhh_w left the game
