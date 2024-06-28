@@ -450,3 +450,14 @@
 [06:19:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
 [06:19:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5f765bc8-88b4-3b6a-ac47-db626ec0a8ab
 [06:19:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hhhh_w (5f765bc8-88b4-3b6a-ac47-db626ec0a8ab) successfully connected to voice chat
+[06:23:32] [Server thread/INFO]: Villager EntityVillager['Villager'/34241, uuid='7e695fad-8608-479a-a30a-8cc4f4a96f06', l='ServerLevel[world]', x=-194.43, y=64.90, z=-22.50, cpos=[-13, -2], tl=19195, v=true] died, message: 'Villager was slain by Littlebugs_'
+[06:24:48] [Server thread/INFO]: Villager EntityVillager['Villager'/29104, uuid='770a7204-a4eb-470d-b9cd-dc65bddebd00', l='ServerLevel[world]', x=-176.91, y=64.90, z=-27.93, cpos=[-12, -2], tl=63599, v=true] died, message: 'Villager suffocated in a wall whilst fighting Littlebugs_'
+[06:26:23] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[06:26:41] [Server thread/INFO]: Littlebugs_ fell from a high place
+[06:27:16] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[06:27:44] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[06:27:44] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
+[06:27:44] [Server thread/INFO]: hhhh_w left the game
+[06:27:48] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
+[06:27:48] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
+[06:27:48] [Server thread/INFO]: Littlebugs_ left the game
