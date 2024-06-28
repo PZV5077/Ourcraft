@@ -463,3 +463,32 @@
 [06:27:48] [Server thread/INFO]: Littlebugs_ left the game
 [07:35:45] [Server thread/INFO]: [KeepChunks] A new release of KeepChunks, v1.7.2, is available! You are still on v1.6.10.
 [07:35:45] [Server thread/INFO]: [KeepChunks] To download this update, head over to https://www.spigotmc.org/resources/23307/updates in your browser.
+[09:56:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[10:00:16] [User Authenticator #6/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
+[10:00:16] [Server thread/INFO]: CheessRevolution joined the game
+[10:00:16] [Server thread/INFO]: CheessRevolution[/127.0.0.1:39006] logged in with entity id 39056 at ([world]-659.0, 145.0, -463.0)
+[10:01:01] [Server thread/WARN]: CheessRevolution was kicked due to keepalive timeout!
+[10:01:01] [Server thread/INFO]: CheessRevolution lost connection: Timed out
+[10:01:01] [Server thread/INFO]: [voicechat] Disconnecting client CheessRevolution
+[10:01:01] [Server thread/INFO]: CheessRevolution left the game
+[10:01:40] [User Authenticator #7/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
+[10:01:40] [Server thread/INFO]: CheessRevolution joined the game
+[10:01:40] [Server thread/INFO]: CheessRevolution[/127.0.0.1:35178] logged in with entity id 39374 at ([world]-972.4255571459755, 120.0, -569.5607749737202)
+[10:01:54] [Server thread/INFO]: CheessRevolution issued server command: /home
+[10:02:25] [Server thread/WARN]: CheessRevolution was kicked due to keepalive timeout!
+[10:02:25] [Server thread/INFO]: CheessRevolution lost connection: Timed out
+[10:02:25] [Server thread/INFO]: [voicechat] Disconnecting client CheessRevolution
+[10:02:25] [Server thread/INFO]: CheessRevolution left the game
+[10:02:54] [User Authenticator #8/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
+[10:02:54] [Server thread/INFO]: CheessRevolution joined the game
+[10:02:54] [Server thread/INFO]: CheessRevolution[/127.0.0.1:56876] logged in with entity id 39656 at ([world]-1058.5, 88.0, -586.5)
+[10:02:57] [User Authenticator #8/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[10:02:57] [Server thread/INFO]: Littlebugs_ joined the game
+[10:02:57] [Server thread/INFO]: Littlebugs_[/127.0.0.1:50420] logged in with entity id 39823 at ([world]-659.0, 145.0, -463.0)
+[10:03:01] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
+[10:03:01] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
+[10:03:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
+[10:03:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
+[10:03:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
+[10:10:08] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[10:14:36] [Server thread/INFO]: Villager EntityVillager['Villager'/32302, uuid='26be7fc0-7a02-421d-b5ad-d34ae6404a93', l='ServerLevel[world]', x=-162.44, y=63.90, z=-42.49, cpos=[-11, -3], tl=53296, v=true] died, message: 'Villager was slain by Zombie'
