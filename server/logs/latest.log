@@ -376,3 +376,44 @@
 [05:34:17] [Server thread/INFO]: hhhh_w lost connection: Timed out
 [05:34:17] [Server thread/INFO]: [voicechat] Disconnecting client hhhh_w
 [05:34:17] [Server thread/INFO]: hhhh_w left the game
+[05:37:28] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Parzival5077
+[05:37:28] [localSession-7-3/INFO]: [Geyser-Spigot] Parzival5077 (logged in as: Parzival5077) has connected to the Java server
+[05:37:28] [Geyser Spigot connection thread-6-4/INFO]: UUID of player .Parzival5077 is 00000000-0000-0000-0009-01f4f6f911de
+[05:37:28] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Parzival5077 joined (UUID: 00000000-0000-0000-0009-01f4f6f911de)
+[05:37:28] [Server thread/INFO]: .Parzival5077 joined the game
+[05:37:28] [Server thread/INFO]: .Parzival5077[/127.0.0.1:0] logged in with entity id 30096 at ([world]-659.0, 145.0, -463.0)
+[05:37:28] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[05:37:28] [localSession-7-3/WARN]: [Geyser-Spigot] Downstream packet error! Invalid packet id: 108
+[05:38:07] [Server thread/WARN]: .Parzival5077 moved too quickly! 52.89700805919165,-63.298683602003535,100.39451642393777
+[05:38:07] [Server thread/WARN]: .Parzival5077 moved too quickly! 52.89700805919165,-63.298683602003535,100.39451642393777
+[05:38:07] [Server thread/WARN]: .Parzival5077 moved too quickly! 52.89700805919165,-63.298683602003535,100.39451642393777
+[05:38:07] [Server thread/WARN]: .Parzival5077 moved too quickly! 52.89700805919165,-63.298683602003535,100.39451642393777
+[05:39:19] [Async Chat Thread - #4/INFO]: [Not Secure] <.Parzival5077> h
+[05:39:26] [Async Chat Thread - #3/INFO]: [Not Secure] <.Parzival5077> 哈哈哈
+[05:39:36] [Async Chat Thread - #4/INFO]: [Not Secure] <.Parzival5077> 手机登上了
+[05:39:40] [Async Chat Thread - #4/INFO]: [Not Secure] <.Parzival5077> 怎么样
+[05:39:50] [Server thread/INFO]: .Parzival5077 issued server command: /home
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:39:50] [Server thread/WARN]: .Parzival5077 moved too quickly! -52.83765000000005,107.0,-123.19463999999999
+[05:40:46] [Server thread/INFO]: .Parzival5077 fell from a high place
+[05:42:40] [Server thread/INFO]: Villager EntityVillager['Villager'/15655, uuid='5267294b-b358-4ffa-a090-c3f5f1666f2f', l='ServerLevel[world]', x=-162.22, y=33.44, z=-23.39, cpos=[-11, -2], tl=33556, v=true] died, message: 'Villager hit the ground too hard'
+[05:43:38] [localSession-7-3/INFO]: [Geyser-Spigot] Parzival5077 has disconnected from the Java server because of Bedrock client disconnected
+[05:43:38] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Parzival5077 disconnected
+[05:43:38] [Server thread/INFO]: .Parzival5077 lost connection: Disconnected
+[05:43:38] [Server thread/INFO]: [voicechat] Disconnecting client .Parzival5077
+[05:43:38] [Server thread/INFO]: .Parzival5077 left the game
