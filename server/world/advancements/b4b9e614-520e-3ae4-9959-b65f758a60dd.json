@@ -1692,6 +1692,7 @@
       "minecraft:spider": "2024-06-18 11:14:17 +0000",
       "minecraft:creeper": "2024-06-27 01:57:50 +0000",
       "minecraft:slime": "2024-06-29 07:55:15 +0000",
+      "minecraft:phantom": "2024-06-29 10:10:44 +0000",
       "minecraft:zombified_piglin": "2024-06-18 12:54:04 +0000",
       "minecraft:witch": "2024-06-29 08:03:23 +0000",
       "minecraft:piglin": "2024-06-19 09:19:42 +0000",
@@ -4466,6 +4467,18 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2024-06-29 09:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:horse": "2024-06-29 10:00:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-06-29 10:00:38 +0000"
     },
     "done": true
   },

@@ -280,3 +280,31 @@
 [10:01:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
 [10:01:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
 [10:01:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[10:04:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[10:04:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[10:04:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[10:05:14] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 name_tag
+[10:05:24] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
+[10:05:33] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 name_tag 1
+[10:06:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:06:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:06:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[10:10:39] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
+[10:10:39] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
+[10:10:39] [Server thread/INFO]: Littlebugs_ left the game
+[10:11:28] [Server thread/INFO]: Parzival5077 was slain by Phantom
+[10:11:59] [User Authenticator #5/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[10:11:59] [Server thread/INFO]: Littlebugs_ joined the game
+[10:11:59] [Server thread/INFO]: Littlebugs_[/127.0.0.1:55242] logged in with entity id 16364 at ([world]-1183.3404983379946, 94.5, 90.62144576923818)
+[10:12:03] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
+[10:12:03] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
+[10:12:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
+[10:12:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
+[10:12:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
+[10:12:20] [Server thread/WARN]: Littlebugs_ moved too quickly! 12.425795815127458,-1.0106500141260284,1.4504735645313929
+[10:16:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[10:16:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[10:16:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[10:16:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5abada75-f756-30ce-b415-84326b48b737 timed out
+[10:16:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Littlebugs_
+[10:16:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Littlebugs_
