@@ -379,3 +379,38 @@
 [11:00:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
 [11:00:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
 [11:00:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
+[11:03:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5abada75-f756-30ce-b415-84326b48b737 timed out
+[11:03:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Littlebugs_
+[11:03:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Littlebugs_
+[11:03:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
+[11:07:21] [User Authenticator #8/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[11:07:21] [Server thread/INFO]: Parzival5077 joined the game
+[11:07:21] [Server thread/INFO]: Parzival5077[/127.0.0.1:48668] logged in with entity id 27095 at ([world]-531.5572866814343, 83.0, -232.9133402306295)
+[11:07:22] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[11:07:22] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[11:07:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[11:07:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[11:07:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[11:10:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[11:10:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[11:10:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[11:10:10] [User Authenticator #9/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[11:10:10] [Server thread/INFO]: Parzival5077 lost connection: You logged in from another location
+[11:10:10] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[11:10:10] [Server thread/INFO]: Parzival5077 left the game
+[11:10:10] [Paper Async Command Builder Thread Pool - 11/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
+[11:10:10] [Server thread/INFO]: Parzival5077 joined the game
+[11:10:10] [Server thread/INFO]: Parzival5077[/127.0.0.1:46260] logged in with entity id 27719 at ([world]-543.4973851868455, 67.0, -225.09981470391483)
+[11:10:11] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[11:10:11] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[11:10:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[11:10:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[11:10:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[11:13:38] [Server thread/INFO]: Parzival5077 issued server command: /enchant luckofthesea 3
+[11:14:36] [Server thread/INFO]: Parzival5077 issued server command: /enchant minecraft:luck_of_the_sea 1
+[11:14:44] [Server thread/INFO]: Parzival5077 issued server command: /enchant Parzival5077 minecraft:luck_of_the_sea 1
+[11:14:48] [Server thread/INFO]: Parzival5077 issued server command: /enchant Parzival5077 minecraft:luck_of_the_sea 1
+[11:17:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[11:17:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[11:17:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[11:17:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
