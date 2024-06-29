@@ -53,3 +53,145 @@
 [08:09:12] [Server thread/INFO]: 
 [08:09:12] [Server thread/INFO]: [LuckPerms] Loading configuration...
 [08:09:13] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[08:09:13] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[08:09:13] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[08:09:14] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1909ms)
+[08:09:14] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[08:09:14] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[08:09:14] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[08:09:14] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[08:09:14] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[08:09:14] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[08:09:14] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
+[08:09:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:09:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:09:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:09:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:09:14] [Server thread/INFO]: Preparing level "world"
+[08:09:16] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
+[08:09:16] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[08:09:16] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[08:09:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:09:31] [ServerMain/ERROR]: Failed to start the minecraft server
+net.minecraft.util.SessionLock$ExceptionWorldConflict: /workspaces/Ourcraft/server/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:102) ~[?:?]
+	at net.minecraft.util.DirectoryLock.create(DirectoryLock.java:30) ~[?:?]
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:512) ~[?:?]
+	at net.minecraft.world.level.storage.LevelStorageSource.validateAndCreateAccess(LevelStorageSource.java:425) ~[?:?]
+	at net.minecraft.server.Main.main(Main.java:211) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.Main.main(Main.java:324) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+uccessfully added ViaVersion mappings
+[08:09:19] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
+[08:09:19] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[08:09:19] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[08:09:19] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.0.1
+[08:09:19] [Server thread/INFO]: [DamageIndicator] Using server version accessor for v1_20_R1
+[08:09:19] [Server thread/INFO]: [KeepChunks] Enabling KeepChunks v1.6.10
+[08:09:20] [Server thread/INFO]: 
+[08:09:20] [Server thread/INFO]:  _     _                   _______ _                 _          
+[08:09:20] [Server thread/INFO]: (_)   | |                 (_______) |               | |  v1.6.10
+[08:09:20] [Server thread/INFO]:  _____| |_____ _____ ____  _      | |__  _   _ ____ | |  _  ___ 
+[08:09:20] [Server thread/INFO]: |  _   _) ___ | ___ |  _ \| |     |  _ \| | | |  _ \| |_/ )/___)
+[08:09:20] [Server thread/INFO]: | |  \ \| ____| ____| |_| | |_____| | | | |_| | | | |  _ (|___ |
+[08:09:20] [Server thread/INFO]: |_|   \_)_____)_____)  __/ \______)_| |_|____/|_| |_|_| \_|___/ 
+[08:09:20] [Server thread/INFO]:                     |_|                                         
+[08:09:20] [Server thread/INFO]: 
+[08:09:20] [Server thread/INFO]: [KeepChunks] KeepChunks v1.6.10 has been enabled
+[08:09:20] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[08:09:20] [Server thread/INFO]: [DynamicLights] Enabling DynamicLights v1.0.6-SNAPSHOT
+[08:09:21] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Asynchronous Tab Completion Support!
+[08:09:21] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Brigadier Support!
+[08:09:21] [Server thread/INFO]: [DynamicLights] Registered 11 items for Dynamic Lights.
+[08:09:21] [Server thread/INFO]: [DynamicLights] Registered 6 items for Dynamic Submersible Lights.
+[08:09:21] [Server thread/INFO]: [DynamicLights] Registered 4 items for Dynamic Lockable Lights.
+[08:09:22] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[08:09:22] [Server thread/INFO]: [voicechat_broadcast] Enabling voicechat_broadcast v1.0.1
+[08:09:22] [Server thread/INFO]: [voicechat_broadcast] Successfully registered voice chat broadcast plugin
+[08:09:22] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
+[08:09:22] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[08:09:22] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.1.1
+[08:09:23] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:09:23] [Server thread/INFO]: [Geyser-Spigot] 
+[08:09:23] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
+[08:09:23] [Server thread/INFO]: [Geyser-Spigot] 
+[08:09:23] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:09:29] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
+[08:09:29] [Server thread/INFO]: [Geyser-Spigot] Done (6.149s)! Run /geyser help for help!
+[08:09:29] [Server thread/INFO]: Starting remote control listener
+[08:09:29] [Server thread/INFO]: Thread RCON Listener started
+[08:09:29] [Server thread/INFO]: RCON running on 0.0.0.0:25567
+[08:09:29] [Server thread/INFO]: Running delayed init tasks
+[08:09:29] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[08:09:29] [Server thread/INFO]: [CommandAPI] Linked 0 Bukkit permissions to commands
+[08:09:29] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[08:09:29] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[08:09:29] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[08:09:29] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] Checking for Updates ... 
+[08:09:30] [Craft Scheduler Thread - 1 - Passky/INFO]: 
+
+[]============[Enabling Passky]============[]
+|
+| Information:
+|
+|   Name: Passky
+|   Developer: Black1_TV
+|   Version: 2.1.1 (update available)
+|   Website: https://rabbit-company.com
+|
+| Sponsors:
+|
+|   - https://rabbitserverlist.com
+|
+| Support:
+|
+|   Discord: ziga.zajc007
+|   Mail: ziga.zajc007@gmail.com
+|   Discord: https://discord.gg/hUNymXX
+|
+[]=========================================[]
+
+[08:09:30] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] No new version available
+[08:09:31] [Server thread/INFO]: Loaded 7 recipes
+[08:09:32] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[08:09:32] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.1, you're on: 5.0.0
+[08:09:32] [Server thread/INFO]: Done (27.650s)! For help, type "help"
+[08:09:32] [Server thread/INFO]: Timings Reset
+[08:09:32] [Server thread/INFO]: [voicechat] Loading plugins
+[08:09:32] [Server thread/INFO]: [voicechat] Loaded 1 plugin(s)
+[08:09:32] [Server thread/INFO]: [voicechat] Initializing plugins
+[08:09:32] [Server thread/INFO]: [voicechat] Initialized 1 plugin(s)
+[08:09:32] [Server thread/INFO]: [voicechat] Registering events for 'voicechat_broadcast'
+[08:09:32] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[08:09:32] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'mcvoice.zcstudio.online:59003'
+[08:09:32] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 59003
+[08:09:33] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[08:09:33] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[08:09:33] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[08:09:39] [Server thread/INFO]: [KeepChunks] A new release of KeepChunks, v1.7.2, is available! You are still on v1.6.10.
+[08:09:39] [Server thread/INFO]: [KeepChunks] To download this update, head over to https://www.spigotmc.org/resources/23307/updates in your browser.
+[08:09:48] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[08:09:48] [Server thread/INFO]: Parzival5077 joined the game
+[08:09:48] [Server thread/INFO]: Parzival5077[/127.0.0.1:47180] logged in with entity id 103 at ([world]-659.0, 145.0, -463.0)
+[08:09:48] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[08:09:48] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[08:10:00] [Server thread/INFO]: Parzival5077 issued server command: /home
+[08:10:07] [Server thread/INFO]: Parzival5077 issued server command: /home
+[08:10:10] [Server thread/INFO]: Parzival5077 issued server command: /home home
+[08:10:26] [Server thread/INFO]: Parzival5077 issued server command: /time set morning
+[08:13:17] [Server thread/INFO]: Parzival5077 has made the advancement [Eye Spy]
+[08:19:17] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[08:19:17] [Server thread/INFO]: Parzival5077 lost connection: You logged in from another location
+[08:19:17] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[08:19:17] [Server thread/INFO]: Parzival5077 left the game
+[08:19:17] [Server thread/INFO]: Parzival5077 joined the game
+[08:19:17] [Server thread/INFO]: Parzival5077[/127.0.0.1:49560] logged in with entity id 2162 at ([world]1342.770997672186, 37.0, 946.2393585942008)
+[08:19:17] [Craft Scheduler Thread - 59 - Essentials/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
+[08:19:17] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[08:19:17] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[08:19:25] [Server thread/INFO]: Parzival5077 issued server command: /save-all
+[08:19:25] [Server thread/INFO]: [Parzival5077: Saved the game]
+[08:21:46] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 diamond_ore
+[08:22:02] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
+[08:22:42] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 diamond_pickaxe 1
