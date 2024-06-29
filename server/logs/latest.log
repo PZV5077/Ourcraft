@@ -308,3 +308,26 @@
 [10:16:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5abada75-f756-30ce-b415-84326b48b737 timed out
 [10:16:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Littlebugs_
 [10:16:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Littlebugs_
+[10:19:18] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
+[10:19:18] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
+[10:19:18] [Server thread/INFO]: Littlebugs_ left the game
+[10:19:22] [User Authenticator #6/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[10:19:22] [Server thread/INFO]: Littlebugs_ joined the game
+[10:19:22] [Server thread/INFO]: Littlebugs_[/127.0.0.1:56994] logged in with entity id 18529 at ([world]-1162.9566714720884, 95.0, 70.66712644726938)
+[10:19:23] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
+[10:19:23] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
+[10:23:03] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[10:23:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:23:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
+[10:23:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:23:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[10:23:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
+[10:23:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
+[10:23:49] [Server thread/INFO]: Littlebugs_ fell from a high place
+[10:26:23] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[10:26:35] [Server thread/INFO]: Parzival5077 issued server command: /home bed
+[10:27:44] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 bucketotfish 30
+[10:27:55] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 bucketopufferfish 10
+[10:28:03] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 bucketosalmon 10
+[10:29:37] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 bucketotadpole 2
+[10:29:52] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 bucketowalkingfish 10
