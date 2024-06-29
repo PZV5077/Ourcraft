@@ -239,3 +239,18 @@
 [13:53:46] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
 [13:53:46] [Server thread/INFO]: Parzival5077 left the game
 [14:41:24] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[15:23:56] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[15:23:57] [Server thread/INFO]: Parzival5077 joined the game
+[15:23:57] [Server thread/INFO]: Parzival5077[/127.0.0.1:58932] logged in with entity id 11595 at ([world]-554.1913984387667, 63.0, -237.92099431520066)
+[15:23:57] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[15:23:57] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[15:24:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[15:24:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[15:24:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[15:25:19] [Server thread/INFO]: Parzival5077 issued server command: /home bed
+[15:31:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[15:31:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[15:31:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[15:32:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[15:32:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[15:32:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
