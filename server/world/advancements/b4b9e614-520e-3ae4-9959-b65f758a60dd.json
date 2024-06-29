@@ -27,6 +27,7 @@
       "minecraft:stony_shore": "2024-06-24 01:44:38 +0000",
       "minecraft:snowy_plains": "2024-06-25 13:28:32 +0000",
       "minecraft:dripstone_caves": "2024-06-16 10:07:31 +0000",
+      "minecraft:swamp": "2024-06-29 07:49:56 +0000",
       "minecraft:forest": "2024-06-17 02:09:18 +0000",
       "minecraft:frozen_ocean": "2024-06-25 13:30:47 +0000",
       "minecraft:desert": "2024-06-19 07:56:03 +0000",
@@ -1690,7 +1691,9 @@
       "minecraft:guardian": "2024-06-24 06:56:25 +0000",
       "minecraft:spider": "2024-06-18 11:14:17 +0000",
       "minecraft:creeper": "2024-06-27 01:57:50 +0000",
+      "minecraft:slime": "2024-06-29 07:55:15 +0000",
       "minecraft:zombified_piglin": "2024-06-18 12:54:04 +0000",
+      "minecraft:witch": "2024-06-29 08:03:23 +0000",
       "minecraft:piglin": "2024-06-19 09:19:42 +0000",
       "minecraft:zombie": "2024-06-18 05:10:17 +0000",
       "minecraft:drowned": "2024-06-19 02:56:57 +0000"
@@ -4301,6 +4304,84 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-06-27 10:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-06-29 07:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-06-29 07:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-29 07:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-06-29 07:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-06-29 07:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-06-29 07:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-06-29 07:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-06-29 07:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-06-29 07:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-06-29 07:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-06-29 07:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-06-29 07:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-06-29 07:55:23 +0000"
     },
     "done": true
   },

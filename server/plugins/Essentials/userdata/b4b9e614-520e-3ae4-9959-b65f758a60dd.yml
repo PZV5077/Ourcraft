@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1719487502406
-  login: 1719485467369
+  logout: 1719648001089
+  login: 1719648004482
 money: '0'
 last-account-name: Parzival5077
 lastlocation:
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
   world-name: world
-  x: -606.1029919408084
-  y: 81.70131639799646
-  z: -362.6054835760622
-  yaw: 60.29815673828125
-  pitch: 61.04986572265625
+  x: 725.1058193074265
+  y: 62.07326432466507
+  z: 399.81742952339005
+  yaw: -82.60201263427734
+  pitch: 12.749879837036133
 homes:
   hi:
     world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
@@ -45,6 +45,14 @@ homes:
     z: -19.542661023520274
     yaw: 74.24897003173828
     pitch: 39.9003791809082
+  home:
+    world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
+    world-name: world
+    x: 1318.733911305428
+    y: 71.0
+    z: 954.7313922447656
+    yaw: 45.7249755859375
+    pitch: 37.64994812011719
 mail:
 - legacy: false
   read: true
