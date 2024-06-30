@@ -36,6 +36,7 @@
       "minecraft:warm_ocean": "2024-06-19 08:03:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-06-24 04:57:03 +0000",
       "minecraft:flower_forest": "2024-06-16 13:43:57 +0000",
+      "minecraft:frozen_peaks": "2024-06-30 04:26:24 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-19 02:08:43 +0000",
       "minecraft:deep_dark": "2024-06-17 10:31:23 +0000",
       "minecraft:meadow": "2024-06-15 09:16:32 +0000",
@@ -4555,6 +4556,12 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-06-30 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-06-30 04:26:36 +0000"
     },
     "done": true
   },
