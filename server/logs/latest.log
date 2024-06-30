@@ -305,3 +305,29 @@
 [04:31:02] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 lead 2
 [04:33:29] [Server thread/INFO]: Parzival5077 was impaled on a stalagmite
 [04:33:40] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 sweet_berries 64
+[04:37:27] [Server thread/INFO]: Parzival5077 issued server command: /home bed
+[04:38:24] [Server thread/INFO]: Parzival5077 issued server command: /home bed
+[04:38:56] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 lead 2
+[04:40:01] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cherry_wood
+[04:41:19] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cherry_slab 1
+[04:41:29] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cherry_sapling 1
+[04:41:39] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cherry_log 1
+[04:41:53] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cherry_planks 1
+[04:43:07] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 water_bucket 2
+[04:47:55] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cherryfence 32
+[04:47:59] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cherryfencegate 4
+[04:50:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[04:50:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[04:50:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[04:51:19] [Server thread/WARN]: Parzival5077 was kicked due to keepalive timeout!
+[04:51:19] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[04:51:19] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[04:51:19] [Server thread/INFO]: Parzival5077 left the game
+[04:51:28] [User Authenticator #4/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[04:51:28] [Server thread/INFO]: Parzival5077 joined the game
+[04:51:28] [Server thread/INFO]: Parzival5077[/127.0.0.1:43664] logged in with entity id 17785 at ([world]-579.2116076890375, 63.0, -180.77162286813166)
+[04:51:28] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[04:51:28] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[04:51:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[04:51:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[04:51:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
