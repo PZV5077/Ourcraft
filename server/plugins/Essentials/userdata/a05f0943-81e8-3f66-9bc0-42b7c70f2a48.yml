@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1719552742544
+  lastteleport: 1719744802979
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1719552754091
-  login: 1719550107521
+  login: 1719744297907
 money: '0'
 last-account-name: Jasper
 logoutlocation:
@@ -31,11 +31,11 @@ logoutlocation:
 lastlocation:
   world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
   world-name: world
-  x: -444.6704854926306
-  y: 64.0
-  z: 546.93679094359
-  yaw: -52.0634765625
-  pitch: 10.050601959228516
+  x: -528.9802888328467
+  y: 63.0
+  z: -213.97101357748414
+  yaw: -68.55068969726562
+  pitch: 4.499943256378174
 mail:
 - legacy: false
   read: false

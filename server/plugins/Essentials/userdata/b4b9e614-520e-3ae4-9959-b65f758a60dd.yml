@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1719744115032
+  lastteleport: 1719744488981
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Parzival5077
 lastlocation:
   world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
   world-name: world
-  x: -564.5823706414842
+  x: -547.243126615098
   y: 63.0
-  z: -201.73994120650426
-  yaw: -90.197265625
-  pitch: 13.200342178344727
+  z: -240.9007764635433
+  yaw: 55.201904296875
+  pitch: 16.350200653076172
 logoutlocation:
   world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
   world-name: world
@@ -36,23 +36,6 @@ logoutlocation:
   z: -205.16999601558433
   yaw: -176.69992065429688
   pitch: 2.8499021530151367
-homes:
-  hi:
-    world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
-    world-name: world
-    x: -983.8726814017343
-    y: 92.0
-    z: -19.542661023520274
-    yaw: 74.24897003173828
-    pitch: 39.9003791809082
-  home:
-    world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
-    world-name: world
-    x: 1318.733911305428
-    y: 71.0
-    z: 954.7313922447656
-    yaw: 45.7249755859375
-    pitch: 37.64994812011719
 mail:
 - legacy: false
   read: true
