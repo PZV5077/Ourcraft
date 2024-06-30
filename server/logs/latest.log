@@ -345,3 +345,66 @@
 [10:25:52] [Server thread/INFO]: Parzival5077 was shot by .RulySphinx32354
 [10:26:39] [Server thread/INFO]: Parzival5077 was slain by .RulySphinx32354 using [小贱人]
 [10:27:24] [Server thread/INFO]: Parzival5077 was slain by .RulySphinx32354 using [小贱人]
+[10:27:30] [User Authenticator #4/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:27:30] [Server thread/INFO]: Parzival5077 lost connection: You logged in from another location
+[10:27:30] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[10:27:30] [Server thread/INFO]: Parzival5077 left the game
+[10:27:30] [Paper Async Command Builder Thread Pool - 5/INFO]: [Essentials] Essentials updated the underlying Player object for b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:27:30] [Server thread/INFO]: Parzival5077 joined the game
+[10:27:30] [Server thread/INFO]: Parzival5077[/127.0.0.1:55690] logged in with entity id 10881 at ([world]-560.7574269842517, 63.0, -205.16999601558433)
+[10:27:30] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[10:27:30] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[10:27:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:27:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:27:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[10:27:47] [Server thread/WARN]: Horse (vehicle of .RulySphinx32354) moved wrongly! 0.53485107421875
+[10:27:47] [Server thread/WARN]: Horse (vehicle of .RulySphinx32354) moved wrongly! 0.89654541015625
+[10:27:47] [Server thread/WARN]: Horse (vehicle of .RulySphinx32354) moved wrongly! 1.262451171875
+[10:27:47] [Server thread/WARN]: Horse (vehicle of .RulySphinx32354) moved wrongly! 1.46221923828125
+[10:28:17] [Server thread/INFO]: Parzival5077 was shot by Parzival5077 using [你是矢]
+[10:28:24] [Async Chat Thread - #5/INFO]: [Not Secure] <Parzival5077> ?
+[10:28:33] [Async Chat Thread - #5/INFO]: [Not Secure] <.RulySphinx32354> 盾牌
+[10:29:07] [Server thread/INFO]: .RulySphinx32354 was shot by Parzival5077 using [你是矢]
+[10:29:47] [Server thread/INFO]: Parzival5077 was shot by Parzival5077 using [你是矢]
+[10:30:38] [Server thread/INFO]: .RulySphinx32354 was doomed to fall by Parzival5077 using [你真剑]
+[10:31:23] [Server thread/INFO]: .RulySphinx32354 was shot by Parzival5077 using [你是矢]
+[10:31:44] [Server thread/INFO]: Parzival5077 was slain by .RulySphinx32354 using [人贱合一]
+[10:31:55] [Server thread/INFO]: Parzival5077 was slain by .RulySphinx32354 using [人贱合一]
+[10:32:09] [Server thread/INFO]: Parzival5077 was slain by .RulySphinx32354 using [人贱合一]
+[10:32:19] [Server thread/INFO]: .RulySphinx32354 was slain by Parzival5077 using [你真剑]
+[10:32:36] [Server thread/INFO]: Parzival5077 was slain by .RulySphinx32354 using [人贱合一]
+[10:32:44] [Server thread/INFO]: Parzival5077 issued server command: /ban .RulySphinx32354
+[10:32:44] [Server thread/INFO]: .RulySphinx32354 lost connection: You have been banned:
+The Ban Hammer has spoken!
+[10:32:44] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[10:32:44] [localSession-7-3/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of §r§cYou have been banned:
+§rThe Ban Hammer has spoken!
+[10:32:44] [Server thread/INFO]: [voicechat] Disconnecting client .RulySphinx32354
+[10:32:44] [Server thread/INFO]: .RulySphinx32354 left the game
+[10:32:44] [Server thread/INFO]: [Essentials] Player Parzival5077 banned .RulySphinx32354 for: You have been banned:
+The Ban Hammer has spoken!.
+[10:33:30] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username RulySphinx32354
+[10:33:30] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 (logged in as: RulySphinx32354) has connected to the Java server
+[10:33:30] [Geyser Spigot connection thread-6-1/INFO]: UUID of player .RulySphinx32354 is 00000000-0000-0000-0009-01f39ff4e57c
+[10:33:30] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@374a1a00[id=00000000-0000-0000-0009-01f39ff4e57c,name=.RulySphinx32354,properties={textures=[com.mojang.authlib.properties.Property@4f97e873]},legacy=false] (/127.0.0.1:0): You are banned from this server. Reason: The Ban Hammer has spoken!
+[10:33:30] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .RulySphinx32354 disconnected
+[10:33:30] [localSession-7-4/INFO]: [Geyser-Spigot] RulySphinx32354 has disconnected from the Java server because of You are banned from this server. Reason: The Ban Hammer has spoken!
+[10:33:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@374a1a00[id=00000000-0000-0000-0009-01f39ff4e57c,name=.RulySphinx32354,properties={textures=[com.mojang.authlib.properties.Property@4f97e873]},legacy=false] (/127.0.0.1:0) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
+[10:36:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[10:36:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[10:36:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[10:37:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:37:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:37:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[10:38:23] [User Authenticator #5/INFO]: UUID of player hizuki is 39f3c6ca-be92-37f9-961b-31318453cf2f
+[10:38:23] [Server thread/INFO]: hizuki joined the game
+[10:38:23] [Server thread/INFO]: hizuki[/127.0.0.1:56320] logged in with entity id 12319 at ([world]-659.0, 145.0, -463.0)
+[10:39:55] [User Authenticator #6/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
+[10:39:55] [Server thread/INFO]: CheessRevolution joined the game
+[10:39:55] [Server thread/INFO]: CheessRevolution[/127.0.0.1:44778] logged in with entity id 12907 at ([world]-659.0, 145.0, -463.0)
+[10:40:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[10:40:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[10:40:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[10:40:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[10:41:28] [Server thread/INFO]: CheessRevolution issued server command: /home
+[10:41:55] [Server thread/INFO]: Parzival5077 issued server command: /home bed
