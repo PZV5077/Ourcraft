@@ -10,6 +10,7 @@
       "minecraft:snowy_slopes": "2024-06-16 11:52:43 +0000",
       "minecraft:cherry_grove": "2024-06-16 11:52:22 +0000",
       "minecraft:sunflower_plains": "2024-06-16 11:52:02 +0000",
+      "minecraft:bamboo_jungle": "2024-07-01 08:28:36 +0000",
       "minecraft:savanna_plateau": "2024-06-26 07:56:19 +0000",
       "minecraft:beach": "2024-06-26 10:03:06 +0000",
       "minecraft:sparse_jungle": "2024-06-18 05:13:04 +0000",
@@ -20,6 +21,7 @@
       "minecraft:frozen_ocean": "2024-06-26 10:04:33 +0000",
       "minecraft:jungle": "2024-06-18 05:13:41 +0000",
       "minecraft:snowy_beach": "2024-06-26 10:04:31 +0000",
+      "minecraft:windswept_savanna": "2024-07-01 08:29:42 +0000",
       "minecraft:flower_forest": "2024-06-16 09:45:02 +0000",
       "minecraft:frozen_peaks": "2024-06-26 08:43:22 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-18 07:25:44 +0000",
@@ -46,7 +48,8 @@
       "minecraft:cave_spider": "2024-06-18 07:54:46 +0000",
       "minecraft:piglin": "2024-06-18 08:37:21 +0000",
       "minecraft:enderman": "2024-06-16 11:43:38 +0000",
-      "minecraft:zombie": "2024-06-16 08:40:00 +0000"
+      "minecraft:zombie": "2024-06-16 08:40:00 +0000",
+      "minecraft:zombie_villager": "2024-07-01 08:37:02 +0000"
     },
     "done": false
   },
@@ -2825,6 +2828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 08:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-07-01 07:17:53 +0000"
@@ -2861,6 +2870,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 08:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 08:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-07-01 07:17:53 +0000"
@@ -2885,6 +2906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 08:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-07-01 07:17:53 +0000"
@@ -2900,6 +2927,18 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-07-01 07:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 08:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 08:37:14 +0000"
     },
     "done": true
   },
