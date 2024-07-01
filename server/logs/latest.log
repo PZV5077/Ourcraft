@@ -606,3 +606,34 @@
 [07:04:57] [Server thread/INFO]: Parzival5077 issued server command: /weather sun
 [07:05:05] [Server thread/INFO]: Parzival5077 issued server command: /time set day
 [07:10:54] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 campfire 5
+[07:11:42] [Server thread/INFO]: Parzival5077 has made the advancement [Bee Our Guest]
+[07:11:59] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 campfire 5
+[07:12:52] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 potion 4
+[07:14:05] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 shears 1
+[07:14:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[07:14:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[07:14:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[07:14:30] [User Authenticator #10/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
+[07:14:30] [Server thread/INFO]: CheessRevolution joined the game
+[07:14:30] [Server thread/INFO]: CheessRevolution[/127.0.0.1:36738] logged in with entity id 32883 at ([world]-659.0, 145.0, -463.0)
+[07:15:30] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 acacialog 1
+[07:15:34] [Server thread/INFO]: CheessRevolution issued server command: /home
+[07:15:34] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: e3f99628-09e7-4b36-9a6d-6d4f478954f6, mapped to EntityPig['Pig'/32950, uuid='e3f99628-09e7-4b36-9a6d-6d4f478954f6', l='ServerLevel[world]', x=-863.78, y=119.00, z=-517.22, cpos=[-54, -33], tl=859034, v=false], can't add EntityPig['Pig'/33415, uuid='e3f99628-09e7-4b36-9a6d-6d4f478954f6', l='ServerLevel[world]', x=-864.72, y=119.00, z=-516.26, cpos=[-55, -33], tl=858584, v=false]
+[07:16:55] [Server thread/INFO]: Parzival5077 issued server command: /summon bee
+[07:16:55] [Server thread/INFO]: [Parzival5077: Summoned new Bee]
+[07:17:02] [Server thread/INFO]: Parzival5077 issued server command: /summon bee
+[07:17:02] [Server thread/INFO]: [Parzival5077: Summoned new Bee]
+[07:17:03] [Server thread/INFO]: Parzival5077 issued server command: /summon bee
+[07:17:03] [Server thread/INFO]: [Parzival5077: Summoned new Bee]
+[07:18:26] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 beehive 4
+[07:18:50] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 campfire 1
+[07:19:19] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 campfire 1
+[07:19:21] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 beehive 1
+[07:21:08] [Server thread/INFO]: CheessRevolution issued server command: /home
+[07:21:39] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 azalea 2
+[07:23:06] [Server thread/INFO]: CheessRevolution was impaled by Drowned
+[07:23:33] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 azalea 2
+[07:24:16] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 beehive 6
+[07:24:21] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 campfire 6
+[07:24:59] [Server thread/INFO]: Parzival5077 was stung to death
+[07:26:02] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 bee_nest 1
