@@ -11,6 +11,7 @@
       "minecraft:old_growth_pine_taiga": "2024-07-01 05:30:08 +0000",
       "minecraft:taiga": "2024-07-01 05:25:52 +0000",
       "minecraft:deep_ocean": "2024-06-27 09:38:08 +0000",
+      "minecraft:frozen_river": "2024-07-01 05:46:03 +0000",
       "minecraft:cherry_grove": "2024-06-26 07:42:55 +0000",
       "minecraft:sunflower_plains": "2024-06-26 07:42:24 +0000",
       "minecraft:birch_forest": "2024-06-27 09:16:03 +0000",
@@ -23,10 +24,13 @@
       "minecraft:lukewarm_ocean": "2024-06-24 06:35:01 +0000",
       "minecraft:snowy_plains": "2024-07-01 05:35:34 +0000",
       "minecraft:dripstone_caves": "2024-06-18 04:44:56 +0000",
+      "minecraft:snowy_taiga": "2024-07-01 05:36:36 +0000",
       "minecraft:forest": "2024-06-18 05:02:18 +0000",
       "minecraft:lush_caves": "2024-06-27 09:52:42 +0000",
+      "minecraft:frozen_ocean": "2024-07-01 05:37:23 +0000",
       "minecraft:jungle": "2024-06-20 06:30:55 +0000",
       "minecraft:ocean": "2024-06-27 09:27:37 +0000",
+      "minecraft:snowy_beach": "2024-07-01 05:37:05 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-06-24 06:38:39 +0000",
       "minecraft:flower_forest": "2024-06-18 01:42:07 +0000",
       "minecraft:frozen_peaks": "2024-06-26 07:44:40 +0000",
@@ -858,6 +862,7 @@
       "beef": "2024-06-25 04:40:11 +0000",
       "porkchop": "2024-07-01 05:04:25 +0000",
       "apple": "2024-06-19 05:09:53 +0000",
+      "potato": "2024-07-01 05:49:53 +0000",
       "cooked_cod": "2024-06-25 05:52:45 +0000",
       "mutton": "2024-06-19 03:49:27 +0000",
       "bread": "2024-06-19 10:41:43 +0000",
@@ -2849,6 +2854,18 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2024-07-01 05:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-07-01 05:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-07-01 05:36:52 +0000"
     },
     "done": true
   },
