@@ -239,6 +239,7 @@
     "criteria": {
       "cooked_porkchop": "2024-06-24 07:29:52 +0000",
       "chicken": "2024-06-24 07:28:13 +0000",
+      "honey_bottle": "2024-07-01 07:35:22 +0000",
       "sweet_berries": "2024-06-30 05:45:51 +0000",
       "beef": "2024-06-22 03:15:04 +0000",
       "porkchop": "2024-06-19 10:51:53 +0000",
@@ -4726,9 +4727,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-07-01 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-07-01 07:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2024-07-01 07:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-07-01 07:41:17 +0000"
     },
     "done": true
   },
@@ -4744,9 +4763,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-07-01 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-07-01 07:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2024-07-01 07:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-07-01 07:41:17 +0000"
     },
     "done": true
   },
