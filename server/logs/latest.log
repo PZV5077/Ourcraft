@@ -455,3 +455,46 @@
 [06:08:03] [Server thread/INFO]: Parzival5077 issued server command: /home
 [06:08:06] [Async Chat Thread - #37/INFO]: [Not Secure] <Jasper> 我要回家
 [06:08:07] [Server thread/INFO]: Parzival5077 issued server command: /tp Jasper Parzival5077
+[06:13:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[06:13:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[06:13:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[06:13:54] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[06:13:54] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
+[06:13:54] [Server thread/INFO]: Parzival5077 left the game
+[06:16:25] [User Authenticator #9/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[06:16:25] [Server thread/INFO]: Parzival5077 joined the game
+[06:16:25] [Server thread/INFO]: Parzival5077[/127.0.0.1:41748] logged in with entity id 25778 at ([world]-560.2238556911733, 63.0, -194.83213704891222)
+[06:16:25] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[06:16:25] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[06:16:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[06:16:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[06:16:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[06:16:55] [Server thread/INFO]: Parzival5077 issued server command: /summon cow
+[06:16:55] [Server thread/INFO]: [Parzival5077: Summoned new Cow]
+[06:16:58] [Server thread/INFO]: Parzival5077 issued server command: /summon cow
+[06:16:58] [Server thread/INFO]: [Parzival5077: Summoned new Cow]
+[06:16:59] [Server thread/INFO]: Parzival5077 issued server command: /summon cow
+[06:16:59] [Server thread/INFO]: [Parzival5077: Summoned new Cow]
+[06:16:59] [Server thread/INFO]: Parzival5077 issued server command: /summon cow
+[06:16:59] [Server thread/INFO]: [Parzival5077: Summoned new Cow]
+[06:17:00] [Server thread/INFO]: Parzival5077 issued server command: /summon cow
+[06:17:00] [Server thread/INFO]: [Parzival5077: Summoned new Cow]
+[06:17:08] [Server thread/INFO]: Parzival5077 issued server command: /summon cow
+[06:17:08] [Server thread/INFO]: [Parzival5077: Summoned new Cow]
+[06:17:09] [Server thread/INFO]: Parzival5077 issued server command: /summon cow
+[06:17:09] [Server thread/INFO]: [Parzival5077: Summoned new Cow]
+[06:17:48] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:mooshroom
+[06:17:48] [Server thread/INFO]: [Parzival5077: Summoned new Mooshroom]
+[06:19:48] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 acacia_fence
+[06:20:52] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 water_bucket 6
+[06:21:25] [Server thread/INFO]: Jasper issued server command: /home
+[06:23:21] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 acacia_fence_gate 1
+[06:23:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[06:23:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[06:23:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[06:23:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[06:23:37] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 water_bucket 6
+[06:23:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[06:23:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[06:24:56] [Server thread/INFO]: [KeepChunks] A new release of KeepChunks, v1.7.2, is available! You are still on v1.6.10.
+[06:24:56] [Server thread/INFO]: [KeepChunks] To download this update, head over to https://www.spigotmc.org/resources/23307/updates in your browser.
