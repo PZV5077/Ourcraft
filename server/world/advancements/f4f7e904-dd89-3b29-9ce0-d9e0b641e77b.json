@@ -13,12 +13,14 @@
       "minecraft:bamboo_jungle": "2024-07-01 08:28:36 +0000",
       "minecraft:savanna_plateau": "2024-06-26 07:56:19 +0000",
       "minecraft:beach": "2024-06-26 10:03:06 +0000",
+      "minecraft:mangrove_swamp": "2024-07-01 08:43:40 +0000",
       "minecraft:sparse_jungle": "2024-06-18 05:13:04 +0000",
       "minecraft:river": "2024-06-18 05:13:37 +0000",
       "minecraft:lukewarm_ocean": "2024-06-24 08:41:05 +0000",
       "minecraft:dripstone_caves": "2024-06-16 09:51:10 +0000",
       "minecraft:forest": "2024-06-18 07:36:30 +0000",
       "minecraft:frozen_ocean": "2024-06-26 10:04:33 +0000",
+      "minecraft:desert": "2024-07-01 08:43:22 +0000",
       "minecraft:jungle": "2024-06-18 05:13:41 +0000",
       "minecraft:snowy_beach": "2024-06-26 10:04:31 +0000",
       "minecraft:windswept_savanna": "2024-07-01 08:29:42 +0000",
@@ -523,6 +525,7 @@
       "potato": "2024-06-18 07:56:22 +0000",
       "cooked_cod": "2024-06-28 04:58:35 +0000",
       "bread": "2024-06-16 11:57:37 +0000",
+      "melon_slice": "2024-07-01 08:46:07 +0000",
       "cod": "2024-06-24 08:43:25 +0000",
       "carrot": "2024-06-16 09:41:38 +0000"
     },
@@ -1924,7 +1927,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2024-06-18 08:47:35 +0000"
+      "minecraft:cow": "2024-06-18 08:47:35 +0000",
+      "minecraft:horse": "2024-07-01 08:51:26 +0000"
     },
     "done": false
   },
@@ -2780,6 +2784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-07-01 08:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2024-07-01 07:43:34 +0000"
@@ -2789,6 +2799,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-07-01 07:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-07-01 08:46:04 +0000"
     },
     "done": true
   },
@@ -2846,6 +2862,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-07-01 08:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-07-01 08:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-07-01 08:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-07-01 07:17:53 +0000"
@@ -2876,6 +2910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-07-01 08:50:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-07-01 08:37:14 +0000"
@@ -2885,6 +2925,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-07-01 07:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-07-01 08:50:09 +0000"
     },
     "done": true
   },
@@ -2903,6 +2949,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-07-01 07:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-07-01 08:44:42 +0000"
     },
     "done": true
   },
