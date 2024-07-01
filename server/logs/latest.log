@@ -254,3 +254,18 @@
 [10:48:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
 [11:13:59] [Server thread/INFO]: Littlebugs_ issued server command: /hom
 [11:14:02] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[11:30:08] [User Authenticator #3/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[11:30:08] [Server thread/INFO]: Littlebugs_ lost connection: You logged in from another location
+[11:30:08] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
+[11:30:08] [Server thread/INFO]: Littlebugs_ left the game
+[11:30:08] [Server thread/INFO]: Littlebugs_ joined the game
+[11:30:08] [Server thread/INFO]: Littlebugs_[/127.0.0.1:59516] logged in with entity id 31230 at ([world]-1125.762499988079, 66.0, 131.69999998807907)
+[11:30:08] [Craft Scheduler Thread - 496 - Essentials/INFO]: [Essentials] Essentials updated the underlying Player object for 5abada75-f756-30ce-b415-84326b48b737
+[11:30:08] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
+[11:30:08] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
+[11:30:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
+[11:30:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
+[11:30:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
+[11:30:50] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
+[11:30:50] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
+[11:30:50] [Server thread/INFO]: Littlebugs_ left the game
