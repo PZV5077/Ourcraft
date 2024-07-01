@@ -4727,33 +4727,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot": {
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
-      "has_copper_block": "2024-07-01 07:41:17 +0000"
+      "has_honey_bottle": "2024-07-01 07:08:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+  "minecraft:recipes/redstone/honey_block": {
     "criteria": {
-      "has_waxed_copper_block": "2024-07-01 07:41:34 +0000"
+      "has_honey_bottle": "2024-07-01 07:08:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+  "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
-      "has_waxed_copper_block": "2024-07-01 07:41:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-07-01 07:41:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_off": {
-    "criteria": {
-      "wax_off": "2024-07-01 07:52:18 +0000"
+      "safely_harvest_honey": "2024-07-01 07:11:42 +0000"
     },
     "done": true
   },
@@ -4763,33 +4751,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper": {
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-07-01 07:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2024-07-01 07:41:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
-      "has_honey_bottle": "2024-07-01 07:08:47 +0000"
+      "has_copper_block": "2024-07-01 07:41:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+  "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
-      "has_waxed_copper_block": "2024-07-01 07:41:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_on": {
-    "criteria": {
-      "wax_on": "2024-07-01 07:41:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2024-07-01 07:08:47 +0000"
+      "has_copper_block": "2024-07-01 07:41:17 +0000"
     },
     "done": true
   },
@@ -4805,21 +4787,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-07-01 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2024-07-01 07:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2024-07-01 07:41:34 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/safely_harvest_honey": {
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
     "criteria": {
-      "safely_harvest_honey": "2024-07-01 07:11:42 +0000"
+      "has_waxed_copper_block": "2024-07-01 07:41:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
     "criteria": {
-      "has_copper_block": "2024-07-01 07:41:17 +0000"
+      "has_waxed_copper_block": "2024-07-01 07:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2024-07-01 07:41:34 +0000"
     },
     "done": true
   },
@@ -4829,9 +4829,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:husbandry/wax_off": {
     "criteria": {
-      "has_honeycomb": "2024-07-01 07:14:33 +0000"
+      "wax_off": "2024-07-01 07:52:18 +0000"
     },
     "done": true
   },
