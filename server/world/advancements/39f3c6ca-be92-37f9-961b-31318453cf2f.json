@@ -22,6 +22,7 @@
       "minecraft:windswept_savanna": "2024-06-20 11:22:14 +0000",
       "minecraft:flower_forest": "2024-06-18 01:32:39 +0000",
       "minecraft:old_growth_birch_forest": "2024-06-18 06:58:47 +0000",
+      "minecraft:deep_dark": "2024-07-01 10:25:59 +0000",
       "minecraft:meadow": "2024-06-18 01:30:10 +0000",
       "minecraft:savanna": "2024-06-18 01:35:17 +0000",
       "minecraft:plains": "2024-06-18 01:34:18 +0000"
@@ -828,6 +829,7 @@
       "minecraft:skeleton": "2024-06-18 08:28:07 +0000",
       "minecraft:spider": "2024-06-19 03:53:14 +0000",
       "minecraft:creeper": "2024-06-27 00:18:37 +0000",
+      "minecraft:slime": "2024-07-01 10:25:50 +0000",
       "minecraft:zombified_piglin": "2024-06-26 10:59:41 +0000",
       "minecraft:witch": "2024-06-27 00:17:56 +0000",
       "minecraft:piglin": "2024-06-26 10:59:33 +0000",
@@ -2163,6 +2165,36 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-06-30 12:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-07-01 10:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-07-01 10:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-07-01 10:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-07-01 10:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-07-01 10:22:08 +0000"
     },
     "done": true
   },
