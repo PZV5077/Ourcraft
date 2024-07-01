@@ -8,6 +8,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-06-19 12:32:02 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-07-01 05:30:07 +0000",
+      "minecraft:taiga": "2024-07-01 05:24:52 +0000",
       "minecraft:deep_ocean": "2024-06-27 09:38:08 +0000",
       "minecraft:eroded_badlands": "2024-06-24 01:39:34 +0000",
       "minecraft:cherry_grove": "2024-06-17 02:25:40 +0000",
@@ -27,12 +29,14 @@
       "minecraft:stony_shore": "2024-06-24 01:44:38 +0000",
       "minecraft:snowy_plains": "2024-06-25 13:28:32 +0000",
       "minecraft:dripstone_caves": "2024-06-16 10:07:31 +0000",
+      "minecraft:snowy_taiga": "2024-07-01 05:36:25 +0000",
       "minecraft:swamp": "2024-06-29 07:49:56 +0000",
       "minecraft:forest": "2024-06-17 02:09:18 +0000",
       "minecraft:frozen_ocean": "2024-06-25 13:30:47 +0000",
       "minecraft:desert": "2024-06-19 07:56:03 +0000",
       "minecraft:jungle": "2024-06-19 07:48:29 +0000",
       "minecraft:ocean": "2024-06-20 13:27:47 +0000",
+      "minecraft:snowy_beach": "2024-07-01 05:37:02 +0000",
       "minecraft:warm_ocean": "2024-06-19 08:03:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-06-24 04:57:03 +0000",
       "minecraft:flower_forest": "2024-06-16 13:43:57 +0000",
@@ -4623,15 +4627,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
-    "criteria": {
-      "has_deepslate_copper_ore": "2024-07-01 05:22:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2024-07-01 05:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-07-01 05:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2024-07-01 05:22:12 +0000"
     },
     "done": true
   },
@@ -4653,9 +4663,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
     "criteria": {
-      "has_lapis_ore": "2024-07-01 05:21:25 +0000"
+      "has_deepslate_lapis_ore": "2024-07-01 05:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-07-01 05:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-07-01 05:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-07-01 05:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 05:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 05:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 05:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 05:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 05:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-01 05:28:14 +0000"
     },
     "done": true
   },
