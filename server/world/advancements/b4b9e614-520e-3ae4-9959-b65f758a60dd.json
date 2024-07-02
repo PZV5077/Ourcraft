@@ -250,6 +250,7 @@
       "spider_eye": "2024-06-29 16:40:36 +0000",
       "potato": "2024-06-16 10:05:10 +0000",
       "cooked_cod": "2024-06-24 09:21:30 +0000",
+      "pumpkin_pie": "2024-07-02 07:57:33 +0000",
       "bread": "2024-06-17 01:32:18 +0000",
       "rotten_flesh": "2024-06-22 03:31:03 +0000",
       "cookie": "2024-06-24 09:53:07 +0000",
@@ -5078,6 +5079,18 @@
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2024-07-02 06:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-07-02 08:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-07-02 08:06:28 +0000"
     },
     "done": true
   },
