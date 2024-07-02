@@ -1709,6 +1709,7 @@
       "minecraft:witch": "2024-06-29 08:03:23 +0000",
       "minecraft:piglin": "2024-06-19 09:19:42 +0000",
       "minecraft:silverfish": "2024-07-01 05:56:21 +0000",
+      "minecraft:enderman": "2024-07-02 02:14:38 +0000",
       "minecraft:zombie": "2024-06-18 05:10:17 +0000",
       "minecraft:drowned": "2024-06-19 02:56:57 +0000",
       "minecraft:zombie_villager": "2024-07-01 05:42:27 +0000"
@@ -4870,6 +4871,18 @@
   "minecraft:husbandry/obtain_sniffer_egg": {
     "criteria": {
       "obtain_sniffer_egg": "2024-07-01 23:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2024-07-02 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "pitcher_pod": "2024-07-02 02:12:11 +0000"
     },
     "done": true
   },
