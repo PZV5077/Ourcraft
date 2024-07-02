@@ -232,3 +232,43 @@
 [04:15:02] [User Authenticator #4/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
 [04:15:02] [Server thread/INFO]: Jasper joined the game
 [04:15:02] [Server thread/INFO]: Jasper[/127.0.0.1:33094] logged in with entity id 7154 at ([world]-539.962436775014, 83.5, -230.72812526835315)
+[04:17:46] [User Authenticator #5/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[04:17:46] [Server thread/INFO]: Parzival5077 joined the game
+[04:17:46] [Server thread/INFO]: Parzival5077[/127.0.0.1:42566] logged in with entity id 7501 at ([world]-530.4212838620554, 83.0, -237.44775859769703)
+[04:17:46] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[04:17:46] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[04:17:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[04:17:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[04:17:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[04:20:11] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 blast_furnace 1
+[04:21:07] [Server thread/INFO]: Villager EntityVillager['Villager'/7899, uuid='260354ec-8155-4a6f-ad65-dc70ae1486f4', l='ServerLevel[world]', x=-556.15, y=61.00, z=-196.48, cpos=[-35, -13], tl=580, v=true] died, message: 'Villager was burnt to a crisp whilst fighting Parzival5077'
+[04:21:41] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cartography_table 1
+[04:24:07] [Server thread/INFO]: Villager EntityVillager['Villager'/7904, uuid='dc71b7f6-0d37-42bf-9f4a-31831530c448', l='ServerLevel[world]', x=-565.51, y=63.00, z=-230.06, cpos=[-36, -15], tl=4176, v=true] died, message: 'Villager was burnt to a crisp whilst fighting Parzival5077'
+[04:25:04] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stonecutter 1
+[04:25:25] [User Authenticator #6/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[04:25:25] [Server thread/INFO]: Littlebugs_ joined the game
+[04:25:25] [Server thread/INFO]: Littlebugs_[/127.0.0.1:44462] logged in with entity id 8471 at ([world]-659.0, 145.0, -463.0)
+[04:25:28] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
+[04:25:28] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
+[04:25:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
+[04:25:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
+[04:25:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
+[04:25:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5abada75-f756-30ce-b415-84326b48b737 timed out
+[04:25:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Littlebugs_
+[04:25:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Littlebugs_
+[04:26:10] [Server thread/WARN]: Littlebugs_ was kicked due to keepalive timeout!
+[04:26:10] [Server thread/INFO]: Littlebugs_ lost connection: Timed out
+[04:26:10] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
+[04:26:10] [Server thread/INFO]: Littlebugs_ left the game
+[04:26:16] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald
+[04:26:43] [User Authenticator #7/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[04:26:43] [Server thread/INFO]: Littlebugs_ joined the game
+[04:26:43] [Server thread/INFO]: Littlebugs_[/127.0.0.1:46846] logged in with entity id 8779 at ([world]-659.0, 145.0, -463.0)
+[04:26:44] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
+[04:26:44] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
+[04:26:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
+[04:26:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
+[04:26:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
+[04:29:56] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald
+[04:31:51] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
+[04:31:59] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald
