@@ -182,3 +182,30 @@
 [03:27:33] [Server thread/INFO]: CheessRevolution issued server command: /home
 [03:28:11] [Server thread/INFO]: CheessRevolution issued server command: /home
 [03:29:22] [Server thread/INFO]: CheessRevolution issued server command: /home
+[03:32:07] [Server thread/INFO]: CheessRevolution issued server command: /home
+[03:33:15] [Server thread/INFO]: CheessRevolution issued server command: /home
+[03:35:53] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[03:35:53] [Server thread/INFO]: Parzival5077 joined the game
+[03:35:53] [Server thread/INFO]: Parzival5077[/127.0.0.1:38576] logged in with entity id 3306 at ([world]-659.0, 145.0, -463.0)
+[03:35:54] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[03:35:54] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[03:35:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[03:35:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[03:35:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[03:36:27] [Server thread/INFO]: CheessRevolution issued server command: /home
+[03:37:03] [User Authenticator #2/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
+[03:37:03] [Server thread/INFO]: Jasper joined the game
+[03:37:03] [Server thread/INFO]: Jasper[/127.0.0.1:40910] logged in with entity id 3941 at ([world]-659.0, 145.0, -463.0)
+[03:38:21] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 acacia_log
+[03:38:59] [Server thread/INFO]: Jasper lost connection: Timed out
+[03:38:59] [Server thread/INFO]: [voicechat] Disconnecting client Jasper
+[03:38:59] [Server thread/INFO]: Jasper left the game
+[03:39:00] [Server thread/INFO]: CheessRevolution lost connection: Timed out
+[03:39:00] [Server thread/INFO]: [voicechat] Disconnecting client CheessRevolution
+[03:39:00] [Server thread/INFO]: CheessRevolution left the game
+[03:41:14] [User Authenticator #3/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
+[03:41:15] [Server thread/INFO]: Jasper joined the game
+[03:41:15] [Server thread/INFO]: Jasper[/127.0.0.1:55908] logged in with entity id 5016 at ([world]-529.2883621830925, 91.0, -204.25940100673714)
+[03:43:15] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 villager_spawner 1
+[03:43:38] [Server thread/INFO]: Villager EntityVillager['Villager'/5322, uuid='645a0792-42ad-44f0-a4d0-cf5b9782bba3', l='ServerLevel[world]', x=-546.52, y=63.00, z=-229.99, cpos=[-35, -15], tl=350, v=true] died, message: 'Villager was burnt to a crisp whilst fighting Parzival5077'
+[03:46:26] [Server thread/INFO]: Villager EntityVillager['Villager'/5321, uuid='2871396d-4981-483c-b1dc-8bea7268bab9', l='ServerLevel[world]', x=-572.54, y=63.00, z=-204.44, cpos=[-36, -13], tl=3707, v=true] died, message: 'Villager was slain by Parzival5077 using [你真剑]'
