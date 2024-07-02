@@ -601,6 +601,7 @@
       "melon_slice": "2024-06-25 04:49:32 +0000",
       "beetroot": "2024-06-19 02:08:36 +0000",
       "cooked_chicken": "2024-06-18 12:15:40 +0000",
+      "cod": "2024-07-02 13:56:59 +0000",
       "carrot": "2024-06-19 01:58:01 +0000"
     },
     "done": false
@@ -3183,6 +3184,36 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-06-30 10:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-07-02 13:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-07-02 13:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-07-02 13:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-07-02 13:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-07-02 13:00:02 +0000"
     },
     "done": true
   },
