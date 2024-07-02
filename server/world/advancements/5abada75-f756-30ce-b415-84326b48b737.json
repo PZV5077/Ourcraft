@@ -268,11 +268,13 @@
       "minecraft:hoglin": "2024-07-02 06:45:32 +0000",
       "minecraft:guardian": "2024-06-24 06:28:26 +0000",
       "minecraft:vindicator": "2024-06-22 16:26:59 +0000",
+      "minecraft:magma_cube": "2024-07-02 06:47:59 +0000",
       "minecraft:spider": "2024-06-18 05:22:33 +0000",
       "minecraft:piglin_brute": "2024-06-22 17:26:44 +0000",
       "minecraft:creeper": "2024-06-19 03:21:23 +0000",
       "minecraft:phantom": "2024-06-26 07:35:03 +0000",
       "minecraft:zombified_piglin": "2024-06-21 08:14:41 +0000",
+      "minecraft:wither_skeleton": "2024-07-02 06:50:01 +0000",
       "minecraft:piglin": "2024-06-18 05:12:48 +0000",
       "minecraft:enderman": "2024-06-18 07:42:14 +0000",
       "minecraft:zombie": "2024-06-18 05:10:13 +0000",
@@ -292,9 +294,10 @@
       "minecraft:crimson_forest": "2024-06-20 11:47:46 +0000",
       "minecraft:soul_sand_valley": "2024-06-18 05:12:23 +0000",
       "minecraft:nether_wastes": "2024-06-19 02:07:47 +0000",
-      "minecraft:basalt_deltas": "2024-06-19 02:09:51 +0000"
+      "minecraft:basalt_deltas": "2024-06-19 02:09:51 +0000",
+      "minecraft:warped_forest": "2024-07-02 06:47:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -4102,9 +4105,21 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-07-02 07:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-07-02 06:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-07-02 06:51:06 +0000"
     },
     "done": true
   },
@@ -4144,6 +4159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-07-02 06:51:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2024-07-02 04:28:59 +0000"
@@ -4171,6 +4192,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-07-02 04:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-07-02 07:01:02 +0000"
     },
     "done": true
   },
