@@ -1704,6 +1704,7 @@
       "minecraft:ghast": "2024-07-02 06:16:28 +0000",
       "minecraft:guardian": "2024-06-24 06:56:25 +0000",
       "minecraft:vindicator": "2024-07-01 10:29:13 +0000",
+      "minecraft:magma_cube": "2024-07-02 06:20:34 +0000",
       "minecraft:spider": "2024-06-18 11:14:17 +0000",
       "minecraft:creeper": "2024-06-27 01:57:50 +0000",
       "minecraft:slime": "2024-06-29 07:55:15 +0000",
@@ -4938,6 +4939,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-07-02 06:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-07-02 05:49:45 +0000"
@@ -4977,6 +4984,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-07-02 06:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-07-02 06:21:02 +0000"
     },
     "done": true
   },
