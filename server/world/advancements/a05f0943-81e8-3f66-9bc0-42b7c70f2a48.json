@@ -857,6 +857,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-06-18 05:11:46 +0000",
+      "honey_bottle": "2024-07-02 02:56:20 +0000",
       "cooked_mutton": "2024-06-18 07:14:04 +0000",
       "baked_potato": "2024-06-18 07:42:54 +0000",
       "beef": "2024-06-25 04:40:11 +0000",
@@ -2878,6 +2879,24 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-07-01 06:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-07-02 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-07-02 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2024-07-02 02:56:27 +0000"
     },
     "done": true
   },
