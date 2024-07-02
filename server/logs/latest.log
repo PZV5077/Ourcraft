@@ -1,137 +1,138 @@
-[03:16:27] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:16:29] [ServerMain/INFO]: Loaded 7 recipes
-[03:16:30] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:16:30] [Server thread/INFO]: Loading properties
-[03:16:30] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[03:16:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:16:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:16:31] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[07:28:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07:28:18] [ServerMain/INFO]: Loaded 7 recipes
+[07:28:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[07:28:18] [Server thread/INFO]: Loading properties
+[07:28:18] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[07:28:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:28:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:28:20] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[03:16:32] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[03:16:32] [Server thread/INFO]: Default game type: SURVIVAL
-[03:16:32] [Server thread/INFO]: Generating keypair
-[03:16:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:16:32] [Server thread/INFO]: Using default channel type
-[03:16:32] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:16:32] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:16:33] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
-[03:16:33] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
-[03:16:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[03:16:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[03:16:33] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[03:16:34] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[03:16:34] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[03:16:34] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[03:16:34] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[03:16:34] [Server thread/INFO]: [floodgate] Took 595ms to boot Floodgate
-[03:16:34] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.0
-[03:16:36] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.16
-[03:16:36] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
-[03:16:36] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
-[03:16:36] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.0.1
-[03:16:36] [Server thread/INFO]: [KeepChunks] Loading server plugin KeepChunks v1.6.10
-[03:16:36] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
-[03:16:36] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
-[03:16:36] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[03:16:36] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[03:16:36] [Server thread/INFO]: [DynamicLights] Loading server plugin DynamicLights v1.0.6-SNAPSHOT
-[03:16:36] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
-[03:16:36] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
-[03:16:36] [Server thread/INFO]: [voicechat_broadcast] Loading server plugin voicechat_broadcast v1.0.1
-[03:16:36] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
-[03:16:36] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
-[03:16:36] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
-[03:16:36] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
-[03:16:36] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
-[03:16:36] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.1.1
-[03:16:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:16:36] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[03:16:37] [Server thread/INFO]:         __    
-[03:16:37] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[03:16:37] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[03:16:37] [Server thread/INFO]: 
-[03:16:37] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[03:16:37] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[03:16:37] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[03:16:38] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[03:16:38] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1775ms)
-[03:16:38] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[03:16:38] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[03:16:38] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[03:16:38] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[03:16:38] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[03:16:38] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
-[03:16:38] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
-[03:16:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:16:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:16:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:16:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:16:38] [Server thread/INFO]: Preparing level "world"
-[03:16:39] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
-[03:16:39] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
-[03:16:39] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[03:16:40] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[03:16:40] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[03:16:40] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[03:16:40] [Server thread/INFO]: [Essentials] Using locale en
-[03:16:40] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[03:16:40] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[03:16:40] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[03:16:40] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[03:16:40] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[03:16:41] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.16
-[03:16:41] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[03:16:41] [Server thread/INFO]: [voicechat] Compatibility version 18
-[03:16:41] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[03:16:41] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
-[03:16:41] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
-[03:16:41] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[03:16:41] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[03:16:41] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.0.1
-[03:16:41] [Server thread/INFO]: [DamageIndicator] Using server version accessor for v1_20_R1
-[03:16:41] [Server thread/INFO]: [KeepChunks] Enabling KeepChunks v1.6.10
-[03:16:42] [Server thread/INFO]: 
-[03:16:42] [Server thread/INFO]:  _     _                   _______ _                 _          
-[03:16:42] [Server thread/INFO]: (_)   | |                 (_______) |               | |  v1.6.10
-[03:16:42] [Server thread/INFO]:  _____| |_____ _____ ____  _      | |__  _   _ ____ | |  _  ___ 
-[03:16:42] [Server thread/INFO]: |  _   _) ___ | ___ |  _ \| |     |  _ \| | | |  _ \| |_/ )/___)
-[03:16:42] [Server thread/INFO]: | |  \ \| ____| ____| |_| | |_____| | | | |_| | | | |  _ (|___ |
-[03:16:42] [Server thread/INFO]: |_|   \_)_____)_____)  __/ \______)_| |_|____/|_| |_|_| \_|___/ 
-[03:16:42] [Server thread/INFO]:                     |_|                                         
-[03:16:42] [Server thread/INFO]: 
-[03:16:42] [Server thread/INFO]: [KeepChunks] KeepChunks v1.6.10 has been enabled
-[03:16:42] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
-[03:16:42] [Server thread/INFO]: [DynamicLights] Enabling DynamicLights v1.0.6-SNAPSHOT
-[03:16:42] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Asynchronous Tab Completion Support!
-[03:16:42] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Brigadier Support!
-[03:16:42] [Server thread/INFO]: [DynamicLights] Registered 11 items for Dynamic Lights.
-[03:16:42] [Server thread/INFO]: [DynamicLights] Registered 6 items for Dynamic Submersible Lights.
-[03:16:42] [Server thread/INFO]: [DynamicLights] Registered 4 items for Dynamic Lockable Lights.
-[03:16:42] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
-[03:16:42] [Server thread/INFO]: [voicechat_broadcast] Enabling voicechat_broadcast v1.0.1
-[03:16:42] [Server thread/INFO]: [voicechat_broadcast] Successfully registered voice chat broadcast plugin
-[03:16:42] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
-[03:16:42] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
-[03:16:42] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.1.1
-[03:16:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[03:16:43] [Server thread/INFO]: [Geyser-Spigot] 
-[03:16:43] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
-[03:16:43] [Server thread/INFO]: [Geyser-Spigot] 
-[03:16:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[03:16:46] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
-[03:16:46] [Server thread/INFO]: [Geyser-Spigot] Done (3.127s)! Run /geyser help for help!
-[03:16:46] [Server thread/INFO]: Starting remote control listener
-[03:16:46] [Server thread/INFO]: Thread RCON Listener started
-[03:16:46] [Server thread/INFO]: RCON running on 0.0.0.0:25567
-[03:16:46] [Server thread/INFO]: Running delayed init tasks
-[03:16:46] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[03:16:46] [Server thread/INFO]: [CommandAPI] Linked 0 Bukkit permissions to commands
-[03:16:46] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
-[03:16:46] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[03:16:46] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[03:16:46] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] Checking for Updates ... 
-[03:16:46] [Craft Scheduler Thread - 0 - Passky/INFO]: 
+[07:28:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[07:28:20] [Server thread/INFO]: Default game type: SURVIVAL
+[07:28:20] [Server thread/INFO]: Generating keypair
+[07:28:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:28:20] [Server thread/INFO]: Using default channel type
+[07:28:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:28:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[07:28:21] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
+[07:28:21] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
+[07:28:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[07:28:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[07:28:22] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[07:28:22] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[07:28:22] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[07:28:22] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[07:28:23] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[07:28:23] [Server thread/INFO]: [floodgate] Took 633ms to boot Floodgate
+[07:28:23] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.0
+[07:28:24] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.16
+[07:28:24] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
+[07:28:24] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[07:28:24] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.0.1
+[07:28:24] [Server thread/INFO]: [KeepChunks] Loading server plugin KeepChunks v1.6.10
+[07:28:24] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[07:28:24] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[07:28:24] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[07:28:24] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[07:28:24] [Server thread/INFO]: [DynamicLights] Loading server plugin DynamicLights v1.0.6-SNAPSHOT
+[07:28:24] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
+[07:28:24] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
+[07:28:24] [Server thread/INFO]: [voicechat_broadcast] Loading server plugin voicechat_broadcast v1.0.1
+[07:28:24] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
+[07:28:25] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
+[07:28:25] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[07:28:25] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[07:28:25] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[07:28:25] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.1.1
+[07:28:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:28:25] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[07:28:25] [Server thread/INFO]:         __    
+[07:28:25] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[07:28:25] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[07:28:25] [Server thread/INFO]: 
+[07:28:25] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[07:28:25] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[07:28:26] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[07:28:26] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[07:28:26] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1765ms)
+[07:28:26] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[07:28:26] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[07:28:26] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[07:28:26] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[07:28:26] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[07:28:26] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[07:28:26] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
+[07:28:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:28:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:28:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:28:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:28:26] [Server thread/INFO]: Preparing level "world"
+[07:28:28] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
+[07:28:28] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[07:28:28] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[07:28:28] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[07:28:28] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[07:28:28] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[07:28:29] [Server thread/INFO]: [Essentials] Using locale en
+[07:28:29] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[07:28:29] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[07:28:29] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[07:28:29] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[07:28:29] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[07:28:29] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.16
+[07:28:29] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[07:28:29] [Server thread/INFO]: [voicechat] Compatibility version 18
+[07:28:29] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[07:28:29] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[07:28:29] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
+[07:28:29] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[07:28:29] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[07:28:29] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.0.1
+[07:28:29] [Server thread/INFO]: [DamageIndicator] Using server version accessor for v1_20_R1
+[07:28:29] [Server thread/INFO]: [KeepChunks] Enabling KeepChunks v1.6.10
+[07:28:30] [Server thread/INFO]: 
+[07:28:30] [Server thread/INFO]:  _     _                   _______ _                 _          
+[07:28:30] [Server thread/INFO]: (_)   | |                 (_______) |               | |  v1.6.10
+[07:28:30] [Server thread/INFO]:  _____| |_____ _____ ____  _      | |__  _   _ ____ | |  _  ___ 
+[07:28:30] [Server thread/INFO]: |  _   _) ___ | ___ |  _ \| |     |  _ \| | | |  _ \| |_/ )/___)
+[07:28:30] [Server thread/INFO]: | |  \ \| ____| ____| |_| | |_____| | | | |_| | | | |  _ (|___ |
+[07:28:30] [Server thread/INFO]: |_|   \_)_____)_____)  __/ \______)_| |_|____/|_| |_|_| \_|___/ 
+[07:28:30] [Server thread/INFO]:                     |_|                                         
+[07:28:30] [Server thread/INFO]: 
+[07:28:30] [Server thread/INFO]: [KeepChunks] KeepChunks v1.6.10 has been enabled
+[07:28:30] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[07:28:30] [Server thread/INFO]: [DynamicLights] Enabling DynamicLights v1.0.6-SNAPSHOT
+[07:28:30] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Asynchronous Tab Completion Support!
+[07:28:30] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Brigadier Support!
+[07:28:31] [Server thread/INFO]: [DynamicLights] Registered 11 items for Dynamic Lights.
+[07:28:31] [Server thread/INFO]: [DynamicLights] Registered 6 items for Dynamic Submersible Lights.
+[07:28:31] [Server thread/INFO]: [DynamicLights] Registered 4 items for Dynamic Lockable Lights.
+[07:28:31] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[07:28:31] [Server thread/INFO]: [voicechat_broadcast] Enabling voicechat_broadcast v1.0.1
+[07:28:31] [Server thread/INFO]: [voicechat_broadcast] Successfully registered voice chat broadcast plugin
+[07:28:31] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
+[07:28:31] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[07:28:31] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.1.1
+[07:28:31] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:28:31] [Server thread/INFO]: [Geyser-Spigot] 
+[07:28:31] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
+[07:28:31] [Server thread/INFO]: [Geyser-Spigot] 
+[07:28:31] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:28:34] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
+[07:28:34] [Server thread/INFO]: [Geyser-Spigot] Done (3.118s)! Run /geyser help for help!
+[07:28:35] [Server thread/INFO]: Starting remote control listener
+[07:28:35] [Server thread/INFO]: Thread RCON Listener started
+[07:28:35] [Server thread/INFO]: RCON running on 0.0.0.0:25567
+[07:28:35] [Server thread/INFO]: Running delayed init tasks
+[07:28:35] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[07:28:35] [Server thread/INFO]: [CommandAPI] Linked 0 Bukkit permissions to commands
+[07:28:35] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[07:28:35] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[07:28:35] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[07:28:35] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] Checking for Updates ... 
+[07:28:35] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] No new version available
+[07:28:36] [Craft Scheduler Thread - 0 - Passky/INFO]: 
 
 []============[Enabling Passky]============[]
 |
@@ -154,514 +155,136 @@
 |
 []=========================================[]
 
-[03:16:46] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] No new version available
-[03:16:47] [Server thread/INFO]: Loaded 7 recipes
-[03:16:48] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
-[03:16:48] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.1, you're on: 5.0.0
-[03:16:48] [Server thread/INFO]: Done (17.527s)! For help, type "help"
-[03:16:48] [Server thread/INFO]: Timings Reset
-[03:16:48] [Server thread/INFO]: [voicechat] Loading plugins
-[03:16:48] [Server thread/INFO]: [voicechat] Loaded 1 plugin(s)
-[03:16:48] [Server thread/INFO]: [voicechat] Initializing plugins
-[03:16:48] [Server thread/INFO]: [voicechat] Initialized 1 plugin(s)
-[03:16:48] [Server thread/INFO]: [voicechat] Registering events for 'voicechat_broadcast'
-[03:16:48] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[03:16:48] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'mcvoice.zcstudio.online:59003'
-[03:16:48] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 59003
-[03:16:48] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[03:16:48] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[03:16:48] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[03:16:56] [Server thread/INFO]: [KeepChunks] A new release of KeepChunks, v1.7.2, is available! You are still on v1.6.10.
-[03:16:56] [Server thread/INFO]: [KeepChunks] To download this update, head over to https://www.spigotmc.org/resources/23307/updates in your browser.
-[03:23:11] [User Authenticator #0/INFO]: UUID of player CheessRevolution is f4f7e904-dd89-3b29-9ce0-d9e0b641e77b
-[03:23:11] [Server thread/INFO]: CheessRevolution joined the game
-[03:23:11] [Server thread/INFO]: CheessRevolution[/127.0.0.1:60270] logged in with entity id 448 at ([world]-659.0, 145.0, -463.0)
-[03:23:11] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 39.179273ms. Summary: Getting prefix for CheessRevolution
-[03:24:53] [Server thread/INFO]: CheessRevolution issued server command: /home
-[03:25:55] [Server thread/INFO]: CheessRevolution issued server command: /home
-[03:27:33] [Server thread/INFO]: CheessRevolution issued server command: /home
-[03:28:11] [Server thread/INFO]: CheessRevolution issued server command: /home
-[03:29:22] [Server thread/INFO]: CheessRevolution issued server command: /home
-[03:32:07] [Server thread/INFO]: CheessRevolution issued server command: /home
-[03:33:15] [Server thread/INFO]: CheessRevolution issued server command: /home
-[03:35:53] [User Authenticator #1/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[03:35:53] [Server thread/INFO]: Parzival5077 joined the game
-[03:35:53] [Server thread/INFO]: Parzival5077[/127.0.0.1:38576] logged in with entity id 3306 at ([world]-659.0, 145.0, -463.0)
-[03:35:54] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[03:35:54] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[03:35:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[03:35:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[03:35:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
-[03:36:27] [Server thread/INFO]: CheessRevolution issued server command: /home
-[03:37:03] [User Authenticator #2/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
-[03:37:03] [Server thread/INFO]: Jasper joined the game
-[03:37:03] [Server thread/INFO]: Jasper[/127.0.0.1:40910] logged in with entity id 3941 at ([world]-659.0, 145.0, -463.0)
-[03:38:21] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 acacia_log
-[03:38:59] [Server thread/INFO]: Jasper lost connection: Timed out
-[03:38:59] [Server thread/INFO]: [voicechat] Disconnecting client Jasper
-[03:38:59] [Server thread/INFO]: Jasper left the game
-[03:39:00] [Server thread/INFO]: CheessRevolution lost connection: Timed out
-[03:39:00] [Server thread/INFO]: [voicechat] Disconnecting client CheessRevolution
-[03:39:00] [Server thread/INFO]: CheessRevolution left the game
-[03:41:14] [User Authenticator #3/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
-[03:41:15] [Server thread/INFO]: Jasper joined the game
-[03:41:15] [Server thread/INFO]: Jasper[/127.0.0.1:55908] logged in with entity id 5016 at ([world]-529.2883621830925, 91.0, -204.25940100673714)
-[03:43:15] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 villager_spawner 1
-[03:43:38] [Server thread/INFO]: Villager EntityVillager['Villager'/5322, uuid='645a0792-42ad-44f0-a4d0-cf5b9782bba3', l='ServerLevel[world]', x=-546.52, y=63.00, z=-229.99, cpos=[-35, -15], tl=350, v=true] died, message: 'Villager was burnt to a crisp whilst fighting Parzival5077'
-[03:46:26] [Server thread/INFO]: Villager EntityVillager['Villager'/5321, uuid='2871396d-4981-483c-b1dc-8bea7268bab9', l='ServerLevel[world]', x=-572.54, y=63.00, z=-204.44, cpos=[-36, -13], tl=3707, v=true] died, message: 'Villager was slain by Parzival5077 using [你真剑]'
-[03:46:58] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 villager_spawn_egg 12
-[03:47:55] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick
-[03:48:04] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick
-[03:48:05] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick
-[03:48:54] [Server thread/INFO]: Parzival5077 was slain by Phantom
-[03:49:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
-[03:49:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
-[03:49:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
-[03:49:31] [Server thread/INFO]: Parzival5077 lost connection: Timed out
-[03:49:31] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
-[03:49:31] [Server thread/INFO]: Parzival5077 left the game
-[03:55:11] [Server thread/INFO]: Jasper lost connection: Disconnected
-[03:55:11] [Server thread/INFO]: [voicechat] Disconnecting client Jasper
-[03:55:11] [Server thread/INFO]: Jasper left the game
-[04:02:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:02:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:02:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:02:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:03:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:10:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:15:02] [User Authenticator #4/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
-[04:15:02] [Server thread/INFO]: Jasper joined the game
-[04:15:02] [Server thread/INFO]: Jasper[/127.0.0.1:33094] logged in with entity id 7154 at ([world]-539.962436775014, 83.5, -230.72812526835315)
-[04:17:46] [User Authenticator #5/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:17:46] [Server thread/INFO]: Parzival5077 joined the game
-[04:17:46] [Server thread/INFO]: Parzival5077[/127.0.0.1:42566] logged in with entity id 7501 at ([world]-530.4212838620554, 83.0, -237.44775859769703)
-[04:17:46] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[04:17:46] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[04:17:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:17:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[04:17:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
-[04:20:11] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 blast_furnace 1
-[04:21:07] [Server thread/INFO]: Villager EntityVillager['Villager'/7899, uuid='260354ec-8155-4a6f-ad65-dc70ae1486f4', l='ServerLevel[world]', x=-556.15, y=61.00, z=-196.48, cpos=[-35, -13], tl=580, v=true] died, message: 'Villager was burnt to a crisp whilst fighting Parzival5077'
-[04:21:41] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cartography_table 1
-[04:24:07] [Server thread/INFO]: Villager EntityVillager['Villager'/7904, uuid='dc71b7f6-0d37-42bf-9f4a-31831530c448', l='ServerLevel[world]', x=-565.51, y=63.00, z=-230.06, cpos=[-36, -15], tl=4176, v=true] died, message: 'Villager was burnt to a crisp whilst fighting Parzival5077'
-[04:25:04] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stonecutter 1
-[04:25:25] [User Authenticator #6/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[04:25:25] [Server thread/INFO]: Littlebugs_ joined the game
-[04:25:25] [Server thread/INFO]: Littlebugs_[/127.0.0.1:44462] logged in with entity id 8471 at ([world]-659.0, 145.0, -463.0)
-[04:25:28] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
-[04:25:28] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
-[04:25:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
-[04:25:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
-[04:25:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
-[04:25:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5abada75-f756-30ce-b415-84326b48b737 timed out
-[04:25:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Littlebugs_
-[04:25:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Littlebugs_
-[04:26:10] [Server thread/WARN]: Littlebugs_ was kicked due to keepalive timeout!
-[04:26:10] [Server thread/INFO]: Littlebugs_ lost connection: Timed out
-[04:26:10] [Server thread/INFO]: [voicechat] Disconnecting client Littlebugs_
-[04:26:10] [Server thread/INFO]: Littlebugs_ left the game
-[04:26:16] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald
-[04:26:43] [User Authenticator #7/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
-[04:26:43] [Server thread/INFO]: Littlebugs_ joined the game
-[04:26:43] [Server thread/INFO]: Littlebugs_[/127.0.0.1:46846] logged in with entity id 8779 at ([world]-659.0, 145.0, -463.0)
-[04:26:44] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
-[04:26:44] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
-[04:26:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
-[04:26:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
-[04:26:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
-[04:29:56] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald
-[04:31:51] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[04:31:59] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald
-[04:33:08] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[04:33:22] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[04:33:31] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald
-[04:35:23] [Server thread/INFO]: Villager EntityVillager['Fletcher'/5879, uuid='2c706874-8b11-4f3c-bdc8-4e0e1b67b93a', l='ServerLevel[world]', x=-559.68, y=63.00, z=-219.37, cpos=[-35, -14], tl=58073, v=true] died, message: 'Fletcher was shot by Parzival5077 using [你是矢]'
-[04:37:18] [Server thread/INFO]: Parzival5077 issued server command: /time set midnight
-[04:37:42] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald
-[04:38:24] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[04:38:37] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald
-[04:39:28] [Server thread/INFO]: Jasper was shot by Skeleton
-[04:39:41] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[04:40:43] [Server thread/INFO]: Parzival5077 was slain by Iron Golem
-[04:40:48] [Server thread/INFO]: Jasper was slain by Iron Golem
-[04:41:58] [Server thread/WARN]: Horse (vehicle of Littlebugs_) moved wrongly! 0.3056808013643604
-[04:41:58] [Server thread/WARN]: Horse (vehicle of Littlebugs_) moved wrongly! 0.8204377660933915
-[04:41:58] [Server thread/WARN]: Horse (vehicle of Littlebugs_) moved wrongly! 1.3304872822509424
-[04:41:58] [Server thread/WARN]: Horse (vehicle of Littlebugs_) moved wrongly! 0.49907865773593585
-[04:41:58] [Server thread/WARN]: Horse (vehicle of Littlebugs_) moved wrongly! 0.497730864967707
-[04:41:58] [Server thread/WARN]: Horse (vehicle of Littlebugs_) moved wrongly! 0.49609938575997603
-[04:41:58] [Server thread/WARN]: Horse (vehicle of Littlebugs_) moved wrongly! 0.49052891945689225
-[04:41:58] [Server thread/WARN]: Horse (vehicle of Littlebugs_) moved wrongly! 0.47199058071544187
-[04:41:58] [Server thread/WARN]: Horse (vehicle of Littlebugs_) moved wrongly! 0.7290658248172122
-[04:42:18] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 string 128
-[04:43:16] [Server thread/INFO]: Villager EntityVillager['Fletcher'/11847, uuid='2d1390f8-a019-46cd-8234-30e986f44c59', l='ServerLevel[world]', x=-559.78, y=63.00, z=-219.57, cpos=[-35, -14], tl=8058, v=true] died, message: 'Fletcher was shot by Parzival5077 using [你是矢]'
-[04:43:49] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald 128
-[04:44:36] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 chest 2
-[04:45:47] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[04:45:50] [User Authenticator #8/INFO]: UUID of player hizuki is 39f3c6ca-be92-37f9-961b-31318453cf2f
-[04:45:50] [Server thread/INFO]: hizuki joined the game
-[04:45:50] [Server thread/INFO]: hizuki[/127.0.0.1:37700] logged in with entity id 15960 at ([world]-659.0, 145.0, -463.0)
-[04:47:39] [Server thread/INFO]: Parzival5077 issued server command: /time set night
-[04:47:59] [Server thread/INFO]: Villager EntityVillager['Armorer'/7884, uuid='8e0c3144-5a04-4b2c-98ce-d3ae232d0cbc', l='ServerLevel[world]', x=-560.30, y=63.00, z=-214.18, cpos=[-36, -14], tl=32925, v=true] died, message: 'Armorer was slain by Parzival5077 using [你真剑]'
-[04:48:24] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 fletching_table 1
-[04:49:10] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[04:49:54] [Server thread/INFO]: hizuki issued server command: /home
-[04:49:58] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick 126
-[04:50:07] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick 126
-[04:50:28] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald 256
-[04:52:02] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[04:52:14] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick 126
-[04:52:26] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick 126
-[04:52:27] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick 126
-[04:53:50] [Server thread/INFO]: hizuki was shot by Skeleton
-[04:54:09] [Server thread/INFO]: Parzival5077 issued server command: /tp Jasper
-[04:54:19] [Server thread/INFO]: Jasper was shot by Parzival5077 using [你是矢]
-[04:54:51] [Server thread/INFO]: Parzival5077 was shot by Skeleton
-[04:55:49] [Server thread/INFO]: Villager EntityVillager['Librarian'/14769, uuid='346328dc-4a8b-4a2d-988c-1c754765506c', l='ServerLevel[world]', x=-274.53, y=64.56, z=27.53, cpos=[-18, 1], tl=120953, v=true] died, message: 'Librarian was shot by Littlebugs_ using [咋哇鹿岛]'
-[04:55:59] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cartography_table 1
-[04:56:10] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 fletching_table 2
-[04:56:45] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick 126
-[04:57:25] [Server thread/INFO]: Villager EntityVillager['Villager'/14768, uuid='238e936f-af88-403e-9fae-f421cee76695', l='ServerLevel[world]', x=-177.83, y=64.90, z=-31.39, cpos=[-12, -2], tl=129219, v=true] died, message: 'Villager suffocated in a wall'
-[05:00:22] [Server thread/INFO]: Parzival5077 was shot by Jasper using [诸葛连弩]
-[05:00:46] [Server thread/INFO]: Parzival5077 issued server command: /bac
-[05:00:49] [Server thread/INFO]: Parzival5077 issued server command: /back
-[05:03:49] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[05:04:15] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[05:05:08] [Server thread/INFO]: Villager EntityVillager['Fletcher'/20332, uuid='f713d0f6-752a-4dcc-a89d-fd2319952196', l='ServerLevel[world]', x=-560.31, y=63.00, z=-231.61, cpos=[-36, -15], tl=10668, v=true] died, message: 'Fletcher was slain by Parzival5077 using [你真剑]'
-[05:05:23] [Server thread/INFO]: Parzival5077 issued server command: /time set night
-[05:06:17] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[05:06:32] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 emerald 256
-[05:06:55] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick 126
-[05:07:02] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick 126
-[05:07:03] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick 126
-[05:07:32] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[05:07:44] [Server thread/INFO]: Villager EntityVillager['Fletcher'/23920, uuid='3d667dc4-19bd-42c6-a938-54f4139eefd5', l='ServerLevel[world]', x=-559.37, y=63.00, z=-231.63, cpos=[-35, -15], tl=3056, v=true] died, message: 'Fletcher was slain by Parzival5077 using [你真剑]'
-[05:08:37] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[05:09:21] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 stick 1000
-[05:09:42] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[05:10:25] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[05:10:40] [Server thread/INFO]: Littlebugs_ was burnt to a crisp whilst fighting Parzival5077
-[05:10:59] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:11:02] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[05:11:15] [Server thread/INFO]: Parzival5077 was shot by Jasper using [诸葛连弩]
-[05:11:18] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[05:11:24] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:11:28] [Server thread/INFO]: Littlebugs_ was burnt to a crisp whilst fighting Parzival5077
-[05:11:28] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[05:11:35] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:11:38] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[05:12:00] [Server thread/INFO]: Jasper issued server command: /home
-[05:12:08] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:12:11] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[05:12:18] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:12:20] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[05:12:25] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:12:36] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:12:39] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[05:12:43] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:12:50] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:12:53] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[05:12:59] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:13:07] [Server thread/INFO]: Littlebugs_ was burnt to a crisp whilst fighting Parzival5077
-[05:13:24] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:13:32] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:13:39] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:13:45] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:13:56] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:14:13] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:14:22] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:14:45] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:14:50] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:14:58] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:15:04] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:15:04] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:15:19] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:15:23] [Server thread/INFO]: Parzival5077 issued server command: /home
-[05:15:33] [Server thread/INFO]: Parzival5077 issued server command: /tp Jasper
-[05:17:25] [Server thread/INFO]: Parzival5077 issued server command: /enchant punch 2
-[05:17:31] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[05:17:36] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:17:36] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:17:47] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:19:12] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:19:54] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:20:05] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:20:21] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:20:35] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:20:59] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:21:08] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:21:13] [Server thread/INFO]: Parzival5077 walked into the danger zone due to Littlebugs_
-[05:21:37] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:21:49] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:21:53] [Server thread/INFO]: Littlebugs_ was burnt to a crisp whilst fighting Parzival5077
-[05:22:02] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:22:10] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[05:22:10] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
-[05:22:10] [Server thread/INFO]: Parzival5077 left the game
-[05:22:11] [User Authenticator #9/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[05:22:11] [Server thread/INFO]: Parzival5077 joined the game
-[05:22:11] [Server thread/INFO]: Parzival5077[/127.0.0.1:48166] logged in with entity id 31167 at ([world]-288.63315754561154, 65.0, 14.300000011920929)
-[05:22:11] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[05:22:11] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[05:22:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[05:22:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[05:22:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
-[05:22:14] [Server thread/INFO]: Jasper was shot by Littlebugs_ using [咋哇鹿岛]
-[05:22:21] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:22:39] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:22:47] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:23:04] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:23:15] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:23:34] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:23:36] [Server thread/INFO]: Littlebugs_ was burnt to a crisp whilst fighting Parzival5077
-[05:23:50] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:24:02] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:24:51] [Server thread/INFO]: Parzival5077 issued server command: /tp hizuki
-[05:24:56] [Server thread/INFO]: hizuki was shot by Parzival5077 using [你是矢]
-[05:25:19] [Server thread/INFO]: hizuki was burnt to a crisp whilst fighting Parzival5077
-[05:25:36] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:25:39] [Server thread/INFO]: Parzival5077 issued server command: /tp hizuki
-[05:25:45] [Server thread/INFO]: hizuki was shot by Parzival5077 using [你是矢]
-[05:26:03] [Server thread/INFO]: Parzival5077 was slain by hizuki using [阿尼亚挖苦挖苦]
-[05:26:05] [Server thread/INFO]: Parzival5077 issued server command: /tp hizuki
-[05:26:10] [Server thread/INFO]: hizuki was shot by Parzival5077 using [你是矢]
-[05:26:27] [Server thread/INFO]: Parzival5077 was slain by Jasper using [你奶]
-[05:26:40] [Server thread/INFO]: Parzival5077 issued server command: /tp Jasper
-[05:26:49] [Server thread/INFO]: Jasper was shot by Parzival5077 using [你是矢]
-[05:26:52] [Server thread/INFO]: Parzival5077 issued server command: /tp Jasper
-[05:26:57] [Server thread/INFO]: Jasper was shot by Parzival5077 using [你是矢]
-[05:27:08] [Server thread/INFO]: Jasper was burnt to a crisp whilst fighting Parzival5077
-[05:27:16] [Server thread/INFO]: Parzival5077 was shot by Jasper using [下界合金弩]
-[05:27:27] [Server thread/INFO]: Jasper was shot by Parzival5077 using [你是矢]
-[05:27:36] [Server thread/INFO]: Jasper was shot by Parzival5077 using [你是矢]
-[05:27:45] [Server thread/INFO]: Parzival5077 was slain by Jasper using [你奶]
-[05:28:01] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:28:09] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:28:18] [Server thread/INFO]: Littlebugs_ was shot by Parzival5077 using [你是矢]
-[05:28:23] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:29:10] [Server thread/INFO]: Jasper was shot by Parzival5077 using [你是矢]
-[05:29:35] [Server thread/INFO]: Jasper was shot by Parzival5077 using [你是矢]
-[05:30:14] [Server thread/INFO]: Jasper was shot by Parzival5077 using [你是矢]
-[05:30:38] [Server thread/INFO]: Jasper was shot by Parzival5077 using [你是矢]
-[05:30:40] [Server thread/INFO]: Parzival5077 was shot by hizuki
-[05:30:58] [Server thread/INFO]: Jasper was shot by Parzival5077 using [你是矢]
-[05:31:03] [Server thread/INFO]: Parzival5077 was shot by Littlebugs_ using [咋哇鹿岛]
-[05:31:16] [Server thread/INFO]: Parzival5077 was slain by Jasper using [你奶]
-[05:31:23] [Server thread/INFO]: Jasper was burnt to a crisp whilst fighting Parzival5077
-[05:31:39] [Server thread/INFO]: Jasper was burnt to a crisp whilst fighting Parzival5077
-[05:32:40] [Server thread/INFO]: Parzival5077 was slain by Jasper using [你奶]
-[05:32:54] [Server thread/INFO]: Jasper was burnt to a crisp whilst fighting Parzival5077
-[05:33:07] [Server thread/INFO]: Jasper was burnt to a crisp whilst fighting Parzival5077
-[05:33:12] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[05:33:12] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
-[05:33:12] [Server thread/INFO]: Parzival5077 left the game
-[05:33:14] [User Authenticator #10/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[05:33:14] [Server thread/INFO]: Parzival5077 joined the game
-[05:33:14] [Server thread/INFO]: Parzival5077[/127.0.0.1:57372] logged in with entity id 34976 at ([world]-296.88115606458655, 70.0, 6.755902993773765)
-[05:33:14] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[05:33:14] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[05:33:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[05:33:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[05:33:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
-[05:33:21] [Server thread/INFO]: Parzival5077 was slain by Jasper using [你奶]
-[05:33:32] [Server thread/INFO]: Jasper was slain by Parzival5077 using [你真剑]
-[05:33:49] [Server thread/INFO]: Parzival5077 was slain by Jasper using [你奶]
-[05:33:55] [Server thread/INFO]: Jasper burned to death
-[05:34:24] [Server thread/INFO]: Parzival5077 was slain by Jasper using [你奶]
-[05:34:29] [Server thread/INFO]: Jasper was burnt to a crisp whilst fighting Parzival5077
-[05:39:30] [Async Chat Thread - #4/INFO]: [Not Secure] <Littlebugs_> 我这豆忙完了
-[05:39:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Littlebugs_> 现在你们需要干点啥
-[05:40:11] [Async Chat Thread - #3/INFO]: [Not Secure] <Jasper> 我们没啥要干的了
-[05:41:06] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[05:41:17] [Server thread/INFO]: Parzival5077 issued server command: /home
-[05:44:14] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 invis2potion 2
-[05:48:13] [Server thread/INFO]: hizuki was slain by Zombie
-[05:49:31] [Server thread/INFO]: Parzival5077 issued server command: /tp 256 ~ -176
-[05:49:39] [Server thread/INFO]: Littlebugs_ fell from a high place
-[05:49:47] [Server thread/INFO]: hizuki was blown up by Creeper
-[05:50:12] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[05:50:49] [Server thread/INFO]: hizuki was slain by Zombie
-[05:52:07] [Server thread/INFO]: Parzival5077 issued server command: /homes
-[05:53:47] [Server thread/INFO]: Littlebugs_ fell from a high place
-[05:54:07] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[05:54:18] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 flint_and_steel 1
-[05:54:54] [Server thread/INFO]: Littlebugs_ fell from a high place
-[05:55:00] [Server thread/INFO]: Parzival5077 issued server command: /tp 160 ~ 64
-[05:56:06] [Server thread/INFO]: hizuki fell from a high place
-[05:56:28] [Server thread/INFO]: hizuki fell from a high place
-[05:56:47] [Server thread/INFO]: hizuki fell from a high place
-[05:57:12] [Async Chat Thread - #5/INFO]: [Not Secure] <Littlebugs_> hizuki
-[05:57:40] [Server thread/INFO]: Parzival5077 fell from a high place
-[05:58:08] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 flint_and_steel 1
-[05:58:12] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 invis2potion 2
-[05:58:16] [Server thread/INFO]: Villager EntityVillager['Villager'/37338, uuid='67168b1f-67f2-497d-b81e-215a666a4053', l='ServerLevel[world]', x=-177.24, y=65.00, z=-32.34, cpos=[-12, -3], tl=22947, v=true] died, message: 'Villager was shot by Littlebugs_ using [咋哇鹿岛]'
-[05:59:03] [Server thread/INFO]: Parzival5077 issued server command: /tp 160 ~ 64
-[05:59:14] [Server thread/INFO]: Villager EntityVillager['Villager'/14771, uuid='2d44ec2f-e84c-4ecc-b8c2-b7b440af4ba9', l='ServerLevel[world]', x=-174.95, y=65.00, z=-31.30, cpos=[-11, -2], tl=183387, v=true] died, message: 'Villager was shot by Littlebugs_ using [咋哇鹿岛]'
-[06:00:39] [Server thread/INFO]: Parzival5077 issued server command: /tp 1984 ~ 320
-[06:01:00] [Server thread/INFO]: Parzival5077 issued server command: /home
-[06:01:08] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[06:01:42] [Server thread/INFO]: hizuki issued server command: /home
-[06:01:52] [Server thread/INFO]: Parzival5077 issued server command: /tp 1984 ~ 320
-[06:02:55] [Server thread/INFO]: Littlebugs_ fell from a high place
-[06:04:12] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 diamond_ore
-[06:08:14] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[06:08:34] [Server thread/INFO]: Parzival5077 issued server command: /sethome
-[06:08:49] [Server thread/INFO]: Littlebugs_ fell from a high place
-[06:09:29] [Server thread/INFO]: Parzival5077 issued server command: /tp 171 ~ -501
-[06:09:29] [Server thread/INFO]: Parzival5077 has made the advancement [A Terrible Fortress]
-[06:09:51] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[06:11:16] [Server thread/INFO]: Littlebugs_ fell from a high place
-[06:11:20] [Server thread/INFO]: Parzival5077 withered away whilst fighting Wither Skeleton
-[06:11:38] [Server thread/INFO]: Jasper lost connection: Disconnected
-[06:11:38] [Server thread/INFO]: [voicechat] Disconnecting client Jasper
-[06:11:38] [Server thread/INFO]: Jasper left the game
-[06:12:46] [Server thread/INFO]: Parzival5077 issued server command: /back ?
-[06:12:48] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:12:55] [Server thread/INFO]: Parzival5077 issued server command: /tp 171 ~ -501
-[06:13:04] [Server thread/INFO]: Parzival5077 issued server command: /home
-[06:13:51] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[06:14:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
-[06:14:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
-[06:14:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
-[06:14:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[06:14:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5abada75-f756-30ce-b415-84326b48b737 timed out
-[06:14:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Littlebugs_
-[06:14:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Littlebugs_
-[06:14:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
-[06:15:00] [Server thread/INFO]: Parzival5077 issued server command: /home
-[06:16:10] [Server thread/INFO]: Parzival5077 issued server command: /gamerule keepInventory true
-[06:16:10] [Server thread/INFO]: [Parzival5077: Gamerule keepInventory is now set to: true]
-[06:16:17] [Server thread/INFO]: Parzival5077 issued server command: /gamerule keepInventory true
-[06:16:17] [Server thread/INFO]: [Parzival5077: Gamerule keepInventory is now set to: true]
-[06:16:23] [Server thread/INFO]: Littlebugs_ fell from a high place
-[06:16:56] [Server thread/INFO]: [KeepChunks] A new release of KeepChunks, v1.7.2, is available! You are still on v1.6.10.
-[06:16:56] [Server thread/INFO]: [KeepChunks] To download this update, head over to https://www.spigotmc.org/resources/23307/updates in your browser.
-[06:17:18] [Server thread/INFO]: Parzival5077 fell from a high place
-[06:17:49] [Server thread/INFO]: Parzival5077 issued server command: /tp 171 ~ -501
-[06:18:55] [Server thread/INFO]: Parzival5077 was slain by Zombified Piglin
-[06:19:03] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:19:05] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:19:12] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:19:23] [Server thread/INFO]: Parzival5077 issued server command: /tp 171 ~ -501
-[06:19:41] [Server thread/INFO]: Parzival5077 was slain by Wither Skeleton
-[06:20:03] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:20:06] [Server thread/INFO]: Parzival5077 issued server command: /tp 171 ~ -501
-[06:21:02] [Server thread/INFO]: Parzival5077 has made the advancement [Spooky Scary Skeleton]
-[06:26:29] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[06:27:10] [Server thread/INFO]: Parzival5077 was fireballed by Blaze
-[06:27:18] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:27:34] [Server thread/INFO]: Parzival5077 issued server command: /tp 171 ~ -501
-[06:27:43] [Server thread/INFO]: Parzival5077 issued server command: /tp 171 ~ -501
-[06:29:16] [Server thread/INFO]: Littlebugs_ fell from a high place
-[06:29:23] [Server thread/INFO]: Parzival5077 was burnt to a crisp whilst fighting Blaze
-[06:29:57] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[06:30:07] [Server thread/INFO]: Littlebugs_ issued server command: /back
-[06:30:57] [Server thread/INFO]: Parzival5077 issued server command: /enchant sharpness 4
-[06:31:28] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[06:31:41] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:33:18] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:18] [Server thread/INFO]: [Rcon: Showing new subtitle for 3 players]
-[06:33:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:19] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:33:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:20] [Server thread/INFO]: [Rcon: Gave 51 experience points to 3 players]
-[06:33:20] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:20] [Server thread/INFO]: [Essentials] Rcon issued server command: /list 
-[06:33:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:23] [Server thread/INFO]: [Rcon: Showing new subtitle for 3 players]
-[06:33:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:24] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:33:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:26] [Server thread/INFO]: [Rcon: Showing new subtitle for 3 players]
-[06:33:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:28] [Server thread/INFO]: [Rcon: Showing new subtitle for 3 players]
-[06:33:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:30] [Server thread/INFO]: [Rcon: Showing new subtitle for 3 players]
-[06:33:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[06:33:30] [Server thread/INFO]: [Rcon: Showing new title for 3 players]
-[06:33:30] [RCON Client /127.0.0.1 #19/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[06:33:57] [Server thread/INFO]: Parzival5077 issued server command: /experience add @a 1000
-[06:33:57] [Server thread/INFO]: [Parzival5077: Gave 1000 experience points to 3 players]
-[06:35:58] [Server thread/INFO]: Parzival5077 was fireballed by Blaze
-[06:36:26] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:36:29] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:37:02] [Server thread/INFO]: Parzival5077 issued server command: /tp 171 ~ -501
-[06:38:51] [Server thread/INFO]: hizuki lost connection: Disconnected
-[06:38:51] [Server thread/INFO]: [voicechat] Disconnecting client hizuki
-[06:38:51] [Server thread/INFO]: hizuki left the game
-[06:39:43] [Server thread/INFO]: Parzival5077 withered away
-[06:40:11] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:40:15] [Server thread/INFO]: Parzival5077 issued server command: /tp 171 ~ -501
-[06:41:09] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[06:41:09] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
-[06:41:09] [Server thread/INFO]: Parzival5077 left the game
-[06:41:11] [User Authenticator #11/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[06:41:11] [Server thread/INFO]: Parzival5077 joined the game
-[06:41:11] [Server thread/INFO]: Parzival5077[/127.0.0.1:57648] logged in with entity id 72763 at ([world_nether]169.54502039178186, 70.0, -459.27394006325784)
-[06:41:11] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[06:41:11] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[06:41:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[06:41:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[06:41:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
-[06:41:47] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[06:41:47] [Server thread/INFO]: Littlebugs_ has made the advancement [A Terrible Fortress]
-[06:43:00] [Server thread/INFO]: Littlebugs_ tried to swim in lava
-[06:43:05] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[06:43:31] [Server thread/INFO]: Littlebugs_ has made the advancement [Into Fire]
-[06:44:42] [Server thread/INFO]: Parzival5077 issued server command: /fix
-[06:45:10] [Server thread/INFO]: Littlebugs_ tried to swim in lava
-[06:45:20] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[06:45:42] [Server thread/INFO]: Littlebugs_ was burnt to a crisp whilst fighting Blaze
-[06:45:46] [Server thread/INFO]: Littlebugs_ issued server command: /back
-[06:45:56] [Server thread/INFO]: Parzival5077 was burnt to a crisp whilst fighting Blaze
-[06:46:00] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:46:02] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:46:04] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:46:06] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[06:46:37] [Server thread/INFO]: Parzival5077 issued server command: /tp Parzival5077 299.0 48 -502.0
-[06:46:42] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[06:46:49] [Server thread/INFO]: Littlebugs_ issued server command: /back
-[06:46:50] [Server thread/INFO]: Parzival5077 issued server command: /back
-[06:47:22] [Server thread/INFO]: Parzival5077 issued server command: /tp 539 ~ -533
-[06:47:23] [Server thread/INFO]: Parzival5077 has completed the challenge [Hot Tourist Destinations]
-[06:47:24] [Server thread/INFO]: Littlebugs_ tried to swim in lava to escape Hoglin
-[06:47:27] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[06:47:28] [Server thread/INFO]: Littlebugs_ has completed the challenge [Hot Tourist Destinations]
-[06:47:51] [Server thread/INFO]: Parzival5077 issued server command: /sethome a
-[06:47:56] [Server thread/INFO]: Parzival5077 issued server command: /home bed
-[06:48:05] [Server thread/INFO]: Parzival5077 issued server command: /home a
-[06:49:32] [Server thread/INFO]: Parzival5077 issued server command: /home bed
-[06:49:41] [Server thread/INFO]: Parzival5077 issued server command: /home a
-[06:49:47] [Server thread/INFO]: Parzival5077 issued server command: /enchant silktouch
-[06:49:53] [Server thread/INFO]: Parzival5077 issued server command: /enchant silktouch
-[06:54:04] [Server thread/INFO]: Parzival5077 withered away whilst fighting Blaze
-[06:54:22] [Server thread/INFO]: Parzival5077 issued server command: /home a
-[06:57:51] [Server thread/INFO]: Parzival5077 issued server command: /tp 27 ~ 523
-[06:57:58] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[07:01:02] [Server thread/INFO]: Littlebugs_ has made the advancement [Spooky Scary Skeleton]
-[07:03:42] [Server thread/INFO]: Parzival5077 issued server command: /tp 2251 ~ -1093
-[07:03:47] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[07:08:12] [Server thread/INFO]: Parzival5077 issued server command: /tp 2507 ~ -805
-[07:08:13] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[07:09:10] [Server thread/INFO]: Parzival5077 withered away
-[07:09:15] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[07:09:24] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[07:14:40] [Server thread/INFO]: Parzival5077 issued server command: /enchant looting 3
-[07:15:02] [Server thread/INFO]: Parzival5077 issued server command: /tp 3771 ~ -805
-[07:15:04] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[07:15:07] [Server thread/INFO]: Parzival5077 issued server command: /tp 3771 ~ -805
-[07:15:10] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[07:15:48] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[07:19:24] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
-[07:19:28] [Server thread/INFO]: Parzival5077 issued server command: /tp 11 ~ 1179
-[07:19:30] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[07:19:47] [Server thread/INFO]: Littlebugs_ issued server command: /home
-[07:20:24] [Server thread/INFO]: Parzival5077 burned to death
-[07:20:29] [Server thread/INFO]: Parzival5077 issued server command: /back
-[07:20:43] [Server thread/INFO]: Parzival5077 issued server command: /tp 11 ~ 1179
-[07:21:06] [Server thread/INFO]: Littlebugs_ fell from a high place
-[07:22:04] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
-[07:24:59] [Server thread/INFO]: Parzival5077 issued server command: /tp -421 ~ 1323
-[07:25:01] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
+[07:28:36] [Server thread/INFO]: Loaded 7 recipes
+[07:28:37] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[07:28:37] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.1, you're on: 5.0.0
+[07:28:37] [Server thread/INFO]: Done (18.442s)! For help, type "help"
+[07:28:37] [Server thread/INFO]: Timings Reset
+[07:28:37] [Server thread/INFO]: [voicechat] Loading plugins
+[07:28:37] [Server thread/INFO]: [voicechat] Loaded 1 plugin(s)
+[07:28:37] [Server thread/INFO]: [voicechat] Initializing plugins
+[07:28:37] [Server thread/INFO]: [voicechat] Initialized 1 plugin(s)
+[07:28:37] [Server thread/INFO]: [voicechat] Registering events for 'voicechat_broadcast'
+[07:28:37] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[07:28:37] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'mcvoice.zcstudio.online:59003'
+[07:28:37] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 59003
+[07:28:37] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[07:28:37] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[07:28:37] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[07:28:39] [User Authenticator #0/INFO]: UUID of player Littlebugs_ is 5abada75-f756-30ce-b415-84326b48b737
+[07:28:40] [Server thread/INFO]: Littlebugs_ joined the game
+[07:28:40] [Server thread/INFO]: Littlebugs_[/127.0.0.1:36856] logged in with entity id 285 at ([world_nether]0.0, 66.0, 0.0)
+[07:28:40] [Server thread/INFO]: [voicechat] Received secret request of Littlebugs_ (18)
+[07:28:40] [Server thread/INFO]: [voicechat] Sent secret to Littlebugs_
+[07:28:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5abada75-f756-30ce-b415-84326b48b737
+[07:28:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5abada75-f756-30ce-b415-84326b48b737
+[07:28:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Littlebugs_ (5abada75-f756-30ce-b415-84326b48b737) successfully connected to voice chat
+[07:28:44] [Server thread/INFO]: [KeepChunks] A new release of KeepChunks, v1.7.2, is available! You are still on v1.6.10.
+[07:28:44] [Server thread/INFO]: [KeepChunks] To download this update, head over to https://www.spigotmc.org/resources/23307/updates in your browser.
+[07:28:57] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
+[07:28:57] [Server thread/INFO]: Parzival5077 joined the game
+[07:28:57] [Server thread/INFO]: Parzival5077[/127.0.0.1:48176] logged in with entity id 701 at ([world_nether]0.0, 66.0, 0.0)
+[07:28:58] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
+[07:28:58] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
+[07:28:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[07:29:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[07:29:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[07:29:32] [Server thread/INFO]: Parzival5077 was slain by Wither Skeleton
+[07:29:35] [Server thread/INFO]: Parzival5077 issued server command: /back
+[07:30:00] [Server thread/INFO]: Parzival5077 issued server command: /tp 1163 ~ 1483
+[07:30:05] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
+[07:30:30] [User Authenticator #1/INFO]: UUID of player Jasper is a05f0943-81e8-3f66-9bc0-42b7c70f2a48
+[07:30:30] [Server thread/INFO]: Jasper joined the game
+[07:30:30] [Server thread/INFO]: Jasper[/127.0.0.1:60054] logged in with entity id 1555 at ([world]-659.0, 145.0, -463.0)
+[07:32:10] [Server thread/INFO]: Parzival5077 issued server command: /tp 1835 ~ 1595
+[07:32:13] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
+[07:32:19] [Server thread/INFO]: Parzival5077 issued server command: /tp Jasper Parzival5077
+[07:32:42] [Server thread/INFO]: Jasper issued server command: /home
+[07:33:36] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
+[07:34:42] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
+[07:36:30] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[07:37:37] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
+[07:37:41] [Server thread/INFO]: Parzival5077 issued server command: /back
+[07:38:24] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_
+[07:38:28] [Server thread/INFO]: Parzival5077 issued server command: /summon
+[07:39:05] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:05] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:19] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:19] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:30] [Server thread/INFO]: Parzival5077 issued server command: /fly
+[07:39:37] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:37] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:39] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:39] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:41] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:41] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:42] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:42] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:43] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:43] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:44] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:44] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:52] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:52] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:53] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:53] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:54] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:54] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:54] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:54] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:55] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:55] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:56] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:56] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:56] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:56] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:57] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:57] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:58] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:58] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:58] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:58] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:39:59] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:39:59] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:00] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:00] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:00] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:00] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:01] [Server thread/INFO]: Parzival5077 issued server command: /
+[07:40:03] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton/
+[07:40:04] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:04] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:06] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:06] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:12] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton ~ ~ ~ 20
+[07:40:14] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:14] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:15] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:15] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:15] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:15] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:16] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:16] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:17] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:17] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:17] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:17] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:19] [Server thread/INFO]: Parzival5077 issued server command: /
+[07:40:19] [Server thread/INFO]: Parzival5077 issued server command: /
+[07:40:23] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:23] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:24] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:24] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:25] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:25] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:26] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:26] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:27] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:27] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:40:28] [Server thread/INFO]: Parzival5077 issued server command: /summon minecraft:wither_skeleton
+[07:40:28] [Server thread/INFO]: [Parzival5077: Summoned new Wither Skeleton]
+[07:41:00] [Server thread/INFO]: Littlebugs_ was slain by Wither Skeleton
+[07:41:06] [Server thread/INFO]: Littlebugs_ issued server command: /home
+[07:41:11] [Server thread/INFO]: Parzival5077 issued server command: /tp Littlebugs_ Parzival5077
+[07:42:16] [Server thread/INFO]: Parzival5077 issued server command: /back
+[07:42:46] [Server thread/INFO]: Parzival5077 issued server command: /tp 320 ~ 1424
