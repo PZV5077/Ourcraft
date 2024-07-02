@@ -1698,8 +1698,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-06-18 06:39:12 +0000",
+      "minecraft:blaze": "2024-07-02 06:17:55 +0000",
       "minecraft:skeleton": "2024-06-18 12:32:45 +0000",
       "minecraft:ravager": "2024-07-01 10:31:02 +0000",
+      "minecraft:ghast": "2024-07-02 06:16:28 +0000",
       "minecraft:guardian": "2024-06-24 06:56:25 +0000",
       "minecraft:vindicator": "2024-07-01 10:29:13 +0000",
       "minecraft:spider": "2024-06-18 11:14:17 +0000",
@@ -1708,6 +1710,7 @@
       "minecraft:phantom": "2024-06-29 10:10:44 +0000",
       "minecraft:zombified_piglin": "2024-06-18 12:54:04 +0000",
       "minecraft:witch": "2024-06-29 08:03:23 +0000",
+      "minecraft:wither_skeleton": "2024-07-02 06:18:12 +0000",
       "minecraft:piglin": "2024-06-19 09:19:42 +0000",
       "minecraft:silverfish": "2024-07-01 05:56:21 +0000",
       "minecraft:enderman": "2024-07-02 02:14:38 +0000",
@@ -4917,6 +4920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-07-02 06:08:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-07-02 05:49:45 +0000"
@@ -4962,6 +4971,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-07-02 05:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-07-02 06:09:29 +0000"
     },
     "done": true
   },
