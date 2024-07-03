@@ -5310,15 +5310,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2024-07-03 03:00:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2024-07-03 02:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-07-03 03:00:42 +0000"
     },
     "done": true
   },
