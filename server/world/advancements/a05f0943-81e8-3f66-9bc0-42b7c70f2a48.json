@@ -23,6 +23,7 @@
       "minecraft:river": "2024-06-18 04:43:26 +0000",
       "minecraft:lukewarm_ocean": "2024-06-24 06:35:01 +0000",
       "minecraft:snowy_plains": "2024-07-01 05:35:34 +0000",
+      "minecraft:stony_shore": "2024-07-02 23:52:55 +0000",
       "minecraft:dripstone_caves": "2024-06-18 04:44:56 +0000",
       "minecraft:snowy_taiga": "2024-07-01 05:36:36 +0000",
       "minecraft:forest": "2024-06-18 05:02:18 +0000",
@@ -3190,6 +3191,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2024-07-02 23:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-07-02 23:39:28 +0000"
     },
     "done": true
   },
