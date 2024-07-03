@@ -253,6 +253,7 @@
       "cooked_cod": "2024-06-24 09:21:30 +0000",
       "pumpkin_pie": "2024-07-02 07:57:33 +0000",
       "bread": "2024-06-17 01:32:18 +0000",
+      "golden_apple": "2024-07-03 00:56:16 +0000",
       "rotten_flesh": "2024-06-22 03:31:03 +0000",
       "cookie": "2024-06-24 09:53:07 +0000",
       "salmon": "2024-06-25 00:50:38 +0000",
@@ -1713,6 +1714,7 @@
       "minecraft:spider": "2024-06-18 11:14:17 +0000",
       "minecraft:piglin_brute": "2024-07-02 07:48:23 +0000",
       "minecraft:creeper": "2024-06-27 01:57:50 +0000",
+      "minecraft:wither": "2024-07-03 00:58:05 +0000",
       "minecraft:slime": "2024-06-29 07:55:15 +0000",
       "minecraft:evoker": "2024-07-02 10:35:52 +0000",
       "minecraft:phantom": "2024-06-29 10:10:44 +0000",
@@ -5140,9 +5142,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-07-03 01:05:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2024-07-03 00:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-07-03 00:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-07-03 00:58:07 +0000"
     },
     "done": true
   },
