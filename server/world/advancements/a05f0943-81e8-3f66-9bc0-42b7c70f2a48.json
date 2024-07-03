@@ -671,6 +671,7 @@
     "criteria": {
       "minecraft:pillager": "2024-06-20 06:24:01 +0000",
       "minecraft:skeleton": "2024-06-18 07:36:44 +0000",
+      "minecraft:ghast": "2024-07-03 01:46:00 +0000",
       "minecraft:hoglin": "2024-07-02 07:52:04 +0000",
       "minecraft:guardian": "2024-06-24 06:39:20 +0000",
       "minecraft:magma_cube": "2024-07-02 07:58:22 +0000",
@@ -3197,6 +3198,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2024-07-02 23:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-07-03 01:52:41 +0000"
     },
     "done": true
   },
