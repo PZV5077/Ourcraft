@@ -215,3 +215,32 @@
 [08:20:17] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_star [fireworks{flight_duration=3,explosions[{has_trail=true,has_twinkle=true,shape="large_ball"}]}]
 [08:22:49] [Server thread/INFO]: Parzival5077 issued server command: /summon fireworks_rocket ~ ~ ~ {LifeTime:20,FireworksItem:{id:fireworks,Count:1,tag:{Fireworks:{Explosions:[{Type:4,Flicker:1,Trail:1,Colors:[16744576],FadeColors:[]}]}
 [08:23:12] [Server thread/INFO]: Parzival5077 issued server command: /summon fireworks_rocket ~ ~ ~ {LifeTime:20,FireworksItem:{id:fireworks,Count:1,tag:{Fireworks:{Explosions:[{Type:4,Flicker:1,Trail:1,Colors:[16744576],FadeColors:[]}]}}}}
+[08:24:07] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}],Flight:3}}
+[08:24:12] [Server thread/INFO]: Parzival5077 issued server command: /god
+[08:24:13] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}],Flight:3}}
+[08:24:38] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}],Flight:3}}
+[08:24:59] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket {Fireworks:{Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}],Flight:3}}
+[08:25:15] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{fireworks:{Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}],Flight:3}}
+[08:26:50] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Colors:[I;11743532]}]}} 1
+[08:27:34] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Colors:[I;11743532]}]}} 1
+[08:27:35] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Flight:3,Explosions:[{Type:1,Trail:1,Colors:[I;11743532]}]}} 1
+[08:27:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
+[08:27:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
+[08:27:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
+[08:27:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[08:28:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
+[08:28:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
+[08:28:16] [Async Chat Thread - #4/INFO]: [Not Secure] <Parzival5077> ItemStack firework = new ItemStack(Material.FIREWORK_ROCKET);FireworkMeta meta = (FireworkMeta) firework.getItemMeta();meta.addEffect(FireworkEffect.builder().withColor(Color.fromRGB(255, 0, 0)).with(FireworkEffect.Type.BALL_LARGE).withTrail().build());met
+[08:28:19] [Server thread/INFO]: Parzival5077 issued server command: /ItemStack firework = new ItemStack(Material.FIREWORK_ROCKET);FireworkMeta meta = (FireworkMeta) firework.getItemMeta();meta.addEffect(FireworkEffect.builder().withColor(Color.fromRGB(255, 0, 0)).with(FireworkEffect.Type.BALL_LARGE).withTrail().build());me
+[08:30:00] [Server thread/INFO]: Parzival5077 issued server command: /give @a firework_rocket{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}} 1
+[08:30:36] [Server thread/INFO]: Parzival5077 issued server command: /give @a firework_rocket{display:{Name:"\"Hi\"",Lore:["\"Me\""]},Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}} 1
+[08:31:11] [Server thread/INFO]: Parzival5077 issued server command: /summon firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}}}
+[08:31:11] [Server thread/INFO]: [Parzival5077: Summoned new Firework Rocket]
+[08:31:45] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket{LifeTime:30,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}}}
+[08:32:00] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {LifeTime:30,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}}}
+[08:32:07] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {LifeTime:30,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}}}
+[08:32:30] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}}}
+[08:33:13] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
+[08:33:23] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
+[08:33:34] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
+[08:34:44] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 6400 {Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
