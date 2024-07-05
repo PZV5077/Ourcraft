@@ -1,137 +1,138 @@
-[06:07:47] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06:07:49] [ServerMain/INFO]: Loaded 7 recipes
-[06:07:49] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[06:07:49] [Server thread/INFO]: Loading properties
-[06:07:49] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[06:07:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[06:07:50] [Server thread/INFO]: Using 4 threads for Netty based IO
-[06:07:50] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[13:16:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:16:13] [ServerMain/INFO]: Loaded 7 recipes
+[13:16:14] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[13:16:14] [Server thread/INFO]: Loading properties
+[13:16:14] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[13:16:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:16:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:16:15] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[06:07:50] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[06:07:51] [Server thread/INFO]: Default game type: SURVIVAL
-[06:07:51] [Server thread/INFO]: Generating keypair
-[06:07:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:07:51] [Server thread/INFO]: Using default channel type
-[06:07:51] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[06:07:51] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[06:07:51] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
-[06:07:51] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
-[06:07:52] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[06:07:52] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[06:07:52] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[06:07:53] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[06:07:53] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[06:07:53] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[06:07:53] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[06:07:53] [Server thread/INFO]: [floodgate] Took 819ms to boot Floodgate
-[06:07:53] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.0
-[06:07:55] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.16
-[06:07:55] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
-[06:07:55] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
-[06:07:55] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.0.1
-[06:07:55] [Server thread/INFO]: [KeepChunks] Loading server plugin KeepChunks v1.6.10
-[06:07:55] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
-[06:07:55] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
-[06:07:55] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[06:07:55] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[06:07:55] [Server thread/INFO]: [DynamicLights] Loading server plugin DynamicLights v1.0.6-SNAPSHOT
-[06:07:55] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
-[06:07:55] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
-[06:07:55] [Server thread/INFO]: [voicechat_broadcast] Loading server plugin voicechat_broadcast v1.0.1
-[06:07:55] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
-[06:07:55] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
-[06:07:55] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
-[06:07:55] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
-[06:07:55] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
-[06:07:55] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.1.1
-[06:07:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[06:07:55] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[06:07:56] [Server thread/INFO]:         __    
-[06:07:56] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[06:07:56] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[06:07:56] [Server thread/INFO]: 
-[06:07:56] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[06:07:56] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[06:07:57] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[06:07:57] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[06:07:57] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1725ms)
-[06:07:57] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[06:07:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[06:07:57] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[06:07:57] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[06:07:57] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[06:07:57] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
-[06:07:57] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
-[06:07:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:07:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:07:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:07:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:07:57] [Server thread/INFO]: Preparing level "world"
-[06:07:58] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
-[06:07:58] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
-[06:07:58] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[06:07:59] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[06:07:59] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[06:07:59] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[06:07:59] [Server thread/INFO]: [Essentials] Using locale en
-[06:08:00] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[06:08:00] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[06:08:00] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[06:08:00] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[06:08:00] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
-[06:08:00] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.16
-[06:08:00] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[06:08:00] [Server thread/INFO]: [voicechat] Compatibility version 18
-[06:08:00] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[06:08:00] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
-[06:08:00] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
-[06:08:01] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[06:08:01] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[06:08:01] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.0.1
-[06:08:01] [Server thread/INFO]: [DamageIndicator] Using server version accessor for v1_20_R1
-[06:08:01] [Server thread/INFO]: [KeepChunks] Enabling KeepChunks v1.6.10
-[06:08:01] [Server thread/INFO]: 
-[06:08:01] [Server thread/INFO]:  _     _                   _______ _                 _          
-[06:08:01] [Server thread/INFO]: (_)   | |                 (_______) |               | |  v1.6.10
-[06:08:01] [Server thread/INFO]:  _____| |_____ _____ ____  _      | |__  _   _ ____ | |  _  ___ 
-[06:08:01] [Server thread/INFO]: |  _   _) ___ | ___ |  _ \| |     |  _ \| | | |  _ \| |_/ )/___)
-[06:08:01] [Server thread/INFO]: | |  \ \| ____| ____| |_| | |_____| | | | |_| | | | |  _ (|___ |
-[06:08:01] [Server thread/INFO]: |_|   \_)_____)_____)  __/ \______)_| |_|____/|_| |_|_| \_|___/ 
-[06:08:01] [Server thread/INFO]:                     |_|                                         
-[06:08:01] [Server thread/INFO]: 
-[06:08:01] [Server thread/INFO]: [KeepChunks] KeepChunks v1.6.10 has been enabled
-[06:08:01] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
-[06:08:01] [Server thread/INFO]: [DynamicLights] Enabling DynamicLights v1.0.6-SNAPSHOT
-[06:08:02] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Asynchronous Tab Completion Support!
-[06:08:02] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Brigadier Support!
-[06:08:02] [Server thread/INFO]: [DynamicLights] Registered 11 items for Dynamic Lights.
-[06:08:02] [Server thread/INFO]: [DynamicLights] Registered 6 items for Dynamic Submersible Lights.
-[06:08:02] [Server thread/INFO]: [DynamicLights] Registered 4 items for Dynamic Lockable Lights.
-[06:08:02] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
-[06:08:02] [Server thread/INFO]: [voicechat_broadcast] Enabling voicechat_broadcast v1.0.1
-[06:08:02] [Server thread/INFO]: [voicechat_broadcast] Successfully registered voice chat broadcast plugin
-[06:08:02] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
-[06:08:02] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
-[06:08:02] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.1.1
-[06:08:03] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[06:08:03] [Server thread/INFO]: [Geyser-Spigot] 
-[06:08:03] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
-[06:08:03] [Server thread/INFO]: [Geyser-Spigot] 
-[06:08:03] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[06:08:06] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
-[06:08:06] [Server thread/INFO]: [Geyser-Spigot] Done (3.277s)! Run /geyser help for help!
-[06:08:06] [Server thread/INFO]: Starting remote control listener
-[06:08:06] [Server thread/INFO]: Thread RCON Listener started
-[06:08:06] [Server thread/INFO]: RCON running on 0.0.0.0:25567
-[06:08:06] [Server thread/INFO]: Running delayed init tasks
-[06:08:06] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[06:08:06] [Server thread/INFO]: [CommandAPI] Linked 0 Bukkit permissions to commands
-[06:08:06] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
-[06:08:06] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[06:08:06] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
-[06:08:06] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] Checking for Updates ... 
-[06:08:06] [Craft Scheduler Thread - 1 - Passky/INFO]: 
+[13:16:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[13:16:15] [Server thread/INFO]: Default game type: SURVIVAL
+[13:16:15] [Server thread/INFO]: Generating keypair
+[13:16:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:16:15] [Server thread/INFO]: Using default channel type
+[13:16:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:16:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:16:16] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.0
+[13:16:16] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
+[13:16:16] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:16:16] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[13:16:16] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[13:16:17] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[13:16:17] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[13:16:17] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[13:16:17] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[13:16:17] [Server thread/INFO]: [floodgate] Took 668ms to boot Floodgate
+[13:16:17] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.0
+[13:16:19] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.16
+[13:16:19] [Server thread/INFO]: [Passky] Loading server plugin Passky v2.1.1
+[13:16:19] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[13:16:19] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.0.1
+[13:16:19] [Server thread/INFO]: [KeepChunks] Loading server plugin KeepChunks v1.6.10
+[13:16:19] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[13:16:19] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[13:16:19] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[13:16:19] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[13:16:19] [Server thread/INFO]: [DynamicLights] Loading server plugin DynamicLights v1.0.6-SNAPSHOT
+[13:16:19] [Server thread/INFO]: [TreeFella] Loading server plugin TreeFella v1.2
+[13:16:19] [Server thread/INFO]: [EndPortalTimer] Loading server plugin EndPortalTimer v1.7
+[13:16:19] [Server thread/INFO]: [voicechat_broadcast] Loading server plugin voicechat_broadcast v1.0.1
+[13:16:19] [Server thread/INFO]: [CommandAPI] Loading server plugin CommandAPI v9.5.0
+[13:16:19] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_20_R1 > NMS_CommonWithFunctions > NMS_Common > CommandAPIBukkit
+[13:16:19] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[13:16:19] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[13:16:19] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[13:16:19] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.1.1
+[13:16:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:16:19] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[13:16:20] [Server thread/INFO]:         __    
+[13:16:20] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[13:16:20] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[13:16:20] [Server thread/INFO]: 
+[13:16:20] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[13:16:20] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[13:16:20] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[13:16:21] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[13:16:21] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1509ms)
+[13:16:21] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[13:16:21] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[13:16:21] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:16:21] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[13:16:21] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[13:16:21] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[13:16:21] [Server thread/INFO]: [EndPortalTimer] Enabling EndPortalTimer v1.7
+[13:16:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:16:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:16:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:16:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:16:21] [Server thread/INFO]: Preparing level "world"
+[13:16:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
+[13:16:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[13:16:22] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[13:16:22] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[13:16:22] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[13:16:23] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[13:16:23] [Server thread/INFO]: [Essentials] Using locale en
+[13:16:23] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:16:23] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:16:23] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[13:16:23] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[13:16:23] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[13:16:24] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.16
+[13:16:24] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[13:16:24] [Server thread/INFO]: [voicechat] Compatibility version 18
+[13:16:24] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[13:16:24] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[13:16:24] [Server thread/INFO]: [Passky] Enabling Passky v2.1.1
+[13:16:24] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[13:16:24] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[13:16:24] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.0.1
+[13:16:24] [Server thread/INFO]: [DamageIndicator] Using server version accessor for v1_20_R1
+[13:16:24] [Server thread/INFO]: [KeepChunks] Enabling KeepChunks v1.6.10
+[13:16:24] [Server thread/INFO]: 
+[13:16:24] [Server thread/INFO]:  _     _                   _______ _                 _          
+[13:16:24] [Server thread/INFO]: (_)   | |                 (_______) |               | |  v1.6.10
+[13:16:24] [Server thread/INFO]:  _____| |_____ _____ ____  _      | |__  _   _ ____ | |  _  ___ 
+[13:16:24] [Server thread/INFO]: |  _   _) ___ | ___ |  _ \| |     |  _ \| | | |  _ \| |_/ )/___)
+[13:16:24] [Server thread/INFO]: | |  \ \| ____| ____| |_| | |_____| | | | |_| | | | |  _ (|___ |
+[13:16:24] [Server thread/INFO]: |_|   \_)_____)_____)  __/ \______)_| |_|____/|_| |_|_| \_|___/ 
+[13:16:24] [Server thread/INFO]:                     |_|                                         
+[13:16:24] [Server thread/INFO]: 
+[13:16:24] [Server thread/INFO]: [KeepChunks] KeepChunks v1.6.10 has been enabled
+[13:16:24] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[13:16:24] [Server thread/INFO]: [DynamicLights] Enabling DynamicLights v1.0.6-SNAPSHOT
+[13:16:25] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Asynchronous Tab Completion Support!
+[13:16:25] [Server thread/INFO]: [DynamicLights] [ACF] Enabled Brigadier Support!
+[13:16:25] [Server thread/INFO]: [DynamicLights] Registered 11 items for Dynamic Lights.
+[13:16:25] [Server thread/INFO]: [DynamicLights] Registered 6 items for Dynamic Submersible Lights.
+[13:16:25] [Server thread/INFO]: [DynamicLights] Registered 4 items for Dynamic Lockable Lights.
+[13:16:25] [Server thread/INFO]: [TreeFella] Enabling TreeFella v1.2
+[13:16:25] [Server thread/INFO]: [voicechat_broadcast] Enabling voicechat_broadcast v1.0.1
+[13:16:25] [Server thread/INFO]: [voicechat_broadcast] Successfully registered voice chat broadcast plugin
+[13:16:25] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v9.5.0
+[13:16:25] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[13:16:25] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.1.1
+[13:16:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[13:16:26] [Server thread/INFO]: [Geyser-Spigot] 
+[13:16:26] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-SNAPSHOT (git-master-deb25d7)
+[13:16:26] [Server thread/INFO]: [Geyser-Spigot] 
+[13:16:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[13:16:28] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:59002
+[13:16:28] [Server thread/INFO]: [Geyser-Spigot] Done (2.935s)! Run /geyser help for help!
+[13:16:29] [Server thread/INFO]: Starting remote control listener
+[13:16:29] [Server thread/INFO]: Thread RCON Listener started
+[13:16:29] [Server thread/INFO]: RCON running on 0.0.0.0:25567
+[13:16:29] [Server thread/INFO]: Running delayed init tasks
+[13:16:29] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[13:16:29] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[13:16:29] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[13:16:29] [Server thread/INFO]: [CommandAPI] Linked 0 Bukkit permissions to commands
+[13:16:29] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[13:16:29] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] Checking for Updates ... 
+[13:16:29] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] No new version available
+[13:16:30] [Craft Scheduler Thread - 2 - Passky/INFO]: 
 
 []============[Enabling Passky]============[]
 |
@@ -154,107 +155,21 @@
 |
 []=========================================[]
 
-[06:08:06] [Server thread/INFO]: Loaded 7 recipes
-[06:08:06] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] No new version available
-[06:08:07] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
-[06:08:07] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.1, you're on: 5.0.0
-[06:08:07] [Server thread/INFO]: Done (17.845s)! For help, type "help"
-[06:08:07] [Server thread/INFO]: Timings Reset
-[06:08:07] [Server thread/INFO]: [voicechat] Loading plugins
-[06:08:07] [Server thread/INFO]: [voicechat] Loaded 1 plugin(s)
-[06:08:07] [Server thread/INFO]: [voicechat] Initializing plugins
-[06:08:07] [Server thread/INFO]: [voicechat] Initialized 1 plugin(s)
-[06:08:07] [Server thread/INFO]: [voicechat] Registering events for 'voicechat_broadcast'
-[06:08:07] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[06:08:07] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'mcvoice.zcstudio.online:59003'
-[06:08:07] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 59003
-[06:08:08] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[06:08:08] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[06:08:08] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
-[06:08:08] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.2.0 (Running 5.1.0). Download at https://www.spigotmc.org/resources/protocollib.1997/
-[06:08:16] [Server thread/INFO]: [KeepChunks] A new release of KeepChunks, v1.7.2, is available! You are still on v1.6.10.
-[06:08:16] [Server thread/INFO]: [KeepChunks] To download this update, head over to https://www.spigotmc.org/resources/23307/updates in your browser.
-[06:12:31] [User Authenticator #0/INFO]: UUID of player Parzival5077 is b4b9e614-520e-3ae4-9959-b65f758a60dd
-[06:12:32] [Server thread/INFO]: Parzival5077 joined the game
-[06:12:32] [Server thread/INFO]: Parzival5077[/127.0.0.1:51994] logged in with entity id 370 at ([world]-659.0, 145.0, -463.0)
-[06:12:32] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 25.940799ms. Summary: Getting prefix for Parzival5077
-[06:12:33] [Server thread/INFO]: [voicechat] Received secret request of Parzival5077 (18)
-[06:12:33] [Server thread/INFO]: [voicechat] Sent secret to Parzival5077
-[06:12:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[06:12:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[06:12:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
-[06:12:52] [Server thread/INFO]: Parzival5077 issued server command: /fly
-[06:13:47] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cherry_log 12
-[06:15:25] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 redstone
-[06:15:40] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 repeater
-[06:16:49] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 water_bucket 1
-[06:23:07] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 cherry_log 12
-[06:30:42] [Server thread/INFO]: Parzival5077 issued server command: /remove drops
-[06:30:52] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 redstone_torch
-[06:39:50] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 redstone
-[06:44:40] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 piston 1
-[06:45:20] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 sand 1
-[06:48:40] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 comparator
-[07:02:35] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 dispenser 12
-[07:06:44] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 redstone
-[07:11:40] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 redstone
-[07:18:01] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 redstone
-[07:27:15] [Server thread/INFO]: Parzival5077 issued server command: /god
-[07:28:54] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 torch
-[07:31:38] [Server thread/INFO]: Parzival5077 issued server command: /fix
-[07:34:35] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 redstone
-[07:40:58] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 torch
-[07:41:16] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 redstone
-[07:47:45] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 redstone
-[08:04:36] [Server thread/INFO]: Parzival5077 issued server command: /god
-[08:07:31] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 diamond 128
-[08:07:50] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 glowstone_dust 128
-[08:08:19] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 gunpowder 128
-[08:19:47] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_star[fireworks{flight_duration=3,explosions[{has_trail=true,has_twinkle=true,shape="large_ball"}]}]
-[08:20:13] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_star [fireworks{flight_duration=3,explosions[{has_trail=true,has_twinkle=true,shape="large_ball"}]}]
-[08:20:17] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_star [fireworks{flight_duration=3,explosions[{has_trail=true,has_twinkle=true,shape="large_ball"}]}]
-[08:22:49] [Server thread/INFO]: Parzival5077 issued server command: /summon fireworks_rocket ~ ~ ~ {LifeTime:20,FireworksItem:{id:fireworks,Count:1,tag:{Fireworks:{Explosions:[{Type:4,Flicker:1,Trail:1,Colors:[16744576],FadeColors:[]}]}
-[08:23:12] [Server thread/INFO]: Parzival5077 issued server command: /summon fireworks_rocket ~ ~ ~ {LifeTime:20,FireworksItem:{id:fireworks,Count:1,tag:{Fireworks:{Explosions:[{Type:4,Flicker:1,Trail:1,Colors:[16744576],FadeColors:[]}]}}}}
-[08:24:07] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}],Flight:3}}
-[08:24:12] [Server thread/INFO]: Parzival5077 issued server command: /god
-[08:24:13] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}],Flight:3}}
-[08:24:38] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}],Flight:3}}
-[08:24:59] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket {Fireworks:{Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}],Flight:3}}
-[08:25:15] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{fireworks:{Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}],Flight:3}}
-[08:26:50] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Colors:[I;11743532]}]}} 1
-[08:27:34] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Colors:[I;11743532]}]}} 1
-[08:27:35] [Server thread/INFO]: Parzival5077 issued server command: /give @s firework_rocket{Fireworks:{Flight:3,Explosions:[{Type:1,Trail:1,Colors:[I;11743532]}]}} 1
-[08:27:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player b4b9e614-520e-3ae4-9959-b65f758a60dd timed out
-[08:27:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Parzival5077
-[08:27:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Parzival5077
-[08:27:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[08:28:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b4b9e614-520e-3ae4-9959-b65f758a60dd
-[08:28:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Parzival5077 (b4b9e614-520e-3ae4-9959-b65f758a60dd) successfully connected to voice chat
-[08:28:16] [Async Chat Thread - #4/INFO]: [Not Secure] <Parzival5077> ItemStack firework = new ItemStack(Material.FIREWORK_ROCKET);FireworkMeta meta = (FireworkMeta) firework.getItemMeta();meta.addEffect(FireworkEffect.builder().withColor(Color.fromRGB(255, 0, 0)).with(FireworkEffect.Type.BALL_LARGE).withTrail().build());met
-[08:28:19] [Server thread/INFO]: Parzival5077 issued server command: /ItemStack firework = new ItemStack(Material.FIREWORK_ROCKET);FireworkMeta meta = (FireworkMeta) firework.getItemMeta();meta.addEffect(FireworkEffect.builder().withColor(Color.fromRGB(255, 0, 0)).with(FireworkEffect.Type.BALL_LARGE).withTrail().build());me
-[08:30:00] [Server thread/INFO]: Parzival5077 issued server command: /give @a firework_rocket{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}} 1
-[08:30:36] [Server thread/INFO]: Parzival5077 issued server command: /give @a firework_rocket{display:{Name:"\"Hi\"",Lore:["\"Me\""]},Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}} 1
-[08:31:11] [Server thread/INFO]: Parzival5077 issued server command: /summon firework_rocket ~ ~1 ~ {LifeTime:30,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}}}
-[08:31:11] [Server thread/INFO]: [Parzival5077: Summoned new Firework Rocket]
-[08:31:45] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket{LifeTime:30,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}}}
-[08:32:00] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {LifeTime:30,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}}}
-[08:32:07] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {LifeTime:30,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}}}
-[08:32:30] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}}}
-[08:33:13] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
-[08:33:23] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
-[08:33:34] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
-[08:34:44] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 6400 {Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
-[08:40:06] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 6400 {Fireworks:{Flight:3,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
-[08:41:43] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:4,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
-[08:41:52] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:4,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
-[08:42:00] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:4,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
-[08:42:03] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:4,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
-[08:42:04] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:4,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
-[08:42:05] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 firework_rocket 1 {Fireworks:{Flight:4,Explosions:[{Type:1,Flicker:1,Trail:1,Colors:[I;11743532],FadeColors:[I;11743532,15790320]}]}}
-[08:45:40] [Server thread/INFO]: Parzival5077 issued server command: /time set midnight
-[08:47:15] [Server thread/INFO]: Parzival5077 issued server command: /give Parzival5077 redstone
-[08:48:10] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[08:48:10] [Server thread/INFO]: [voicechat] Disconnecting client Parzival5077
-[08:48:10] [Server thread/INFO]: Parzival5077 left the game
-[09:08:16] [Server thread/INFO]: [KeepChunks] A new release of KeepChunks, v1.7.2, is available! You are still on v1.6.10.
-[09:08:16] [Server thread/INFO]: [KeepChunks] To download this update, head over to https://www.spigotmc.org/resources/23307/updates in your browser.
+[13:16:30] [Server thread/INFO]: Loaded 7 recipes
+[13:16:30] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[13:16:30] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.1, you're on: 5.0.0
+[13:16:30] [Server thread/INFO]: Done (16.601s)! For help, type "help"
+[13:16:30] [Server thread/INFO]: Timings Reset
+[13:16:30] [Server thread/INFO]: [voicechat] Loading plugins
+[13:16:30] [Server thread/INFO]: [voicechat] Loaded 1 plugin(s)
+[13:16:30] [Server thread/INFO]: [voicechat] Initializing plugins
+[13:16:30] [Server thread/INFO]: [voicechat] Initialized 1 plugin(s)
+[13:16:30] [Server thread/INFO]: [voicechat] Registering events for 'voicechat_broadcast'
+[13:16:30] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[13:16:30] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'mcvoice.zcstudio.online:59003'
+[13:16:30] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 59003
+[13:16:31] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[13:16:31] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[13:16:31] [Server thread/INFO]: [Not Secure] [Server] Plugin is configured correctly.
+[13:16:39] [Server thread/INFO]: [KeepChunks] A new release of KeepChunks, v1.7.2, is available! You are still on v1.6.10.
+[13:16:39] [Server thread/INFO]: [KeepChunks] To download this update, head over to https://www.spigotmc.org/resources/23307/updates in your browser.
