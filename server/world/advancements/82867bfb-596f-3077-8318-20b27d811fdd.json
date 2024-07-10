@@ -26,6 +26,7 @@
       "minecraft:forest": "2024-06-17 12:11:16 +0000",
       "minecraft:lush_caves": "2024-06-26 06:48:45 +0000",
       "minecraft:desert": "2024-06-24 07:06:40 +0000",
+      "minecraft:windswept_forest": "2024-07-10 03:41:42 +0000",
       "minecraft:jungle": "2024-06-17 12:20:38 +0000",
       "minecraft:ocean": "2024-06-24 05:17:43 +0000",
       "minecraft:windswept_savanna": "2024-06-20 11:18:09 +0000",
@@ -4005,6 +4006,36 @@
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2024-07-03 14:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-07-10 03:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-07-10 03:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-07-10 03:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-07-10 03:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-07-10 03:38:18 +0000"
     },
     "done": true
   },
