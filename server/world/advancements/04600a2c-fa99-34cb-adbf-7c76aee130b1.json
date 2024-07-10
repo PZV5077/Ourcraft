@@ -7,11 +7,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-07-10 13:16:05 +0000",
       "minecraft:cherry_grove": "2024-07-10 05:12:04 +0000",
       "minecraft:savanna_plateau": "2024-07-10 03:40:48 +0000",
+      "minecraft:sparse_jungle": "2024-07-10 13:24:53 +0000",
       "minecraft:river": "2024-07-10 03:41:41 +0000",
       "minecraft:dripstone_caves": "2024-07-10 05:07:41 +0000",
       "minecraft:forest": "2024-07-10 04:25:24 +0000",
+      "minecraft:ocean": "2024-07-10 13:15:49 +0000",
       "minecraft:flower_forest": "2024-07-10 12:49:17 +0000",
       "minecraft:old_growth_birch_forest": "2024-07-10 04:31:06 +0000",
       "minecraft:meadow": "2024-07-10 03:38:35 +0000",
@@ -999,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-07-10 12:25:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-07-10 12:31:34 +0000"
@@ -1011,18 +1020,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-07-10 12:25:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-07-10 12:38:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-07-10 12:32:56 +0000"
@@ -1032,6 +1029,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-07-10 12:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-07-10 12:38:32 +0000"
     },
     "done": true
   },
