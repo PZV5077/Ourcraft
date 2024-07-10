@@ -410,6 +410,7 @@
       "potato": "2024-06-19 09:53:59 +0000",
       "cooked_cod": "2024-06-19 09:42:44 +0000",
       "rabbit": "2024-06-19 09:41:49 +0000",
+      "mutton": "2024-07-10 12:50:28 +0000",
       "bread": "2024-06-18 12:33:33 +0000",
       "rotten_flesh": "2024-06-18 07:46:12 +0000",
       "glow_berries": "2024-06-26 06:49:23 +0000",
@@ -4057,6 +4058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-07-10 12:47:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2024-07-10 12:04:22 +0000"
@@ -4066,6 +4073,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-07-10 12:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-07-10 12:47:06 +0000"
     },
     "done": true
   },
@@ -4096,6 +4109,12 @@
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2024-07-10 12:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-07-10 12:47:06 +0000"
     },
     "done": true
   },

@@ -12,6 +12,7 @@
       "minecraft:river": "2024-07-10 03:41:41 +0000",
       "minecraft:dripstone_caves": "2024-07-10 05:07:41 +0000",
       "minecraft:forest": "2024-07-10 04:25:24 +0000",
+      "minecraft:flower_forest": "2024-07-10 12:49:17 +0000",
       "minecraft:old_growth_birch_forest": "2024-07-10 04:31:06 +0000",
       "minecraft:meadow": "2024-07-10 03:38:35 +0000",
       "minecraft:savanna": "2024-07-10 03:41:09 +0000",
@@ -692,6 +693,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-07-10 05:15:47 +0000",
       "minecraft:spider": "2024-07-10 05:15:42 +0000",
+      "minecraft:enderman": "2024-07-10 12:46:00 +0000",
+      "minecraft:zombie": "2024-07-10 12:38:48 +0000",
       "minecraft:drowned": "2024-07-10 04:49:30 +0000"
     },
     "done": false
@@ -1014,6 +1017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-07-10 12:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-07-10 12:32:56 +0000"
@@ -1023,6 +1032,18 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-07-10 12:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-07-10 12:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-07-10 12:41:33 +0000"
     },
     "done": true
   },
