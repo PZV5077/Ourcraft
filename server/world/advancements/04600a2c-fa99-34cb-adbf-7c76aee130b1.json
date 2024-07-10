@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:savanna_plateau": "2024-07-10 03:40:48 +0000",
       "minecraft:river": "2024-07-10 03:41:41 +0000",
+      "minecraft:dripstone_caves": "2024-07-10 05:07:41 +0000",
       "minecraft:forest": "2024-07-10 04:25:24 +0000",
       "minecraft:old_growth_birch_forest": "2024-07-10 04:31:06 +0000",
       "minecraft:meadow": "2024-07-10 03:38:35 +0000",
@@ -474,6 +475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-07-10 04:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-07-10 04:30:19 +0000",
@@ -682,6 +689,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-07-10 04:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-07-10 05:03:00 +0000"
     },
     "done": true
   },
