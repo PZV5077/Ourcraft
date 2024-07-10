@@ -5346,12 +5346,6 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2024-07-10 06:58:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2024-07-10 06:58:02 +0000"
@@ -5363,6 +5357,18 @@
       "entered_end": "2024-07-10 06:58:02 +0000"
     },
     "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-07-10 06:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-07-10 07:32:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
