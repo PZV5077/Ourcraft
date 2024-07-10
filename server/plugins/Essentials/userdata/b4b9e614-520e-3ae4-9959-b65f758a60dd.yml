@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: false
+godmode: true
 muted: false
 jailed: false
 ip-address: 127.0.0.1
@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1720582946404
+  lastteleport: 1720594994478
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1720584195245
-  login: 1720584150199
+  login: 1720594338338
 money: '0'
 last-account-name: Parzival5077
 lastlocation:
   world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
   world-name: world
-  x: -377.27942779331437
-  y: 85.0
-  z: -15.624659657792717
-  yaw: -179.86228942871094
-  pitch: 11.250246047973633
+  x: -531.5
+  y: 83.0
+  z: -240.5
+  yaw: -155.261962890625
+  pitch: 0.0
 logoutlocation:
   world: 7cd003a8-ce4a-4930-8ddb-838d2799704f
   world-name: world
