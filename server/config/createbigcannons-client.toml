@@ -35,11 +35,13 @@
 		showExtraShockwave = true
 		#.
 		showFluidShellClouds = true
+
 	#.
 	#Projectile Splashes
 	[client.projectileSplashes]
 		#.
 		showProjectileSplashes = true
+
 	#.
 	#Flak Clouds
 	[client.flakClouds]
@@ -51,6 +53,7 @@
 		showExtraShockwave = true
 		#.
 		showExtraTrails = true
+
 	#.
 	#Big Cannon Blast
 	[client.bigCannonBlast]
@@ -67,6 +70,7 @@
 		screenShakePowerMultiplier = 6.0
 		#.
 		showBigCannonPlumes = true
+
 	#.
 	#Projectile Flyby Sounds
 	[client.projectileFlybySounds]
@@ -74,11 +78,13 @@
 		enableAutocannonProjectileFlybySounds = true
 		#.
 		enableBigCannonProjectileFlybySounds = true
+
 	#.
 	#Projectile Impacts
 	[client.projectileImpacts]
 		#.
 		showProjectileImpacts = true
+
 	#.
 	#Shell Explosions
 	[client.shellExplosions]
@@ -93,11 +99,13 @@
 		screenShakePowerMultiplier = 6.0
 		#.
 		showExtraTrails = true
+
 	#.
 	#Sounds
 	[client.sounds]
 		#.
 		blastSoundAirAbsorption = true
+
 	#.
 	#Screen Shake
 	[client.screenShake]
@@ -110,6 +118,7 @@
 		#.
 		#Range: 0.009999999776482582 ~ 2.0
 		cannonScreenShakeDecay = 0.30000001192092896
+
 	#.
 	#Shrapnel Clouds
 	[client.shrapnelClouds]
@@ -119,6 +128,7 @@
 		showExtraShockwave = true
 		#.
 		showShrapnelClouds = true
+
 	#.
 	#Particle Wind Effect
 	[client.particleWindEffect]
@@ -130,6 +140,7 @@
 		#[in Meters per second]
 		#Range: 0.0 ~ 10.0
 		maximumWindSpeed = 1.25
+
 	#.
 	#Cannon Mount Goggle Tooltip
 	[client.cannonMountGoggleTooltip]

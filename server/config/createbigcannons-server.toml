@@ -26,6 +26,7 @@
 	#How strong the explosion of a catastrophic failure is. Scaled by the amount of charges used in the shot.
 	#Range: 0.0 ~ 3.4028234663852886E38
 	failureExplosionPower = 2.0
+
 #.
 #These values affect the characteristics of cannon munitions.
 [munitions]
@@ -64,6 +65,7 @@
 		#The chance of a fluid blob affecting a block in its area of effect (AOE). 0 is 0% (never), 1 is 100% (always).
 		#Range: 0.0 ~ 1.0
 		fluidBlobBlockEffectChance = 0.5
+
 	#.
 	#Chunkloading
 	[munitions.chunkloading]
@@ -71,6 +73,7 @@
 		smokeCloudsCanChunkload = true
 		#.
 		projectilesCanChunkload = true
+
 	#.
 	#Big Cannon Munitions
 	[munitions.bigCannonMunitions]
@@ -86,6 +89,7 @@
 		trailType = "SHORT"
 		#.
 		quickFiringBreechItemGoesToInventory = false
+
 	#.
 	#Projectile Fuzes
 	[munitions.fuzes]
@@ -103,6 +107,7 @@
 		#Chance that the Impact Fuze/Delayed Impact Fuze will detonate on hitting something. 0 is 0% (never), 1 is 100% (always).
 		#Range: 0.0 ~ 1.0
 		impactFuzeDetonationChance = 0.6700000166893005
+
 	#.
 	#Autocannon Munitions
 	[munitions.autocannonMunitions]
@@ -120,6 +125,7 @@
 		#.
 		#Allowed Values: NONE, LONG, SHORT
 		trailType = "SHORT"
+
 #.
 #These values affect the characteristics of cannon materials and cannon structures
 [cannons]
@@ -156,6 +162,7 @@
 		#How fast the carriage is, in blocks per tick.
 		#Range: 0.03999999910593033 ~ 1.0
 		carriageSpeed = 0.03999999910593033
+
 	#.
 	#Loading Tools
 	[cannons.loadingTools]
@@ -182,6 +189,7 @@
 		#.
 		#If deployers can use loading tools.
 		deployersCanUseLoadingTools = false
+
 	#.
 	#Display Link Info
 	[cannons.displayLink]
@@ -189,6 +197,7 @@
 		shouldDisplayContainedMunitions = true
 		#.
 		shouldDisplayCannonRotation = true
+
 	#.
 	#Drop Mortar
 	[cannons.dropMortar]
@@ -200,12 +209,14 @@
 		#Length in ticks that the player has to wait for before inserting the same munition type into a drop mortar again. There are 20 ticks in 1 second.
 		#Range: > 0
 		dropMortarItemCooldown = 40
+
 	#.
 	#Big Cannon Screen Shake
 	[cannons.bigCannonScreenShake]
 		#.
 		#Range: 0.0 ~ 3.4028234663852886E38
 		blastDistanceMultiplier = 8.0
+
 #.
 #These values affect various miscellaneous contraptions.
 [kinetics]
@@ -218,10 +229,10 @@
 	#Range: > 3
 	maxLoaderLength = 64
 
-	[kinetics.stressValues]
 		#.
 		#These values affect the stress of Create Big Cannons' mechanical blocks.
 		[kinetics.stressValues.v2]
+
 			#.
 			#
 			#[in Stress Units]
@@ -235,6 +246,7 @@
 				bronze_sliding_breech = 12.0
 				nethersteel_screw_breech = 40.0
 				cannon_builder = 8.0
+
 #.
 #These values affect cannon crafting properties.
 [crafting]
