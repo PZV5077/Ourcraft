@@ -3544,8 +3544,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-09-24 10:43:09 +0000",
+      "minecraft:spider": "2024-09-24 10:59:33 +0000",
       "minecraft:cave_spider": "2024-09-24 10:35:06 +0000",
-      "minecraft:zombie": "2024-09-24 10:01:15 +0000"
+      "minecraft:zombie": "2024-09-24 10:01:15 +0000",
+      "minecraft:zombie_villager": "2024-09-24 10:55:05 +0000"
     },
     "done": false
   },
@@ -4113,6 +4115,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-09-24 10:55:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-24 10:37:13 +0000"
@@ -4143,9 +4151,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-24 10:53:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-24 10:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-09-24 10:53:34 +0000"
     },
     "done": true
   },
@@ -4170,6 +4190,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-09-24 10:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-09-24 10:56:00 +0000"
     },
     "done": true
   },
@@ -4209,9 +4235,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-09-24 11:05:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-09-24 10:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-09-24 10:59:42 +0000"
     },
     "done": true
   },
@@ -4230,6 +4268,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-09-24 10:35:33 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/killer_queen/10": {
+    "criteria": {
+      "requirement": "2024-09-24 10:59:52 +0000"
     },
     "done": true
   },
@@ -4257,9 +4301,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-09-24 10:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-09-24 10:56:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-09-24 10:53:34 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-24 10:37:13 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/stand_mastery_1": {
+    "criteria": {
+      "requirement": "2024-09-24 11:07:46 +0000"
     },
     "done": true
   },
@@ -4275,9 +4343,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-09-24 10:56:00 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-24 10:37:13 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/killer_queen/5": {
+    "criteria": {
+      "requirement": "2024-09-24 10:56:15 +0000"
     },
     "done": true
   },
@@ -4299,6 +4379,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-24 10:53:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-24 10:37:13 +0000"
@@ -4317,9 +4403,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/rocky_stone_stairs_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2024-09-24 11:07:28 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-24 10:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-09-24 10:59:42 +0000"
     },
     "done": true
   },
@@ -4359,6 +4457,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-09-24 10:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/rocky_stone_wall_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2024-09-24 11:07:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-24 10:37:13 +0000"
@@ -4374,6 +4484,12 @@
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-24 10:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/rocky_stone_slab_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2024-09-24 11:07:28 +0000"
     },
     "done": true
   },
@@ -4401,6 +4517,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-09-24 10:54:14 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/cika_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-24 10:37:13 +0000"
@@ -4410,6 +4532,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-09-24 10:43:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone_stairs": {
+    "criteria": {
+      "has_rocky_stone": "2024-09-24 11:07:28 +0000"
     },
     "done": true
   },
@@ -4437,6 +4565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-09-24 10:54:14 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/florus_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-24 10:37:13 +0000"
@@ -4458,6 +4592,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-09-24 10:43:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone_slab": {
+    "criteria": {
+      "has_rocky_stone": "2024-09-24 11:07:28 +0000"
     },
     "done": true
   },
@@ -4527,6 +4667,18 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/killer_queen/sheer_heart_attack": {
+    "criteria": {
+      "requirement": "2024-09-24 10:46:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2024-09-24 11:05:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2024-09-24 10:43:17 +0000"
@@ -4560,6 +4712,12 @@
   "regions_unexplored:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-24 10:37:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/rocky_stone_wall": {
+    "criteria": {
+      "has_rocky_stone": "2024-09-24 11:07:28 +0000"
     },
     "done": true
   },
@@ -4599,6 +4757,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-09-24 10:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-09-24 10:35:33 +0000"
@@ -4608,6 +4772,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-09-24 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "has_clay_ball": "2024-09-24 10:59:42 +0000"
     },
     "done": true
   },
@@ -4632,6 +4802,12 @@
   "regions_unexplored:recipes/redstone/redstone_bud": {
     "criteria": {
       "has_redstone": "2024-09-24 10:43:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-09-24 10:54:14 +0000"
     },
     "done": true
   },

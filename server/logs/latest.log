@@ -877,3 +877,60 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:48:16] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
 [10:48:23] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
 [10:48:33] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
+[10:49:37] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 367)]
+[10:49:39] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:49:40] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[10:49:41] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 607)]
+[10:51:15] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[10:51:21] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:51:24] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[10:51:26] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 607)]
+[10:51:27] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[10:51:29] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[10:57:50] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[10:57:54] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:58:02] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[10:58:04] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[10:58:04] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 607)]
+[10:58:05] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[10:58:05] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 607)]
+[10:58:06] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[10:58:06] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 607)]
+[10:58:14] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:58:17] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 367)]
+[10:58:18] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 367)]
+[10:58:46] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[10:58:49] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[10:59:12] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
+[11:00:16] [Server thread/INFO]: AwaKING tried to swim in lava
+[11:03:35] [Server thread/INFO]: AwaKING fell from a high place
+[11:04:05] [Server thread/INFO]: Villager class_1646['Fletcher'/54757, l='ServerLevel[world]', x=1160.67, y=87.00, z=53.93] died, message: 'Fletcher hit the ground too hard'
+[11:04:34] [Server thread/INFO]: Villager class_1646['Farmer'/52557, l='ServerLevel[world]', x=1151.66, y=100.00, z=71.58] died, message: 'Farmer hit the ground too hard'
+[11:05:21] [Server thread/INFO]: AwaKING has made the advancement [Sweet Dreams]
+[11:07:41] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
+[11:07:43] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[11:07:44] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[11:07:46] [Server thread/INFO]: AwaKING has made the advancement [Stand Mastery I]
+[11:09:35] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/192263, l='ServerLevel[world]', x=1131.72, y=-70.00, z=40.37] died: Sheer Heart Attack was killed
+[11:10:17] [Server thread/INFO]: Named entity class_3989['Sheer Heart Attack'/200385, l='ServerLevel[world]', x=1121.73, y=-70.00, z=13.46] died: Sheer Heart Attack was killed
+[11:10:53] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[11:10:53] [Server thread/INFO]: AwaKING left the game
+[11:15:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:15:48] [Server thread/INFO]: st<--[HERE]
+[11:15:53] [Server thread/INFO]: Stopping the server
+[11:15:53] [Server thread/INFO]: Stopping server
+[11:15:53] [Server thread/INFO]: Saving players
+[11:15:53] [Server thread/INFO]: Saving worlds
+[11:15:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:16:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/edenring:edenring
+[11:16:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:16:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:16:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:16:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (edenring): All chunks are saved
+[11:16:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:16:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:16:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:16:02] [Server thread/INFO]: [EasyAuth]: Shutting down EasyAuth.
+[11:16:02] [Server thread/INFO]: [EasyAuth]: Database connection closed successfully
+[11:16:02] [Server thread/INFO]: Unloading server configs...
+[11:16:02] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
