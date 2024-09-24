@@ -490,3 +490,152 @@ EdenBiomeSource (6c16429d)
 [11:30:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [11:30:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [11:30:59] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[11:33:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=54, z=8} class_2338{x=-4, y=52, z=-13}
+[11:33:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=54, z=8} class_2338{x=-4, y=52, z=-12}
+[11:33:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:33:29] [Server thread/INFO]: lstop<--[HERE]
+[11:33:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:33:29] [Server thread/INFO]: <--[HERE]
+[11:33:34] [Server thread/INFO]: Stopping the server
+[11:33:34] [Server thread/INFO]: Stopping server
+[11:33:34] [Server thread/INFO]: Saving players
+[11:33:34] [Server thread/INFO]: Saving worlds
+[11:33:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:33:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:33:59] [Server thread/ERROR]: Could not save data rbasamoyai.ritchiesprojectilelib.chunkloading.ChunkManager@12d1dbd1
+java.io.FileNotFoundException: ./world/DIM-1/data/ritchiesprojectilelib_chunk_manager.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:230) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:179) ~[?:?]
+	at net.minecraft.class_2507.method_30614(class_2507.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_26.method_32384(class_26.java:122) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_26.method_125(class_26.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:802) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:784) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:536) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:602) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:537) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:703) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:33:59] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@38f86803
+java.io.FileNotFoundException: ./world/DIM-1/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:230) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:179) ~[?:?]
+	at net.minecraft.class_2507.method_30614(class_2507.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_26.method_32384(class_26.java:122) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_26.method_125(class_26.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:802) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:784) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:536) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:602) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:537) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:703) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:33:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/edenring:edenring
+[11:33:59] [Server thread/ERROR]: Could not save data rbasamoyai.ritchiesprojectilelib.chunkloading.ChunkManager@177fc88f
+java.io.FileNotFoundException: ./world/dimensions/edenring/edenring/data/ritchiesprojectilelib_chunk_manager.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:230) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:179) ~[?:?]
+	at net.minecraft.class_2507.method_30614(class_2507.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_26.method_32384(class_26.java:122) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_26.method_125(class_26.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:802) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:784) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:536) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:602) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:537) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:703) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:33:59] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@2c546be9
+java.io.FileNotFoundException: ./world/dimensions/edenring/edenring/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:230) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:179) ~[?:?]
+	at net.minecraft.class_2507.method_30614(class_2507.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_26.method_32384(class_26.java:122) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_26.method_125(class_26.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:802) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:784) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:536) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:602) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:537) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:703) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:33:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:33:59] [Server thread/ERROR]: Could not save data rbasamoyai.ritchiesprojectilelib.chunkloading.ChunkManager@304722e1
+java.io.FileNotFoundException: ./world/DIM1/data/ritchiesprojectilelib_chunk_manager.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:230) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:179) ~[?:?]
+	at net.minecraft.class_2507.method_30614(class_2507.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_26.method_32384(class_26.java:122) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_26.method_125(class_26.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:802) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:784) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:536) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:602) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:537) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:703) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:33:59] [Server thread/ERROR]: Could not save data net.minecraft.class_3767@4b04fc9a
+java.io.FileNotFoundException: ./world/DIM1/data/raids_end.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:230) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:179) ~[?:?]
+	at net.minecraft.class_2507.method_30614(class_2507.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_18.method_17919(class_18.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_26.method_32384(class_26.java:122) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_26.method_125(class_26.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14188(class_3218.java:802) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_14176(class_3218.java:784) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:536) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:602) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:537) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:703) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:33:59] [Server thread/ERROR]: Failed to save level ./world
+java.io.IOException: No such file or directory
+	at java.io.UnixFileSystem.createFileExclusively0(Native Method) ~[?:?]
+	at java.io.UnixFileSystem.createFileExclusively(UnixFileSystem.java:258) ~[?:?]
+	at java.io.File.createTempFile(File.java:2184) ~[?:?]
+	at net.minecraft.class_32$class_5143.method_27426(class_32.java:455) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:543) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:602) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:537) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:703) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[11:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (edenring): All chunks are saved
+[11:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:33:59] [Server thread/INFO]: [EasyAuth]: Shutting down EasyAuth.
+[11:33:59] [Server thread/INFO]: [EasyAuth]: Database connection closed successfully
+[11:33:59] [Server thread/INFO]: Unloading server configs...
+[11:33:59] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
