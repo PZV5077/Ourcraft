@@ -25,6 +25,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "willow_forest": "2024-09-24 09:48:49 +0000",
       "blackwood_taiga": "2024-09-24 09:41:17 +0000",
       "lupine_plains": "2024-09-24 09:38:58 +0000"
     },
@@ -32,6 +33,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "willow_forest": "2024-09-24 09:48:49 +0000",
       "blackwood_taiga": "2024-09-24 09:41:17 +0000",
       "lupine_plains": "2024-09-24 09:38:58 +0000"
     },
@@ -39,10 +41,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-09-24 09:56:01 +0000",
+      "minecraft:dark_forest": "2024-09-24 09:59:10 +0000",
+      "minecraft:river": "2024-09-24 09:54:59 +0000",
       "minecraft:stony_shore": "2024-09-24 09:39:04 +0000",
-      "minecraft:ocean": "2024-09-24 09:44:04 +0000"
+      "minecraft:ocean": "2024-09-24 09:44:04 +0000",
+      "minecraft:old_growth_birch_forest": "2024-09-24 09:53:45 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-09-24 09:54:09 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
     "criteria": {
@@ -62,6 +74,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2024-09-24 09:44:04 +0000"
@@ -71,6 +89,18 @@
   "regions_unexplored:recipes/decorations/blackwood_sign": {
     "criteria": {
       "has_blackwood_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -110,6 +140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-09-24 09:50:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
@@ -119,6 +155,12 @@
   "edenring:recipes/decorations/auritis_bar_stool": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -134,6 +176,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
@@ -143,6 +191,12 @@
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2024-09-24 09:41:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_aspen": {
+    "criteria": {
+      "has_planks": "2024-09-24 09:55:35 +0000"
     },
     "done": true
   },
@@ -164,6 +218,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/brain_tree_fence": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
@@ -179,6 +245,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-09-24 09:42:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2024-09-24 09:45:34 +0000"
     },
     "done": true
   },
@@ -200,6 +272,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2024-09-24 09:44:04 +0000"
@@ -209,6 +287,24 @@
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-09-24 09:55:35 +0000"
     },
     "done": true
   },
@@ -227,6 +323,12 @@
   "biomeswevegone:recipes/building_blocks/rocky_stone": {
     "criteria": {
       "has_cobblestone": "2024-09-24 09:42:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
     },
     "done": true
   },
@@ -266,6 +368,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/pulse_tree_chair": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
@@ -275,6 +383,12 @@
   "edenring:recipes/decorations/brain_tree_taburet": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -290,9 +404,40 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-09-24 09:54:19 +0000",
+      "minecraft:zombie": "2024-09-24 09:54:08 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_stairs": {
+    "criteria": {
+      "has_planks": "2024-09-24 09:55:35 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/auritis_taburet": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_bookshelf": {
+    "criteria": {
+      "has_aspen_planks": "2024-09-24 09:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -335,6 +480,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -392,6 +543,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
@@ -416,6 +573,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/aspen_slab": {
+    "criteria": {
+      "has_planks": "2024-09-24 09:55:35 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/balloon_mushroom_fence": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
@@ -428,15 +591,45 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-09-24 09:45:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/blackwood_fence": {
     "criteria": {
       "has_blackwood_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -458,6 +651,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
@@ -467,6 +666,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-09-24 09:42:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-24 09:45:34 +0000"
     },
     "done": true
   },
@@ -488,6 +693,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/aspen_wood": {
+    "criteria": {
+      "has_log": "2024-09-24 09:50:25 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/brain_tree_sign": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
@@ -497,6 +708,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_button": {
+    "criteria": {
+      "has_planks": "2024-09-24 09:55:35 +0000"
     },
     "done": true
   },
@@ -512,9 +729,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-24 09:54:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/pulse_tree_sign": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -548,6 +783,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/aspen_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-09-24 09:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
@@ -557,6 +798,12 @@
   "biomeswevegone:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2024-09-24 09:44:04 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -587,6 +834,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-09-24 09:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-09-24 09:45:33 +0000"
     },
     "done": true
   },
@@ -626,9 +879,21 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:temperate_grove": "2024-09-24 09:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-09-24 09:45:34 +0000"
     },
     "done": true
   },
@@ -638,9 +903,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/white_mangrove_boat": {
     "criteria": {
       "in_water": "2024-09-24 09:44:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-09-24 09:50:13 +0000"
     },
     "done": true
   },
@@ -668,6 +951,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2024-09-24 09:44:04 +0000"
@@ -677,6 +966,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_planks": {
+    "criteria": {
+      "has_log": "2024-09-24 09:50:25 +0000"
     },
     "done": true
   },
@@ -725,6 +1020,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-24 09:50:09 +0000"
     },
     "done": true
   },
@@ -800,9 +1101,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/aspen_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-09-24 09:55:35 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/misc/limphium_painting": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -836,6 +1155,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/balloon_mushroom_chair": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
@@ -854,6 +1179,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_cooler": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
@@ -869,6 +1206,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
     },
     "done": true
   },
@@ -908,9 +1251,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-09-24 09:46:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
     },
     "done": true
   },
@@ -926,6 +1281,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
@@ -935,6 +1296,12 @@
   "biomeswevegone:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2024-09-24 09:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
     },
     "done": true
   },
@@ -953,6 +1320,24 @@
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/aspen_sign": {
+    "criteria": {
+      "has_planks": "2024-09-24 09:55:35 +0000"
     },
     "done": true
   },
@@ -980,6 +1365,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
@@ -998,11 +1389,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-09-24 09:46:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2024-09-24 09:42:02 +0000"
     },
     "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:temperate_grove": "2024-09-24 09:46:05 +0000",
+      "biomeswevegone:aspen_boreal": "2024-09-24 09:50:23 +0000",
+      "biomeswevegone:allium_shrubland": "2024-09-24 09:48:46 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/checker": {
     "criteria": {
@@ -1034,6 +1439,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
@@ -1055,6 +1472,12 @@
   "regions_unexplored:recipes/transportation/socotra_boat": {
     "criteria": {
       "in_water": "2024-09-24 09:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-09-24 09:45:34 +0000"
     },
     "done": true
   },
@@ -1082,6 +1505,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "minecraft:planks": "2024-09-24 09:42:02 +0000"
@@ -1091,6 +1520,12 @@
   "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -1155,9 +1590,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-09-24 09:47:00 +0000"
     },
     "done": true
   },
@@ -1185,9 +1632,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -1200,6 +1659,18 @@
   "regions_unexplored:recipes/redstone/blackwood_fence_gate": {
     "criteria": {
       "has_blackwood_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/aspen_fence": {
+    "criteria": {
+      "has_planks": "2024-09-24 09:55:35 +0000"
     },
     "done": true
   },
@@ -1221,9 +1692,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-24 09:45:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_door": {
+    "criteria": {
+      "has_planks": "2024-09-24 09:55:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -1269,6 +1764,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2024-09-24 09:44:04 +0000"
@@ -1281,9 +1782,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blackwood_wood": {
     "criteria": {
       "has_log": "2024-09-24 09:41:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
     },
     "done": true
   },
@@ -1335,6 +1860,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:kill_entity": {
+    "criteria": {
+      "requirement": "2024-09-24 09:45:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
@@ -1359,15 +1896,45 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2024-09-24 09:44:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-09-24 09:50:09 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/pink_dye_from_pink_bioshroom": {
     "criteria": {
       "has_pink_bioshroom": "2024-09-24 09:41:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -1437,6 +2004,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_stool": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
@@ -1464,6 +2037,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },
@@ -1497,6 +2076,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-09-24 09:50:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-09-24 09:54:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pink_bioshroom_block": {
     "criteria": {
       "has_pink_bioshroom": "2024-09-24 09:41:35 +0000"
@@ -1506,6 +2097,18 @@
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2024-09-24 09:45:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
     },
     "done": true
   },
@@ -1551,6 +2154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2024-09-24 09:42:25 +0000"
@@ -1560,6 +2169,30 @@
   "refurbished_furniture:recipes/misc/constructing/white_sofa": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-09-24 09:54:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-09-24 09:47:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/aspen_crafting_table": {
+    "criteria": {
+      "has_aspen_planks": "2024-09-24 09:55:35 +0000"
     },
     "done": true
   },
@@ -1592,6 +2225,12 @@
       "has_logs": "2024-09-24 09:41:52 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-09-24 09:47:00 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
@@ -1653,6 +2292,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
@@ -1668,6 +2313,24 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-09-24 09:42:21 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/gas_mask": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-09-24 09:50:13 +0000"
     },
     "done": true
   },
@@ -1698,6 +2361,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_stool": {
     "criteria": {
       "has_planks": "2024-09-24 09:42:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-24 09:55:44 +0000"
     },
     "done": true
   },

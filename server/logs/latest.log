@@ -656,3 +656,224 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [09:47:29] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
 [09:47:45] [Server thread/INFO]: jjjjjasper has made the advancement [Isn't It Iron Pick]
 [09:48:36] [Server thread/INFO]: jjjjjasper has made the advancement [Stone Age]
+[09:49:01] [Server thread/INFO]: hizuki has made the advancement [Stone Age]
+[09:49:17] [Server thread/INFO]: hizuki has made the advancement [Getting an Upgrade]
+[09:49:30] [pool-7-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/pumpkin_patch], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/salem], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest]] from pos class_2338{x=133, y=71, z=395}
+[09:50:44] [Server thread/INFO]: [Test: Gamerule keepInventory is now set to: true]
+[09:51:25] [Worker-Main-1/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[09:51:25] [Worker-Main-1/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[09:52:19] [Server thread/INFO]: hizuki drowned
+[09:52:28] [Server thread/INFO]: Test lost connection: Timed out
+[09:52:28] [Server thread/INFO]: Test left the game
+[09:52:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=44, y=74, z=105}
+[09:52:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=42, y=74, z=105}
+[09:52:56] [Server thread/INFO]: hizuki lost connection: Disconnected
+[09:52:56] [Server thread/INFO]: hizuki left the game
+[09:53:16] [Server thread/INFO]: AwaKING has made the advancement [Acquire Hardware]
+[09:53:19] [Server thread/INFO]: Test[/127.0.0.1:41796] logged in with entity id 24245 at (67.33195269136037, 93.0, 166.69999998807907)
+[09:53:19] [Server thread/INFO]: Test joined the game
+[09:53:20] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:53:20] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:53:20] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:53:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:53:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:53:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:53:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:53:20] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[09:53:37] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:53:42] [Server thread/INFO]: AwaKING has made the advancement [Isn't It Iron Pick]
+[09:53:49] [Server thread/INFO]: Test lost connection: Timed out
+[09:53:49] [Server thread/INFO]: Test left the game
+[09:54:08] [Server thread/INFO]: Littlebugs_ has made the advancement [Monster Hunter]
+[09:54:22] [Server thread/INFO]: jjjjjasper was blown up by Creeper
+[09:54:27] [Server thread/INFO]: Test[/127.0.0.1:49530] logged in with entity id 26736 at (67.33195269136037, 93.0, 166.69999998807907)
+[09:54:27] [Server thread/INFO]: Test joined the game
+[09:54:31] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:54:31] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:54:31] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:54:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:54:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:54:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:54:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:54:31] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[09:54:42] [Server thread/INFO]: Test was slain by Zombie
+[09:55:10] [Server thread/INFO]: jjjjjasper has made the advancement [Monster Hunter]
+[09:55:24] [Server thread/INFO]: [Test: Set the weather to rain & thunder]
+[09:55:29] [Server thread/INFO]: AwaKING has made the advancement [This Must be a Sign!]
+[09:56:13] [Server thread/INFO]: Test lost connection: Timed out
+[09:56:13] [Server thread/INFO]: Test left the game
+[09:56:25] [pool-7-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/salem], ResourceKey[minecraft:worldgen/structure / abridged:canyon_bridge], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/pumpkin_patch], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest]] from pos class_2338{x=389, y=70, z=651}
+[09:57:02] [Server thread/INFO]: jjjjjasper was slain by Zombie
+[09:58:13] [pool-7-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/pumpkin_patch], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes]] from pos class_2338{x=683, y=71, z=613}
+[09:58:56] [Server thread/INFO]: hizuki[/127.0.0.1:48628] logged in with entity id 38026 at (44.35086258559556, 75.0, 105.55207496204154)
+[09:58:56] [Server thread/INFO]: hizuki joined the game
+[09:58:57] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[09:58:57] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[09:58:57] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[09:58:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[09:58:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[09:58:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[09:58:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[09:58:57] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[09:59:19] [Server thread/INFO]: jjjjjasper was impaled by Drowned
+[09:59:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=43, y=74, z=106}
+[09:59:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=43, y=74, z=106}
+[09:59:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=52, y=72, z=95} class_2338{x=52, y=72, z=96}
+[09:59:42] [Server thread/INFO]: Littlebugs_ was impaled by Drowned
+[10:00:04] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
+[10:00:04] [Server thread/INFO]: Littlebugs_ left the game
+[10:00:49] [Server thread/INFO]: hizuki has made the advancement [Monster Hunter]
+[10:01:15] [Server thread/INFO]: AwaKING has made the advancement [Monster Hunter]
+[10:01:32] [Server thread/INFO]: Test[/127.0.0.1:52992] logged in with entity id 42559 at (69.04692443269188, 92.0, 162.73194142360802)
+[10:01:32] [Server thread/INFO]: Test joined the game
+[10:01:32] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:01:32] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:01:32] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:01:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:01:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:01:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:01:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:01:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[10:01:50] [Server thread/INFO]: [Test: Set the weather to rain & thunder]
+[10:02:07] [Server thread/INFO]: Test fell from a high place
+[10:02:20] [Server thread/INFO]: [Test: Set own game mode to Creative Mode]
+[10:02:28] [Server thread/INFO]: [Test: Set the weather to clear]
+[10:03:08] [Server thread/INFO]: [Not Secure] <Test> are you all ready to tp?
+[10:03:14] [Server thread/INFO]: [Not Secure] <AwaKING> NO
+[10:04:20] [Server thread/INFO]: jjjjjasper has made the advancement [Getting an Upgrade]
+[10:04:36] [Server thread/INFO]: [Not Secure] <Test> are you all ready to tp now?
+[10:05:17] [pool-7-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / abridged:canyon_bridge], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/red_rock], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/pumpkin_patch], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / abridged:creek_bridge]] from pos class_2338{x=405, y=81, z=933}
+[10:05:18] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=405, y=81, z=934} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[10:05:18] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=405, y=81, z=934}
+[10:05:18] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=405, y=81, z=933} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[10:05:18] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=405, y=81, z=933}
+[10:05:18] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=405, y=80, z=934} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[10:05:18] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=405, y=80, z=934}
+[10:08:36] [Server thread/INFO]: [Not Secure] <Test> tp all?
+[10:08:55] [Server thread/INFO]: [Not Secure] <jjjjjasper> no
+[10:09:03] [Server thread/INFO]: [Not Secure] <jjjjjasper> we have home here
+[10:09:17] [Server thread/INFO]: [Not Secure] <Test> hehe
+[10:09:27] [Server thread/INFO]: [Not Secure] <Test> say bye to your house
+[10:09:53] [Server thread/INFO]: [Not Secure] <Test> do you all want to tp?
+[10:10:42] [Server thread/INFO]: [Test: Teleported Test to AwaKING]
+[10:10:54] [Server thread/INFO]: hizuki fell from a high place
+[10:11:58] [Server thread/INFO]: AwaKING has made the advancement [Hunt and Gather]
+[10:12:00] [Server thread/INFO]: [Not Secure] <Test> get ready for tp
+[10:12:01] [Server thread/INFO]: [Not Secure] <Test> all
+[10:12:04] [Server thread/INFO]: [Not Secure] <Test> 30s
+[10:12:12] [Server thread/INFO]: [Not Secure] <Test> 20s
+[10:12:18] [Server thread/INFO]: [Not Secure] <Test> 10s
+[10:12:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1189, y=263, z=55} class_2338{x=1189, y=264, z=56}
+[10:12:44] [Server thread/INFO]: AwaKING has made the advancement [Suit Up]
+[10:12:58] [Server thread/INFO]: [Test: Teleported jjjjjasper to Test]
+[10:13:08] [Server thread/INFO]: [Test: Teleported hizuki to Test]
+[10:13:36] [Server thread/INFO]: [Test: Set the world spawn point to 1132, 100, 28 [0.0]]
+[10:13:57] [Server thread/INFO]: jjjjjasper has made the advancement [Granny Smith?]
+[10:14:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=213, y=69, z=70} class_2338{x=1144, y=99, z=32}
+[10:14:07] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[10:14:07] [Server thread/INFO]: AwaKING left the game
+[10:14:13] [Server thread/INFO]: AwaKING[/127.0.0.1:35140] logged in with entity id 68717 at (1134.699999988079, 262.0, 44.0455462001142)
+[10:14:13] [Server thread/INFO]: AwaKING joined the game
+[10:14:14] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:14:14] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:14:14] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:14:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:14:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:14:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:14:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:14:14] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[10:14:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1137, y=262, z=38}
+[10:14:34] [Server thread/INFO]: hizuki was slain by Zombie
+[10:14:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1112, y=91, z=20} class_2338{x=1143, y=98, z=35}
+[10:15:32] [Server thread/INFO]: [Test: Set the world spawn point to 1115, 97, 10 [0.0]]
+[10:15:48] [Server thread/INFO]: [Test: Teleported Test to AwaKING]
+[10:15:48] [Server thread/INFO]: hizuki fell from a high place
+[10:18:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1135, y=95, z=69} class_2338{x=1116, y=46, z=8}
+[10:18:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1135, y=95, z=69} class_2338{x=1115, y=46, z=10}
+[10:18:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1135, y=95, z=69} class_2338{x=1117, y=47, z=9}
+[10:18:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1135, y=95, z=69} class_2338{x=1117, y=47, z=9}
+[10:18:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1135, y=95, z=69} class_2338{x=1116, y=46, z=6}
+[10:18:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1135, y=95, z=69} class_2338{x=1116, y=46, z=6}
+[10:18:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1135, y=95, z=69} class_2338{x=1117, y=46, z=8}
+[10:18:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1135, y=95, z=69} class_2338{x=1117, y=46, z=7}
+[10:18:33] [Server thread/INFO]: hizuki was shot by Skeleton
+[10:18:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1109, y=92, z=12}
+[10:18:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1108, y=92, z=11}
+[10:18:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1109, y=92, z=12}
+[10:18:46] [Server thread/INFO]: jjjjjasper was doomed to fall
+[10:18:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1102, y=76, z=5}
+[10:18:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1102, y=76, z=5}
+[10:19:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1108, y=45, z=18}
+[10:19:31] [Server thread/INFO]: [Not Secure] <Test> 各位这是测试服
+[10:19:37] [Server thread/INFO]: [Not Secure] <Test> so会有哦很多问题
+[10:20:02] [Server thread/INFO]: hizuki was shot by Skeleton
+[10:20:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1124, y=98, z=22}
+[10:20:06] [Server thread/INFO]: [Not Secure] <Test> 看问题大小决定删不删档，取消不取消某些功能
+[10:20:11] [Server thread/INFO]: [Not Secure] <Test> 也看各位
+[10:20:25] [Server thread/INFO]: [Not Secure] <Test> 觉得这个地图怎么样
+[10:22:39] [Server thread/INFO]: [Not Secure] <Test> 下次重启上线home命令
+[10:24:01] [Server thread/INFO]: [Not Secure] <Test> 额诸位
+[10:24:07] [Server thread/INFO]: [Not Secure] <Test> 可能，可能啊
+[10:24:14] [Server thread/INFO]: [Not Secure] <Test> 这是一个删档测试，但是！
+[10:24:25] [Server thread/INFO]: [Not Secure] <Test> 正式上线发补偿
+[10:24:38] [Server thread/INFO]: [Not Secure] <Test> 保证满足各位前期发展需要
+[10:24:43] [Server thread/INFO]: [Not Secure] <Test> 怎么样？
+[10:24:57] [Server thread/INFO]: jjjjjasper has made the advancement [Sweet Dreams]
+[10:25:01] [Server thread/INFO]: [Not Secure] <hizuki> 你奶
+[10:25:06] [Server thread/INFO]: [Not Secure] <Test> say something?
+[10:25:18] [Server thread/INFO]: [Not Secure] <Test> cooll
+[10:25:28] [Server thread/INFO]: [Not Secure] <Test> AwaK do you read me
+[10:25:33] [Server thread/INFO]: [Not Secure] <Test> JSP you too
+[10:26:31] [Server thread/INFO]: [Not Secure] <AwaKING> NO
+[10:27:04] [Server thread/INFO]: Test lost connection: Timed out
+[10:27:04] [Server thread/INFO]: Test left the game
+[10:28:03] [Server thread/INFO]: jjjjjasper has made the advancement [Diamonds!]
+[10:28:15] [Server thread/INFO]: jjjjjasper has made the advancement [Suit Up]
+[10:29:46] [Server thread/INFO]: hizuki lost connection: Disconnected
+[10:29:46] [Server thread/INFO]: hizuki left the game
+[10:30:52] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[10:30:52] [Server thread/INFO]: AwaKING left the game
+[10:31:53] [Server thread/INFO]: jjjjjasper has made the advancement [Ice Bucket Challenge]
+[10:32:27] [Server thread/INFO]: AwaKING[/127.0.0.1:47826] logged in with entity id 83899 at (1608.699999988079, 65.0, -747.8260135678861)
+[10:32:27] [Server thread/INFO]: AwaKING joined the game
+[10:32:29] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[10:32:29] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[10:32:29] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[10:32:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[10:32:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[10:32:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[10:32:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[10:32:29] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[10:33:27] [Server thread/INFO]: AwaKING was doomed to fall by Zombie
+[10:37:44] [Server thread/INFO]: jjjjjasper has made the advancement [Hot Stuff]
+[10:42:33] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
+[10:42:33] [Server thread/INFO]: jjjjjasper left the game
+[10:43:46] [Server thread/INFO]: AwaKING has made the advancement [Gunpowder, gelatine!]
+[10:43:46] [Server thread/INFO]: AwaKING has made the advancement [Stando Power!]
+[10:44:30] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[10:45:22] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[10:45:26] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
+[10:45:40] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
+[10:46:04] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:46:10] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 602)]
+[10:46:23] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
+[10:46:24] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
+[10:46:27] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 367)]
+[10:46:31] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[10:46:35] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
+[10:46:56] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:46:57] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:46:57] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:46:58] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:47:00] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 367)]
+[10:47:02] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
+[10:48:14] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:48:15] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:48:15] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:48:16] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:48:16] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:48:16] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:48:16] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[10:48:23] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[10:48:33] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
