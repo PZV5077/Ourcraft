@@ -1,4 +1,57 @@
 {
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-09-23 11:39:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-09-23 11:40:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "frozen_tundra": "2024-09-23 11:44:25 +0000",
+      "frozen_pine_taiga": "2024-09-23 11:40:14 +0000",
+      "cold_boreal_taiga": "2024-09-23 11:46:19 +0000",
+      "saguaro_desert": "2024-09-23 11:50:25 +0000",
+      "grassland": "2024-09-23 11:50:19 +0000",
+      "hyacinth_deeps": "2024-09-23 11:42:09 +0000",
+      "icy_heights": "2024-09-23 11:45:34 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "frozen_tundra": "2024-09-23 11:44:25 +0000",
+      "frozen_pine_taiga": "2024-09-23 11:40:14 +0000",
+      "cold_boreal_taiga": "2024-09-23 11:46:19 +0000",
+      "saguaro_desert": "2024-09-23 11:50:25 +0000",
+      "grassland": "2024-09-23 11:50:19 +0000",
+      "hyacinth_deeps": "2024-09-23 11:42:09 +0000",
+      "icy_heights": "2024-09-23 11:45:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-09-23 11:46:07 +0000",
+      "minecraft:deep_ocean": "2024-09-23 11:49:35 +0000",
+      "minecraft:frozen_river": "2024-09-23 11:45:55 +0000",
+      "minecraft:lukewarm_ocean": "2024-09-23 11:49:47 +0000",
+      "minecraft:snowy_plains": "2024-09-23 11:44:18 +0000",
+      "minecraft:snowy_taiga": "2024-09-23 11:46:02 +0000",
+      "minecraft:cold_ocean": "2024-09-23 11:42:34 +0000",
+      "minecraft:deep_cold_ocean": "2024-09-23 11:42:18 +0000",
+      "minecraft:frozen_ocean": "2024-09-23 11:41:33 +0000",
+      "minecraft:ocean": "2024-09-23 11:49:36 +0000",
+      "minecraft:snowy_beach": "2024-09-23 11:46:08 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-09-23 11:50:01 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2024-09-23 11:41:34 +0000"
@@ -8,12 +61,6 @@
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2024-09-23 11:41:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-09-23 11:39:46 +0000"
     },
     "done": true
   },
@@ -50,12 +97,6 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-09-23 11:41:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2024-09-23 11:40:14 +0000"
     },
     "done": true
   },
@@ -144,52 +185,11 @@
     },
     "done": true
   },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "frozen_tundra": "2024-09-23 11:44:25 +0000",
-      "frozen_pine_taiga": "2024-09-23 11:40:14 +0000",
-      "cold_boreal_taiga": "2024-09-23 11:46:19 +0000",
-      "saguaro_desert": "2024-09-23 11:50:25 +0000",
-      "grassland": "2024-09-23 11:50:19 +0000",
-      "hyacinth_deeps": "2024-09-23 11:42:09 +0000",
-      "icy_heights": "2024-09-23 11:45:34 +0000"
-    },
-    "done": false
-  },
   "regions_unexplored:recipes/transportation/baobab_boat": {
     "criteria": {
       "in_water": "2024-09-23 11:41:34 +0000"
     },
     "done": true
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "frozen_tundra": "2024-09-23 11:44:25 +0000",
-      "frozen_pine_taiga": "2024-09-23 11:40:14 +0000",
-      "cold_boreal_taiga": "2024-09-23 11:46:19 +0000",
-      "saguaro_desert": "2024-09-23 11:50:25 +0000",
-      "grassland": "2024-09-23 11:50:19 +0000",
-      "hyacinth_deeps": "2024-09-23 11:42:09 +0000",
-      "icy_heights": "2024-09-23 11:45:34 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2024-09-23 11:46:07 +0000",
-      "minecraft:deep_ocean": "2024-09-23 11:49:35 +0000",
-      "minecraft:frozen_river": "2024-09-23 11:45:55 +0000",
-      "minecraft:lukewarm_ocean": "2024-09-23 11:49:47 +0000",
-      "minecraft:snowy_plains": "2024-09-23 11:44:18 +0000",
-      "minecraft:snowy_taiga": "2024-09-23 11:46:02 +0000",
-      "minecraft:cold_ocean": "2024-09-23 11:42:34 +0000",
-      "minecraft:deep_cold_ocean": "2024-09-23 11:42:18 +0000",
-      "minecraft:frozen_ocean": "2024-09-23 11:41:33 +0000",
-      "minecraft:ocean": "2024-09-23 11:49:36 +0000",
-      "minecraft:snowy_beach": "2024-09-23 11:46:08 +0000",
-      "minecraft:deep_lukewarm_ocean": "2024-09-23 11:50:01 +0000"
-    },
-    "done": false
   },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {

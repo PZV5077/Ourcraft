@@ -1,5 +1,5 @@
-[07:39:34] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
-[07:39:38] [main/INFO]: Loading 117 mods:
+[07:44:32] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
+[07:44:32] [main/INFO]: Loading 117 mods:
 	- architectury 9.2.14
 	- create 0.5.1-f-build.1417+mc1.20.1
 	   |-- com_google_code_findbugs_jsr305 3.0.2
@@ -150,142 +150,1087 @@
 	- terrablender 3.0.1.7
 	   |-- com_electronwill_night-config_core 3.6.7
 	   \-- com_electronwill_night-config_toml 3.6.7
-[07:39:39] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[07:39:39] [main/INFO]: Compatibility level set to JAVA_16
-[07:39:39] [main/INFO]: Compatibility level set to JAVA_17
-[07:39:41] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[07:39:41] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[07:39:41] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
-[07:39:41] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
-[07:39:42] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[07:39:45] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bff000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[07:39:54] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$bid000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[07:40:01] [main/ERROR]: No data fixer registered for doapi:chair
-[07:40:01] [main/INFO]: [EasyAuth]: EasyAuth mod by samo_lego, NikitaCartes.
-[07:40:01] [main/WARN]: [EasyAuth]: Disable enforce-secure-profile to allow offline players to join the server
-[07:40:01] [main/WARN]: [EasyAuth]: For more info, see https://github.com/NikitaCartes/EasyAuth/issues/68
-[07:40:01] [main/INFO]: [EasyAuth]: You have premiumAutologin enabled. Enable online-mode so that online player can not register.
-[07:40:02] [main/INFO]: Reflections took 179 ms to scan 1 urls, producing 9 keys and 75 values
-[07:40:02] [main/ERROR]: No data fixer registered for seat
-[07:40:02] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[07:40:02] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
-[07:40:02] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
-[07:40:02] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[07:40:02] [main/ERROR]: No data fixer registered for meadow:water_buffalo
-[07:40:02] [main/ERROR]: No data fixer registered for meadow:wooly_cow
-[07:40:03] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[07:40:03] [main/INFO]: [Regions Unexplored] generating and loading config
-[07:40:03] [main/INFO]: Loaded config supplementaries-common.json
-[07:40:03] [main/ERROR]: Farmers Delight Refabricated is not installed. Disabling Farmers Delight Module
-[07:40:04] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[07:40:04] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[07:40:04] [main/INFO]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[07:40:04] [main/INFO]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[07:40:04] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[07:40:04] [main/INFO]: Initialized block sets in 24ms
-[07:40:04] [main/ERROR]: No data fixer registered for dispenser_minecart
-[07:40:04] [main/ERROR]: No data fixer registered for falling_urn
-[07:40:04] [main/ERROR]: No data fixer registered for falling_ash
-[07:40:04] [main/ERROR]: No data fixer registered for falling_sack
-[07:40:04] [main/ERROR]: No data fixer registered for brick_projectile
-[07:40:04] [main/ERROR]: No data fixer registered for bomb
-[07:40:04] [main/ERROR]: No data fixer registered for rope_arrow
-[07:40:05] [main/ERROR]: No data fixer registered for slingshot_projectile
-[07:40:05] [main/INFO]: Initialized color sets in 64ms
-[07:40:05] [main/INFO]: Finished mod setup in: [12, 0, 0, 1, 0, 0, 17, 6, 1] ms
-[07:40:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07:40:05] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 44 ms
-[07:40:06] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[07:40:09] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
-com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
-	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
-	at com.nhoryzon.mc.farmersdelight.recipe.CuttingBoardRecipeSerializer.read(CuttingBoardRecipeSerializer.java:45) ~[farmers-delight-fabric-1.4.3.jar:?]
-	at com.nhoryzon.mc.farmersdelight.recipe.CuttingBoardRecipeSerializer.method_8121(CuttingBoardRecipeSerializer.java:15) ~[farmers-delight-fabric-1.4.3.jar:?]
-	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
-	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+[07:44:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[07:44:33] [main/INFO]: Compatibility level set to JAVA_16
+[07:44:33] [main/INFO]: Compatibility level set to JAVA_17
+[07:44:33] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[07:44:33] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[07:44:34] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
+[07:44:34] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
+[07:44:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[07:44:36] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bff000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[07:44:41] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$bid000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[07:44:45] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:45] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:45] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:45] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:45] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:45] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:45] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/create-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/createbigcannons-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.showAutocannonPlumes was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.showDropMortarPlumes was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.showMortarStoneClouds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidBlobParticleCount was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.blockArmorInfoPrecision was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.useShaderCompatibleGraphics was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.blastEffectDelaySpeed was corrected from null to its default, 320.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileFlybySounds was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileFlybySounds.enableBigCannonProjectileFlybySounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileFlybySounds.enableAutocannonProjectileFlybySounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.cannonMountGoggleTooltip was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.cannonMountGoggleTooltip.anglePrecision was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.cannonMountGoggleTooltip.use180_180RangeForYaw was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.screenShake was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.screenShake.cannonScreenShakeIntensity was corrected from null to its default, 1.2999999523162842. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.screenShake.cannonScreenShakeSpringiness was corrected from null to its default, 0.07999999821186066. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.screenShake.cannonScreenShakeDecay was corrected from null to its default, 0.30000001192092896. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast.showBigCannonPlumes was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast.showExtraSmoke was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast.showExtraFlames was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast.screenShakePowerMultiplier was corrected from null to its default, 6.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast.screenShakePowerLimit was corrected from null to its default, 45.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.flakClouds was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.flakClouds.showFlakClouds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.flakClouds.showExtraFlames was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.flakClouds.showExtraShockwave was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.flakClouds.showExtraTrails was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shrapnelClouds was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shrapnelClouds.showShrapnelClouds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shrapnelClouds.showExtraFlames was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shrapnelClouds.showExtraShockwave was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidShellClouds was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidShellClouds.showFluidShellClouds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidShellClouds.showExtraFlames was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidShellClouds.showExtraShockwave was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileSplashes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileSplashes.showProjectileSplashes was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileImpacts was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileImpacts.showProjectileImpacts was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sounds was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sounds.blastSoundAirAbsorption was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shellExplosions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shellExplosions.showShellExplosionClouds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shellExplosions.showExtraTrails was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shellExplosions.screenShakePowerMultiplier was corrected from null to its default, 6.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shellExplosions.screenShakePowerLimit was corrected from null to its default, 45.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.particleWindEffect was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.particleWindEffect.maximumWindSpeed was corrected from null to its default, 1.25. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.particleWindEffect.maximumWindBearingChangeSpeed was corrected from null to its default, 8.0. 
+[07:44:46] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/createbigcannons-client.toml is not correct. Correcting
+[07:44:46] [Thread-2/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.showAutocannonPlumes was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.showDropMortarPlumes was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.showMortarStoneClouds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidBlobParticleCount was corrected from null to its default, 20. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.blockArmorInfoPrecision was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.useShaderCompatibleGraphics was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.blastEffectDelaySpeed was corrected from null to its default, 320.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileFlybySounds was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileFlybySounds.enableBigCannonProjectileFlybySounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileFlybySounds.enableAutocannonProjectileFlybySounds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.cannonMountGoggleTooltip was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.cannonMountGoggleTooltip.anglePrecision was corrected from null to its default, 2. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.cannonMountGoggleTooltip.use180_180RangeForYaw was corrected from null to its default, false. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.screenShake was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.screenShake.cannonScreenShakeIntensity was corrected from null to its default, 1.2999999523162842. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.screenShake.cannonScreenShakeSpringiness was corrected from null to its default, 0.07999999821186066. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.screenShake.cannonScreenShakeDecay was corrected from null to its default, 0.30000001192092896. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast.showBigCannonPlumes was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast.showExtraSmoke was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast.showExtraFlames was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast.screenShakePowerMultiplier was corrected from null to its default, 6.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.bigCannonBlast.screenShakePowerLimit was corrected from null to its default, 45.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.flakClouds was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.flakClouds.showFlakClouds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.flakClouds.showExtraFlames was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.flakClouds.showExtraShockwave was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.flakClouds.showExtraTrails was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shrapnelClouds was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shrapnelClouds.showShrapnelClouds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shrapnelClouds.showExtraFlames was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shrapnelClouds.showExtraShockwave was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidShellClouds was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidShellClouds.showFluidShellClouds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidShellClouds.showExtraFlames was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.fluidShellClouds.showExtraShockwave was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileSplashes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileSplashes.showProjectileSplashes was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileImpacts was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.projectileImpacts.showProjectileImpacts was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sounds was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.sounds.blastSoundAirAbsorption was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shellExplosions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shellExplosions.showShellExplosionClouds was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shellExplosions.showExtraTrails was corrected from null to its default, true. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shellExplosions.screenShakePowerMultiplier was corrected from null to its default, 6.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.shellExplosions.screenShakePowerLimit was corrected from null to its default, 45.0. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.particleWindEffect was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.particleWindEffect.maximumWindSpeed was corrected from null to its default, 1.25. 
+[07:44:46] [Thread-2/WARN]: Incorrect key client.particleWindEffect.maximumWindBearingChangeSpeed was corrected from null to its default, 8.0. 
+[07:44:46] [main/ERROR]: No data fixer registered for doapi:chair
+[07:44:47] [main/INFO]: [EasyAuth]: EasyAuth mod by samo_lego, NikitaCartes.
+[07:44:47] [main/WARN]: [EasyAuth]: Disable enforce-secure-profile to allow offline players to join the server
+[07:44:47] [main/WARN]: [EasyAuth]: For more info, see https://github.com/NikitaCartes/EasyAuth/issues/68
+[07:44:47] [main/INFO]: [EasyAuth]: You have premiumAutologin enabled. Enable online-mode so that online player can not register.
+[07:44:47] [main/ERROR]: [EasyAuth]: onInitialize error: 
+xyz.nikitacartes.easyauth.storage.database.DBApiException: [EasyAuth] Failed setting up LevelDB
+	at xyz.nikitacartes.easyauth.storage.database.LevelDB.connect(LevelDB.java:44)
+	at xyz.nikitacartes.easyauth.EasyAuth.onInitialize(EasyAuth.java:112)
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:399)
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:63)
+	at net.minecraft.server.Main.main(Main.java:112)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23)
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69)
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69)
+Caused by: java.io.IOException: Unable to acquire lock on '/workspaces/Ourcraft/server/./mods/EasyAuth/levelDBStore/LOCK'
+	at org.iq80.leveldb.impl.DbLock.<init>(DbLock.java:55)
+	at org.iq80.leveldb.impl.DbImpl.<init>(DbImpl.java:169)
+	at org.iq80.leveldb.impl.Iq80DBFactory.open(Iq80DBFactory.java:83)
+	at xyz.nikitacartes.easyauth.storage.database.LevelDB.connect(LevelDB.java:42)
+	... 9 more
+
+[07:44:47] [main/INFO]: Reflections took 149 ms to scan 1 urls, producing 9 keys and 75 values
+[07:44:48] [main/ERROR]: No data fixer registered for seat
+[07:44:48] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[07:44:48] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
+[07:44:48] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
+[07:44:48] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[07:44:48] [main/ERROR]: No data fixer registered for meadow:water_buffalo
+[07:44:48] [main/ERROR]: No data fixer registered for meadow:wooly_cow
+[07:44:48] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[07:44:48] [main/INFO]: [Regions Unexplored] generating and loading config
+[07:44:48] [Thread-2/WARN]: Configuration file ./config/regions_unexplored/regions_unexplored-common.toml could not be parsed. Correcting
+[07:44:48] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/regions_unexplored/regions_unexplored-common.toml is not correct. Correcting
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.toggle_custom_regions was corrected from null to its default, false. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.primary_region_weight was corrected from null to its default, 11. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.secondary_region_weight was corrected from null to its default, 8. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.rare_region_weight was corrected from null to its default, 1. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.nether_region_weight was corrected from null to its default, 14. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_alpha_grove was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_arid_mountains was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_smouldering_woodland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_autumnal_maple_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_bamboo_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_baobab_savanna was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_barley_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_bayou was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_blackwood_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_boreal_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_chalk_cliffs was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_clover_plains was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_cold_boreal_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_cold_deciduous_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_cold_river was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_deciduous_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_dry_bushland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_eucalyptus_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_fen was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_flower_field was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_frozen_pine_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_frozen_tundra was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_fungal_fen was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_golden_boreal_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_grassland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_grassy_beach was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_gravel_beach was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_highland_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_hyacinth_deeps was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_icy_desert was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_icy_heights was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_joshua_desert was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_magnolia_woodland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_maple_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_marsh was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_mauve_hills was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_meadow was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_mountains was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_muddy_river was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_old_growth_bayou was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_orchard was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_outback was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_pine_slopes was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_pine_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_poppy_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_prairie was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_pumpkin_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_rainforest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_rocky_reef was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_redwoods was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_saguaro_desert was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_shrubland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_silver_birch_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_sparse_rainforest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_sparse_redwoods was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_spires was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_steppe was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_temperate_grove was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_towering_cliffs was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_tropical_river was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_tropics was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_willow_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_ancient_delta was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_bioshroom_caves was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_prismachasm was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_redstone_caves was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_scorching_caves was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_blackstone_basin was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_glistering_meadow was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_infernal_holt was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_mycotoxic_undergrowth was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_redstone_hell was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key worldgen_options was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key worldgen_options.toggle_custom_dirt was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_mauve_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_blue_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_pink_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_white_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_red_maple_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_orange_maple_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_silver_birch_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_enchanted_birch_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_transition_size was corrected from null to its default, 25.0. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_saturation was corrected from null to its default, 0.5. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_brightness was corrected from null to its default, 0.8. 
+[07:44:48] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/regions_unexplored/regions_unexplored-common.toml is not correct. Correcting
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.toggle_custom_regions was corrected from null to its default, false. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.primary_region_weight was corrected from null to its default, 11. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.secondary_region_weight was corrected from null to its default, 8. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.rare_region_weight was corrected from null to its default, 1. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.nether_region_weight was corrected from null to its default, 14. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_alpha_grove was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_arid_mountains was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_smouldering_woodland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_autumnal_maple_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_bamboo_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_baobab_savanna was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_barley_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_bayou was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_blackwood_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_boreal_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_chalk_cliffs was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_clover_plains was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_cold_boreal_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_cold_deciduous_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_cold_river was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_deciduous_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_dry_bushland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_eucalyptus_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_fen was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_flower_field was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_frozen_pine_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_frozen_tundra was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_fungal_fen was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_golden_boreal_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_grassland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_grassy_beach was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_gravel_beach was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_highland_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_hyacinth_deeps was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_icy_desert was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_icy_heights was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_joshua_desert was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_magnolia_woodland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_maple_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_marsh was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_mauve_hills was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_meadow was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_mountains was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_muddy_river was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_old_growth_bayou was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_orchard was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_outback was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_pine_slopes was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_pine_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_poppy_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_prairie was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_pumpkin_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_rainforest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_rocky_reef was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_redwoods was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_saguaro_desert was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_shrubland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_silver_birch_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_sparse_rainforest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_sparse_redwoods was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_spires was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_steppe was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_temperate_grove was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_towering_cliffs was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_tropical_river was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_tropics was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_willow_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_ancient_delta was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_bioshroom_caves was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_prismachasm was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_redstone_caves was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_scorching_caves was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_blackstone_basin was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_glistering_meadow was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_infernal_holt was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_mycotoxic_undergrowth was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_redstone_hell was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key worldgen_options was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key worldgen_options.toggle_custom_dirt was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_mauve_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_blue_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_pink_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_white_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_red_maple_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_orange_maple_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_silver_birch_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_enchanted_birch_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_transition_size was corrected from null to its default, 25.0. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_saturation was corrected from null to its default, 0.5. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_brightness was corrected from null to its default, 0.8. 
+[07:44:48] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/regions_unexplored/regions_unexplored-common.toml is not correct. Correcting
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.toggle_custom_regions was corrected from null to its default, false. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.primary_region_weight was corrected from null to its default, 11. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.secondary_region_weight was corrected from null to its default, 8. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.rare_region_weight was corrected from null to its default, 1. 
+[07:44:48] [Thread-2/WARN]: Incorrect key region_configs.nether_region_weight was corrected from null to its default, 14. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_alpha_grove was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_arid_mountains was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_smouldering_woodland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_autumnal_maple_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_bamboo_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_baobab_savanna was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_barley_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_bayou was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_blackwood_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_boreal_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_chalk_cliffs was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_clover_plains was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_cold_boreal_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_cold_deciduous_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_cold_river was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_deciduous_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_dry_bushland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_eucalyptus_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_fen was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_flower_field was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_frozen_pine_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_frozen_tundra was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_fungal_fen was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_golden_boreal_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_grassland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_grassy_beach was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_gravel_beach was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_highland_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_hyacinth_deeps was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_icy_desert was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_icy_heights was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_joshua_desert was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_magnolia_woodland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_maple_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_marsh was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_mauve_hills was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_meadow was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_mountains was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_muddy_river was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_old_growth_bayou was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_orchard was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_outback was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_pine_slopes was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_pine_taiga was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_poppy_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_prairie was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_pumpkin_fields was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_rainforest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_rocky_reef was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_redwoods was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_saguaro_desert was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_shrubland was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_silver_birch_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_sparse_rainforest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_sparse_redwoods was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_spires was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_steppe was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_temperate_grove was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_towering_cliffs was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_tropical_river was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_tropics was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_willow_forest was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_ancient_delta was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_bioshroom_caves was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_prismachasm was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_redstone_caves was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_scorching_caves was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_blackstone_basin was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_glistering_meadow was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_infernal_holt was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_mycotoxic_undergrowth was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_redstone_hell was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key worldgen_options was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key worldgen_options.toggle_custom_dirt was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_mauve_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_blue_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_pink_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_white_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_red_maple_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_orange_maple_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_silver_birch_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_enchanted_birch_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_transition_size was corrected from null to its default, 25.0. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_saturation was corrected from null to its default, 0.5. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_brightness was corrected from null to its default, 0.8. 
+[07:44:48] [Thread-2/WARN]: Configuration file /workspaces/Ourcraft/server/./config/regions_unexplored/regions_unexplored-common.toml is not correct. Correcting
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_pink_magnolia_leaves_particles was corrected from true to its default, null. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_white_magnolia_leaves_particles was corrected from true to its default, null. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_blue_magnolia_leaves_particles was corrected from true to its default, null. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_orange_maple_leaves_particles was corrected from true to its default, null. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.eucalyptus_transition_size was corrected from 25.0 to its default, null. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_red_maple_leaves_particles was corrected from true to its default, null. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.eucalyptus_brightness was corrected from 0.8 to its default, null. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_silver_birch_leaves_particles was corrected from true to its default, null. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.eucalyptus_saturation was corrected from 0.5 to its default, null. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.toggle_enchanted_birch_leaves_particles was corrected from true to its default, null. 
+[07:44:48] [Thread-2/WARN]: Incorrect key biome_toggles.gle_mauve_leaves_particles was corrected from true to its default, null. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_mauve_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_blue_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_pink_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_white_magnolia_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_red_maple_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_orange_maple_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_silver_birch_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.toggle_enchanted_birch_leaves_particles was corrected from null to its default, true. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_transition_size was corrected from null to its default, 25.0. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_saturation was corrected from null to its default, 0.5. 
+[07:44:48] [Thread-2/WARN]: Incorrect key client_options.eucalyptus_brightness was corrected from null to its default, 0.8. 
+[07:44:49] [main/INFO]: Loaded config supplementaries-common.json
+[07:44:49] [main/ERROR]: Farmers Delight Refabricated is not installed. Disabling Farmers Delight Module
+[07:44:49] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[07:44:49] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[07:44:49] [main/INFO]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[07:44:49] [main/INFO]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[07:44:49] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[07:44:49] [main/INFO]: Initialized block sets in 20ms
+[07:44:49] [main/ERROR]: No data fixer registered for dispenser_minecart
+[07:44:49] [main/ERROR]: No data fixer registered for falling_urn
+[07:44:49] [main/ERROR]: No data fixer registered for falling_ash
+[07:44:49] [main/ERROR]: No data fixer registered for falling_sack
+[07:44:49] [main/ERROR]: No data fixer registered for brick_projectile
+[07:44:49] [main/ERROR]: No data fixer registered for bomb
+[07:44:49] [main/ERROR]: No data fixer registered for rope_arrow
+[07:44:50] [main/ERROR]: No data fixer registered for slingshot_projectile
+[07:44:50] [main/INFO]: Initialized color sets in 47ms
+[07:44:50] [main/INFO]: Finished mod setup in: [15, 0, 0, 0, 0, 0, 16, 8, 1] ms
+[07:44:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07:44:50] [main/ERROR]: Failed to start the minecraft server
+net.minecraft.class_5125$class_5126: /workspaces/Ourcraft/server/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at net.minecraft.class_5125$class_5126.method_26805(class_5125.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5125.method_26803(class_5125.java:41) ~[server-intermediary.jar:?]
+	at net.minecraft.class_32$class_5143.<init>(class_32.java:398) ~[server-intermediary.jar:?]
+	at net.minecraft.class_32.method_52236(class_32.java:377) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:136) ~[server-intermediary.jar:?]
 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-mc.1.20.1-loader.0.16.5-launcher.1.0.1.jar:1.0.1]
-[07:40:09] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
-com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
-	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
-	at com.nhoryzon.mc.farmersdelight.recipe.CuttingBoardRecipeSerializer.read(CuttingBoardRecipeSerializer.java:45) ~[farmers-delight-fabric-1.4.3.jar:?]
-	at com.nhoryzon.mc.farmersdelight.recipe.CuttingBoardRecipeSerializer.method_8121(CuttingBoardRecipeSerializer.java:15) ~[farmers-delight-fabric-1.4.3.jar:?]
-	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
-	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-mc.1.20.1-loader.0.16.5-launcher.1.0.1.jar:1.0.1]
-[07:40:09] [main/INFO]: Loaded 42 recipes
-[07:40:09] [main/INFO]: Loaded 4301 advancements
-[07:40:09] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 34 translation keys
-[07:40:09] [main/INFO]: Loaded 27 flute songs
-[07:40:12] [main/INFO]: Finished additional setup in 14 ms
-[07:40:12] [main/INFO]: Applied 7 data villager trades
-[07:40:12] [main/INFO]: Cleared non-static resources for pack supplementaries:generated_pack in: 0 ms
-[07:40:12] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[07:40:12] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[07:40:12] [main/INFO]: Applied 748 biome modifications to 136 of 136 new biomes in 37.42 ms
-[07:40:12] [Server thread/INFO]: Registering compost heaps in village type of plains
-[07:40:12] [Server thread/INFO]: Registering compost heaps in village type of savanna
-[07:40:12] [Server thread/INFO]: Registering compost heaps in village type of snowy
-[07:40:12] [Server thread/INFO]: Registering compost heaps in village type of taiga
-[07:40:12] [Server thread/INFO]: Registering compost heaps in village type of desert
-[07:40:12] [Server thread/INFO]: Loading server configs...
-[07:40:13] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[07:40:13] [Server thread/INFO]: Loading properties
-[07:40:13] [Server thread/INFO]: Default game type: SURVIVAL
-[07:40:13] [Server thread/INFO]: Generating keypair
-[07:40:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:40:13] [Server thread/INFO]: Using epoll channel type
-[07:40:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:40:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:40:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:40:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:40:13] [Server thread/INFO]: Preparing level "world"
-[07:40:17] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
-[07:40:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:40:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:40:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:40:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:40:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:40:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:40:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:40:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:40:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:40:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:40:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:40:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:40:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:40:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:40:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:40:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:40:24] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 29%
-[07:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 71%
-[07:40:26] [Server thread/INFO]: Time elapsed: 8926 ms
-[07:40:26] [Server thread/INFO]: Done (12.909s)! For help, type "help"
