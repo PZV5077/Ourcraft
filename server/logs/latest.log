@@ -1,5 +1,5 @@
-[05:44:09] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
-[05:44:09] [main/INFO]: Loading 45 mods:
+[05:47:39] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
+[05:47:39] [main/INFO]: Loading 45 mods:
 	- fabric-api 0.92.2+1.20.1
 	   |-- fabric-api-base 0.4.31+1802ada577
 	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
@@ -58,96 +58,72 @@
 	- farmersdelight 1.20.1-1.4.3
 	- java 21
 	- minecraft 1.20.1
-[05:44:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[05:44:10] [main/INFO]: Compatibility level set to JAVA_16
-[05:44:10] [main/INFO]: Compatibility level set to JAVA_17
-[05:44:10] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[05:44:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:44:17] [main/INFO]: Found new data pack fabric, loading it automatically
-[05:44:18] [main/INFO]: Loaded 9 recipes
-[05:44:18] [main/INFO]: Loaded 1462 advancements
-[05:44:19] [main/INFO]: Applied 92 biome modifications to 54 of 64 new biomes in 8.343 ms
-[05:44:19] [Server thread/INFO]: Registering compost heaps in village type of plains
-[05:44:19] [Server thread/INFO]: Registering compost heaps in village type of savanna
-[05:44:19] [Server thread/INFO]: Registering compost heaps in village type of snowy
-[05:44:19] [Server thread/INFO]: Registering compost heaps in village type of taiga
-[05:44:19] [Server thread/INFO]: Registering compost heaps in village type of desert
-[05:44:19] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[05:44:19] [Server thread/INFO]: Loading properties
-[05:44:19] [Server thread/INFO]: Default game type: SURVIVAL
-[05:44:19] [Server thread/INFO]: Generating keypair
-[05:44:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:44:19] [Server thread/INFO]: Using epoll channel type
-[05:44:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:44:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:44:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:44:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:44:19] [Server thread/INFO]: Preparing level "world"
-[05:44:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:44:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:44:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:44:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:44:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:44:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:44:27] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[05:44:28] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[05:44:28] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[05:44:29] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[05:44:29] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[05:44:30] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[05:44:30] [Worker-Main-2/INFO]: Preparing spawn area: 7%
-[05:44:31] [Worker-Main-1/INFO]: Preparing spawn area: 9%
-[05:44:31] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[05:44:32] [Worker-Main-3/INFO]: Preparing spawn area: 10%
-[05:44:32] [Worker-Main-3/INFO]: Preparing spawn area: 13%
-[05:44:33] [Worker-Main-2/INFO]: Preparing spawn area: 15%
-[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 17%
-[05:44:34] [Worker-Main-1/INFO]: Preparing spawn area: 20%
-[05:44:34] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[05:44:35] [Worker-Main-3/INFO]: Preparing spawn area: 24%
-[05:44:35] [Worker-Main-1/INFO]: Preparing spawn area: 27%
-[05:44:36] [Worker-Main-1/INFO]: Preparing spawn area: 30%
-[05:44:36] [Worker-Main-1/INFO]: Preparing spawn area: 33%
-[05:44:37] [Worker-Main-2/INFO]: Preparing spawn area: 36%
-[05:44:37] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[05:44:38] [Worker-Main-3/INFO]: Preparing spawn area: 42%
-[05:44:38] [Worker-Main-1/INFO]: Preparing spawn area: 44%
-[05:44:39] [Worker-Main-3/INFO]: Preparing spawn area: 46%
-[05:44:39] [Worker-Main-3/INFO]: Preparing spawn area: 48%
-[05:44:40] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[05:44:40] [Worker-Main-2/INFO]: Preparing spawn area: 54%
-[05:44:41] [Worker-Main-1/INFO]: Preparing spawn area: 56%
-[05:44:41] [Worker-Main-1/INFO]: Preparing spawn area: 60%
-[05:44:42] [Worker-Main-3/INFO]: Preparing spawn area: 63%
-[05:44:42] [Worker-Main-3/INFO]: Preparing spawn area: 66%
-[05:44:43] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[05:44:43] [Worker-Main-2/INFO]: Preparing spawn area: 71%
-[05:44:44] [Worker-Main-3/INFO]: Preparing spawn area: 73%
-[05:44:44] [Worker-Main-3/INFO]: Preparing spawn area: 76%
-[05:44:45] [Worker-Main-2/INFO]: Preparing spawn area: 80%
-[05:44:45] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[05:44:46] [Worker-Main-1/INFO]: Preparing spawn area: 85%
-[05:44:48] [Worker-Main-1/INFO]: Preparing spawn area: 86%
-[05:44:48] [Worker-Main-1/INFO]: Preparing spawn area: 86%
-[05:44:48] [Worker-Main-2/INFO]: Preparing spawn area: 87%
-[05:44:48] [Worker-Main-1/INFO]: Preparing spawn area: 87%
-[05:44:48] [Worker-Main-3/INFO]: Preparing spawn area: 90%
-[05:44:49] [Worker-Main-2/INFO]: Preparing spawn area: 93%
-[05:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 97%
-[05:44:50] [Server thread/INFO]: Time elapsed: 24903 ms
-[05:44:50] [Server thread/INFO]: Done (30.498s)! For help, type "help"
-[05:45:20] [Server thread/INFO]: jjjjjasper[/127.0.0.1:59934] logged in with entity id 306 at (38.5, 69.0, -62.5)
-[05:45:20] [Server thread/INFO]: jjjjjasper joined the game
-[05:46:02] [Server thread/INFO]: Stopping the server
-[05:46:02] [Server thread/INFO]: Stopping server
-[05:46:02] [Server thread/INFO]: Saving players
-[05:46:02] [Server thread/INFO]: jjjjjasper lost connection: Server closed
-[05:46:02] [Server thread/INFO]: jjjjjasper left the game
-[05:46:02] [Server thread/INFO]: Saving worlds
-[05:46:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:47:39] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[05:47:39] [main/INFO]: Compatibility level set to JAVA_16
+[05:47:39] [main/INFO]: Compatibility level set to JAVA_17
+[05:47:40] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[05:47:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:47:47] [main/INFO]: Found new data pack fabric, loading it automatically
+[05:47:48] [main/INFO]: Loaded 9 recipes
+[05:47:48] [main/INFO]: Loaded 1462 advancements
+[05:47:49] [main/INFO]: Applied 92 biome modifications to 54 of 64 new biomes in 10.22 ms
+[05:47:49] [Server thread/INFO]: Registering compost heaps in village type of plains
+[05:47:49] [Server thread/INFO]: Registering compost heaps in village type of savanna
+[05:47:49] [Server thread/INFO]: Registering compost heaps in village type of snowy
+[05:47:49] [Server thread/INFO]: Registering compost heaps in village type of taiga
+[05:47:49] [Server thread/INFO]: Registering compost heaps in village type of desert
+[05:47:49] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[05:47:49] [Server thread/INFO]: Loading properties
+[05:47:49] [Server thread/INFO]: Default game type: SURVIVAL
+[05:47:49] [Server thread/INFO]: Generating keypair
+[05:47:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:47:49] [Server thread/INFO]: Using epoll channel type
+[05:47:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:47:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:47:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:47:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:47:49] [Server thread/INFO]: Preparing level "world"
+[05:47:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:47:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:47:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:47:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:47:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:47:56] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[05:47:56] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[05:47:57] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[05:47:57] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[05:47:58] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[05:47:58] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[05:47:59] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[05:47:59] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[05:48:00] [Worker-Main-1/INFO]: Preparing spawn area: 13%
+[05:48:00] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[05:48:01] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[05:48:01] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[05:48:02] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[05:48:02] [Worker-Main-1/INFO]: Preparing spawn area: 25%
+[05:48:03] [Worker-Main-2/INFO]: Preparing spawn area: 28%
+[05:48:03] [Worker-Main-3/INFO]: Preparing spawn area: 30%
+[05:48:04] [Worker-Main-1/INFO]: Preparing spawn area: 33%
+[05:48:04] [Worker-Main-1/INFO]: Preparing spawn area: 35%
+[05:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 38%
+[05:48:05] [Worker-Main-1/INFO]: Preparing spawn area: 41%
+[05:48:06] [Worker-Main-2/INFO]: Preparing spawn area: 44%
+[05:48:06] [Worker-Main-2/INFO]: Preparing spawn area: 46%
+[05:48:07] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[05:48:07] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[05:48:08] [Worker-Main-1/INFO]: Preparing spawn area: 57%
+[05:48:08] [Worker-Main-2/INFO]: Preparing spawn area: 60%
+[05:48:09] [Worker-Main-2/INFO]: Preparing spawn area: 64%
+[05:48:09] [Worker-Main-1/INFO]: Preparing spawn area: 67%
+[05:48:10] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[05:48:10] [Worker-Main-3/INFO]: Preparing spawn area: 72%
+[05:48:11] [Worker-Main-3/INFO]: Preparing spawn area: 75%
+[05:48:11] [Worker-Main-1/INFO]: Preparing spawn area: 80%
+[05:48:12] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[05:48:12] [Worker-Main-3/INFO]: Preparing spawn area: 86%
+[05:48:13] [Worker-Main-2/INFO]: Preparing spawn area: 88%
+[05:48:13] [Worker-Main-3/INFO]: Preparing spawn area: 92%
+[05:48:14] [Worker-Main-1/INFO]: Preparing spawn area: 96%
+[05:48:14] [Server thread/INFO]: Time elapsed: 20391 ms
+[05:48:14] [Server thread/INFO]: Done (25.404s)! For help, type "help"
