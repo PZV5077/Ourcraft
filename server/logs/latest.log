@@ -519,3 +519,38 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:58:33] [Server thread/INFO]: jjjjjasper left the game
 [07:59:06] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
 [07:59:06] [Server thread/INFO]: Littlebugs_ left the game
+[07:59:36] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[08:00:58] [Server thread/INFO]: jjjjjasper[/127.0.0.1:36972] logged in with entity id 20444 at (215.5, 72.0, 233.5)
+[08:00:58] [Server thread/INFO]: jjjjjasper joined the game
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/22, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/23, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/24, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/25, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
+[08:01:00] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
+[08:01:00] [Server thread/INFO]: jjjjjasper left the game
+[08:01:28] [Server thread/INFO]: jjjjjasper[/127.0.0.1:34330] logged in with entity id 20991 at (215.5, 72.0, 233.5)
+[08:01:28] [Server thread/INFO]: jjjjjasper joined the game
+[08:01:28] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
+[08:01:28] [Server thread/INFO]: jjjjjasper left the game
