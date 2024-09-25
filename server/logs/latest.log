@@ -106,3 +106,9 @@
 [02:37:55] [Server thread/INFO]: Saving players
 [02:37:55] [Server thread/INFO]: Saving worlds
 [02:37:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:38:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:38:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:38:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:38:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:38:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:38:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
