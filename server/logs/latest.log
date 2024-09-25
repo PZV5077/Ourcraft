@@ -649,3 +649,57 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [08:16:38] [Server thread/INFO]: Test lost connection: Disconnected
 [08:16:38] [Server thread/INFO]: Test left the game
 [08:16:58] [Server thread/INFO]: jjjjjasper has made the advancement [Crops of the Wild]
+[08:17:53] [Server thread/INFO]: jjjjjasper has made the advancement [Sweet Dreams]
+[08:18:59] [Server thread/INFO]: jjjjjasper has made the advancement [Monster Hunter]
+[08:19:34] [Server thread/INFO]: Parzival5077[/127.0.0.1:39588] logged in with entity id 37169 at (13536.5, 121.0, -4418.5)
+[08:19:34] [Server thread/INFO]: Parzival5077 joined the game
+[08:19:51] [Server thread/INFO]: Parzival5077 has made the advancement [Home of Heidi?]
+[08:20:35] [Server thread/INFO]: Parzival5077 has made the advancement [Sweet Dreams]
+[08:21:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:21:21] [Server thread/INFO]: op Parzival5077<--[HERE]
+[08:21:26] [Server thread/INFO]: Villager class_1646['Villager'/32986, l='ServerLevel[world]', x=13156.30, y=73.00, z=-3963.48] died, message: 'Villager was slain by jjjjjasper'
+[08:21:31] [Server thread/INFO]: Made Parzival5077 a server operator
+[08:22:22] [Server thread/INFO]: [Parzival5077: Gamerule naturalRegeneration is now set to: true]
+[08:22:46] [Server thread/INFO]: [Parzival5077: Gamerule playersSleepingPercentage is now set to: 1]
+[08:25:09] [Server thread/INFO]: Littlebugs_[/127.0.0.1:42140] logged in with entity id 42130 at (13685.68938395442, 67.0, -4244.851822948283)
+[08:25:09] [Server thread/INFO]: Littlebugs_ joined the game
+[08:26:03] [pool-6-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos class_2338{x=13813, y=67, z=-4165}
+[08:26:14] [Server thread/INFO]: jjjjjasper has reached the goal [Plant Food]
+[08:26:31] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1f2a6677[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:35680): §cPlayer literal{Littlebugs_} is already online!
+[08:26:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f2a6677[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:35680) lost connection: §cPlayer literal{Littlebugs_} is already online!
+[08:26:32] [Server thread/WARN]: handleDisconnection() called twice
+[08:26:34] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@a0983cb[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:35688): §cPlayer literal{Littlebugs_} is already online!
+[08:26:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@a0983cb[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:35688) lost connection: §cPlayer literal{Littlebugs_} is already online!
+[08:26:34] [Server thread/WARN]: handleDisconnection() called twice
+[08:26:34] [Server thread/INFO]: CheessRevolution has made the advancement [Find Alpine Salt]
+[08:26:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@68ce9eb[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:50600): §cPlayer literal{Littlebugs_} is already online!
+[08:26:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@68ce9eb[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:50600) lost connection: §cPlayer literal{Littlebugs_} is already online!
+[08:26:42] [Server thread/WARN]: handleDisconnection() called twice
+[08:26:54] [Server thread/INFO]: Littlebugs_ lost connection: Timed out
+[08:26:54] [Server thread/INFO]: Littlebugs_ left the game
+[08:27:00] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[08:27:10] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[08:27:27] [Server thread/INFO]: CheessRevolution was shot by Skeleton
+[08:27:47] [Server thread/INFO]: Littlebugs_[/127.0.0.1:58100] logged in with entity id 46083 at (13730.699999988079, 71.0, -4177.300000011921)
+[08:27:47] [Server thread/INFO]: Littlebugs_ joined the game
+[08:28:05] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[08:28:05] [Server thread/INFO]: Parzival5077 left the game
+[08:28:24] [Server thread/INFO]: Parzival5077[/127.0.0.1:52320] logged in with entity id 47224 at (13512.494817988452, 87.0, -4492.187915681874)
+[08:28:24] [Server thread/INFO]: Parzival5077 joined the game
+[08:28:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13531, y=115, z=-4409}
+[08:28:29] [Server thread/INFO]: Littlebugs_ drowned
+[08:28:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4405}
+[08:28:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4405}
+[08:28:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4405}
+[08:28:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=106, z=-4404}
+[08:28:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4404}
+[08:28:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13537, y=120, z=-4405}
+[08:28:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4403}
+[08:29:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4403}
+[08:29:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13532, y=107, z=-4403}
+[08:29:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13532, y=106, z=-4404}
+[08:29:12] [Server thread/INFO]: CheessRevolution was killed
+[08:29:12] [Server thread/INFO]: [Parzival5077: Killed CheessRevolution]
+[08:29:19] [Server thread/INFO]: CheessRevolution has made the advancement [Acquire Hardware]
