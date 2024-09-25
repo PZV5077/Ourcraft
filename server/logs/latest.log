@@ -374,3 +374,74 @@ Apply Modifications for minecraft:overworld
 [02:44:47] [Worker-Main-3/INFO]: Preparing spawn area: 17%
 [02:44:48] [Worker-Main-3/INFO]: Preparing spawn area: 19%
 [02:44:48] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[02:44:49] [Worker-Main-2/INFO]: Preparing spawn area: 23%
+[02:44:49] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[02:44:50] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[02:44:50] [Worker-Main-2/INFO]: Preparing spawn area: 27%
+[02:44:50] [Worker-Main-3/INFO]: Preparing spawn area: 29%
+[02:44:51] [Worker-Main-2/INFO]: Preparing spawn area: 31%
+[02:44:51] [Worker-Main-3/INFO]: Preparing spawn area: 33%
+[02:44:52] [Worker-Main-1/INFO]: Preparing spawn area: 35%
+[02:44:53] [Worker-Main-2/INFO]: Preparing spawn area: 38%
+[02:44:53] [Worker-Main-2/INFO]: Preparing spawn area: 39%
+[02:44:54] [Worker-Main-1/INFO]: Preparing spawn area: 42%
+[02:44:54] [Worker-Main-2/INFO]: Preparing spawn area: 44%
+[02:44:55] [Worker-Main-2/INFO]: Preparing spawn area: 46%
+[02:44:55] [Worker-Main-2/INFO]: Preparing spawn area: 48%
+[02:44:56] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[02:44:56] [Worker-Main-3/INFO]: Preparing spawn area: 54%
+[02:44:57] [Worker-Main-2/INFO]: Preparing spawn area: 56%
+[02:44:57] [Worker-Main-2/INFO]: Preparing spawn area: 60%
+[02:44:57] [Worker-Main-3/INFO]: Preparing spawn area: 62%
+[02:44:58] [Worker-Main-2/INFO]: Preparing spawn area: 65%
+[02:44:59] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[02:44:59] [Worker-Main-2/INFO]: Preparing spawn area: 69%
+[02:45:00] [Worker-Main-2/INFO]: Preparing spawn area: 71%
+[02:45:00] [Worker-Main-2/INFO]: Preparing spawn area: 74%
+[02:45:01] [Worker-Main-3/INFO]: Preparing spawn area: 77%
+[02:45:01] [Worker-Main-3/INFO]: Preparing spawn area: 81%
+[02:45:02] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[02:45:02] [Worker-Main-3/INFO]: Preparing spawn area: 85%
+[02:45:03] [Worker-Main-3/INFO]: Preparing spawn area: 88%
+[02:45:03] [Worker-Main-3/INFO]: Preparing spawn area: 90%
+[02:45:04] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[02:45:04] [Worker-Main-2/INFO]: Preparing spawn area: 96%
+[02:45:05] [Worker-Main-2/INFO]: Preparing spawn area: 99%
+[02:45:05] [Server thread/INFO]: Time elapsed: 26147 ms
+[02:45:05] [Server thread/INFO]: Done (31.686s)! For help, type "help"
+[02:45:18] [Server thread/INFO]: hhhh_w[/127.0.0.1:53396] logged in with entity id 310 at (65.5, 69.0, 53.5)
+[02:45:18] [Server thread/INFO]: hhhh_w joined the game
+[02:45:18] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[02:45:18] [Server thread/INFO]: hhhh_w left the game
+[02:45:24] [Server thread/INFO]: hhhh_w[/127.0.0.1:53402] logged in with entity id 329 at (65.5, 69.0, 53.5)
+[02:45:24] [Server thread/INFO]: hhhh_w joined the game
+[02:45:25] [Server thread/INFO]: hhhh_w lost connection: Disconnected
+[02:45:25] [Server thread/INFO]: hhhh_w left the game
+[02:45:50] [Server thread/INFO]: hhhh_w[/127.0.0.1:48270] logged in with entity id 355 at (65.5, 69.0, 53.5)
+[02:45:50] [Server thread/INFO]: hhhh_w joined the game
+[02:45:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5ac4cb5b[id=5f765bc8-88b4-3b6a-ac47-db626ec0a8ab,name=hhhh_w,properties={},legacy=false] (/127.0.0.1:48276): §cPlayer literal{hhhh_w} is already online!
+[02:45:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ac4cb5b[id=5f765bc8-88b4-3b6a-ac47-db626ec0a8ab,name=hhhh_w,properties={},legacy=false] (/127.0.0.1:48276) lost connection: §cPlayer literal{hhhh_w} is already online!
+[02:45:51] [Server thread/WARN]: handleDisconnection() called twice
+[02:45:51] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:45:51] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:45:51] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:45:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:45:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:45:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:45:51] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[02:45:54] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5d52f243[id=5f765bc8-88b4-3b6a-ac47-db626ec0a8ab,name=hhhh_w,properties={},legacy=false] (/127.0.0.1:48292): §cPlayer literal{hhhh_w} is already online!
+[02:45:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@5d52f243[id=5f765bc8-88b4-3b6a-ac47-db626ec0a8ab,name=hhhh_w,properties={},legacy=false] (/127.0.0.1:48292) lost connection: §cPlayer literal{hhhh_w} is already online!
+[02:45:54] [Server thread/WARN]: handleDisconnection() called twice
+[02:46:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:46:06] [Server thread/INFO]: chunky help<--[HERE]
+[02:46:20] [Server thread/INFO]: hhhh_w lost connection: Timed out
+[02:46:20] [Server thread/INFO]: hhhh_w left the game
+[02:46:27] [Server thread/INFO]: hhhh_w[/127.0.0.1:36786] logged in with entity id 461 at (65.5, 69.0, 53.5)
+[02:46:27] [Server thread/INFO]: hhhh_w joined the game
+[02:46:28] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:46:28] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:46:28] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:46:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:46:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:46:28] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:46:28] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
