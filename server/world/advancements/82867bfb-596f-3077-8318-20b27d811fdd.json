@@ -2980,7 +2980,8 @@
     "criteria": {
       "cooked_beef": "2024-09-25 09:20:00 +0000",
       "apple": "2024-09-25 10:52:13 +0000",
-      "bread": "2024-09-25 10:57:08 +0000"
+      "bread": "2024-09-25 10:57:08 +0000",
+      "cooked_chicken": "2024-09-25 11:01:20 +0000"
     },
     "done": false
   },
@@ -2994,6 +2995,7 @@
       "deciduous_forest": "2024-09-25 10:10:41 +0000",
       "chalk_cliffs": "2024-09-25 10:19:15 +0000",
       "bamboo_forest": "2024-09-25 10:12:39 +0000",
+      "temperate_grove": "2024-09-25 11:02:40 +0000",
       "pine_slopes": "2024-09-25 10:53:15 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000"
@@ -3010,6 +3012,7 @@
       "deciduous_forest": "2024-09-25 10:10:41 +0000",
       "chalk_cliffs": "2024-09-25 10:19:15 +0000",
       "bamboo_forest": "2024-09-25 10:12:39 +0000",
+      "temperate_grove": "2024-09-25 11:02:40 +0000",
       "pine_slopes": "2024-09-25 10:53:15 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000"
@@ -4541,6 +4544,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/wrought_iron_cannon_end": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2024-09-25 10:56:23 +0000"
@@ -4553,9 +4562,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-09-25 11:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-09-25 11:04:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2024-09-25 10:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-09-25 10:57:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-09-25 10:58:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-09-25 10:58:08 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_carriage": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/smoke_shell": {
+    "criteria": {
+      "has_hay_block": "2024-09-25 11:10:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_trapdoor": {
     "criteria": {
       "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-09-25 11:10:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-09-25 11:07:38 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wrought_iron_cannon_chamber": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/powder_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
     },
     "done": true
   },
@@ -4565,9 +4652,57 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/log_cannon_end": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_pressure_plate": {
     "criteria": {
       "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/oak_sapling_from_oak_shrub": {
+    "criteria": {
+      "has_oak_shrub": "2024-09-25 11:02:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-09-25 10:57:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-09-25 11:04:45 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/machine_gun_round": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/gunpowder_pinch": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/empty_powder_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
     },
     "done": true
   },
@@ -4577,9 +4712,33 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-09-25 11:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-09-25 10:58:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
     "criteria": {
       "has_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-09-25 11:07:36 +0000"
     },
     "done": true
   },
@@ -4589,9 +4748,21 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/log_cannon_chamber": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pine_stairs": {
     "criteria": {
       "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_mount": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
     },
     "done": true
   },
@@ -4601,9 +4772,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-09-25 10:57:29 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_button": {
     "criteria": {
       "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/the_world/25": {
+    "criteria": {
+      "requirement": "2024-09-25 11:00:28 +0000"
     },
     "done": true
   },
@@ -4625,9 +4808,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-09-25 10:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-09-25 10:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-09-25 11:07:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2024-09-25 10:56:23 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end_mirrored": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
     },
     "done": true
   },
@@ -4637,9 +4844,27 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/pair_of_cannon_wheels": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-09-25 11:10:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pine_wood": {
     "criteria": {
       "has_log": "2024-09-25 10:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-09-25 11:02:13 +0000"
     },
     "done": true
   },
@@ -4648,6 +4873,12 @@
       "pink_bioshroom": "2024-09-25 10:56:23 +0000"
     },
     "done": false
+  },
+  "meadow:main/kill_buffalo": {
+    "criteria": {
+      "killed_buffalo": "2024-09-25 11:05:32 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
