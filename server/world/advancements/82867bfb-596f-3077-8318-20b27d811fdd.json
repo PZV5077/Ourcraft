@@ -24,6 +24,7 @@
       "minecraft:river": "2024-09-25 09:13:37 +0000",
       "minecraft:dripstone_caves": "2024-09-25 09:16:58 +0000",
       "minecraft:forest": "2024-09-25 09:13:24 +0000",
+      "minecraft:ocean": "2024-09-25 11:17:24 +0000",
       "minecraft:meadow": "2024-09-25 08:46:11 +0000",
       "minecraft:savanna": "2024-09-25 09:22:34 +0000",
       "minecraft:plains": "2024-09-25 09:20:53 +0000"
@@ -4546,6 +4547,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2024-09-25 11:20:24 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 11:17:10 +0000"
@@ -4558,6 +4565,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 11:17:10 +0000"
@@ -4567,6 +4580,30 @@
   "createbigcannons:recipes/misc/wrought_iron_cannon_end": {
     "criteria": {
       "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
     },
     "done": true
   },
@@ -4588,6 +4625,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-09-25 11:20:09 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2024-09-25 11:07:36 +0000"
@@ -4597,6 +4646,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 11:17:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
     },
     "done": true
   },
@@ -4612,6 +4667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-09-25 11:20:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
     "criteria": {
       "has_log": "2024-09-25 10:57:29 +0000"
@@ -4624,9 +4685,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackstone_lamp": {
     "criteria": {
       "has_shroomlight": "2024-09-25 10:58:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
     },
     "done": true
   },
@@ -4642,9 +4721,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-09-25 11:20:09 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/cannon_carriage": {
     "criteria": {
       "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-09-25 11:20:23 +0000"
     },
     "done": true
   },
@@ -4654,9 +4745,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-09-25 11:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 11:17:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
     },
     "done": true
   },
@@ -4672,15 +4781,57 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2024-09-25 11:10:54 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-09-25 11:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2024-09-25 11:07:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
     },
     "done": true
   },
@@ -4720,6 +4871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-09-25 11:20:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_pressure_plate": {
     "criteria": {
       "has_pine_planks": "2024-09-25 10:56:42 +0000"
@@ -4756,15 +4913,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-09-25 11:14:59 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-09-25 11:20:23 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/machine_gun_round": {
     "criteria": {
       "has_gunpowder": "2024-09-25 11:02:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
     },
     "done": true
   },
@@ -4798,15 +4979,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-09-25 11:02:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-09-25 11:20:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_shroomlight": "2024-09-25 10:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-09-25 11:20:09 +0000"
     },
     "done": true
   },
@@ -4828,6 +5039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-09-25 11:19:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 11:17:10 +0000"
@@ -4846,9 +5063,33 @@
     },
     "done": true
   },
+  "meadow:recipes/cheese_tart": {
+    "criteria": {
+      "has_wheat": "2024-09-25 11:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-09-25 11:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2024-09-25 11:07:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
     },
     "done": true
   },
@@ -4870,9 +5111,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-09-25 11:20:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 11:17:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
     },
     "done": true
   },
@@ -4888,6 +5141,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 11:17:10 +0000"
@@ -4897,6 +5156,24 @@
   "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
     "criteria": {
       "has_seagrass": "2024-09-25 11:16:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-09-25 11:20:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-09-25 11:20:23 +0000"
     },
     "done": true
   },
@@ -4915,6 +5192,18 @@
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 11:17:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
     },
     "done": true
   },
@@ -4978,9 +5267,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-09-25 11:20:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-09-25 10:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-09-25 11:20:23 +0000"
     },
     "done": true
   },
@@ -5002,6 +5303,12 @@
     },
     "done": true
   },
+  "meadow:recipes/cheesecake": {
+    "criteria": {
+      "has_wheat": "2024-09-25 11:20:23 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end_mirrored": {
     "criteria": {
       "has_gunpowder": "2024-09-25 11:02:13 +0000"
@@ -5014,6 +5321,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/pair_of_cannon_wheels": {
     "criteria": {
       "has_gunpowder": "2024-09-25 11:02:13 +0000"
@@ -5023,6 +5336,18 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-09-25 11:10:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-25 11:19:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-09-25 11:20:23 +0000"
     },
     "done": true
   },
@@ -5049,6 +5374,12 @@
       "pink_bioshroom": "2024-09-25 10:56:23 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-09-25 11:20:09 +0000"
+    },
+    "done": true
   },
   "meadow:main/kill_buffalo": {
     "criteria": {
