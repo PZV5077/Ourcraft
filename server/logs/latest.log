@@ -1,10 +1,5 @@
-[04:34:56] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
-[04:34:57] [main/INFO]: Loading 109 mods:
-	- abridged 1.1.1
-	- architectury 9.2.14
-	- beautify 1.2.0+1.20.1
-	- cloth-config 11.1.136
-	   \-- cloth-basic-math 0.6.1
+[05:40:24] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
+[05:40:25] [main/INFO]: Loading 81 mods:
 	- create 0.5.1-f-build.1417+mc1.20.1
 	   |-- com_electronwill_night-config_core 3.6.6
 	   |-- com_electronwill_night-config_toml 3.6.6
@@ -63,22 +58,6 @@
 	   \-- ritchiesprojectilelib 2.0.0-dev+mc.1.20.1-fabric-build.182
 	        \-- porting_lib_utility 2.1.1127+1.20
 	             \-- porting_lib_gametest 2.1.1127+1.20
-	- easyauth 3.0.19
-	   |-- at_favre_lib_bcrypt 0.9.0
-	   |-- at_favre_lib_bytes 1.5.0
-	   |-- com_mysql_mysql-connector-j 8.0.33
-	   |-- de_mkammerer_argon2-jvm 2.11
-	   |-- de_mkammerer_argon2-jvm-nolibs 2.11
-	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
-	   |-- net_java_dev_jna_jna 5.12.1
-	   |-- org_iq80_leveldb_leveldb 0.12
-	   |-- org_iq80_leveldb_leveldb-api 0.12
-	   |-- org_mongodb_bson 4.7.2
-	   |-- org_mongodb_mongodb-driver-core 4.7.2
-	   |-- org_mongodb_mongodb-driver-sync 4.7.2
-	   |-- placeholder-api 2.1.1+1.20
-	   \-- server_translations_api 2.0.0+1.20
-	        \-- packet_tweaker 0.4.0+1.19.4
 	- fabric-api 0.92.2+1.20.1
 	   |-- fabric-api-base 0.4.31+1802ada577
 	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
@@ -135,530 +114,87 @@
 	- fabricloader 0.16.5
 	   \-- mixinextras 0.4.1
 	- farmersdelight 1.20.1-1.4.3
-	- framework 0.7.8
-	   |-- com_electronwill_night-config_core 3.6.6
-	   |-- com_electronwill_night-config_toml 3.6.6
-	   |-- org_javassist_javassist 3.29.2-GA
-	   \-- org_reflections_reflections 0.10.2
 	- java 21
 	- minecraft 1.20.1
-	- moonlight 1.20-2.13.0
-	- refurbished_furniture 1.0.6
-	- supplementaries 1.20-2.8.17
-	   \-- mixinsquared 0.1.1
-[04:34:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[04:34:57] [main/INFO]: Compatibility level set to JAVA_17
-[04:34:58] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[04:34:58] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[04:34:58] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
-[04:34:58] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
-[04:34:58] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[04:34:59] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bee000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[04:35:04] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$bhc000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[04:35:07] [main/WARN]: Configuration file ./config/create-common.toml is not correct. Correcting
-[04:35:07] [main/WARN]: Incorrect key worldgen was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:07] [main/WARN]: Incorrect key worldgen.disableWorldGen was corrected from null to its default, false. 
-[04:35:07] [main/WARN]: Configuration file ./config/create-client.toml is not correct. Correcting
-[04:35:07] [main/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:07] [main/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
-[04:35:07] [main/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
-[04:35:07] [main/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
-[04:35:07] [main/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
-[04:35:07] [main/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
-[04:35:07] [main/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, false. 
-[04:35:07] [main/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
-[04:35:07] [main/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
-[04:35:07] [main/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
-[04:35:07] [main/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
-[04:35:07] [main/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
-[04:35:07] [main/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
-[04:35:07] [main/WARN]: Incorrect key client.fluidUnitType was corrected from null to its default, MILLIBUCKETS. 
-[04:35:07] [main/WARN]: Incorrect key client.simplifyFluidUnit was corrected from null to its default, true. 
-[04:35:07] [main/WARN]: Incorrect key client.toolboxHotbarOverlayOffset was corrected from null to its default, 0. 
-[04:35:07] [main/WARN]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:07] [main/WARN]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
-[04:35:07] [main/WARN]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
-[04:35:07] [main/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:07] [main/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
-[04:35:07] [main/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
-[04:35:07] [main/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
-[04:35:07] [main/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
-[04:35:07] [main/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
-[04:35:07] [main/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
-[04:35:07] [main/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:07] [main/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
-[04:35:07] [main/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
-[04:35:07] [main/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:07] [main/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
-[04:35:07] [main/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
-[04:35:07] [main/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:07] [main/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
-[04:35:07] [main/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
-[04:35:07] [main/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:07] [main/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
-[04:35:07] [main/WARN]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
-[04:35:07] [main/WARN]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
-[04:35:08] [main/WARN]: Configuration file ./config/createbigcannons-client.toml is not correct. Correcting
-[04:35:08] [main/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.showAutocannonPlumes was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.showDropMortarPlumes was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.showMortarStoneClouds was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.fluidBlobParticleCount was corrected from null to its default, 20. 
-[04:35:08] [main/WARN]: Incorrect key client.blockArmorInfoPrecision was corrected from null to its default, 2. 
-[04:35:08] [main/WARN]: Incorrect key client.useShaderCompatibleGraphics was corrected from null to its default, false. 
-[04:35:08] [main/WARN]: Incorrect key client.blastEffectDelaySpeed was corrected from null to its default, 320.0. 
-[04:35:08] [main/WARN]: Incorrect key client.projectileFlybySounds was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.projectileFlybySounds.enableBigCannonProjectileFlybySounds was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.projectileFlybySounds.enableAutocannonProjectileFlybySounds was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.cannonMountGoggleTooltip was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.cannonMountGoggleTooltip.anglePrecision was corrected from null to its default, 2. 
-[04:35:08] [main/WARN]: Incorrect key client.cannonMountGoggleTooltip.use180_180RangeForYaw was corrected from null to its default, false. 
-[04:35:08] [main/WARN]: Incorrect key client.screenShake was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.screenShake.cannonScreenShakeIntensity was corrected from null to its default, 1.2999999523162842. 
-[04:35:08] [main/WARN]: Incorrect key client.screenShake.cannonScreenShakeSpringiness was corrected from null to its default, 0.07999999821186066. 
-[04:35:08] [main/WARN]: Incorrect key client.screenShake.cannonScreenShakeDecay was corrected from null to its default, 0.30000001192092896. 
-[04:35:08] [main/WARN]: Incorrect key client.bigCannonBlast was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.bigCannonBlast.showBigCannonPlumes was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.bigCannonBlast.showExtraSmoke was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.bigCannonBlast.showExtraFlames was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.bigCannonBlast.screenShakePowerMultiplier was corrected from null to its default, 6.0. 
-[04:35:08] [main/WARN]: Incorrect key client.bigCannonBlast.screenShakePowerLimit was corrected from null to its default, 45.0. 
-[04:35:08] [main/WARN]: Incorrect key client.flakClouds was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.flakClouds.showFlakClouds was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.flakClouds.showExtraFlames was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.flakClouds.showExtraShockwave was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.flakClouds.showExtraTrails was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.shrapnelClouds was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.shrapnelClouds.showShrapnelClouds was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.shrapnelClouds.showExtraFlames was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.shrapnelClouds.showExtraShockwave was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.fluidShellClouds was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.fluidShellClouds.showFluidShellClouds was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.fluidShellClouds.showExtraFlames was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.fluidShellClouds.showExtraShockwave was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.projectileSplashes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.projectileSplashes.showProjectileSplashes was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.projectileImpacts was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.projectileImpacts.showProjectileImpacts was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.sounds was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.sounds.blastSoundAirAbsorption was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.shellExplosions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.shellExplosions.showShellExplosionClouds was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.shellExplosions.showExtraTrails was corrected from null to its default, true. 
-[04:35:08] [main/WARN]: Incorrect key client.shellExplosions.screenShakePowerMultiplier was corrected from null to its default, 6.0. 
-[04:35:08] [main/WARN]: Incorrect key client.shellExplosions.screenShakePowerLimit was corrected from null to its default, 45.0. 
-[04:35:08] [main/WARN]: Incorrect key client.particleWindEffect was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:08] [main/WARN]: Incorrect key client.particleWindEffect.maximumWindSpeed was corrected from null to its default, 1.25. 
-[04:35:08] [main/WARN]: Incorrect key client.particleWindEffect.maximumWindBearingChangeSpeed was corrected from null to its default, 8.0. 
-[04:35:08] [main/INFO]: [EasyAuth]: EasyAuth mod by samo_lego, NikitaCartes.
-[04:35:08] [main/WARN]: [EasyAuth]: Disable enforce-secure-profile to allow offline players to join the server
-[04:35:08] [main/WARN]: [EasyAuth]: For more info, see https://github.com/NikitaCartes/EasyAuth/issues/68
-[04:35:08] [main/INFO]: Reflections took 128 ms to scan 1 urls, producing 9 keys and 75 values
-[04:35:09] [main/ERROR]: No data fixer registered for seat
-[04:35:09] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[04:35:09] [main/INFO]: Loaded config supplementaries-common.json
-[04:35:09] [main/ERROR]: Farmers Delight Refabricated is not installed. Disabling Farmers Delight Module
-[04:35:10] [main/INFO]: Initialized block sets in 11ms
-[04:35:10] [main/ERROR]: No data fixer registered for dispenser_minecart
-[04:35:10] [main/ERROR]: No data fixer registered for falling_urn
-[04:35:10] [main/ERROR]: No data fixer registered for falling_ash
-[04:35:10] [main/ERROR]: No data fixer registered for falling_sack
-[04:35:10] [main/ERROR]: No data fixer registered for brick_projectile
-[04:35:10] [main/ERROR]: No data fixer registered for bomb
-[04:35:10] [main/ERROR]: No data fixer registered for rope_arrow
-[04:35:10] [main/ERROR]: No data fixer registered for slingshot_projectile
-[04:35:10] [main/INFO]: Initialized color sets in 40ms
-[04:35:10] [main/INFO]: Finished mod setup in: [13, 0, 0, 0, 0, 0, 13, 6, 1] ms
-[04:35:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:35:10] [main/INFO]: Found new data pack Supplementaries Generated Pack, loading it automatically
-[04:35:10] [main/INFO]: Found new data pack fabric, loading it automatically
-[04:35:10] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 26 ms
-[04:35:12] [main/WARN]: Found loot table element validation problem in {loot_tables:abridged:chests/badlands_mining}.pools[0].entries[0]: Unknown loot table called minecraft:anvil
-[04:35:12] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
-com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
-	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
-	at com.nhoryzon.mc.farmersdelight.recipe.CuttingBoardRecipeSerializer.read(CuttingBoardRecipeSerializer.java:45) ~[farmers-delight-fabric-1.4.3.jar:?]
-	at com.nhoryzon.mc.farmersdelight.recipe.CuttingBoardRecipeSerializer.method_8121(CuttingBoardRecipeSerializer.java:15) ~[farmers-delight-fabric-1.4.3.jar:?]
-	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
-	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-mc.1.20.1-loader.0.16.5-launcher.1.0.1.jar:1.0.1]
-[04:35:12] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
-com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
-	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
-	at com.nhoryzon.mc.farmersdelight.recipe.CuttingBoardRecipeSerializer.read(CuttingBoardRecipeSerializer.java:45) ~[farmers-delight-fabric-1.4.3.jar:?]
-	at com.nhoryzon.mc.farmersdelight.recipe.CuttingBoardRecipeSerializer.method_8121(CuttingBoardRecipeSerializer.java:15) ~[farmers-delight-fabric-1.4.3.jar:?]
-	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
-	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
-	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-mc.1.20.1-loader.0.16.5-launcher.1.0.1.jar:1.0.1]
-[04:35:12] [main/INFO]: Loaded 38 recipes
-[04:35:12] [main/INFO]: Loaded 3421 advancements
-[04:35:12] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 34 translation keys
-[04:35:12] [main/INFO]: Loaded 27 flute songs
-[04:35:14] [main/INFO]: Finished additional setup in 9 ms
-[04:35:14] [main/INFO]: Applied 7 data villager trades
-[04:35:14] [main/INFO]: Cleared non-static resources for pack supplementaries:generated_pack in: 0 ms
-[04:35:14] [main/INFO]: Applied 310 biome modifications to 64 of 64 new biomes in 15.60 ms
-[04:35:14] [Server thread/WARN]: Configuration file ./config/create-server.toml is not correct. Correcting
-[04:35:14] [Server thread/WARN]: Incorrect key infrastructure was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key infrastructure.tickrateSyncTimer was corrected from null to its default, 20. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.bulkPressing was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.bulkCutting was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.allowBrewingInMixer was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.allowShapelessInMixer was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.allowShapedSquareInPress was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.allowRegularCraftingInCrafter was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.maxFireworkIngredientsInCrafter was corrected from null to its default, 9. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.allowStonecuttingOnSaw was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.allowWoodcuttingOnSaw was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.allowCastingBySpout was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.allowFillingBySpout was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.displayLogStrippingRecipes was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.lightSourceCountForRefinedRadiance was corrected from null to its default, 10. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.enableRefinedRadianceRecipe was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key recipes.enableShadowSteelRecipe was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.disableStress was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.maxBeltLength was corrected from null to its default, 20. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.crushingDamage was corrected from null to its default, 4. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.maxRotationSpeed was corrected from null to its default, 256. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.ignoreDeployerAttacks was corrected from null to its default, CREEPERS. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.kineticValidationFrequency was corrected from null to its default, 60. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.crankHungerMultiplier was corrected from null to its default, 0.009999999776482582. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.minimumWindmillSails was corrected from null to its default, 8. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.windmillSailsPerRPM was corrected from null to its default, 8. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.maxEjectorDistance was corrected from null to its default, 32. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.ejectorScanInterval was corrected from null to its default, 120. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.encasedFan was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.encasedFan.fanPushDistance was corrected from null to its default, 20. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.encasedFan.fanPullDistance was corrected from null to its default, 20. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.encasedFan.fanBlockCheckRate was corrected from null to its default, 30. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.encasedFan.fanRotationArgmax was corrected from null to its default, 256. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.encasedFan.fanProcessingTime was corrected from null to its default, 150. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.maxBlocksMoved was corrected from null to its default, 2048. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.maxDataSize was corrected from null to its default, 2000000. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.maxChassisRange was corrected from null to its default, 16. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.maxPistonPoles was corrected from null to its default, 64. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.maxRopeLength was corrected from null to its default, 256. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.maxCartCouplingLength was corrected from null to its default, 32. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.rollerFillDepth was corrected from null to its default, 12. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.survivalContraptionPickup was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.contraptionPlacing was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.movableSpawners was corrected from null to its default, NO_PICKUP. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.amethystMovement was corrected from null to its default, NO_PICKUP. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.movableObsidian was corrected from null to its default, UNMOVABLE. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.movableReinforcedDeepslate was corrected from null to its default, UNMOVABLE. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.moveItemsToStorage was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.harvestPartiallyGrown was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.harvesterReplants was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.contraptions.minecartContraptionInContainers was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stats was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stats.mediumSpeed was corrected from null to its default, 30.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stats.fastSpeed was corrected from null to its default, 100.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stats.mediumStressImpact was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stats.highStressImpact was corrected from null to its default, 8.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stats.mediumCapacity was corrected from null to its default, 256.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stats.highCapacity was corrected from null to its default, 1024.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.display_board was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.deployer was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.mechanical_piston was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.millstone was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.mechanical_bearing was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.clockwork_bearing was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.cuckoo_clock was corrected from null to its default, 1.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.speedometer was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.copper_backtank was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.mechanical_saw was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.flywheel was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.encased_chain_drive was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.clutch was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.encased_fan was corrected from null to its default, 2.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.adjustable_chain_gearshift was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.mechanical_pump was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.crushing_wheel was corrected from null to its default, 8.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.mechanical_mixer was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.gantry_shaft was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.rope_pulley was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.rotation_speed_controller was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.mechanical_arm was corrected from null to its default, 2.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.netherite_backtank was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.andesite_encased_shaft was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.mechanical_press was corrected from null to its default, 8.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.large_cogwheel was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.mechanical_drill was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.andesite_encased_large_cogwheel was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.brass_encased_large_cogwheel was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.mysterious_cuckoo_clock was corrected from null to its default, 1.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.stressometer was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.shaft was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.brass_encased_shaft was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.gearshift was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.turntable was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.sticky_mechanical_piston was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.sequenced_gearshift was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.weighted_ejector was corrected from null to its default, 2.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.cogwheel was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.andesite_encased_cogwheel was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.belt was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.brass_encased_cogwheel was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.gearbox was corrected from null to its default, 0.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.hose_pulley was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.elevator_pulley was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.mechanical_crafter was corrected from null to its default, 2.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.capacity was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.capacity.copper_valve_handle was corrected from null to its default, 8.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.capacity.hand_crank was corrected from null to its default, 8.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.capacity.steam_engine was corrected from null to its default, 1024.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.capacity.creative_motor was corrected from null to its default, 16384.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.capacity.large_water_wheel was corrected from null to its default, 128.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.capacity.water_wheel was corrected from null to its default, 32.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.capacity.windmill_bearing was corrected from null to its default, 512.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key fluids was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key fluids.fluidTankCapacity was corrected from null to its default, 8. 
-[04:35:14] [Server thread/WARN]: Incorrect key fluids.fluidTankMaxHeight was corrected from null to its default, 32. 
-[04:35:14] [Server thread/WARN]: Incorrect key fluids.mechanicalPumpRange was corrected from null to its default, 16. 
-[04:35:14] [Server thread/WARN]: Incorrect key fluids.hosePulleyRange was corrected from null to its default, 128. 
-[04:35:14] [Server thread/WARN]: Incorrect key fluids.hosePulleyBlockThreshold was corrected from null to its default, 10000. 
-[04:35:14] [Server thread/WARN]: Incorrect key fluids.fillInfinite was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key fluids.bottomlessFluidMode was corrected from null to its default, ALLOW_BY_TAG. 
-[04:35:14] [Server thread/WARN]: Incorrect key fluids.fluidFillPlaceFluidSourceBlocks was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key fluids.pipesPlaceFluidSourceBlocks was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key logistics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key logistics.defaultExtractionTimer was corrected from null to its default, 8. 
-[04:35:14] [Server thread/WARN]: Incorrect key logistics.psiTimeout was corrected from null to its default, 60. 
-[04:35:14] [Server thread/WARN]: Incorrect key logistics.mechanicalArmRange was corrected from null to its default, 5. 
-[04:35:14] [Server thread/WARN]: Incorrect key logistics.linkRange was corrected from null to its default, 256. 
-[04:35:14] [Server thread/WARN]: Incorrect key logistics.displayLinkRange was corrected from null to its default, 64. 
-[04:35:14] [Server thread/WARN]: Incorrect key logistics.vaultCapacity was corrected from null to its default, 20. 
-[04:35:14] [Server thread/WARN]: Incorrect key logistics.brassTunnelTimer was corrected from null to its default, 10. 
-[04:35:14] [Server thread/WARN]: Incorrect key logistics.seatHostileMobs was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key schematics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key schematics.creativePrintIncludesAir was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key schematics.maxSchematics was corrected from null to its default, 256. 
-[04:35:14] [Server thread/WARN]: Incorrect key schematics.maxSchematicPacketSize was corrected from null to its default, 1024. 
-[04:35:14] [Server thread/WARN]: Incorrect key schematics.schematicIdleTimeout was corrected from null to its default, 600. 
-[04:35:14] [Server thread/WARN]: Incorrect key schematics.schematicannon was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key schematics.schematicannon.schematicannonDelay was corrected from null to its default, 10. 
-[04:35:14] [Server thread/WARN]: Incorrect key schematics.schematicannon.schematicannonGunpowderWorth was corrected from null to its default, 20.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key schematics.schematicannon.schematicannonFuelUsage was corrected from null to its default, 0.05000000074505806. 
-[04:35:14] [Server thread/WARN]: Incorrect key equipment was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key equipment.maxSymmetryWandRange was corrected from null to its default, 50. 
-[04:35:14] [Server thread/WARN]: Incorrect key equipment.placementAssistRange was corrected from null to its default, 12. 
-[04:35:14] [Server thread/WARN]: Incorrect key equipment.toolboxRange was corrected from null to its default, 10. 
-[04:35:14] [Server thread/WARN]: Incorrect key equipment.airInBacktank was corrected from null to its default, 900. 
-[04:35:14] [Server thread/WARN]: Incorrect key equipment.enchantedBacktankCapacity was corrected from null to its default, 300. 
-[04:35:14] [Server thread/WARN]: Incorrect key equipment.maxExtendoGripActions was corrected from null to its default, 1000. 
-[04:35:14] [Server thread/WARN]: Incorrect key equipment.maxPotatoCannonShots was corrected from null to its default, 200. 
-[04:35:14] [Server thread/WARN]: Incorrect key equipment.potatoCannonWorldModification was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.trainsCauseDamage was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.maxTrackPlacementLength was corrected from null to its default, 32. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.maxAssemblyLength was corrected from null to its default, 128. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.maxBogeyCount was corrected from null to its default, 20. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.manualTrainSpeedModifier was corrected from null to its default, 0.75. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.trainStats was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.trainStats.trainTopSpeed was corrected from null to its default, 28.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.trainStats.trainTurningTopSpeed was corrected from null to its default, 14.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.trainStats.trainAcceleration was corrected from null to its default, 3.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.poweredTrainStats was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.poweredTrainStats.poweredTrainTopSpeed was corrected from null to its default, 40.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.poweredTrainStats.poweredTrainTurningTopSpeed was corrected from null to its default, 20.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key trains.poweredTrainStats.poweredTrainAcceleration was corrected from null to its default, 3.0. 
-[04:35:14] [Server thread/WARN]: Configuration file ./config/createbigcannons-server.toml is not correct. Correcting
-[04:35:14] [Server thread/WARN]: Incorrect key failure was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key failure.disableAllCannonFailure was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key failure.squibChance was corrected from null to its default, 0.25. 
-[04:35:14] [Server thread/WARN]: Incorrect key failure.barrelChargeBurstChance was corrected from null to its default, 0.20000000298023224. 
-[04:35:14] [Server thread/WARN]: Incorrect key failure.failureExplosionPower was corrected from null to its default, 2.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key failure.overloadBurstChance was corrected from null to its default, 0.5. 
-[04:35:14] [Server thread/WARN]: Incorrect key failure.interruptedIgnitionChance was corrected from null to its default, 0.33000001311302185. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.projectilesCanBounce was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.baseProjectileBounceChance was corrected from null to its default, 0.33000001311302185. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.baseProjectileFluidBounceChance was corrected from null to its default, 0.8999999761581421. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.minimumVelocityForPenetrationBonus was corrected from null to its default, 1.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.penetrationBonusScale was corrected from null to its default, 0.10000000149011612. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.damageRestriction was corrected from null to its default, ALL_DAMAGE. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.projectilesChangeSurroundings was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.chunkloading was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.chunkloading.projectilesCanChunkload was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.chunkloading.smokeCloudsCanChunkload was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.bigCannonMunitions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.bigCannonMunitions.trailType was corrected from null to its default, SHORT. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.bigCannonMunitions.allBigCannonProjectilesAreTracers was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.bigCannonMunitions.quickFiringBreechItemPickupDelay was corrected from null to its default, 20. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.bigCannonMunitions.quickFiringBreechItemGoesToInventory was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.fuzes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.fuzes.impactFuzeDetonationChance was corrected from null to its default, 0.6700000166893005. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.fuzes.impactFuzeDurability was corrected from null to its default, 3. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.fuzes.proximityFuzeArmingTime was corrected from null to its default, 20. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.groupedMunitions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.groupedMunitions.fluidBlobBlockEffectChance was corrected from null to its default, 0.5. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.autocannonMunitions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.autocannonMunitions.trailType was corrected from null to its default, SHORT. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.autocannonMunitions.allAutocannonProjectilesAreTracers was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.autocannonMunitions.autocannonAmmoContainerAutocannonRoundCapacity was corrected from null to its default, 16. 
-[04:35:14] [Server thread/WARN]: Incorrect key munitions.autocannonMunitions.autocannonAmmoContainerMachineGunRoundCapacity was corrected from null to its default, 64. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.maxCannonLength was corrected from null to its default, 64. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.quickfiringBreechLoadingCooldown was corrected from null to its default, 40. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.quickfiringBreechOpeningCooldown was corrected from null to its default, 5. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.bigCannonRecoilScale was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.autocannonRecoilScale was corrected from null to its default, 0.5. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.dropMortar was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.dropMortar.dropMortarDelay was corrected from null to its default, 5. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.dropMortar.dropMortarItemCooldown was corrected from null to its default, 40. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.loadingTools was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.loadingTools.deployersCanUseLoadingTools was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.loadingTools.ramRodReach was corrected from null to its default, 5. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.loadingTools.ramRodStrength was corrected from null to its default, 3. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.loadingTools.wormReach was corrected from null to its default, 5. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.loadingTools.loadingToolHungerConsumption was corrected from null to its default, 2.5. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.loadingTools.loadingToolCooldown was corrected from null to its default, 20. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.carriage was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.carriage.carriageSpeed was corrected from null to its default, 0.03999999910593033. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.carriage.carriageTurnRate was corrected from null to its default, 1.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.carriage.cannonWeightAffectsCarriageSpeed was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.displayLink was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.displayLink.shouldDisplayCannonRotation was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.displayLink.shouldDisplayContainedMunitions was corrected from null to its default, true. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.bigCannonScreenShake was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key cannons.bigCannonScreenShake.blastDistanceMultiplier was corrected from null to its default, 8.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.maxLoaderLength was corrected from null to its default, 64. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.enableIntersectionLoading was corrected from null to its default, false. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.bronze_sliding_breech was corrected from null to its default, 12.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.cannon_loader was corrected from null to its default, 4.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.steel_screw_breech was corrected from null to its default, 16.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.cannon_drill was corrected from null to its default, 8.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.cast_iron_sliding_breech was corrected from null to its default, 16.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.steel_sliding_breech was corrected from null to its default, 32.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.nethersteel_screw_breech was corrected from null to its default, 40.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key kinetics.stressValues.v2.impact.cannon_builder was corrected from null to its default, 8.0. 
-[04:35:14] [Server thread/WARN]: Incorrect key crafting was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key crafting.maxCannonCastHeight was corrected from null to its default, 32. 
-[04:35:14] [Server thread/WARN]: Incorrect key crafting.maxCannonDrillLength was corrected from null to its default, 32. 
-[04:35:14] [Server thread/WARN]: Incorrect key crafting.maxCannonBuilderLength was corrected from null to its default, 32. 
-[04:35:14] [Server thread/WARN]: Incorrect key crafting.maxCannonBuilderRange was corrected from null to its default, 32. 
-[04:35:14] [Server thread/WARN]: Incorrect key crafting.builtUpCannonHeatingTime was corrected from null to its default, 6000. 
-[04:35:14] [Server thread/WARN]: Configuration file ./config/ritchiesprojectilelib-server.toml is not correct. Correcting
-[04:35:14] [Server thread/WARN]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04:35:14] [Server thread/WARN]: Incorrect key server.maxChunksForceLoaded was corrected from null to its default, 64. 
-[04:35:14] [Server thread/WARN]: Incorrect key server.maxChunksLoadedEachTick was corrected from null to its default, 32. 
-[04:35:14] [Server thread/WARN]: Incorrect key server.projectileChunkAge was corrected from null to its default, 3. 
-[04:35:14] [Server thread/WARN]: Incorrect key server.entityLoadTimeout was corrected from null to its default, 10. 
-[04:35:14] [Server thread/INFO]: Registering compost heaps in village type of plains
-[04:35:14] [Server thread/INFO]: Registering compost heaps in village type of savanna
-[04:35:14] [Server thread/INFO]: Registering compost heaps in village type of snowy
-[04:35:14] [Server thread/INFO]: Registering compost heaps in village type of taiga
-[04:35:14] [Server thread/INFO]: Registering compost heaps in village type of desert
-[04:35:14] [Server thread/INFO]: Loading server configs...
-[04:35:14] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[04:35:14] [Server thread/INFO]: Loading properties
-[04:35:14] [Server thread/INFO]: Default game type: SURVIVAL
-[04:35:14] [Server thread/INFO]: Generating keypair
-[04:35:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:35:14] [Server thread/INFO]: Using epoll channel type
-[04:35:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:35:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:35:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:35:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:35:14] [Server thread/INFO]: Preparing level "world"
-[04:35:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:35:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:35:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:35:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:35:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:35:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:35:24] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[04:35:25] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[04:35:25] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[04:35:26] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[04:35:26] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[04:35:27] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[04:35:27] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[04:35:28] [Worker-Main-2/INFO]: Preparing spawn area: 7%
-[04:35:28] [Worker-Main-1/INFO]: Preparing spawn area: 9%
-[04:35:29] [Worker-Main-3/INFO]: Preparing spawn area: 9%
-[04:35:29] [Worker-Main-2/INFO]: Preparing spawn area: 11%
-[04:35:30] [Worker-Main-2/INFO]: Preparing spawn area: 12%
-[04:35:30] [Worker-Main-3/INFO]: Preparing spawn area: 14%
-[04:35:31] [Worker-Main-1/INFO]: Preparing spawn area: 16%
-[04:35:31] [Worker-Main-2/INFO]: Preparing spawn area: 17%
-[04:35:32] [Worker-Main-3/INFO]: Preparing spawn area: 19%
-[04:35:32] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[04:35:33] [Worker-Main-2/INFO]: Preparing spawn area: 24%
-[04:35:33] [Worker-Main-3/INFO]: Preparing spawn area: 25%
-[04:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 28%
-[04:35:34] [Worker-Main-3/INFO]: Preparing spawn area: 30%
-[04:35:35] [Worker-Main-3/INFO]: Preparing spawn area: 32%
-[04:35:35] [Worker-Main-3/INFO]: Preparing spawn area: 33%
-[04:35:36] [Worker-Main-2/INFO]: Preparing spawn area: 35%
-[04:35:36] [Worker-Main-3/INFO]: Preparing spawn area: 37%
-[04:35:37] [Worker-Main-1/INFO]: Preparing spawn area: 40%
-[04:35:37] [Worker-Main-2/INFO]: Preparing spawn area: 42%
-[04:35:38] [Worker-Main-2/INFO]: Preparing spawn area: 44%
-[04:35:38] [Worker-Main-3/INFO]: Preparing spawn area: 45%
-[04:35:39] [Worker-Main-3/INFO]: Preparing spawn area: 47%
-[04:35:39] [Worker-Main-2/INFO]: Preparing spawn area: 50%
-[04:35:40] [Worker-Main-2/INFO]: Preparing spawn area: 53%
-[04:35:40] [Worker-Main-3/INFO]: Preparing spawn area: 55%
-[04:35:41] [Worker-Main-3/INFO]: Preparing spawn area: 56%
-[04:35:41] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[04:35:42] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[04:35:42] [Worker-Main-3/INFO]: Preparing spawn area: 62%
-[04:35:43] [Worker-Main-3/INFO]: Preparing spawn area: 66%
-[04:35:43] [Worker-Main-2/INFO]: Preparing spawn area: 68%
-[04:35:44] [Worker-Main-2/INFO]: Preparing spawn area: 71%
-[04:35:44] [Worker-Main-2/INFO]: Preparing spawn area: 72%
-[04:35:45] [Worker-Main-2/INFO]: Preparing spawn area: 75%
-[04:35:45] [Worker-Main-1/INFO]: Preparing spawn area: 79%
-[04:35:46] [Worker-Main-2/INFO]: Preparing spawn area: 82%
-[04:35:46] [Worker-Main-3/INFO]: Preparing spawn area: 85%
-[04:35:47] [Worker-Main-1/INFO]: Preparing spawn area: 86%
-[04:35:47] [Worker-Main-1/INFO]: Preparing spawn area: 89%
-[04:35:48] [Worker-Main-3/INFO]: Preparing spawn area: 92%
-[04:35:48] [Worker-Main-1/INFO]: Preparing spawn area: 95%
-[04:35:49] [Worker-Main-3/INFO]: Preparing spawn area: 98%
-[04:35:49] [Server thread/INFO]: Time elapsed: 27191 ms
-[04:35:49] [Server thread/INFO]: Done (34.474s)! For help, type "help"
-[04:35:49] [pool-6-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / abridged:creek_bridge], ResourceKey[minecraft:worldgen/structure / abridged:canyon_bridge], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=53, y=73, z=-501}
-[04:36:31] [Server thread/INFO]: CheessRevolution[/127.0.0.1:33996] logged in with entity id 230 at (-56.5, 64.0, -442.5)
-[04:36:31] [Server thread/INFO]: CheessRevolution joined the game
-[04:37:56] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
-[04:37:56] [Server thread/INFO]: CheessRevolution left the game
+[05:40:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[05:40:25] [main/INFO]: Compatibility level set to JAVA_17
+[05:40:25] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[05:40:25] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[05:40:26] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
+[05:40:26] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
+[05:40:26] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[05:40:27] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$zpc000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[05:40:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:40:35] [main/INFO]: Found new data pack fabric, loading it automatically
+[05:40:38] [main/INFO]: Loaded 30 recipes
+[05:40:38] [main/INFO]: Loaded 2510 advancements
+[05:40:39] [main/INFO]: Applied 203 biome modifications to 64 of 64 new biomes in 11.81 ms
+[05:40:39] [Server thread/INFO]: Registering compost heaps in village type of plains
+[05:40:39] [Server thread/INFO]: Registering compost heaps in village type of savanna
+[05:40:39] [Server thread/INFO]: Registering compost heaps in village type of snowy
+[05:40:39] [Server thread/INFO]: Registering compost heaps in village type of taiga
+[05:40:39] [Server thread/INFO]: Registering compost heaps in village type of desert
+[05:40:39] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[05:40:39] [Server thread/INFO]: Loading properties
+[05:40:39] [Server thread/INFO]: Default game type: SURVIVAL
+[05:40:39] [Server thread/INFO]: Generating keypair
+[05:40:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:40:39] [Server thread/INFO]: Using epoll channel type
+[05:40:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:40:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:40:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:40:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:40:39] [Server thread/INFO]: Preparing level "world"
+[05:40:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:40:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:40:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:40:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:40:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:40:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:40:50] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[05:40:50] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[05:40:51] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[05:40:51] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[05:40:52] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[05:40:52] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[05:40:53] [Worker-Main-2/INFO]: Preparing spawn area: 8%
+[05:40:53] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[05:40:54] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[05:40:54] [Worker-Main-1/INFO]: Preparing spawn area: 12%
+[05:40:55] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[05:40:55] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[05:40:56] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[05:40:56] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[05:40:57] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[05:40:57] [Worker-Main-1/INFO]: Preparing spawn area: 25%
+[05:40:58] [Worker-Main-2/INFO]: Preparing spawn area: 27%
+[05:40:58] [Worker-Main-1/INFO]: Preparing spawn area: 29%
+[05:40:59] [Worker-Main-1/INFO]: Preparing spawn area: 31%
+[05:40:59] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[05:41:00] [Worker-Main-3/INFO]: Preparing spawn area: 35%
+[05:41:00] [Worker-Main-1/INFO]: Preparing spawn area: 37%
+[05:41:01] [Worker-Main-2/INFO]: Preparing spawn area: 39%
+[05:41:01] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[05:41:02] [Worker-Main-3/INFO]: Preparing spawn area: 43%
+[05:41:02] [Worker-Main-1/INFO]: Preparing spawn area: 45%
+[05:41:03] [Worker-Main-1/INFO]: Preparing spawn area: 49%
+[05:41:03] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[05:41:04] [Worker-Main-2/INFO]: Preparing spawn area: 55%
+[05:41:04] [Worker-Main-2/INFO]: Preparing spawn area: 57%
+[05:41:05] [Worker-Main-2/INFO]: Preparing spawn area: 59%
+[05:41:05] [Worker-Main-2/INFO]: Preparing spawn area: 61%
+[05:41:06] [Worker-Main-3/INFO]: Preparing spawn area: 65%
+[05:41:06] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[05:41:07] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[05:41:07] [Worker-Main-2/INFO]: Preparing spawn area: 71%
+[05:41:08] [Worker-Main-3/INFO]: Preparing spawn area: 75%
+[05:41:08] [Worker-Main-1/INFO]: Preparing spawn area: 77%
+[05:41:09] [Worker-Main-1/INFO]: Preparing spawn area: 80%
+[05:41:09] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[05:41:10] [Worker-Main-2/INFO]: Preparing spawn area: 85%
+[05:41:10] [Worker-Main-1/INFO]: Preparing spawn area: 88%
+[05:41:11] [Worker-Main-2/INFO]: Preparing spawn area: 91%
+[05:41:11] [Worker-Main-1/INFO]: Preparing spawn area: 94%
+[05:41:12] [Worker-Main-1/INFO]: Preparing spawn area: 98%
+[05:41:12] [Server thread/INFO]: Time elapsed: 24891 ms
+[05:41:12] [Server thread/INFO]: Done (32.551s)! For help, type "help"
