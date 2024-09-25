@@ -15,6 +15,7 @@
     "criteria": {
       "frozen_tundra": "2024-09-23 11:44:25 +0000",
       "frozen_pine_taiga": "2024-09-23 11:40:14 +0000",
+      "outback": "2024-09-25 07:50:17 +0000",
       "cold_boreal_taiga": "2024-09-23 11:46:19 +0000",
       "saguaro_desert": "2024-09-23 11:50:25 +0000",
       "grassland": "2024-09-23 11:50:19 +0000",
@@ -27,6 +28,7 @@
     "criteria": {
       "frozen_tundra": "2024-09-23 11:44:25 +0000",
       "frozen_pine_taiga": "2024-09-23 11:40:14 +0000",
+      "outback": "2024-09-25 07:50:17 +0000",
       "cold_boreal_taiga": "2024-09-23 11:46:19 +0000",
       "saguaro_desert": "2024-09-23 11:50:25 +0000",
       "grassland": "2024-09-23 11:50:19 +0000",
@@ -40,7 +42,10 @@
       "minecraft:taiga": "2024-09-23 11:46:07 +0000",
       "minecraft:deep_ocean": "2024-09-23 11:49:35 +0000",
       "minecraft:frozen_river": "2024-09-23 11:45:55 +0000",
+      "minecraft:wooded_badlands": "2024-09-25 07:50:28 +0000",
+      "minecraft:badlands": "2024-09-25 07:50:57 +0000",
       "minecraft:lukewarm_ocean": "2024-09-23 11:49:47 +0000",
+      "minecraft:river": "2024-09-25 07:50:30 +0000",
       "minecraft:snowy_plains": "2024-09-23 11:44:18 +0000",
       "minecraft:snowy_taiga": "2024-09-23 11:46:02 +0000",
       "minecraft:cold_ocean": "2024-09-23 11:42:34 +0000",
@@ -48,7 +53,8 @@
       "minecraft:frozen_ocean": "2024-09-23 11:41:33 +0000",
       "minecraft:ocean": "2024-09-23 11:49:36 +0000",
       "minecraft:snowy_beach": "2024-09-23 11:46:08 +0000",
-      "minecraft:deep_lukewarm_ocean": "2024-09-23 11:50:01 +0000"
+      "minecraft:deep_lukewarm_ocean": "2024-09-23 11:50:01 +0000",
+      "minecraft:meadow": "2024-09-25 07:52:16 +0000"
     },
     "done": false
   },
@@ -206,6 +212,30 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-09-23 11:41:34 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-09-25 07:57:03 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/find_meadow": {
+    "criteria": {
+      "meadow": "2024-09-25 07:52:16 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2024-09-25 07:57:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-09-25 07:57:03 +0000"
     },
     "done": true
   },
