@@ -789,3 +789,26 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [09:14:03] [Server thread/INFO]: AwaKING has made the advancement [Sweet Dreams]
 [09:14:44] [Server thread/INFO]: AwaKING has made the advancement [Stone Age]
 [09:15:13] [Server thread/INFO]: AwaKING has made the advancement [Getting an Upgrade]
+[09:17:35] [Server thread/INFO]: AwaKING has made the advancement [Acquire Hardware]
+[09:17:48] [Server thread/INFO]: AwaKING has made the advancement [Isn't It Iron Pick]
+[09:19:30] [Server thread/INFO]: Parzival5077[/127.0.0.1:57428] logged in with entity id 76813 at (13562.412274450153, 63.0, -4582.602704108423)
+[09:19:30] [Server thread/INFO]: Parzival5077 joined the game
+[09:19:58] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:20:43] [Server thread/INFO]: hizuki[/127.0.0.1:47734] logged in with entity id 77938 at (13524.5, 121.0, -4413.5)
+[09:20:43] [Server thread/INFO]: hizuki joined the game
+[09:21:43] [Server thread/INFO]: hizuki lost connection: §cTime for authentication has expired.
+[09:21:43] [Server thread/INFO]: hizuki left the game
+[09:21:48] [Server thread/INFO]: hizuki[/127.0.0.1:58598] logged in with entity id 79803 at (13524.5, 121.0, -4413.5)
+[09:21:48] [Server thread/INFO]: hizuki joined the game
+[09:22:02] [Server thread/INFO]: hizuki has made the advancement [Home of Heidi?]
+[09:22:16] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:24:16] [Server thread/INFO]: [Parzival5077: The difficulty has been set to Peaceful]
+[09:24:49] [Server thread/INFO]: CheessRevolution[/127.0.0.1:42100] logged in with entity id 84770 at (13299.087077239543, 65.0, -4065.7597040990904)
+[09:24:49] [Server thread/INFO]: CheessRevolution joined the game
+[09:27:42] [Server thread/INFO]: hizuki has made the advancement [Stone Age]
+[09:28:21] [Server thread/INFO]: hizuki has made the advancement [Getting an Upgrade]
+[09:29:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13765, y=41, z=-4529} class_2338{x=13766, y=42, z=-4529}
+[09:29:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13759, y=48, z=-4549} class_2338{x=13759, y=50, z=-4550}
+[09:31:26] [Server thread/INFO]: CheessRevolution has made the advancement [Suit Up]
