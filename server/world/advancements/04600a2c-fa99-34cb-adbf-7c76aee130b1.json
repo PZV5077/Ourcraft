@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2024-09-25 08:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-09-25 08:14:34 +0000"
@@ -230,6 +236,12 @@
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2024-09-25 08:08:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-25 08:48:56 +0000"
     },
     "done": true
   },
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2024-09-25 08:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-09-25 08:15:59 +0000"
@@ -416,6 +434,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-09-25 08:24:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2024-09-25 08:44:42 +0000"
     },
     "done": true
   },
@@ -504,6 +528,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2024-09-25 08:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 08:14:28 +0000"
@@ -543,6 +573,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-09-25 08:11:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2024-09-25 08:43:42 +0000"
     },
     "done": true
   },
@@ -924,6 +960,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2024-09-25 08:43:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-09-25 08:14:34 +0000"
@@ -1081,6 +1123,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2024-09-25 08:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
@@ -1213,9 +1261,21 @@
     },
     "done": true
   },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "maple_log": "2024-09-25 08:43:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-09-25 08:09:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2024-09-25 08:44:42 +0000"
     },
     "done": true
   },
@@ -1375,6 +1435,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2024-09-25 08:44:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2024-09-25 08:11:15 +0000"
@@ -1486,6 +1552,12 @@
   "meadow:recipes/pine_wood": {
     "criteria": {
       "has_pine_log": "2024-09-25 08:07:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-09-25 08:51:02 +0000"
     },
     "done": true
   },
@@ -1651,9 +1723,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2024-09-25 08:44:42 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/pine_trapdoor": {
     "criteria": {
       "has_pine_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2024-09-25 08:43:42 +0000"
     },
     "done": true
   },
@@ -1759,6 +1843,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_coneflower": {
+    "criteria": {
+      "has_purple_coneflower": "2024-09-25 08:44:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-09-25 08:21:59 +0000"
@@ -1768,6 +1858,12 @@
   "meadow:recipes/pine_barn_door": {
     "criteria": {
       "has_pine_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2024-09-25 08:44:42 +0000"
     },
     "done": true
   },
@@ -2090,6 +2186,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:44:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-09-25 08:09:59 +0000"
@@ -2219,6 +2321,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-09-25 08:48:56 +0000"
     },
     "done": true
   },
@@ -2382,6 +2490,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-09-25 08:48:56 +0000"
     },
     "done": true
   },

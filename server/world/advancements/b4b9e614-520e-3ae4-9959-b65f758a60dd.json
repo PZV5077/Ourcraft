@@ -1468,6 +1468,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-09-25 08:49:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
     "criteria": {
       "has_oak_planks": "2024-09-25 08:33:39 +0000"
@@ -1595,6 +1601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-09-25 08:44:44 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/wooden_flower_pot": {
     "criteria": {
       "has_oak_planks": "2024-09-25 08:33:39 +0000"
@@ -1616,6 +1628,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-09-25 08:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-09-25 08:44:44 +0000"
     },
     "done": true
   },

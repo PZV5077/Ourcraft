@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2024-09-25 08:46:22 +0000",
       "minecraft:dripstone_caves": "2024-09-25 08:12:46 +0000",
       "minecraft:meadow": "2024-09-25 08:04:28 +0000"
     },
@@ -158,6 +159,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-09-25 08:51:00 +0000",
       "rotten_flesh": "2024-09-25 08:06:59 +0000"
     },
     "done": false
@@ -186,9 +188,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2024-09-25 08:24:31 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/wooden_bucket": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -198,9 +212,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
     },
     "done": true
   },
@@ -264,6 +290,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
@@ -279,6 +311,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -420,6 +458,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-09-25 08:09:40 +0000"
@@ -540,6 +584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-09-25 08:09:33 +0000"
@@ -615,6 +665,18 @@
   "supplementaries:recipes/cage": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -708,9 +770,21 @@
     },
     "done": true
   },
+  "meadow:recipes/highland_bed": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
     },
     "done": true
   },
@@ -822,6 +896,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2024-09-25 08:32:50 +0000"
@@ -843,6 +923,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2024-09-25 08:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
     },
     "done": true
   },
@@ -1044,6 +1130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-09-25 08:25:02 +0000"
@@ -1080,6 +1172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
@@ -1095,6 +1193,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-09-25 08:29:20 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/patched_bed": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -1206,6 +1310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
@@ -1242,9 +1352,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -1260,6 +1388,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2024-09-25 08:46:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:02 +0000"
@@ -1269,6 +1409,18 @@
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -1404,6 +1556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-09-25 08:46:44 +0000"
+    },
+    "done": true
+  },
   "meadow:main/wool_collector": {
     "criteria": {
       "meadow:highland_wool": "2024-09-25 08:09:19 +0000"
@@ -1434,6 +1592,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/empty_powder_charge": {
     "criteria": {
       "has_gunpowder": "2024-09-25 08:32:50 +0000"
@@ -1443,6 +1613,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -1548,6 +1724,12 @@
     },
     "done": true
   },
+  "meadow:recipes/umbra_bed": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/camera": {
     "criteria": {
       "has_stick": "2024-09-25 08:09:01 +0000"
@@ -1629,6 +1811,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-09-25 08:46:44 +0000"
     },
     "done": true
   },
@@ -1740,9 +1928,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
     },
     "done": true
   },
@@ -1806,6 +2006,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-09-25 08:13:46 +0000"
@@ -1827,6 +2033,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_horse_armor": "2024-09-25 08:32:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
     },
     "done": true
   },
@@ -1854,6 +2066,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_spruce_planks": "2024-09-25 08:08:02 +0000"
@@ -1875,6 +2093,18 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -2094,6 +2324,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:02 +0000"
@@ -2166,6 +2402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-09-25 08:49:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2024-09-25 08:08:02 +0000"
@@ -2214,9 +2456,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -2259,6 +2513,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -2355,6 +2615,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
     },
     "done": true
   },
@@ -2461,9 +2727,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
     },
     "done": true
   },
@@ -2521,9 +2799,21 @@
     },
     "done": true
   },
+  "meadow:recipes/wooly_bed": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
     },
     "done": true
   },
@@ -2536,6 +2826,18 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 08:29:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -2683,6 +2985,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-09-25 08:09:19 +0000"
@@ -2710,6 +3024,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-09-25 08:09:01 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/wooden_flower_pot": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -2797,6 +3117,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-09-25 08:16:22 +0000"
@@ -2811,7 +3137,8 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "highland_fields": "2024-09-25 08:08:49 +0000"
+      "highland_fields": "2024-09-25 08:08:49 +0000",
+      "temperate_grove": "2024-09-25 08:43:52 +0000"
     },
     "done": false
   },
@@ -2893,9 +3220,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-25 08:47:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_stool": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },
@@ -2977,6 +3316,12 @@
     },
     "done": true
   },
+  "meadow:recipes/flecked_bed": {
+    "criteria": {
+      "has_planks": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-09-25 08:27:57 +0000"
@@ -3027,7 +3372,8 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "highland_fields": "2024-09-25 08:08:49 +0000"
+      "highland_fields": "2024-09-25 08:08:49 +0000",
+      "temperate_grove": "2024-09-25 08:43:52 +0000"
     },
     "done": false
   },
@@ -3127,6 +3473,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-09-25 08:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-09-25 08:13:46 +0000"
@@ -3142,6 +3494,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_horse_armor": "2024-09-25 08:32:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2024-09-25 08:46:50 +0000"
     },
     "done": true
   },

@@ -751,3 +751,33 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [08:44:44] [Server thread/INFO]: Parzival5077 has made the advancement [Getting an Upgrade]
 [08:44:48] [Server thread/INFO]: AwaKING[/127.0.0.1:53160] logged in with entity id 62031 at (13521.5, 121.0, -4404.5)
 [08:44:48] [Server thread/INFO]: AwaKING joined the game
+[08:45:11] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@54325cef[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:47048): §cPlayer literal{AwaKING} is already online!
+[08:45:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@54325cef[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:47048) lost connection: §cPlayer literal{AwaKING} is already online!
+[08:45:11] [Server thread/WARN]: handleDisconnection() called twice
+[08:45:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@483f6ec7[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:39230): §cPlayer literal{AwaKING} is already online!
+[08:45:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@483f6ec7[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:39230) lost connection: §cPlayer literal{AwaKING} is already online!
+[08:45:16] [Server thread/WARN]: handleDisconnection() called twice
+[08:45:18] [Server thread/INFO]: AwaKING lost connection: Timed out
+[08:45:18] [Server thread/INFO]: AwaKING left the game
+[08:45:27] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[08:45:46] [Server thread/INFO]: AwaKING[/127.0.0.1:35022] logged in with entity id 63107 at (13521.5, 121.0, -4404.5)
+[08:45:46] [Server thread/INFO]: AwaKING joined the game
+[08:45:47] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:35036] logged in with entity id 63166 at (13381.479116320883, 74.0, -4103.626357665782)
+[08:45:47] [Server thread/INFO]: Littlebugs404_ joined the game
+[08:46:11] [Server thread/INFO]: AwaKING has made the advancement [Home of Heidi?]
+[08:46:13] [Server thread/INFO]: AwaKING lost connection: Disconnected
+[08:46:13] [Server thread/INFO]: AwaKING left the game
+[08:49:34] [Server thread/INFO]: Littlebugs404_ has made the advancement [Isn't It Iron Pick]
+[08:51:26] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[08:51:26] [Server thread/INFO]: Littlebugs404_ left the game
+[08:51:57] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[08:52:00] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
+[08:52:00] [Server thread/INFO]: CheessRevolution left the game
+[08:52:37] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[08:52:37] [Server thread/INFO]: Parzival5077 left the game
+[08:58:31] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
+[08:58:31] [Server thread/INFO]: jjjjjasper left the game
+[08:59:31] [Server thread/INFO]: AwaKING[/127.0.0.1:34980] logged in with entity id 71629 at (13518.325377350715, 121.0, -4411.958441584855)
+[08:59:31] [Server thread/INFO]: AwaKING joined the game
