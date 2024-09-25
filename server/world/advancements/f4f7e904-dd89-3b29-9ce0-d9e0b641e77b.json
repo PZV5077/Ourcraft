@@ -5256,6 +5256,18 @@
     },
     "done": true
   },
+  "meadow:recipes/wheelbarrow": {
+    "criteria": {
+      "has_wooden_cauldron": "2024-09-25 12:28:11 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/place_cheese_form": {
+    "criteria": {
+      "cheese_form": "2024-09-25 12:30:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2024-09-25 12:31:21 +0000"
@@ -5265,12 +5277,6 @@
   "refurbished_furniture:recipes/misc/constructing/birch_crate": {
     "criteria": {
       "has_birch_planks": "2024-09-25 12:31:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2024-09-25 12:41:12 +0000"
     },
     "done": true
   },
@@ -5301,12 +5307,6 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-09-25 12:31:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2024-09-25 12:45:41 +0000"
     },
     "done": true
   },
@@ -5346,24 +5346,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2024-09-25 12:41:12 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/frame": {
-    "criteria": {
-      "has_campfire": "2024-09-25 12:44:36 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/wheelbarrow": {
-    "criteria": {
-      "has_wooden_cauldron": "2024-09-25 12:28:11 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
     "criteria": {
       "has_birch_planks": "2024-09-25 12:31:21 +0000"
@@ -5394,18 +5376,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2024-09-25 12:41:12 +0000"
-    },
-    "done": true
-  },
-  "meadow:main/place_cheese_form": {
-    "criteria": {
-      "cheese_form": "2024-09-25 12:30:05 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
     "criteria": {
       "has_birch_planks": "2024-09-25 12:31:21 +0000"
@@ -5424,21 +5394,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2024-09-25 12:41:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-09-25 12:31:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/stove": {
-    "criteria": {
-      "has_campfire": "2024-09-25 12:44:36 +0000"
     },
     "done": true
   },
@@ -5451,6 +5409,48 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-09-25 12:31:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-09-25 12:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-09-25 12:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-09-25 12:41:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-09-25 12:41:12 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/frame": {
+    "criteria": {
+      "has_campfire": "2024-09-25 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "has_campfire": "2024-09-25 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-09-25 12:45:41 +0000"
     },
     "done": true
   },
