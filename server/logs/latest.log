@@ -1,5 +1,5 @@
-[11:37:37] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
-[11:37:38] [main/INFO]: Loading 130 mods:
+[00:23:41] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
+[00:23:41] [main/INFO]: Loading 128 mods:
 	- abridged 1.1.1
 	- architectury 9.2.14
 	- bclib 3.0.14
@@ -159,106 +159,732 @@
 	- starlight 1.1.2+fabric.dbc156f
 	- supplementaries 1.20-2.8.17
 	   \-- mixinsquared 0.1.1
-	- t_and_t 1.12
 	- terrablender 3.0.1.7
-	- terralith 2.5.4
 	- threadtweak 1.20.2-0.1.1
-[11:37:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[11:37:38] [main/INFO]: Compatibility level set to JAVA_17
-[11:37:38] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[11:37:38] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[11:37:39] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
-[11:37:39] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
-[11:37:39] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[11:37:39] [main/INFO]: ThreadTweak config initialized
-[11:37:41] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bik000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[11:37:44] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$bli000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[11:37:46] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
-[11:37:46] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
-[11:37:46] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
-[11:37:46] [main/INFO]: Initializing network...
-[11:37:46] [main/INFO]: Initialized network!
-[11:37:48] [main/INFO]: [EasyAuth]: EasyAuth mod by samo_lego, NikitaCartes.
-[11:37:48] [main/WARN]: [EasyAuth]: Disable enforce-secure-profile to allow offline players to join the server
-[11:37:48] [main/WARN]: [EasyAuth]: For more info, see https://github.com/NikitaCartes/EasyAuth/issues/68
-[11:37:48] [main/INFO]: [EasyAuth]: You have premiumAutologin enabled. Enable online-mode so that online player can not register.
-[11:37:48] [main/INFO]: [bclib] Added Config edenring.blocks to auto sync (file hash)
-[11:37:48] [main/INFO]: [bclib] Added Config edenring.biomes to auto sync (file hash)
-[11:37:48] [main/INFO]: [bclib] Added Config edenring.items to auto sync (file hash)
-[11:37:48] [main/INFO]: [bclib] Added Config edenring.recipes to auto sync (file hash)
-[11:37:48] [main/INFO]: [bclib] Added Config edenring.entities to auto sync (file hash)
-[11:37:48] [main/INFO]: Reflections took 137 ms to scan 1 urls, producing 9 keys and 75 values
-[11:37:49] [main/ERROR]: No data fixer registered for seat
-[11:37:49] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[11:37:49] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
-[11:37:49] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
-[11:37:49] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[11:37:49] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[11:37:49] [main/INFO]: [Regions Unexplored] generating and loading config
-[11:37:49] [main/INFO]: Hello Fabric world!
-[11:37:49] [main/INFO]: Loaded config supplementaries-common.json
-[11:37:49] [main/ERROR]: Farmers Delight Refabricated is not installed. Disabling Farmers Delight Module
-[11:37:50] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[11:37:50] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[11:37:50] [main/INFO]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[11:37:50] [main/INFO]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[11:37:50] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[11:37:50] [main/INFO]: Initialized block sets in 18ms
-[11:37:50] [main/ERROR]: No data fixer registered for dispenser_minecart
-[11:37:50] [main/ERROR]: No data fixer registered for falling_urn
-[11:37:50] [main/ERROR]: No data fixer registered for falling_ash
-[11:37:50] [main/ERROR]: No data fixer registered for falling_sack
-[11:37:50] [main/ERROR]: No data fixer registered for brick_projectile
-[11:37:50] [main/ERROR]: No data fixer registered for bomb
-[11:37:50] [main/ERROR]: No data fixer registered for rope_arrow
-[11:37:50] [main/ERROR]: No data fixer registered for slingshot_projectile
-[11:37:50] [main/INFO]: Initialized color sets in 39ms
-[11:37:50] [main/INFO]: Finished mod setup in: [11, 0, 0, 0, 0, 0, 10, 5, 0] ms
-[11:37:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:37:50] [main/INFO]: Found new data pack Supplementaries Generated Pack, loading it automatically
-[11:37:50] [main/INFO]: Found new data pack fabric, loading it automatically
-[11:37:50] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 29 ms
-[11:37:51] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (5bb88047)
-[11:37:51] [main/INFO]: [bclib] Unable to build Biome List yet
-[11:37:51] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[11:37:51] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[11:37:51] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[11:37:51] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
-[11:37:51] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (317e1e21)
-[11:37:51] [main/INFO]: [bclib] Unable to build Biome List yet
-[11:37:51] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
-[11:37:51] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (11c4a29c)
-[11:37:51] [main/INFO]: [bclib] Unable to build Biome List yet
-[11:37:51] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[11:37:51] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[11:37:51] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[11:37:51] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
-[11:37:51] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (4d13916a)
-[11:37:51] [main/INFO]: [bclib] Unable to build Biome List yet
-[11:37:51] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
-[11:37:51] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (eadfcc)
-[11:37:51] [main/INFO]: [bclib] Unable to build Biome List yet
-[11:37:51] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[11:37:51] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[11:37:51] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[11:37:51] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
-[11:37:51] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (4e1e080b)
-[11:37:51] [main/INFO]: [bclib] Unable to build Biome List yet
-[11:37:51] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
-[11:37:51] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (73509a0c)
-[11:37:51] [main/INFO]: [bclib] Unable to build Biome List yet
-[11:37:51] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[11:37:51] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[11:37:51] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[11:37:51] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
-[11:37:51] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (33283784)
-[11:37:51] [main/INFO]: [bclib] Unable to build Biome List yet
-[11:37:51] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
-[11:37:51] [main/WARN]: [bclib] No valid BCLBiome Registry available!
-[11:37:51] [main/WARN]: [bclib] No valid Biome Registry available!
-[11:37:53] [main/WARN]: Found loot table element validation problem in {loot_tables:abridged:chests/badlands_mining}.pools[0].entries[0]: Unknown loot table called minecraft:anvil
-[11:37:53] [main/INFO]: [bclib] Disabling Recipe: bclib:test_star
-[11:37:53] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
+[00:23:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:23:42] [main/INFO]: Compatibility level set to JAVA_17
+[00:23:42] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[00:23:42] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[00:23:43] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
+[00:23:43] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
+[00:23:43] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:23:43] [main/INFO]: ThreadTweak config initialized
+[00:23:44] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bik000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[00:23:48] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$bli000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[00:23:50] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
+[00:23:50] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
+[00:23:50] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
+[00:23:50] [main/INFO]: Initializing network...
+[00:23:50] [main/INFO]: Initialized network!
+[00:23:52] [main/INFO]: [EasyAuth]: EasyAuth mod by samo_lego, NikitaCartes.
+[00:23:52] [main/WARN]: [EasyAuth]: Disable enforce-secure-profile to allow offline players to join the server
+[00:23:52] [main/WARN]: [EasyAuth]: For more info, see https://github.com/NikitaCartes/EasyAuth/issues/68
+[00:23:52] [main/INFO]: [EasyAuth]: You have premiumAutologin enabled. Enable online-mode so that online player can not register.
+[00:23:52] [main/INFO]: [bclib] Added Config edenring.blocks to auto sync (file hash)
+[00:23:52] [main/INFO]: [bclib] Added Config edenring.biomes to auto sync (file hash)
+[00:23:52] [main/INFO]: [bclib] Added Config edenring.items to auto sync (file hash)
+[00:23:52] [main/INFO]: [bclib] Added Config edenring.recipes to auto sync (file hash)
+[00:23:52] [main/INFO]: [bclib] Added Config edenring.entities to auto sync (file hash)
+[00:23:53] [main/INFO]: Reflections took 155 ms to scan 1 urls, producing 9 keys and 75 values
+[00:23:53] [main/ERROR]: No data fixer registered for seat
+[00:23:53] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[00:23:53] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
+[00:23:53] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
+[00:23:53] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[00:23:53] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[00:23:53] [main/INFO]: [Regions Unexplored] generating and loading config
+[00:23:53] [main/WARN]: Configuration file ./config/regions_unexplored/regions_unexplored-common.toml is not correct. Correcting
+[00:23:53] [main/WARN]: Incorrect key region_configs was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key region_configs.toggle_custom_regions was corrected from null to its default, false. 
+[00:23:53] [main/WARN]: Incorrect key region_configs.primary_region_weight was corrected from null to its default, 11. 
+[00:23:53] [main/WARN]: Incorrect key region_configs.secondary_region_weight was corrected from null to its default, 8. 
+[00:23:53] [main/WARN]: Incorrect key region_configs.rare_region_weight was corrected from null to its default, 1. 
+[00:23:53] [main/WARN]: Incorrect key region_configs.nether_region_weight was corrected from null to its default, 14. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_alpha_grove was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_arid_mountains was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_smouldering_woodland was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_autumnal_maple_forest was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_bamboo_forest was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_baobab_savanna was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_barley_fields was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_bayou was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_blackwood_taiga was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_boreal_taiga was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_chalk_cliffs was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_clover_plains was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_cold_boreal_taiga was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_cold_deciduous_forest was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_cold_river was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_deciduous_forest was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_dry_bushland was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_eucalyptus_forest was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_fen was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_flower_field was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_frozen_pine_taiga was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_frozen_tundra was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_fungal_fen was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_golden_boreal_taiga was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_grassland was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_grassy_beach was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_gravel_beach was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_highland_fields was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_hyacinth_deeps was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_icy_desert was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_icy_heights was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_joshua_desert was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_magnolia_woodland was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_maple_forest was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_marsh was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_mauve_hills was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_meadow was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_mountains was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_muddy_river was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_old_growth_bayou was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_orchard was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_outback was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_pine_slopes was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_pine_taiga was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_poppy_fields was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_prairie was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_pumpkin_fields was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_rainforest was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_rocky_reef was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_redwoods was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_saguaro_desert was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_shrubland was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_silver_birch_forest was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_sparse_rainforest was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_sparse_redwoods was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_spires was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_steppe was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_temperate_grove was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_towering_cliffs was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_tropical_river was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_tropics was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_willow_forest was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_ancient_delta was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_bioshroom_caves was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_prismachasm was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_redstone_caves was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_scorching_caves was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_blackstone_basin was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_glistering_meadow was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_infernal_holt was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_mycotoxic_undergrowth was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key biome_toggles.toggle_redstone_hell was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key worldgen_options was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key worldgen_options.toggle_custom_dirt was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key client_options was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key client_options.toggle_mauve_leaves_particles was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key client_options.toggle_blue_magnolia_leaves_particles was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key client_options.toggle_pink_magnolia_leaves_particles was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key client_options.toggle_white_magnolia_leaves_particles was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key client_options.toggle_red_maple_leaves_particles was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key client_options.toggle_orange_maple_leaves_particles was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key client_options.toggle_silver_birch_leaves_particles was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key client_options.toggle_enchanted_birch_leaves_particles was corrected from null to its default, true. 
+[00:23:53] [main/WARN]: Incorrect key client_options.eucalyptus_transition_size was corrected from null to its default, 25.0. 
+[00:23:53] [main/WARN]: Incorrect key client_options.eucalyptus_saturation was corrected from null to its default, 0.5. 
+[00:23:53] [main/WARN]: Incorrect key client_options.eucalyptus_brightness was corrected from null to its default, 0.8. 
+[00:23:53] [main/WARN]: Configuration file ./config/regions_unexplored/regions_unexplored-primary-region.toml is not correct. Correcting
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.icy_arid was corrected from null to its default, regions_unexplored:frozen_tundra. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.icy_dry was corrected from null to its default, regions_unexplored:frozen_tundra. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.icy_neutral was corrected from null to its default, regions_unexplored:frozen_pine_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.icy_wet was corrected from null to its default, regions_unexplored:cold_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.icy_humid was corrected from null to its default, regions_unexplored:cold_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.cool_arid was corrected from null to its default, regions_unexplored:pumpkin_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.cool_dry was corrected from null to its default, regions_unexplored:autumnal_maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.cool_neutral was corrected from null to its default, regions_unexplored:maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.cool_wet was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.cool_humid was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.neutral_arid was corrected from null to its default, regions_unexplored:orchard. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.neutral_dry was corrected from null to its default, regions_unexplored:shrubland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:temperate_grove. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.neutral_wet was corrected from null to its default, regions_unexplored:pine_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.neutral_humid was corrected from null to its default, regions_unexplored:blackwood_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.warm_arid was corrected from null to its default, regions_unexplored:barley_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.warm_dry was corrected from null to its default, regions_unexplored:prairie. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.warm_neutral was corrected from null to its default, regions_unexplored:grassland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.warm_wet was corrected from null to its default, regions_unexplored:redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.warm_humid was corrected from null to its default, regions_unexplored:redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.hot_arid was corrected from null to its default, regions_unexplored:baobab_savanna. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.hot_dry was corrected from null to its default, regions_unexplored:baobab_savanna. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.hot_neutral was corrected from null to its default, regions_unexplored:saguaro_desert. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.hot_wet was corrected from null to its default, regions_unexplored:outback. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.hot_humid was corrected from null to its default, regions_unexplored:eucalyptus_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.icy_arid was corrected from null to its default, regions_unexplored:frozen_pine_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.icy_dry was corrected from null to its default, regions_unexplored:frozen_tundra. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.icy_neutral was corrected from null to its default, regions_unexplored:frozen_tundra. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.icy_wet was corrected from null to its default, regions_unexplored:cold_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.icy_humid was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.cool_arid was corrected from null to its default, regions_unexplored:autumnal_maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.cool_dry was corrected from null to its default, regions_unexplored:autumnal_maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.cool_neutral was corrected from null to its default, regions_unexplored:maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.cool_wet was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.cool_humid was corrected from null to its default, regions_unexplored:golden_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.neutral_arid was corrected from null to its default, regions_unexplored:orchard. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.neutral_dry was corrected from null to its default, regions_unexplored:shrubland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:temperate_grove. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.neutral_wet was corrected from null to its default, regions_unexplored:pine_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.neutral_humid was corrected from null to its default, regions_unexplored:blackwood_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.warm_arid was corrected from null to its default, regions_unexplored:prairie. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.warm_dry was corrected from null to its default, regions_unexplored:deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.warm_neutral was corrected from null to its default, regions_unexplored:grassland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.warm_wet was corrected from null to its default, regions_unexplored:redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.warm_humid was corrected from null to its default, regions_unexplored:sparse_redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.hot_arid was corrected from null to its default, regions_unexplored:baobab_savanna. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.hot_dry was corrected from null to its default, regions_unexplored:baobab_savanna. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.hot_neutral was corrected from null to its default, regions_unexplored:saguaro_desert. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.hot_wet was corrected from null to its default, regions_unexplored:outback. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.hot_humid was corrected from null to its default, regions_unexplored:eucalyptus_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.icy_arid was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.icy_dry was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.icy_neutral was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.icy_wet was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.icy_humid was corrected from null to its default, regions_unexplored:cold_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.cool_arid was corrected from null to its default, regions_unexplored:autumnal_maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.cool_dry was corrected from null to its default, regions_unexplored:autumnal_maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.cool_neutral was corrected from null to its default, regions_unexplored:maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.cool_wet was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.cool_humid was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.neutral_arid was corrected from null to its default, regions_unexplored:highland_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.neutral_dry was corrected from null to its default, regions_unexplored:highland_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:highland_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.neutral_wet was corrected from null to its default, regions_unexplored:highland_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.neutral_humid was corrected from null to its default, regions_unexplored:blackwood_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.warm_arid was corrected from null to its default, regions_unexplored:barley_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.warm_dry was corrected from null to its default, regions_unexplored:deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.warm_neutral was corrected from null to its default, regions_unexplored:deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.warm_wet was corrected from null to its default, regions_unexplored:redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.warm_humid was corrected from null to its default, regions_unexplored:redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.hot_arid was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.hot_dry was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.hot_neutral was corrected from null to its default, regions_unexplored:saguaro_desert. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.hot_wet was corrected from null to its default, regions_unexplored:eucalyptus_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.hot_humid was corrected from null to its default, regions_unexplored:eucalyptus_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.icy_arid was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.icy_dry was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.icy_neutral was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.icy_wet was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.icy_humid was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.cool_arid was corrected from null to its default, regions_unexplored:autumnal_maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.cool_dry was corrected from null to its default, regions_unexplored:autumnal_maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.cool_neutral was corrected from null to its default, regions_unexplored:maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.cool_wet was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.cool_humid was corrected from null to its default, regions_unexplored:golden_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.neutral_arid was corrected from null to its default, regions_unexplored:orchard. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.neutral_dry was corrected from null to its default, regions_unexplored:highland_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:temperate_grove. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.neutral_wet was corrected from null to its default, regions_unexplored:pine_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.neutral_humid was corrected from null to its default, regions_unexplored:blackwood_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.warm_arid was corrected from null to its default, regions_unexplored:deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.warm_dry was corrected from null to its default, regions_unexplored:deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.warm_neutral was corrected from null to its default, regions_unexplored:deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.warm_wet was corrected from null to its default, regions_unexplored:redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.warm_humid was corrected from null to its default, regions_unexplored:sparse_redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.hot_arid was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.hot_dry was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.hot_neutral was corrected from null to its default, regions_unexplored:saguaro_desert. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.hot_wet was corrected from null to its default, regions_unexplored:eucalyptus_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.hot_humid was corrected from null to its default, regions_unexplored:eucalyptus_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.icy_arid was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.icy_dry was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.icy_neutral was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.icy_wet was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.icy_humid was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.cool_arid was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.cool_dry was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.cool_neutral was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.cool_wet was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.cool_humid was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.neutral_arid was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.neutral_dry was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.neutral_wet was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.neutral_humid was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.warm_arid was corrected from null to its default, regions_unexplored:barley_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.warm_dry was corrected from null to its default, regions_unexplored:deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.warm_neutral was corrected from null to its default, regions_unexplored:deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.warm_wet was corrected from null to its default, regions_unexplored:sparse_redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.warm_humid was corrected from null to its default, regions_unexplored:sparse_redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.hot_arid was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.hot_dry was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.hot_neutral was corrected from null to its default, regions_unexplored:saguaro_desert. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.hot_wet was corrected from null to its default, regions_unexplored:eucalyptus_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.hot_humid was corrected from null to its default, regions_unexplored:eucalyptus_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.icy_slope_biome was corrected from null to its default, minecraft:snowy_slopes. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.cold_slope_biome was corrected from null to its default, minecraft:grove. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.neutral_slope_biome was corrected from null to its default, regions_unexplored:pine_slopes. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.warm_slope_biome was corrected from null to its default, regions_unexplored:deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.hot_slope_biome was corrected from null to its default, regions_unexplored:eucalyptus_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.icy_slope_biome_variant was corrected from null to its default, regions_unexplored:cold_deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.cold_slope_biome_variant was corrected from null to its default, regions_unexplored:pine_slopes. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.neutral_slope_biome_variant was corrected from null to its default, regions_unexplored:pine_slopes. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.warm_slope_biome_variant was corrected from null to its default, regions_unexplored:deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.hot_slope_biome_variant was corrected from null to its default, regions_unexplored:eucalyptus_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.icy_peak_biome was corrected from null to its default, minecraft:frozen_peaks. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.cold_peak_biome was corrected from null to its default, minecraft:jagged_peaks. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.neutral_peak_biome was corrected from null to its default, regions_unexplored:mountains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.warm_peak_biome was corrected from null to its default, minecraft:stony_peaks. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.hot_peak_biome was corrected from null to its default, regions_unexplored:arid_mountains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.icy_peak_biome_variant was corrected from null to its default, minecraft:jagged_peaks. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.cold_peak_biome_variant was corrected from null to its default, regions_unexplored:mountains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.neutral_peak_biome_variant was corrected from null to its default, regions_unexplored:mountains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.warm_peak_biome_variant was corrected from null to its default, minecraft:stony_peaks. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.hot_peak_biome_variant was corrected from null to its default, regions_unexplored:arid_mountains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.icy_arid was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.icy_dry was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.icy_neutral was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.icy_wet was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.icy_humid was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.cool_arid was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.cool_dry was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.cool_neutral was corrected from null to its default, regions_unexplored:muddy_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.cool_wet was corrected from null to its default, regions_unexplored:muddy_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.cool_humid was corrected from null to its default, regions_unexplored:muddy_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.neutral_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.neutral_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.neutral_neutral was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.neutral_wet was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.neutral_humid was corrected from null to its default, regions_unexplored:blackwood_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.warm_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.warm_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.warm_neutral was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.warm_wet was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.warm_humid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.hot_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.hot_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.hot_neutral was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.hot_wet was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.hot_humid was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.icy_arid was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.icy_dry was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.icy_neutral was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.icy_wet was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.icy_humid was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.cool_arid was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.cool_dry was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.cool_neutral was corrected from null to its default, regions_unexplored:muddy_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.cool_wet was corrected from null to its default, regions_unexplored:muddy_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.cool_humid was corrected from null to its default, regions_unexplored:muddy_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.neutral_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.neutral_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.neutral_neutral was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.neutral_wet was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.neutral_humid was corrected from null to its default, regions_unexplored:blackwood_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.warm_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.warm_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.warm_neutral was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.warm_wet was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.warm_humid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.hot_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.hot_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.hot_neutral was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.hot_wet was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.hot_humid was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.icy_arid was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.icy_dry was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.icy_neutral was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.icy_wet was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.icy_humid was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.cool_arid was corrected from null to its default, regions_unexplored:fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.cool_dry was corrected from null to its default, regions_unexplored:fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.cool_neutral was corrected from null to its default, regions_unexplored:fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.cool_wet was corrected from null to its default, regions_unexplored:fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.cool_humid was corrected from null to its default, regions_unexplored:fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.neutral_arid was corrected from null to its default, regions_unexplored:old_growth_bayou. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.neutral_dry was corrected from null to its default, regions_unexplored:bayou. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:bayou. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.neutral_wet was corrected from null to its default, regions_unexplored:bayou. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.neutral_humid was corrected from null to its default, regions_unexplored:old_growth_bayou. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.warm_arid was corrected from null to its default, regions_unexplored:marsh. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.warm_dry was corrected from null to its default, regions_unexplored:marsh. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.warm_neutral was corrected from null to its default, regions_unexplored:marsh. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.warm_wet was corrected from null to its default, regions_unexplored:marsh. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.warm_humid was corrected from null to its default, regions_unexplored:marsh. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.hot_arid was corrected from null to its default, regions_unexplored:fungal_fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.hot_dry was corrected from null to its default, regions_unexplored:fungal_fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.hot_neutral was corrected from null to its default, regions_unexplored:fungal_fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.hot_wet was corrected from null to its default, regions_unexplored:fungal_fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.hot_humid was corrected from null to its default, regions_unexplored:fungal_fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.deep_icy was corrected from null to its default, regions_unexplored:hyacinth_deeps. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.deep_cool was corrected from null to its default, minecraft:deep_cold_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.deep_neutral was corrected from null to its default, minecraft:deep_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.deep_warm was corrected from null to its default, minecraft:deep_lukewarm_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.deep_hot was corrected from null to its default, minecraft:warm_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.icy was corrected from null to its default, minecraft:frozen_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.cool was corrected from null to its default, minecraft:cold_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.neutral was corrected from null to its default, minecraft:ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.warm was corrected from null to its default, minecraft:lukewarm_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.hot was corrected from null to its default, regions_unexplored:rocky_reef. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.icy_beach_biome was corrected from null to its default, minecraft:snowy_beach. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.cold_beach_biome was corrected from null to its default, regions_unexplored:gravel_beach. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.neutral_beach_biome was corrected from null to its default, regions_unexplored:grassy_beach. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.warm_beach_biome was corrected from null to its default, regions_unexplored:grassy_beach. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.hot_beach_biome was corrected from null to its default, minecraft:beach. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.cold_stone_beach_biome was corrected from null to its default, minecraft:stony_shore. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.hot_stone_beach_biome was corrected from null to its default, regions_unexplored:chalk_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_1_biome was corrected from null to its default, minecraft:lush_caves. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_2_biome was corrected from null to its default, minecraft:dripstone_caves. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_3_biome was corrected from null to its default, minecraft:deep_dark. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_4_biome was corrected from null to its default, regions_unexplored:bioshroom_caves. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_5_biome was corrected from null to its default, regions_unexplored:ancient_delta. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_6_biome was corrected from null to its default, regions_unexplored:prismachasm. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_7_biome was corrected from null to its default, regions_unexplored:redstone_caves. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_8_biome was corrected from null to its default, regions_unexplored:scorching_caves. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES--------------------.icy_island_biome was corrected from null to its default, regions_unexplored:alpha_grove. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES--------------------.cool_island_biome was corrected from null to its default, regions_unexplored:alpha_grove. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES--------------------.neutral_island_biome was corrected from null to its default, regions_unexplored:ashen_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES--------------------.warm_island_biome was corrected from null to its default, regions_unexplored:tropics. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES--------------------.hot_island_biome was corrected from null to its default, regions_unexplored:tropics. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OTHER_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OTHER_BIOMES--------------------.shattered_cliff_biome was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Configuration file ./config/regions_unexplored/regions_unexplored-secondary-region.toml is not correct. Correcting
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.icy_arid was corrected from null to its default, regions_unexplored:frozen_tundra. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.icy_dry was corrected from null to its default, regions_unexplored:frozen_tundra. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.icy_neutral was corrected from null to its default, regions_unexplored:frozen_pine_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.icy_wet was corrected from null to its default, regions_unexplored:cold_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.icy_humid was corrected from null to its default, regions_unexplored:cold_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.cool_arid was corrected from null to its default, regions_unexplored:poppy_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.cool_dry was corrected from null to its default, regions_unexplored:silver_birch_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.cool_neutral was corrected from null to its default, regions_unexplored:maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.cool_wet was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.cool_humid was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.neutral_arid was corrected from null to its default, regions_unexplored:flower_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.neutral_dry was corrected from null to its default, regions_unexplored:rocky_meadow. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:willow_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.neutral_wet was corrected from null to its default, regions_unexplored:clover_plains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.neutral_humid was corrected from null to its default, regions_unexplored:blackwood_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.warm_arid was corrected from null to its default, regions_unexplored:mauve_hills. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.warm_dry was corrected from null to its default, regions_unexplored:rocky_meadow. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.warm_neutral was corrected from null to its default, regions_unexplored:bamboo_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.warm_wet was corrected from null to its default, regions_unexplored:redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.warm_humid was corrected from null to its default, regions_unexplored:redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.hot_arid was corrected from null to its default, regions_unexplored:dry_bushland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.hot_dry was corrected from null to its default, regions_unexplored:dry_bushland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.hot_neutral was corrected from null to its default, regions_unexplored:joshua_desert. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.hot_wet was corrected from null to its default, regions_unexplored:rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES--------------------.hot_humid was corrected from null to its default, regions_unexplored:rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.icy_arid was corrected from null to its default, regions_unexplored:frozen_pine_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.icy_dry was corrected from null to its default, regions_unexplored:frozen_tundra. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.icy_neutral was corrected from null to its default, regions_unexplored:frozen_tundra. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.icy_wet was corrected from null to its default, regions_unexplored:cold_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.icy_humid was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.cool_arid was corrected from null to its default, regions_unexplored:poppy_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.cool_dry was corrected from null to its default, regions_unexplored:silver_birch_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.cool_neutral was corrected from null to its default, regions_unexplored:maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.cool_wet was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.cool_humid was corrected from null to its default, regions_unexplored:golden_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.neutral_arid was corrected from null to its default, regions_unexplored:flower_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.neutral_dry was corrected from null to its default, regions_unexplored:rocky_meadow. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.neutral_wet was corrected from null to its default, regions_unexplored:clover_plains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.neutral_humid was corrected from null to its default, regions_unexplored:blackwood_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.warm_arid was corrected from null to its default, regions_unexplored:mauve_hills. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.warm_dry was corrected from null to its default, regions_unexplored:rocky_meadow. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.warm_neutral was corrected from null to its default, regions_unexplored:bamboo_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.warm_wet was corrected from null to its default, regions_unexplored:redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.warm_humid was corrected from null to its default, regions_unexplored:sparse_redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.hot_arid was corrected from null to its default, regions_unexplored:dry_bushland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.hot_dry was corrected from null to its default, regions_unexplored:dry_bushland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.hot_neutral was corrected from null to its default, regions_unexplored:joshua_desert. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.hot_wet was corrected from null to its default, regions_unexplored:rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------MIDDLE_BIOMES_VARIANT--------------------.hot_humid was corrected from null to its default, regions_unexplored:sparse_rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.icy_arid was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.icy_dry was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.icy_neutral was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.icy_wet was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.icy_humid was corrected from null to its default, regions_unexplored:cold_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.cool_arid was corrected from null to its default, regions_unexplored:poppy_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.cool_dry was corrected from null to its default, regions_unexplored:silver_birch_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.cool_neutral was corrected from null to its default, regions_unexplored:maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.cool_wet was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.cool_humid was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.neutral_arid was corrected from null to its default, regions_unexplored:highland_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.neutral_dry was corrected from null to its default, regions_unexplored:highland_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:highland_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.neutral_wet was corrected from null to its default, regions_unexplored:highland_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.neutral_humid was corrected from null to its default, regions_unexplored:blackwood_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.warm_arid was corrected from null to its default, regions_unexplored:mauve_hills. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.warm_dry was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.warm_neutral was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.warm_wet was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.warm_humid was corrected from null to its default, regions_unexplored:redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.hot_arid was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.hot_dry was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.hot_neutral was corrected from null to its default, regions_unexplored:joshua_desert. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.hot_wet was corrected from null to its default, regions_unexplored:rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES--------------------.hot_humid was corrected from null to its default, regions_unexplored:rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.icy_arid was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.icy_dry was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.icy_neutral was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.icy_wet was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.icy_humid was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.cool_arid was corrected from null to its default, regions_unexplored:poppy_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.cool_dry was corrected from null to its default, regions_unexplored:silver_birch_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.cool_neutral was corrected from null to its default, regions_unexplored:maple_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.cool_wet was corrected from null to its default, regions_unexplored:boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.cool_humid was corrected from null to its default, regions_unexplored:golden_boreal_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.neutral_arid was corrected from null to its default, regions_unexplored:highland_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.neutral_dry was corrected from null to its default, regions_unexplored:highland_fields. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.neutral_wet was corrected from null to its default, regions_unexplored:clover_plains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.neutral_humid was corrected from null to its default, regions_unexplored:blackwood_taiga. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.warm_arid was corrected from null to its default, regions_unexplored:mauve_hills. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.warm_dry was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.warm_neutral was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.warm_wet was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.warm_humid was corrected from null to its default, regions_unexplored:sparse_redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.hot_arid was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.hot_dry was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.hot_neutral was corrected from null to its default, regions_unexplored:joshua_desert. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.hot_wet was corrected from null to its default, regions_unexplored:rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PLATEAU_BIOMES_VARIANT--------------------.hot_humid was corrected from null to its default, regions_unexplored:sparse_rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.icy_arid was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.icy_dry was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.icy_neutral was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.icy_wet was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.icy_humid was corrected from null to its default, regions_unexplored:icy_heights. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.cool_arid was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.cool_dry was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.cool_neutral was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.cool_wet was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.cool_humid was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.neutral_arid was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.neutral_dry was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.neutral_wet was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.neutral_humid was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.warm_arid was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.warm_dry was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.warm_neutral was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.warm_wet was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.warm_humid was corrected from null to its default, regions_unexplored:sparse_redwoods. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.hot_arid was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.hot_dry was corrected from null to its default, regions_unexplored:steppe. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.hot_neutral was corrected from null to its default, regions_unexplored:joshua_desert. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.hot_wet was corrected from null to its default, regions_unexplored:sparse_rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHATTERED_BIOMES--------------------.hot_humid was corrected from null to its default, regions_unexplored:sparse_rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.icy_slope_biome was corrected from null to its default, minecraft:snowy_slopes. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.cold_slope_biome was corrected from null to its default, minecraft:grove. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.neutral_slope_biome was corrected from null to its default, regions_unexplored:pine_slopes. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.warm_slope_biome was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.hot_slope_biome was corrected from null to its default, regions_unexplored:rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.icy_slope_biome_variant was corrected from null to its default, regions_unexplored:cold_deciduous_forest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.cold_slope_biome_variant was corrected from null to its default, regions_unexplored:pine_slopes. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.neutral_slope_biome_variant was corrected from null to its default, regions_unexplored:pine_slopes. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.warm_slope_biome_variant was corrected from null to its default, regions_unexplored:magnolia_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SLOPE_BIOMES--------------------.hot_slope_biome_variant was corrected from null to its default, regions_unexplored:rainforest. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.icy_peak_biome was corrected from null to its default, minecraft:frozen_peaks. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.cold_peak_biome was corrected from null to its default, minecraft:jagged_peaks. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.neutral_peak_biome was corrected from null to its default, regions_unexplored:mountains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.warm_peak_biome was corrected from null to its default, minecraft:stony_peaks. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.hot_peak_biome was corrected from null to its default, regions_unexplored:arid_mountains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.icy_peak_biome_variant was corrected from null to its default, minecraft:jagged_peaks. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.cold_peak_biome_variant was corrected from null to its default, regions_unexplored:mountains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.neutral_peak_biome_variant was corrected from null to its default, regions_unexplored:mountains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.warm_peak_biome_variant was corrected from null to its default, minecraft:stony_peaks. 
+[00:23:53] [main/WARN]: Incorrect key -----------------PEAK_BIOMES--------------------.hot_peak_biome_variant was corrected from null to its default, regions_unexplored:arid_mountains. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.icy_arid was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.icy_dry was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.icy_neutral was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.icy_wet was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.icy_humid was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.cool_arid was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.cool_dry was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.cool_neutral was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.cool_wet was corrected from null to its default, regions_unexplored:muddy_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.cool_humid was corrected from null to its default, regions_unexplored:muddy_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.neutral_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.neutral_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.neutral_neutral was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.neutral_wet was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.neutral_humid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.warm_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.warm_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.warm_neutral was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.warm_wet was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.warm_humid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.hot_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.hot_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.hot_neutral was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.hot_wet was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES--------------------.hot_humid was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.icy_arid was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.icy_dry was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.icy_neutral was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.icy_wet was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.icy_humid was corrected from null to its default, minecraft:frozen_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.cool_arid was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.cool_dry was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.cool_neutral was corrected from null to its default, regions_unexplored:cold_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.cool_wet was corrected from null to its default, regions_unexplored:muddy_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.cool_humid was corrected from null to its default, regions_unexplored:muddy_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.neutral_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.neutral_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.neutral_neutral was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.neutral_wet was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.neutral_humid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.warm_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.warm_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.warm_neutral was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.warm_wet was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.warm_humid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.hot_arid was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.hot_dry was corrected from null to its default, minecraft:river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.hot_neutral was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.hot_wet was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------RIVER_BIOMES_VARIANT--------------------.hot_humid was corrected from null to its default, regions_unexplored:tropical_river. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.icy_arid was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.icy_dry was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.icy_neutral was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.icy_wet was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.icy_humid was corrected from null to its default, regions_unexplored:spires. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.cool_arid was corrected from null to its default, regions_unexplored:fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.cool_dry was corrected from null to its default, regions_unexplored:fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.cool_neutral was corrected from null to its default, regions_unexplored:fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.cool_wet was corrected from null to its default, regions_unexplored:fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.cool_humid was corrected from null to its default, regions_unexplored:fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.neutral_arid was corrected from null to its default, regions_unexplored:old_growth_bayou. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.neutral_dry was corrected from null to its default, regions_unexplored:bayou. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.neutral_neutral was corrected from null to its default, regions_unexplored:bayou. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.neutral_wet was corrected from null to its default, regions_unexplored:bayou. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.neutral_humid was corrected from null to its default, regions_unexplored:old_growth_bayou. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.warm_arid was corrected from null to its default, regions_unexplored:marsh. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.warm_dry was corrected from null to its default, regions_unexplored:marsh. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.warm_neutral was corrected from null to its default, regions_unexplored:marsh. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.warm_wet was corrected from null to its default, regions_unexplored:marsh. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.warm_humid was corrected from null to its default, regions_unexplored:marsh. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.hot_arid was corrected from null to its default, regions_unexplored:fungal_fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.hot_dry was corrected from null to its default, regions_unexplored:fungal_fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.hot_neutral was corrected from null to its default, regions_unexplored:fungal_fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.hot_wet was corrected from null to its default, regions_unexplored:fungal_fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SWAMP_BIOMES--------------------.hot_humid was corrected from null to its default, regions_unexplored:fungal_fen. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.deep_icy was corrected from null to its default, regions_unexplored:hyacinth_deeps. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.deep_cool was corrected from null to its default, minecraft:deep_cold_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.deep_neutral was corrected from null to its default, minecraft:deep_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.deep_warm was corrected from null to its default, minecraft:deep_lukewarm_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.deep_hot was corrected from null to its default, minecraft:warm_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.icy was corrected from null to its default, minecraft:frozen_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.cool was corrected from null to its default, minecraft:cold_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.neutral was corrected from null to its default, minecraft:ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.warm was corrected from null to its default, minecraft:lukewarm_ocean. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OCEAN_BIOMES--------------------.hot was corrected from null to its default, regions_unexplored:rocky_reef. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.icy_beach_biome was corrected from null to its default, minecraft:snowy_beach. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.cold_beach_biome was corrected from null to its default, regions_unexplored:gravel_beach. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.neutral_beach_biome was corrected from null to its default, regions_unexplored:grassy_beach. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.warm_beach_biome was corrected from null to its default, regions_unexplored:grassy_beach. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.hot_beach_biome was corrected from null to its default, minecraft:beach. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.cold_stone_beach_biome was corrected from null to its default, minecraft:stony_shore. 
+[00:23:53] [main/WARN]: Incorrect key -----------------SHORE_BIOMES--------------------.hot_stone_beach_biome was corrected from null to its default, regions_unexplored:chalk_cliffs. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_1_biome was corrected from null to its default, minecraft:lush_caves. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_2_biome was corrected from null to its default, minecraft:dripstone_caves. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_3_biome was corrected from null to its default, minecraft:deep_dark. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_4_biome was corrected from null to its default, regions_unexplored:bioshroom_caves. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_5_biome was corrected from null to its default, regions_unexplored:ancient_delta. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_6_biome was corrected from null to its default, regions_unexplored:prismachasm. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_7_biome was corrected from null to its default, regions_unexplored:redstone_caves. 
+[00:23:53] [main/WARN]: Incorrect key -----------------UNDERGROUND_BIOMES--------------------.cave_8_biome was corrected from null to its default, regions_unexplored:scorching_caves. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES--------------------.icy_island_biome was corrected from null to its default, regions_unexplored:alpha_grove. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES--------------------.cool_island_biome was corrected from null to its default, regions_unexplored:alpha_grove. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES--------------------.neutral_island_biome was corrected from null to its default, regions_unexplored:ashen_woodland. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES--------------------.warm_island_biome was corrected from null to its default, regions_unexplored:tropics. 
+[00:23:53] [main/WARN]: Incorrect key -----------------ISLAND_BIOMES--------------------.hot_island_biome was corrected from null to its default, regions_unexplored:tropics. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OTHER_BIOMES-------------------- was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[00:23:53] [main/WARN]: Incorrect key -----------------OTHER_BIOMES--------------------.shattered_cliff_biome was corrected from null to its default, regions_unexplored:towering_cliffs. 
+[00:23:54] [main/INFO]: Hello Fabric world!
+[00:23:54] [main/INFO]: Loaded config supplementaries-common.json
+[00:23:54] [main/ERROR]: Farmers Delight Refabricated is not installed. Disabling Farmers Delight Module
+[00:23:54] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[00:23:54] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[00:23:54] [main/INFO]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[00:23:54] [main/INFO]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[00:23:54] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[00:23:54] [main/INFO]: Initialized block sets in 17ms
+[00:23:54] [main/ERROR]: No data fixer registered for dispenser_minecart
+[00:23:54] [main/ERROR]: No data fixer registered for falling_urn
+[00:23:54] [main/ERROR]: No data fixer registered for falling_ash
+[00:23:54] [main/ERROR]: No data fixer registered for falling_sack
+[00:23:54] [main/ERROR]: No data fixer registered for brick_projectile
+[00:23:54] [main/ERROR]: No data fixer registered for bomb
+[00:23:54] [main/ERROR]: No data fixer registered for rope_arrow
+[00:23:54] [main/ERROR]: No data fixer registered for slingshot_projectile
+[00:23:55] [main/INFO]: Initialized color sets in 73ms
+[00:23:55] [main/INFO]: Finished mod setup in: [12, 0, 0, 0, 0, 0, 11, 5, 1] ms
+[00:23:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:23:55] [main/INFO]: Found new data pack Supplementaries Generated Pack, loading it automatically
+[00:23:55] [main/INFO]: Found new data pack fabric, loading it automatically
+[00:23:55] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 27 ms
+[00:23:55] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (4720af46)
+[00:23:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:23:55] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[00:23:55] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[00:23:55] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[00:23:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[00:23:55] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (5cd9c9ef)
+[00:23:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:23:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[00:23:55] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (3dbc048)
+[00:23:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:23:55] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[00:23:55] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[00:23:55] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[00:23:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[00:23:55] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (28d0a770)
+[00:23:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:23:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[00:23:55] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (9624d9e)
+[00:23:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:23:55] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[00:23:55] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[00:23:55] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[00:23:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[00:23:55] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (2bc520f9)
+[00:23:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:23:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[00:23:55] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (16f1b252)
+[00:23:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:23:55] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[00:23:55] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[00:23:55] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[00:23:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[00:23:55] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (4ba2863b)
+[00:23:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[00:23:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[00:23:56] [main/WARN]: [bclib] No valid BCLBiome Registry available!
+[00:23:56] [main/WARN]: [bclib] No valid Biome Registry available!
+[00:23:57] [main/WARN]: Found loot table element validation problem in {loot_tables:abridged:chests/badlands_mining}.pools[0].entries[0]: Unknown loot table called minecraft:anvil
+[00:23:57] [main/INFO]: [bclib] Disabling Recipe: bclib:test_star
+[00:23:57] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
@@ -280,7 +906,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-mc.1.20.1-loader.0.16.5-launcher.1.0.1.jar:1.0.1]
-[11:37:53] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
+[00:23:57] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
@@ -302,229 +928,175 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-mc.1.20.1-loader.0.16.5-launcher.1.0.1.jar:1.0.1]
-[11:37:53] [main/INFO]: Loaded 38 recipes
-[11:37:53] [main/INFO]: Loaded 4390 advancements
-[11:37:53] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 34 translation keys
-[11:37:53] [main/INFO]: Loaded 27 flute songs
-[11:37:55] [main/INFO]: Finished additional setup in 9 ms
-[11:37:55] [main/INFO]: Applied 7 data villager trades
-[11:37:55] [main/INFO]: Cleared non-static resources for pack supplementaries:generated_pack in: 0 ms
-[11:37:55] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (73509a0c)
-[11:37:55] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (33283784)
-[11:37:55] [main/INFO]: [worlds_together] Creating a new World, no fixes needed
-[11:37:55] [main/INFO]: [DataFixerAPI] Applying Patch{bclib:3.0.11:12582923}
-[11:37:55] [main/INFO]: [DataFixerAPI] Applying Patch{edenring:0.2.0:32768}
-[11:37:55] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'bclib' from 0.0.0 to 3.0.11
-[11:37:55] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'edenring' from 0.0.0 to 0.2.0
-[11:37:56] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[11:37:56] [main/INFO]: Applied 1214 biome modifications to 248 of 248 new biomes in 27.49 ms
-[11:37:56] [Server thread/INFO]: Registering compost heaps in village type of plains
-[11:37:56] [Server thread/INFO]: Registering compost heaps in village type of savanna
-[11:37:56] [Server thread/INFO]: Registering compost heaps in village type of snowy
-[11:37:56] [Server thread/INFO]: Registering compost heaps in village type of taiga
-[11:37:56] [Server thread/INFO]: Registering compost heaps in village type of desert
-[11:37:56] [Server thread/INFO]: Loading server configs...
-[11:37:56] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[11:37:56] [Server thread/INFO]: Loading properties
-[11:37:56] [Server thread/INFO]: Default game type: SURVIVAL
-[11:37:56] [Server thread/INFO]: Generating keypair
-[11:37:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:37:56] [Server thread/INFO]: Using epoll channel type
-[11:37:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:37:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:37:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:37:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:37:56] [Server thread/INFO]: Preparing level "world"
-[11:37:56] [Server thread/INFO]: [bclib] 
+[00:23:57] [main/INFO]: Loaded 38 recipes
+[00:23:57] [main/INFO]: Loaded 4390 advancements
+[00:23:57] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 34 translation keys
+[00:23:57] [main/INFO]: Loaded 27 flute songs
+[00:24:00] [main/INFO]: Finished additional setup in 15 ms
+[00:24:00] [main/INFO]: Applied 7 data villager trades
+[00:24:00] [main/INFO]: Cleared non-static resources for pack supplementaries:generated_pack in: 0 ms
+[00:24:00] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (4ba2863b)
+[00:24:00] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (16f1b252)
+[00:24:00] [main/INFO]: [worlds_together] Creating a new World, no fixes needed
+[00:24:00] [main/INFO]: [DataFixerAPI] Applying Patch{bclib:3.0.11:12582923}
+[00:24:00] [main/INFO]: [DataFixerAPI] Applying Patch{edenring:0.2.0:32768}
+[00:24:00] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'bclib' from 0.0.0 to 3.0.11
+[00:24:00] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'edenring' from 0.0.0 to 0.2.0
+[00:24:00] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[00:24:00] [main/INFO]: Applied 695 biome modifications to 149 of 149 new biomes in 34.20 ms
+[00:24:00] [Server thread/INFO]: Registering compost heaps in village type of plains
+[00:24:00] [Server thread/INFO]: Registering compost heaps in village type of savanna
+[00:24:00] [Server thread/INFO]: Registering compost heaps in village type of snowy
+[00:24:00] [Server thread/INFO]: Registering compost heaps in village type of taiga
+[00:24:00] [Server thread/INFO]: Registering compost heaps in village type of desert
+[00:24:00] [Server thread/INFO]: Loading server configs...
+[00:24:00] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:24:00] [Server thread/INFO]: Loading properties
+[00:24:00] [Server thread/INFO]: Default game type: SURVIVAL
+[00:24:00] [Server thread/INFO]: Generating keypair
+[00:24:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:24:01] [Server thread/INFO]: Using epoll channel type
+[00:24:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:24:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:24:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:24:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:24:01] [Server thread/INFO]: Preparing level "world"
+[00:24:01] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:overworld
+    class_4766 (5bfef9f7)
+        biomes     = 119
+        namespaces = minecraft(53), regions_unexplored(66)
+[00:24:01] [Server thread/INFO]: [bclib] 
+Apply Modifications for edenring:edenring
+    EdenBiomeSource (29a5a545)
+        biomes     = 13
+        namespaces = edenring(13)
+[00:24:01] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:the_nether
+    BCLib - Nether BiomeSource (4ba2863b)
+        biomes     = 10
+        namespaces = minecraft(5), regions_unexplored(5)
+        seed       = 0
+        height     = 128
+        config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
+[00:24:01] [Server thread/INFO]: [bclib] 
 Apply Modifications for minecraft:the_end
-    BCLib - The End  BiomeSource (73509a0c)
+    BCLib - The End  BiomeSource (16f1b252)
         biomes     = 5
         namespaces = minecraft(5)
         seed       = 0
         height     = 128
         deciders   = 0
         config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
-[11:37:56] [Server thread/INFO]: [bclib] 
-Apply Modifications for minecraft:the_nether
-    BCLib - Nether BiomeSource (33283784)
-        biomes     = 10
-        namespaces = regions_unexplored(5), minecraft(5)
-        seed       = 0
-        height     = 128
-        config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
-[11:37:56] [Server thread/INFO]: [bclib] 
-Apply Modifications for minecraft:overworld
-    class_4766 (14b1f03c)
-        biomes     = 213
-        namespaces = minecraft(53), terralith(94), regions_unexplored(66)
-[11:37:56] [Server thread/INFO]: [bclib] 
-Apply Modifications for edenring:edenring
-    EdenBiomeSource (1883e33f)
-        biomes     = 13
-        namespaces = edenring(13)
-[11:37:56] [Server thread/INFO]: [bclib] World Dimensions: 
+[00:24:01] [Server thread/INFO]: [bclib] World Dimensions: 
+ - minecraft:overworld: 
+     net.minecraft.class_3754@773e76fa 
+     class_4766 (5bfef9f7)
+         biomes     = 119
+         namespaces = minecraft(53), regions_unexplored(66)
+ - edenring:edenring: 
+     net.minecraft.class_3754@72747a25 
+     EdenBiomeSource (29a5a545)
+         biomes     = 13
+         namespaces = edenring(13)
+ - minecraft:the_nether: 
+     BCLib - Chunk Generator (4f32ea7) 
+     BCLib - Nether BiomeSource (4ba2863b)
+         biomes     = 10
+         namespaces = minecraft(5), regions_unexplored(5)
+         seed       = 0
+         height     = 128
+         config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
  - minecraft:the_end: 
-     BCLib - Chunk Generator (2985c6ec) 
-     BCLib - The End  BiomeSource (73509a0c)
+     BCLib - Chunk Generator (fe0165) 
+     BCLib - The End  BiomeSource (16f1b252)
          biomes     = 5
          namespaces = minecraft(5)
          seed       = 0
          height     = 128
          deciders   = 0
          config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
- - minecraft:the_nether: 
-     BCLib - Chunk Generator (3a62449e) 
-     BCLib - Nether BiomeSource (33283784)
-         biomes     = 10
-         namespaces = regions_unexplored(5), minecraft(5)
-         seed       = 0
-         height     = 128
-         config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
- - minecraft:overworld: 
-     net.minecraft.class_3754@ebd25cd 
-     class_4766 (14b1f03c)
-         biomes     = 213
-         namespaces = minecraft(53), terralith(94), regions_unexplored(66)
- - edenring:edenring: 
-     net.minecraft.class_3754@3d4d369d 
-     EdenBiomeSource (1883e33f)
-         biomes     = 13
-         namespaces = edenring(13)
-[11:37:56] [Server thread/INFO]: [bclib] Merged 12 additional Surface Rules for 
-EdenBiomeSource (1883e33f)
+[00:24:01] [Server thread/INFO]: [bclib] Merged 12 additional Surface Rules for 
+EdenBiomeSource (29a5a545)
     biomes     = 13
     namespaces = edenring(13) => 14
-[11:38:05] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "bclib:nether_biome_source".
-[11:38:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:38:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:38:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:38:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:38:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:38:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:38:07] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[11:38:08] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[11:38:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[11:38:09] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[11:38:09] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[11:38:10] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[11:38:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=124, y=-23, z=87}
-[11:38:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=114, y=-23, z=87}
-[11:38:11] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[11:38:11] [Worker-Main-3/INFO]: Preparing spawn area: 5%
-[11:38:11] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[11:38:12] [Worker-Main-1/INFO]: Preparing spawn area: 7%
-[11:38:12] [Worker-Main-3/INFO]: Preparing spawn area: 8%
-[11:38:13] [Worker-Main-3/INFO]: Preparing spawn area: 9%
-[11:38:13] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[11:38:14] [Worker-Main-3/INFO]: Preparing spawn area: 11%
-[11:38:15] [Worker-Main-3/INFO]: Preparing spawn area: 12%
-[11:38:15] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[11:38:15] [Worker-Main-3/INFO]: Preparing spawn area: 13%
-[11:38:16] [Worker-Main-2/INFO]: Preparing spawn area: 15%
-[11:38:16] [Worker-Main-2/INFO]: Preparing spawn area: 16%
-[11:38:17] [Worker-Main-3/INFO]: Preparing spawn area: 17%
-[11:38:17] [Worker-Main-1/INFO]: Preparing spawn area: 17%
-[11:38:18] [Worker-Main-2/INFO]: Preparing spawn area: 19%
-[11:38:18] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[11:38:19] [Worker-Main-3/INFO]: Preparing spawn area: 21%
-[11:38:19] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[11:38:20] [Worker-Main-2/INFO]: Preparing spawn area: 24%
-[11:38:20] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[11:38:21] [Worker-Main-1/INFO]: Preparing spawn area: 26%
-[11:38:22] [Worker-Main-2/INFO]: Preparing spawn area: 27%
-[11:38:22] [Worker-Main-1/INFO]: Preparing spawn area: 28%
-[11:38:22] [Worker-Main-1/INFO]: Preparing spawn area: 30%
-[11:38:23] [Worker-Main-1/INFO]: Preparing spawn area: 31%
-[11:38:23] [Worker-Main-3/INFO]: Preparing spawn area: 33%
-[11:38:24] [Worker-Main-3/INFO]: Preparing spawn area: 34%
-[11:38:25] [Worker-Main-3/INFO]: Preparing spawn area: 34%
-[11:38:25] [Worker-Main-3/INFO]: Preparing spawn area: 35%
-[11:38:25] [Worker-Main-3/INFO]: Preparing spawn area: 37%
-[11:38:26] [Worker-Main-1/INFO]: Preparing spawn area: 39%
-[11:38:26] [Worker-Main-3/INFO]: Preparing spawn area: 40%
-[11:38:27] [Worker-Main-1/INFO]: Preparing spawn area: 42%
-[11:38:27] [Worker-Main-1/INFO]: Preparing spawn area: 44%
-[11:38:28] [Worker-Main-2/INFO]: Preparing spawn area: 45%
-[11:38:28] [Worker-Main-1/INFO]: Preparing spawn area: 45%
-[11:38:29] [Worker-Main-1/INFO]: Preparing spawn area: 47%
-[11:38:29] [Worker-Main-3/INFO]: Preparing spawn area: 49%
-[11:38:30] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[11:38:30] [Worker-Main-3/INFO]: Preparing spawn area: 53%
-[11:38:31] [Worker-Main-3/INFO]: Preparing spawn area: 54%
-[11:38:31] [Worker-Main-2/INFO]: Preparing spawn area: 55%
-[11:38:32] [Worker-Main-2/INFO]: Preparing spawn area: 57%
-[11:38:32] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[11:38:33] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[11:38:33] [Worker-Main-2/INFO]: Preparing spawn area: 60%
-[11:38:34] [Worker-Main-2/INFO]: Preparing spawn area: 62%
-[11:38:34] [Worker-Main-3/INFO]: Preparing spawn area: 64%
-[11:38:35] [Worker-Main-2/INFO]: Preparing spawn area: 65%
-[11:38:35] [Worker-Main-1/INFO]: Preparing spawn area: 68%
-[11:38:36] [Worker-Main-1/INFO]: Preparing spawn area: 69%
-[11:38:36] [Worker-Main-2/INFO]: Preparing spawn area: 70%
-[11:38:37] [Worker-Main-3/INFO]: Preparing spawn area: 71%
-[11:38:37] [Worker-Main-3/INFO]: Preparing spawn area: 72%
-[11:38:38] [Worker-Main-2/INFO]: Preparing spawn area: 74%
-[11:38:38] [Worker-Main-2/INFO]: Preparing spawn area: 75%
-[11:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 77%
-[11:38:39] [Worker-Main-1/INFO]: Preparing spawn area: 78%
-[11:38:40] [Worker-Main-3/INFO]: Preparing spawn area: 80%
-[11:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 82%
-[11:38:41] [Worker-Main-1/INFO]: Preparing spawn area: 84%
-[11:38:41] [Worker-Main-3/INFO]: Preparing spawn area: 84%
-[11:38:42] [Worker-Main-2/INFO]: Preparing spawn area: 85%
-[11:38:42] [Worker-Main-3/INFO]: Preparing spawn area: 86%
-[11:38:43] [Worker-Main-1/INFO]: Preparing spawn area: 88%
-[11:38:43] [Worker-Main-2/INFO]: Preparing spawn area: 90%
-[11:38:44] [Worker-Main-3/INFO]: Preparing spawn area: 92%
-[11:38:44] [Worker-Main-2/INFO]: Preparing spawn area: 93%
-[11:38:45] [Worker-Main-1/INFO]: Preparing spawn area: 95%
-[11:38:45] [Worker-Main-3/INFO]: Preparing spawn area: 97%
-[11:38:46] [Worker-Main-1/INFO]: Preparing spawn area: 99%
-[11:38:46] [Server thread/INFO]: Time elapsed: 41080 ms
-[11:38:46] [Server thread/INFO]: Done (50.084s)! For help, type "help"
-[11:41:06] [Server thread/INFO]: Test[/127.0.0.1:33398] logged in with entity id 1157 at (-7.5, 65.0, -1.5)
-[11:41:06] [Server thread/INFO]: Test joined the game
-[11:41:07] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[11:41:07] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[11:41:07] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[11:41:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[11:41:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[11:41:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[11:41:07] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
-[11:41:07] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
-[11:41:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-8, y=65, z=-1}
-[11:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-12, y=66, z=-11}
-[11:41:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-12, y=66, z=-12}
-[11:41:31] [Server thread/INFO]: Villager class_1646['Toolsmith'/63, l='ServerLevel[world]', x=82.34, y=236.67, z=15.29] died, message: 'Toolsmith tried to swim in lava'
-[11:41:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=21, y=67, z=3}
-[11:41:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=22, y=67, z=3}
-[11:41:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=22, y=67, z=4}
-[11:41:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=66, z=4} class_2338{x=23, y=67, z=4}
-[11:41:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=66, z=4} class_2338{x=24, y=67, z=4}
-[11:41:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=66, z=4} class_2338{x=23, y=67, z=5}
-[11:41:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=66, z=4} class_2338{x=22, y=67, z=5}
-[11:41:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=22, y=66, z=6} class_2338{x=22, y=66, z=7}
-[11:41:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=22, y=66, z=6} class_2338{x=21, y=66, z=7}
-[11:41:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=22, y=66, z=6} class_2338{x=21, y=67, z=5}
-[11:41:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=22, y=66, z=6} class_2338{x=19, y=66, z=7}
-[11:41:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=22, y=66, z=6} class_2338{x=19, y=66, z=6}
-[11:41:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=20, y=66, z=6} class_2338{x=20, y=67, z=4}
-[11:42:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=66, z=4} class_2338{x=79, y=65, z=-2}
-[11:42:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=19, y=66, z=4} class_2338{x=80, y=65, z=-2}
-[11:42:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=80, y=64, z=-2} class_2338{x=81, y=65, z=-2}
-[11:42:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=80, y=64, z=-2} class_2338{x=82, y=65, z=-2}
-[11:42:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=80, y=64, z=-2} class_2338{x=84, y=66, z=-3}
-[11:42:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=84, y=65, z=-4} class_2338{x=82, y=66, z=-3}
-[11:42:59] [Server thread/INFO]: Test lost connection: Disconnected
-[11:42:59] [Server thread/INFO]: Test left the game
-[11:45:25] [Server thread/INFO]: Test[/127.0.0.1:37322] logged in with entity id 2770 at (91.78304896266218, 66.0, -5.546605190533899)
-[11:45:25] [Server thread/INFO]: Test joined the game
-[11:45:26] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[11:45:26] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[11:45:26] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[11:45:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[11:45:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[11:45:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[11:45:26] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
-[11:45:26] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[00:24:11] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "bclib:nether_biome_source".
+[00:24:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:24:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:24:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:24:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:24:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:24:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:24:14] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[00:24:15] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[00:24:15] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[00:24:16] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:24:16] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[00:24:17] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[00:24:17] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[00:24:18] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[00:24:18] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[00:24:19] [Worker-Main-2/INFO]: Preparing spawn area: 7%
+[00:24:19] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[00:24:20] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[00:24:20] [Worker-Main-3/INFO]: Preparing spawn area: 11%
+[00:24:21] [Worker-Main-2/INFO]: Preparing spawn area: 12%
+[00:24:21] [Worker-Main-3/INFO]: Preparing spawn area: 14%
+[00:24:22] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[00:24:22] [Worker-Main-3/INFO]: Preparing spawn area: 17%
+[00:24:23] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[00:24:23] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[00:24:24] [Worker-Main-3/INFO]: Preparing spawn area: 20%
+[00:24:24] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[00:24:25] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[00:24:25] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[00:24:26] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[00:24:26] [Worker-Main-1/INFO]: Preparing spawn area: 27%
+[00:24:27] [Worker-Main-3/INFO]: Preparing spawn area: 29%
+[00:24:27] [Worker-Main-1/INFO]: Preparing spawn area: 31%
+[00:24:28] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[00:24:28] [Worker-Main-2/INFO]: Preparing spawn area: 33%
+[00:24:29] [Worker-Main-3/INFO]: Preparing spawn area: 35%
+[00:24:29] [Worker-Main-2/INFO]: Preparing spawn area: 37%
+[00:24:30] [Worker-Main-3/INFO]: Preparing spawn area: 38%
+[00:24:30] [Worker-Main-3/INFO]: Preparing spawn area: 40%
+[00:24:31] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[00:24:31] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[00:24:32] [Worker-Main-2/INFO]: Preparing spawn area: 44%
+[00:24:32] [Worker-Main-1/INFO]: Preparing spawn area: 45%
+[00:24:33] [Worker-Main-1/INFO]: Preparing spawn area: 47%
+[00:24:33] [Worker-Main-1/INFO]: Preparing spawn area: 49%
+[00:24:34] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[00:24:34] [Worker-Main-2/INFO]: Preparing spawn area: 53%
+[00:24:35] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[00:24:36] [Worker-Main-2/INFO]: Preparing spawn area: 55%
+[00:24:36] [Worker-Main-2/INFO]: Preparing spawn area: 55%
+[00:24:36] [Worker-Main-1/INFO]: Preparing spawn area: 55%
+[00:24:37] [Worker-Main-3/INFO]: Preparing spawn area: 56%
+[00:24:37] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[00:24:38] [Worker-Main-3/INFO]: Preparing spawn area: 60%
+[00:24:38] [Worker-Main-2/INFO]: Preparing spawn area: 62%
+[00:24:39] [Worker-Main-3/INFO]: Preparing spawn area: 64%
+[00:24:39] [Worker-Main-3/INFO]: Preparing spawn area: 66%
+[00:24:40] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[00:24:40] [Worker-Main-3/INFO]: Preparing spawn area: 69%
+[00:24:41] [Worker-Main-1/INFO]: Preparing spawn area: 70%
+[00:24:41] [Worker-Main-1/INFO]: Preparing spawn area: 72%
+[00:24:42] [Worker-Main-1/INFO]: Preparing spawn area: 74%
+[00:24:42] [Worker-Main-3/INFO]: Preparing spawn area: 76%
+[00:24:43] [Worker-Main-3/INFO]: Preparing spawn area: 78%
+[00:24:43] [Worker-Main-2/INFO]: Preparing spawn area: 80%
+[00:24:44] [Worker-Main-2/INFO]: Preparing spawn area: 82%
+[00:24:44] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[00:24:45] [Worker-Main-3/INFO]: Preparing spawn area: 85%
+[00:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 87%
+[00:24:46] [Worker-Main-3/INFO]: Preparing spawn area: 88%
+[00:24:46] [Worker-Main-1/INFO]: Preparing spawn area: 90%
+[00:24:47] [Worker-Main-3/INFO]: Preparing spawn area: 92%
+[00:24:47] [Worker-Main-3/INFO]: Preparing spawn area: 94%
+[00:24:48] [Worker-Main-1/INFO]: Preparing spawn area: 97%
+[00:24:48] [Worker-Main-2/INFO]: Preparing spawn area: 99%
+[00:24:48] [Server thread/INFO]: Time elapsed: 37062 ms
+[00:24:48] [Server thread/INFO]: Done (47.555s)! For help, type "help"
+[00:24:49] [pool-8-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / abridged:canyon_bridge], ResourceKey[minecraft:worldgen/structure / abridged:creek_bridge], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=117, y=75, z=37}
