@@ -1,5 +1,5 @@
-[07:46:59] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
-[07:47:00] [main/INFO]: Loading 117 mods:
+[10:46:51] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
+[10:46:52] [main/INFO]: Loading 117 mods:
 	- architectury 9.2.14
 	- create 0.5.1-f-build.1417+mc1.20.1
 	   |-- com_google_code_findbugs_jsr305 3.0.2
@@ -150,52 +150,53 @@
 	- terrablender 3.0.1.7
 	   |-- com_electronwill_night-config_core 3.6.7
 	   \-- com_electronwill_night-config_toml 3.6.7
-[07:47:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[07:47:00] [main/INFO]: Compatibility level set to JAVA_16
-[07:47:00] [main/INFO]: Compatibility level set to JAVA_17
-[07:47:01] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[07:47:01] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[07:47:01] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
-[07:47:01] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
-[07:47:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[07:47:04] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bff000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[07:47:08] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$bid000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[07:47:12] [main/ERROR]: No data fixer registered for doapi:chair
-[07:47:12] [main/INFO]: [EasyAuth]: EasyAuth mod by samo_lego, NikitaCartes.
-[07:47:12] [main/WARN]: [EasyAuth]: Disable enforce-secure-profile to allow offline players to join the server
-[07:47:12] [main/WARN]: [EasyAuth]: For more info, see https://github.com/NikitaCartes/EasyAuth/issues/68
-[07:47:12] [main/INFO]: Reflections took 219 ms to scan 1 urls, producing 9 keys and 75 values
-[07:47:13] [main/ERROR]: No data fixer registered for seat
-[07:47:13] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[07:47:13] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
-[07:47:13] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
-[07:47:13] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[07:47:13] [main/ERROR]: No data fixer registered for meadow:water_buffalo
-[07:47:13] [main/ERROR]: No data fixer registered for meadow:wooly_cow
-[07:47:13] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[07:47:13] [main/INFO]: [Regions Unexplored] generating and loading config
-[07:47:14] [main/INFO]: Loaded config supplementaries-common.json
-[07:47:14] [main/ERROR]: Farmers Delight Refabricated is not installed. Disabling Farmers Delight Module
-[07:47:14] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[07:47:14] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[07:47:14] [main/INFO]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[07:47:14] [main/INFO]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[07:47:14] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[07:47:15] [main/INFO]: Initialized block sets in 20ms
-[07:47:15] [main/ERROR]: No data fixer registered for dispenser_minecart
-[07:47:15] [main/ERROR]: No data fixer registered for falling_urn
-[07:47:15] [main/ERROR]: No data fixer registered for falling_ash
-[07:47:15] [main/ERROR]: No data fixer registered for falling_sack
-[07:47:15] [main/ERROR]: No data fixer registered for brick_projectile
-[07:47:15] [main/ERROR]: No data fixer registered for bomb
-[07:47:15] [main/ERROR]: No data fixer registered for rope_arrow
-[07:47:15] [main/ERROR]: No data fixer registered for slingshot_projectile
-[07:47:15] [main/INFO]: Initialized color sets in 52ms
-[07:47:15] [main/INFO]: Finished mod setup in: [12, 0, 0, 0, 0, 0, 11, 5, 1] ms
-[07:47:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07:47:15] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 29 ms
-[07:47:16] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[07:47:18] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
+[10:46:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[10:46:52] [main/INFO]: Compatibility level set to JAVA_16
+[10:46:52] [main/INFO]: Compatibility level set to JAVA_17
+[10:46:53] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[10:46:53] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[10:46:53] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
+[10:46:53] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
+[10:46:54] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[10:46:56] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bff000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[10:47:00] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$bid000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[10:47:04] [main/ERROR]: No data fixer registered for doapi:chair
+[10:47:04] [main/INFO]: [EasyAuth]: EasyAuth mod by samo_lego, NikitaCartes.
+[10:47:04] [main/WARN]: [EasyAuth]: Disable enforce-secure-profile to allow offline players to join the server
+[10:47:04] [main/WARN]: [EasyAuth]: For more info, see https://github.com/NikitaCartes/EasyAuth/issues/68
+[10:47:04] [main/INFO]: [EasyAuth]: You have premiumAutologin enabled. Enable online-mode so that online player can not register.
+[10:47:05] [main/INFO]: Reflections took 163 ms to scan 1 urls, producing 9 keys and 75 values
+[10:47:05] [main/ERROR]: No data fixer registered for seat
+[10:47:05] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[10:47:05] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
+[10:47:05] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
+[10:47:05] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[10:47:05] [main/ERROR]: No data fixer registered for meadow:water_buffalo
+[10:47:05] [main/ERROR]: No data fixer registered for meadow:wooly_cow
+[10:47:06] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[10:47:06] [main/INFO]: [Regions Unexplored] generating and loading config
+[10:47:06] [main/INFO]: Loaded config supplementaries-common.json
+[10:47:06] [main/ERROR]: Farmers Delight Refabricated is not installed. Disabling Farmers Delight Module
+[10:47:06] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[10:47:06] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[10:47:06] [main/INFO]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[10:47:06] [main/INFO]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[10:47:06] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[10:47:07] [main/INFO]: Initialized block sets in 18ms
+[10:47:07] [main/ERROR]: No data fixer registered for dispenser_minecart
+[10:47:07] [main/ERROR]: No data fixer registered for falling_urn
+[10:47:07] [main/ERROR]: No data fixer registered for falling_ash
+[10:47:07] [main/ERROR]: No data fixer registered for falling_sack
+[10:47:07] [main/ERROR]: No data fixer registered for brick_projectile
+[10:47:07] [main/ERROR]: No data fixer registered for bomb
+[10:47:07] [main/ERROR]: No data fixer registered for rope_arrow
+[10:47:07] [main/ERROR]: No data fixer registered for slingshot_projectile
+[10:47:07] [main/INFO]: Initialized color sets in 52ms
+[10:47:07] [main/INFO]: Finished mod setup in: [10, 0, 0, 0, 0, 0, 11, 4, 1] ms
+[10:47:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:47:07] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 31 ms
+[10:47:08] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[10:47:10] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
@@ -217,7 +218,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-mc.1.20.1-loader.0.16.5-launcher.1.0.1.jar:1.0.1]
-[07:47:18] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
+[10:47:10] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
@@ -239,873 +240,87 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-mc.1.20.1-loader.0.16.5-launcher.1.0.1.jar:1.0.1]
-[07:47:18] [main/INFO]: Loaded 42 recipes
-[07:47:18] [main/INFO]: Loaded 4301 advancements
-[07:47:18] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 34 translation keys
-[07:47:18] [main/INFO]: Loaded 27 flute songs
-[07:47:20] [main/INFO]: Finished additional setup in 10 ms
-[07:47:20] [main/INFO]: Applied 7 data villager trades
-[07:47:20] [main/INFO]: Cleared non-static resources for pack supplementaries:generated_pack in: 0 ms
-[07:47:20] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[07:47:21] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[07:47:21] [main/INFO]: Applied 748 biome modifications to 136 of 136 new biomes in 39.19 ms
-[07:47:21] [Server thread/INFO]: Registering compost heaps in village type of plains
-[07:47:21] [Server thread/INFO]: Registering compost heaps in village type of savanna
-[07:47:21] [Server thread/INFO]: Registering compost heaps in village type of snowy
-[07:47:21] [Server thread/INFO]: Registering compost heaps in village type of taiga
-[07:47:21] [Server thread/INFO]: Registering compost heaps in village type of desert
-[07:47:21] [Server thread/INFO]: Loading server configs...
-[07:47:21] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[07:47:21] [Server thread/INFO]: Loading properties
-[07:47:21] [Server thread/INFO]: Default game type: SURVIVAL
-[07:47:21] [Server thread/INFO]: Generating keypair
-[07:47:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:47:21] [Server thread/INFO]: Using epoll channel type
-[07:47:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:47:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:47:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:47:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:47:21] [Server thread/INFO]: Preparing level "world"
-[07:47:24] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
-[07:47:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:47:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:47:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:47:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:47:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:47:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:47:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[07:47:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:47:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:47:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:47:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 22%
-[07:47:30] [Server thread/INFO]: Time elapsed: 5456 ms
-[07:47:30] [Server thread/INFO]: Done (8.123s)! For help, type "help"
-[07:47:40] [Server thread/INFO]: Littlebugs_[/127.0.0.1:35300] logged in with entity id 315 at (207.5, 72.0, 245.5)
-[07:47:40] [Server thread/INFO]: Littlebugs_ joined the game
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/23, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/22, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/25, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/24, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:47:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=193, y=74, z=253}
-[07:48:15] [Server thread/INFO]: Set the time to 1000
-[07:48:41] [Server thread/INFO]: Made Littlebugs_ a server operator
-[07:48:55] [Server thread/INFO]: [Littlebugs_: Set own game mode to Creative Mode]
-[07:49:17] [Server thread/INFO]: Test[/127.0.0.1:39878] logged in with entity id 1723 at (24426.5, 70.58094874738465, 1325.5)
-[07:49:17] [Server thread/INFO]: Test joined the game
-[07:49:36] [Server thread/ERROR]: Unknown structure start: bloomingnature:cave
-[07:49:53] [Server thread/INFO]: Nothing changed. The player already is an operator
-[07:50:00] [Worker-Main-3/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
-[07:50:00] [Worker-Main-3/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
-[07:50:02] [Server thread/INFO]: [Test: Set own game mode to Creative Mode]
-[07:50:33] [pool-6-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=27, y=69, z=955}
-[07:50:34] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=27, y=68, z=956} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
-[07:50:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=27, y=68, z=956}
-[07:50:34] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=27, y=69, z=956} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
-[07:50:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location class_2338{x=27, y=69, z=956}
-[07:50:34] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=27, y=69, z=955} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
-[07:50:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location class_2338{x=27, y=69, z=955}
-[07:50:50] [Worker-Main-2/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
-[07:50:50] [Worker-Main-2/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
-[07:51:01] [Server thread/INFO]: [Littlebugs_: Teleported Littlebugs_ to 10048.500000, 90.000000, 374754.500000]
-[07:51:09] [Server thread/WARN]: Test moved too quickly! -3.2490045876184013,0.0,-9.820888441150942
-[07:51:09] [Server thread/WARN]: Littlebugs_ moved too quickly! 0.0,-10.090520457159002,0.0
-[07:51:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8459ms or 169 ticks behind
-[07:51:56] [Server thread/INFO]: Locating element meadow:chapel took 1799 ms
-[07:51:56] [Server thread/WARN]: Littlebugs_ moved too quickly! -0.40171016969361517,0.0,10.809220292780083
-[07:52:10] [Server thread/INFO]: [Test: Teleported Test to 13536.500000, 102.146251, -4447.500000]
-[07:52:15] [Server thread/WARN]: Littlebugs_ moved too quickly! 2.433518602629192E-6,0.0,10.887048707460053
-[07:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5180ms or 103 ticks behind
-[07:52:15] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-13, y=-59, z=10}
-[07:52:16] [Server thread/INFO]: Test has made the advancement [Home of Heidi?]
-[07:52:40] [pool-6-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=10101, y=73, z=375141}
-[07:52:41] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=10101, y=73, z=375141} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
-[07:52:41] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location class_2338{x=10101, y=73, z=375141}
-[07:53:23] [Server thread/INFO]: Locating element meadow:monument took 0 ms
-[07:53:26] [Server thread/INFO]: [Test: Teleported Test to 13504.500000, 123.000000, -4415.500000]
-[07:53:57] [Server thread/INFO]: jjjjjasper[/127.0.0.1:43610] logged in with entity id 12270 at (215.5, 72.0, 233.5)
-[07:53:57] [Server thread/INFO]: jjjjjasper joined the game
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/22, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/24, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/23, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/25, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:53:59] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
-io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
-[07:53:59] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
-[07:53:59] [Server thread/INFO]: jjjjjasper left the game
-[07:54:01] [Server thread/INFO]: jjjjjasper[/127.0.0.1:43612] logged in with entity id 12372 at (215.5, 72.0, 233.5)
-[07:54:01] [Server thread/INFO]: jjjjjasper joined the game
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/22, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/24, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/23, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/25, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:03] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
-io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
-[07:54:03] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
-[07:54:03] [Server thread/INFO]: jjjjjasper left the game
-[07:54:05] [Server thread/INFO]: jjjjjasper[/127.0.0.1:38396] logged in with entity id 12737 at (215.5, 72.0, 233.5)
-[07:54:06] [Server thread/INFO]: jjjjjasper joined the game
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/22, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/24, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/23, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/25, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:06] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
-io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
-[07:54:06] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
-[07:54:06] [Server thread/INFO]: jjjjjasper left the game
-[07:54:08] [Server thread/INFO]: jjjjjasper[/127.0.0.1:38404] logged in with entity id 12818 at (215.5, 72.0, 233.5)
-[07:54:08] [Server thread/INFO]: jjjjjasper joined the game
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/22, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/24, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/23, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/25, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:54:09] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
-[07:54:09] [Server thread/INFO]: jjjjjasper left the game
-[07:54:09] [Server thread/INFO]: [Test: Set the world spawn point to 13531, 122, -4425 [0.0]]
-[07:54:20] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+[10:47:10] [main/INFO]: Loaded 42 recipes
+[10:47:10] [main/INFO]: Loaded 4301 advancements
+[10:47:10] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 34 translation keys
+[10:47:10] [main/INFO]: Loaded 27 flute songs
+[10:47:12] [main/INFO]: Finished additional setup in 9 ms
+[10:47:12] [main/INFO]: Applied 7 data villager trades
+[10:47:12] [main/INFO]: Cleared non-static resources for pack supplementaries:generated_pack in: 0 ms
+[10:47:13] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[10:47:13] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[10:47:13] [main/INFO]: Applied 748 biome modifications to 136 of 136 new biomes in 32.43 ms
+[10:47:13] [Server thread/INFO]: Registering compost heaps in village type of plains
+[10:47:13] [Server thread/INFO]: Registering compost heaps in village type of savanna
+[10:47:13] [Server thread/INFO]: Registering compost heaps in village type of snowy
+[10:47:13] [Server thread/INFO]: Registering compost heaps in village type of taiga
+[10:47:13] [Server thread/INFO]: Registering compost heaps in village type of desert
+[10:47:13] [Server thread/INFO]: Loading server configs...
+[10:47:13] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[10:47:13] [Server thread/INFO]: Loading properties
+[10:47:13] [Server thread/INFO]: Default game type: SURVIVAL
+[10:47:13] [Server thread/INFO]: Generating keypair
+[10:47:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:47:13] [Server thread/INFO]: Using epoll channel type
+[10:47:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:47:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:47:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:47:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:47:13] [Server thread/INFO]: Preparing level "world"
+[10:47:16] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[10:47:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:47:19] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[10:47:19] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[10:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:47:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:47:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:47:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:47:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:47:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:47:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:47:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:47:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:47:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:47:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 7%
+[10:47:23] [Worker-Main-3/INFO]: Preparing spawn area: 77%
+[10:47:23] [Server thread/INFO]: Time elapsed: 6693 ms
+[10:47:23] [Server thread/INFO]: Done (9.504s)! For help, type "help"
+[10:47:50] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
-[07:54:24] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+[10:47:50] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
-[07:55:21] [Server thread/INFO]: [Test: Teleported 2 entities to 13504.500000, 121.000000, -4415.500000]
-[07:55:21] [Server thread/INFO]: Littlebugs_ has made the advancement [Home of Heidi?]
-[07:57:04] [Server thread/INFO]: Littlebugs_ has made the advancement [Acquire Hardware]
-[07:57:07] [Server thread/INFO]: [Test: Made Littlebugs_ no longer a server operator]
-[07:57:15] [Server thread/INFO]: [Test: Set Littlebugs_'s game mode to Survival Mode]
-[07:57:53] [Server thread/WARN]: Littlebugs_ moved wrongly!
-[07:58:22] [Server thread/INFO]: jjjjjasper[/127.0.0.1:40234] logged in with entity id 18616 at (215.5, 72.0, 233.5)
-[07:58:22] [Server thread/INFO]: jjjjjasper joined the game
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/22, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/23, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/24, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/25, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[07:58:24] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
-[07:58:24] [Server thread/INFO]: jjjjjasper left the game
-[07:58:29] [Server thread/INFO]: jjjjjasper[/127.0.0.1:50844] logged in with entity id 19133 at (215.5, 72.0, 233.5)
-[07:58:29] [Server thread/INFO]: jjjjjasper joined the game
-[07:58:30] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
-[07:58:30] [Server thread/INFO]: jjjjjasper left the game
-[07:58:30] [Server thread/WARN]: Littlebugs_ moved too quickly! 2.450023120296464,-9.540151341947357,-2.8363656184174033
-[07:58:30] [Server thread/WARN]: handleDisconnection() called twice
-[07:58:32] [Server thread/WARN]: Littlebugs_ moved wrongly!
-[07:58:32] [Server thread/INFO]: jjjjjasper[/127.0.0.1:55278] logged in with entity id 19146 at (215.5, 72.0, 233.5)
-[07:58:32] [Server thread/INFO]: jjjjjasper joined the game
-[07:58:33] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
-[07:58:33] [Server thread/INFO]: jjjjjasper left the game
-[07:59:06] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
-[07:59:06] [Server thread/INFO]: Littlebugs_ left the game
-[07:59:36] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+[10:48:06] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:47176] logged in with entity id 147 at (14054.691320491957, 66.00133597911214, -184.28089889327975)
+[10:48:06] [Server thread/INFO]: Littlebugs404_ joined the game
+[10:48:07] [Server thread/INFO]: CheessRevolution[/127.0.0.1:47180] logged in with entity id 184 at (14051.454155774347, 63.0, -177.67354531303525)
+[10:48:07] [Server thread/INFO]: CheessRevolution joined the game
+[10:48:21] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
-[08:00:58] [Server thread/INFO]: jjjjjasper[/127.0.0.1:36972] logged in with entity id 20444 at (215.5, 72.0, 233.5)
-[08:00:58] [Server thread/INFO]: jjjjjasper joined the game
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/22, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/23, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/24, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/25, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:00:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:01:00] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
-[08:01:00] [Server thread/INFO]: jjjjjasper left the game
-[08:01:28] [Server thread/INFO]: jjjjjasper[/127.0.0.1:34330] logged in with entity id 20991 at (215.5, 72.0, 233.5)
-[08:01:28] [Server thread/INFO]: jjjjjasper joined the game
-[08:01:28] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
-[08:01:28] [Server thread/INFO]: jjjjjasper left the game
-[08:02:17] [Server thread/INFO]: CheessRevolution[/127.0.0.1:44416] logged in with entity id 21205 at (13522.5, 122.0, -4423.5)
-[08:02:17] [Server thread/INFO]: CheessRevolution joined the game
-[08:02:36] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
-[08:02:36] [Server thread/INFO]: CheessRevolution left the game
-[08:04:02] [Server thread/INFO]: jjjjjasper[/127.0.0.1:32844] logged in with entity id 21988 at (215.5, 72.0, 233.5)
-[08:04:02] [Server thread/INFO]: jjjjjasper joined the game
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/22, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/23, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/24, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/25, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28, l='ServerLevel[world]', x=208.00, y=72.00, z=240.00, removed=DISCARDED]
-[08:04:11] [Server thread/INFO]: [Test: Teleported jjjjjasper to Test]
-[08:04:12] [Server thread/INFO]: CheessRevolution[/127.0.0.1:50662] logged in with entity id 22351 at (13522.5, 122.0, -4423.5)
-[08:04:12] [Server thread/INFO]: CheessRevolution joined the game
-[08:04:28] [Server thread/INFO]: CheessRevolution has made the advancement [Home of Heidi?]
-[08:04:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13524, y=122, z=-4418}
-[08:04:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13524, y=122, z=-4418}
-[08:04:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13525, y=122, z=-4417}
-[08:04:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13526, y=122, z=-4414}
-[08:04:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13526, y=122, z=-4414}
-[08:04:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13525, y=122, z=-4415}
-[08:04:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13526, y=120, z=-4429}
-[08:05:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=124, z=-4432}
-[08:05:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=124, z=-4432}
-[08:05:02] [Server thread/INFO]: jjjjjasper lost connection: §cTime for authentication has expired.
-[08:05:02] [Server thread/INFO]: jjjjjasper left the game
-[08:05:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=124, z=-4432}
-[08:05:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=124, z=-4432}
-[08:05:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=124, z=-4432}
-[08:05:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=124, z=-4432}
-[08:05:07] [Server thread/INFO]: jjjjjasper[/127.0.0.1:34656] logged in with entity id 22718 at (13526.90012886459, 144.73164435196168, -4436.892234790595)
-[08:05:07] [Server thread/INFO]: jjjjjasper joined the game
-[08:05:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=124, z=-4432}
-[08:05:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=123, z=-4432}
-[08:05:20] [Server thread/INFO]: CheessRevolution has made the advancement [Monster Hunter]
-[08:05:38] [Server thread/INFO]: jjjjjasper has made the advancement [Home of Heidi?]
-[08:05:39] [Server thread/INFO]: jjjjjasper fell from a high place
-[08:06:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13533, y=122, z=-4433}
-[08:06:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13530, y=120, z=-4428}
-[08:06:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=121, z=-4431}
-[08:06:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=121, z=-4431}
-[08:06:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=121, z=-4431}
-[08:06:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13531, y=121, z=-4431}
-[08:06:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13532, y=122, z=-4433}
-[08:06:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13532, y=122, z=-4433}
-[08:06:44] [Server thread/INFO]: [Test: Set the world spawn point to 13532, 120, -4470 [0.0]]
-[08:06:53] [Server thread/INFO]: [Test: Gamerule keepInventory is now set to: true]
-[08:07:26] [Server thread/INFO]: Test lost connection: Timed out
-[08:07:26] [Server thread/INFO]: Test left the game
-[08:07:27] [Server thread/INFO]: CheessRevolution lost connection: Timed out
-[08:07:27] [Server thread/INFO]: CheessRevolution left the game
-[08:07:33] [Server thread/INFO]: CheessRevolution[/127.0.0.1:54358] logged in with entity id 23897 at (13600.814821335227, 125.0, -4457.649499262539)
-[08:07:33] [Server thread/INFO]: CheessRevolution joined the game
-[08:07:39] [Server thread/INFO]: Test[/127.0.0.1:54412] logged in with entity id 23990 at (13530.760929056993, 129.60621281352357, -4446.972110918121)
-[08:07:40] [Server thread/INFO]: Test joined the game
-[08:08:36] [Server thread/INFO]: [Test: Set own game mode to Creative Mode]
-[08:09:18] [Server thread/INFO]: jjjjjasper has made the advancement [Stone Age]
-[08:09:40] [Server thread/INFO]: CheessRevolution has made the advancement [Stone Age]
-[08:10:08] [Server thread/INFO]: CheessRevolution has made the advancement [Getting an Upgrade]
-[08:10:48] [Server thread/INFO]: CheessRevolution fell from a high place
-[08:11:04] [Server thread/INFO]: Littlebugs_[/127.0.0.1:54922] logged in with entity id 27360 at (13683.938024433872, 66.0, -4254.699999988079)
-[08:11:04] [Server thread/INFO]: Littlebugs_ joined the game
-[08:13:09] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
-[08:13:09] [Server thread/INFO]: Littlebugs_ left the game
-[08:14:53] [Server thread/INFO]: [Test: Set the world spawn point to 13527, 121, -4415 [0.0]]
-[08:15:19] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-13, y=-59, z=10}
-[08:15:25] [Server thread/WARN]: Test moved too quickly! -0.5171393753116718,0.0,-10.63827748485619
-[08:15:45] [pool-6-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=13157, y=107, z=-4187}
-[08:15:47] [Server thread/WARN]: Test moved too quickly! -0.47941462602466345,0.0,-10.369205831549152
-[08:15:59] [Server thread/INFO]: Test was killed
-[08:15:59] [Server thread/INFO]: [Test: Killed Test]
-[08:16:37] [Server thread/INFO]: jjjjjasper has completed the challenge [Mhhh... looks tasty!]
-[08:16:38] [Server thread/INFO]: Test lost connection: Disconnected
-[08:16:38] [Server thread/INFO]: Test left the game
-[08:16:58] [Server thread/INFO]: jjjjjasper has made the advancement [Crops of the Wild]
-[08:17:53] [Server thread/INFO]: jjjjjasper has made the advancement [Sweet Dreams]
-[08:18:59] [Server thread/INFO]: jjjjjasper has made the advancement [Monster Hunter]
-[08:19:34] [Server thread/INFO]: Parzival5077[/127.0.0.1:39588] logged in with entity id 37169 at (13536.5, 121.0, -4418.5)
-[08:19:34] [Server thread/INFO]: Parzival5077 joined the game
-[08:19:51] [Server thread/INFO]: Parzival5077 has made the advancement [Home of Heidi?]
-[08:20:35] [Server thread/INFO]: Parzival5077 has made the advancement [Sweet Dreams]
-[08:21:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[08:21:21] [Server thread/INFO]: op Parzival5077<--[HERE]
-[08:21:26] [Server thread/INFO]: Villager class_1646['Villager'/32986, l='ServerLevel[world]', x=13156.30, y=73.00, z=-3963.48] died, message: 'Villager was slain by jjjjjasper'
-[08:21:31] [Server thread/INFO]: Made Parzival5077 a server operator
-[08:22:22] [Server thread/INFO]: [Parzival5077: Gamerule naturalRegeneration is now set to: true]
-[08:22:46] [Server thread/INFO]: [Parzival5077: Gamerule playersSleepingPercentage is now set to: 1]
-[08:25:09] [Server thread/INFO]: Littlebugs_[/127.0.0.1:42140] logged in with entity id 42130 at (13685.68938395442, 67.0, -4244.851822948283)
-[08:25:09] [Server thread/INFO]: Littlebugs_ joined the game
-[08:26:03] [pool-6-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos class_2338{x=13813, y=67, z=-4165}
-[08:26:14] [Server thread/INFO]: jjjjjasper has reached the goal [Plant Food]
-[08:26:31] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1f2a6677[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:35680): §cPlayer literal{Littlebugs_} is already online!
-[08:26:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f2a6677[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:35680) lost connection: §cPlayer literal{Littlebugs_} is already online!
-[08:26:32] [Server thread/WARN]: handleDisconnection() called twice
-[08:26:34] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@a0983cb[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:35688): §cPlayer literal{Littlebugs_} is already online!
-[08:26:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@a0983cb[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:35688) lost connection: §cPlayer literal{Littlebugs_} is already online!
-[08:26:34] [Server thread/WARN]: handleDisconnection() called twice
-[08:26:34] [Server thread/INFO]: CheessRevolution has made the advancement [Find Alpine Salt]
-[08:26:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@68ce9eb[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:50600): §cPlayer literal{Littlebugs_} is already online!
-[08:26:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@68ce9eb[id=5abada75-f756-30ce-b415-84326b48b737,name=Littlebugs_,properties={},legacy=false] (/127.0.0.1:50600) lost connection: §cPlayer literal{Littlebugs_} is already online!
-[08:26:42] [Server thread/WARN]: handleDisconnection() called twice
-[08:26:54] [Server thread/INFO]: Littlebugs_ lost connection: Timed out
-[08:26:54] [Server thread/INFO]: Littlebugs_ left the game
-[08:27:00] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+[10:48:30] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
-[08:27:10] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+[10:48:31] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
-[08:27:27] [Server thread/INFO]: CheessRevolution was shot by Skeleton
-[08:27:47] [Server thread/INFO]: Littlebugs_[/127.0.0.1:58100] logged in with entity id 46083 at (13730.699999988079, 71.0, -4177.300000011921)
-[08:27:47] [Server thread/INFO]: Littlebugs_ joined the game
-[08:28:05] [Server thread/INFO]: Parzival5077 lost connection: Timed out
-[08:28:05] [Server thread/INFO]: Parzival5077 left the game
-[08:28:24] [Server thread/INFO]: Parzival5077[/127.0.0.1:52320] logged in with entity id 47224 at (13512.494817988452, 87.0, -4492.187915681874)
-[08:28:24] [Server thread/INFO]: Parzival5077 joined the game
-[08:28:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13531, y=115, z=-4409}
-[08:28:29] [Server thread/INFO]: Littlebugs_ drowned
-[08:28:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4405}
-[08:28:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4405}
-[08:28:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4405}
-[08:28:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=106, z=-4404}
-[08:28:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4404}
-[08:28:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=13537, y=120, z=-4405}
-[08:28:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4403}
-[08:29:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13533, y=107, z=-4403}
-[08:29:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13532, y=107, z=-4403}
-[08:29:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13533, y=118, z=-4398} class_2338{x=13532, y=106, z=-4404}
-[08:29:12] [Server thread/INFO]: CheessRevolution was killed
-[08:29:12] [Server thread/INFO]: [Parzival5077: Killed CheessRevolution]
-[08:29:19] [Server thread/INFO]: CheessRevolution has made the advancement [Acquire Hardware]
-[08:29:56] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
-[08:29:56] [Server thread/INFO]: Littlebugs_ left the game
-[08:29:59] [Server thread/INFO]: Parzival5077 has made the advancement [Stone Age]
-[08:30:47] [Server thread/INFO]: jjjjjasper has made the advancement [Getting an Upgrade]
-[08:31:42] [Server thread/INFO]: jjjjjasper burned to death
-[08:34:09] [Server thread/INFO]: CheessRevolution has made the advancement [Sweet Dreams]
-[08:34:58] [Server thread/INFO]: Littlebugs_[/127.0.0.1:33448] logged in with entity id 53888 at (13544.405538030682, 114.0, -4483.444724815461)
-[08:34:58] [Server thread/INFO]: Littlebugs_ joined the game
-[08:35:12] [Server thread/INFO]: Littlebugs_ lost connection: Disconnected
-[08:35:12] [Server thread/INFO]: Littlebugs_ left the game
-[08:36:24] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:58522] logged in with entity id 54979 at (13526.5, 121.0, -4405.5)
-[08:36:24] [Server thread/INFO]: Littlebugs404_ joined the game
-[08:36:52] [Server thread/INFO]: Littlebugs404_ has made the advancement [Home of Heidi?]
-[08:37:29] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
-[08:37:29] [Server thread/INFO]: Littlebugs404_ left the game
-[08:37:34] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:55466] logged in with entity id 55669 at (13523.80058792458, 123.0, -4396.218547818882)
-[08:37:34] [Server thread/INFO]: Littlebugs404_ joined the game
-[08:37:59] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[08:38:03] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[08:39:41] [Server thread/INFO]: Littlebugs404_ has made the advancement [Stone Age]
-[08:39:43] [Server thread/INFO]: Littlebugs404_ has made the advancement [Acquire Hardware]
-[08:39:53] [Server thread/INFO]: CheessRevolution has made the advancement [Isn't It Iron Pick]
-[08:39:58] [Server thread/INFO]: Littlebugs404_ has made the advancement [Getting an Upgrade]
-[08:40:33] [Server thread/INFO]: Littlebugs404_ has made the advancement [Crops of the Wild]
-[08:41:00] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to jjjjjasper]
-[08:42:44] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
-[08:42:44] [Server thread/INFO]: Littlebugs404_ left the game
-[08:42:45] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:33540] logged in with entity id 60170 at (13457.3885044095, 124.0, -4209.754430952918)
-[08:42:45] [Server thread/INFO]: Littlebugs404_ joined the game
-[08:43:06] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
-[08:43:06] [Server thread/INFO]: Littlebugs404_ left the game
-[08:43:11] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:49328] logged in with entity id 60558 at (13405.182818124678, 116.0, -4192.368032047001)
-[08:43:11] [Server thread/INFO]: Littlebugs404_ joined the game
-[08:43:14] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[08:43:36] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[08:43:38] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[08:43:39] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[08:44:42] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
-[08:44:42] [Server thread/INFO]: Littlebugs404_ left the game
-[08:44:44] [Server thread/INFO]: Parzival5077 has made the advancement [Getting an Upgrade]
-[08:44:48] [Server thread/INFO]: AwaKING[/127.0.0.1:53160] logged in with entity id 62031 at (13521.5, 121.0, -4404.5)
-[08:44:48] [Server thread/INFO]: AwaKING joined the game
-[08:45:11] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@54325cef[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:47048): §cPlayer literal{AwaKING} is already online!
-[08:45:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@54325cef[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:47048) lost connection: §cPlayer literal{AwaKING} is already online!
-[08:45:11] [Server thread/WARN]: handleDisconnection() called twice
-[08:45:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@483f6ec7[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:39230): §cPlayer literal{AwaKING} is already online!
-[08:45:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@483f6ec7[id=82867bfb-596f-3077-8318-20b27d811fdd,name=AwaKING,properties={},legacy=false] (/127.0.0.1:39230) lost connection: §cPlayer literal{AwaKING} is already online!
-[08:45:16] [Server thread/WARN]: handleDisconnection() called twice
-[08:45:18] [Server thread/INFO]: AwaKING lost connection: Timed out
-[08:45:18] [Server thread/INFO]: AwaKING left the game
-[08:45:27] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[08:45:46] [Server thread/INFO]: AwaKING[/127.0.0.1:35022] logged in with entity id 63107 at (13521.5, 121.0, -4404.5)
-[08:45:46] [Server thread/INFO]: AwaKING joined the game
-[08:45:47] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:35036] logged in with entity id 63166 at (13381.479116320883, 74.0, -4103.626357665782)
-[08:45:47] [Server thread/INFO]: Littlebugs404_ joined the game
-[08:46:11] [Server thread/INFO]: AwaKING has made the advancement [Home of Heidi?]
-[08:46:13] [Server thread/INFO]: AwaKING lost connection: Disconnected
-[08:46:13] [Server thread/INFO]: AwaKING left the game
-[08:49:34] [Server thread/INFO]: Littlebugs404_ has made the advancement [Isn't It Iron Pick]
-[08:51:26] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
-[08:51:26] [Server thread/INFO]: Littlebugs404_ left the game
-[08:51:57] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[08:52:00] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
-[08:52:00] [Server thread/INFO]: CheessRevolution left the game
-[08:52:37] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[08:52:37] [Server thread/INFO]: Parzival5077 left the game
-[08:58:31] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
-[08:58:31] [Server thread/INFO]: jjjjjasper left the game
-[08:59:31] [Server thread/INFO]: AwaKING[/127.0.0.1:34980] logged in with entity id 71629 at (13518.325377350715, 121.0, -4411.958441584855)
-[08:59:31] [Server thread/INFO]: AwaKING joined the game
-[09:06:34] [Server thread/INFO]: AwaKING lost connection: Disconnected
-[09:06:34] [Server thread/INFO]: AwaKING left the game
-[09:12:43] [Server thread/INFO]: AwaKING[/127.0.0.1:40362] logged in with entity id 73639 at (13527.484669002883, 121.0, -4426.63174453285)
-[09:12:43] [Server thread/INFO]: AwaKING joined the game
-[09:13:57] [Server thread/INFO]: AwaKING has made the advancement [Monster Hunter]
-[09:14:03] [Server thread/INFO]: AwaKING has made the advancement [Sweet Dreams]
-[09:14:44] [Server thread/INFO]: AwaKING has made the advancement [Stone Age]
-[09:15:13] [Server thread/INFO]: AwaKING has made the advancement [Getting an Upgrade]
-[09:17:35] [Server thread/INFO]: AwaKING has made the advancement [Acquire Hardware]
-[09:17:48] [Server thread/INFO]: AwaKING has made the advancement [Isn't It Iron Pick]
-[09:19:30] [Server thread/INFO]: Parzival5077[/127.0.0.1:57428] logged in with entity id 76813 at (13562.412274450153, 63.0, -4582.602704108423)
-[09:19:30] [Server thread/INFO]: Parzival5077 joined the game
-[09:19:58] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[09:20:43] [Server thread/INFO]: hizuki[/127.0.0.1:47734] logged in with entity id 77938 at (13524.5, 121.0, -4413.5)
-[09:20:43] [Server thread/INFO]: hizuki joined the game
-[09:21:43] [Server thread/INFO]: hizuki lost connection: §cTime for authentication has expired.
-[09:21:43] [Server thread/INFO]: hizuki left the game
-[09:21:48] [Server thread/INFO]: hizuki[/127.0.0.1:58598] logged in with entity id 79803 at (13524.5, 121.0, -4413.5)
-[09:21:48] [Server thread/INFO]: hizuki joined the game
-[09:22:02] [Server thread/INFO]: hizuki has made the advancement [Home of Heidi?]
-[09:22:16] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[09:24:16] [Server thread/INFO]: [Parzival5077: The difficulty has been set to Peaceful]
-[09:24:49] [Server thread/INFO]: CheessRevolution[/127.0.0.1:42100] logged in with entity id 84770 at (13299.087077239543, 65.0, -4065.7597040990904)
-[09:24:49] [Server thread/INFO]: CheessRevolution joined the game
-[09:27:42] [Server thread/INFO]: hizuki has made the advancement [Stone Age]
-[09:28:21] [Server thread/INFO]: hizuki has made the advancement [Getting an Upgrade]
-[09:29:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13765, y=41, z=-4529} class_2338{x=13766, y=42, z=-4529}
-[09:29:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13759, y=48, z=-4549} class_2338{x=13759, y=50, z=-4550}
-[09:31:26] [Server thread/INFO]: CheessRevolution has made the advancement [Suit Up]
-[09:33:27] [Server thread/INFO]: AwaKING has made the advancement [Suit Up]
-[09:33:51] [Server thread/INFO]: CheessRevolution has made the advancement [Crops of the Wild]
-[09:33:58] [Server thread/INFO]: AwaKING has made the advancement [ZA WARUDO!]
-[09:33:58] [Server thread/INFO]: AwaKING has made the advancement [Stando Power!]
-[09:35:00] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
-[09:35:08] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
-[09:35:09] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 601)]
-[09:35:10] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 603)]
-[09:35:10] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 604)]
-[09:35:54] [Server thread/INFO]: CheessRevolution has made the advancement [Diamonds!]
-[09:36:02] [Server thread/INFO]: AwaKING lost connection: Disconnected
-[09:36:02] [Server thread/INFO]: AwaKING left the game
-[09:36:02] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[09:36:02] [Server thread/INFO]: Parzival5077 left the game
-[09:36:02] [Server thread/INFO]: hizuki lost connection: Disconnected
-[09:36:02] [Server thread/INFO]: hizuki left the game
-[09:36:07] [Server thread/INFO]: AwaKING[/127.0.0.1:40972] logged in with entity id 104085 at (13671.616231740785, -3.0, -5205.025879501484)
-[09:36:07] [Server thread/INFO]: AwaKING joined the game
-[09:36:11] [Server thread/INFO]: hizuki[/127.0.0.1:40988] logged in with entity id 104947 at (13709.757606369156, -42.0, -4531.618816214114)
-[09:36:11] [Server thread/INFO]: hizuki joined the game
-[09:36:14] [Server thread/INFO]: Parzival5077[/127.0.0.1:57082] logged in with entity id 105516 at (13702.76263040376, -9.0, -4584.541316735138)
-[09:36:14] [Server thread/INFO]: Parzival5077 joined the game
-[09:36:33] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[09:36:33] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[09:36:42] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[09:36:43] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[09:37:05] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:41512] logged in with entity id 111081 at (13301.38080887987, 63.0, -4064.313619595793)
-[09:37:05] [Server thread/INFO]: Littlebugs404_ joined the game
-[09:37:36] [Server thread/INFO]: Littlebugs404_ has made the advancement [Sweet Dreams]
-[09:37:37] [Server thread/INFO]: [Parzival5077: Gave 1 [Iron Axe] to Parzival5077]
-[09:37:48] [Server thread/INFO]: Parzival5077 has made the advancement [Isn't It Iron Pick]
-[09:37:48] [Server thread/INFO]: [Parzival5077: Gave 1 [Iron Pickaxe] to Parzival5077]
-[09:38:38] [Server thread/INFO]: CheessRevolution tried to swim in lava
-[09:39:07] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
-[09:39:08] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
-[09:41:33] [Server thread/WARN]: Boat with Chest (vehicle of Littlebugs404_) moved wrongly! 0.3334677331677085
-[09:41:33] [Server thread/WARN]: Boat with Chest (vehicle of Littlebugs404_) moved wrongly! 0.2909489980715989
-[09:41:34] [Server thread/WARN]: Boat with Chest (vehicle of Littlebugs404_) moved wrongly! 0.4832652499694632
-[09:44:19] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
-[09:44:22] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
-[09:44:23] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 604)]
-[09:44:25] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
-[09:44:28] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
-[09:44:35] [Server thread/INFO]: AwaKING has made the advancement [The World!]
-[09:45:37] [Server thread/INFO]: AwaKING has made the advancement [Diamonds!]
-[09:45:55] [Server thread/INFO]: Parzival5077 tried to swim in lava
-[09:50:00] [Server thread/INFO]: hizuki has made the advancement [Acquire Hardware]
-[09:50:15] [Server thread/INFO]: hizuki has made the advancement [Isn't It Iron Pick]
-[09:50:19] [Server thread/INFO]: hizuki has made the advancement [Diamonds!]
-[09:51:19] [Server thread/INFO]: Parzival5077 has made the advancement [Acquire Hardware]
-[09:52:45] [Server thread/INFO]: Parzival5077 has made the advancement [Do I miss something?]
-[09:52:45] [Server thread/INFO]: Parzival5077 has made the advancement [Stando Power!]
-[09:52:58] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu]]
-[09:53:03] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 357)]
-[09:53:07] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
-[09:53:09] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu]]
-[09:53:18] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 347)]
-[09:53:20] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 337)]
-[09:53:29] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 604)]
-[09:53:30] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 603)]
-[09:53:31] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 602)]
-[09:53:32] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 606)]
-[09:53:33] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 606)]
-[09:53:41] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu]]
-[09:53:47] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 357)]
-[09:53:56] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 347)]
-[09:53:57] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 357)]
-[09:53:59] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
-[09:54:01] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
-[09:54:02] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 605)]
-[09:54:03] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
-[09:54:05] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
-[09:54:05] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 605)]
-[09:54:15] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
-[09:54:18] [Server thread/WARN]: Boat with Chest (vehicle of CheessRevolution) moved wrongly! 0.36833766796598866
-[09:54:18] [Server thread/WARN]: Boat with Chest (vehicle of CheessRevolution) moved wrongly! 0.3962150192351146
-[09:54:18] [Server thread/WARN]: Boat with Chest (vehicle of CheessRevolution) moved wrongly! 0.44896392425152953
-[09:54:18] [Server thread/WARN]: Boat with Chest (vehicle of CheessRevolution) moved wrongly! 0.5238998946952051
-[09:54:18] [Server thread/WARN]: Boat with Chest (vehicle of CheessRevolution) moved wrongly! 0.6186252549605342
-[09:54:18] [Server thread/WARN]: Boat with Chest (vehicle of CheessRevolution) moved wrongly! 0.39530073733067184
-[09:54:18] [Server thread/WARN]: Boat with Chest (vehicle of CheessRevolution) moved wrongly! 0.5234091823640483
-[09:54:18] [Server thread/WARN]: Boat with Chest (vehicle of CheessRevolution) moved wrongly! 0.6655463974798295
-[09:54:25] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
-[09:54:26] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 357)]
-[09:54:40] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
-[09:55:04] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu]]
-[09:55:07] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 337)]
-[09:55:12] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 606)]
-[09:55:13] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 606)]
-[09:55:14] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 603)]
-[09:55:14] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 607)]
-[09:55:16] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 607)]
-[09:55:17] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 607)]
-[09:55:18] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 607)]
-[09:55:20] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 367)]
-[09:55:22] [Server thread/INFO]: AwaKING tried to swim in lava
-[09:55:22] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 337)]
-[09:55:44] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu]]
-[09:55:47] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 357)]
-[09:56:04] [Server thread/INFO]: AwaKING has made the advancement [Best Friends Forever]
-[09:56:13] [Server thread/INFO]: Parzival5077 has made the advancement [ZA WARUDO!]
-[09:56:23] [Server thread/INFO]: Parzival5077 has made the advancement [Stopped time? I don't care!]
-[09:57:08] [Server thread/INFO]: hizuki tried to swim in lava
-[09:58:00] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu]]
-[09:58:07] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 357)]
-[09:58:18] [Server thread/INFO]: Littlebugs404_ has completed the challenge [Mhhh... looks tasty!]
-[09:58:37] [Server thread/INFO]: CheessRevolution lost connection: Timed out
-[09:58:37] [Server thread/INFO]: CheessRevolution left the game
-[09:59:06] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu]]
-[09:59:10] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 357)]
-[09:59:11] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 357)]
-[10:00:16] [Server thread/INFO]: hizuki has made the advancement [Hot Stuff]
-[10:00:22] [Server thread/INFO]: hizuki tried to swim in lava
-[10:00:23] [Server thread/INFO]: AwaKING has made the advancement [Stand Mastery I]
-[10:01:39] [Server thread/INFO]: CheessRevolution[/127.0.0.1:38800] logged in with entity id 288376 at (13133.656793348362, 64.0, -3145.4410684418854)
-[10:01:39] [Server thread/INFO]: CheessRevolution joined the game
-[10:01:44] [Server thread/INFO]: [Not Secure] <Parzival5077> 6
-[10:02:10] [Server thread/INFO]: jjjjjasper[/127.0.0.1:36552] logged in with entity id 299982 at (13570.908946681013, 63.0, -4563.381132144498)
-[10:02:10] [Server thread/INFO]: jjjjjasper joined the game
-[10:02:36] [Server thread/INFO]: [Not Secure] <Parzival5077> eieiei
-[10:02:40] [Server thread/WARN]: jjjjjasper moved wrongly!
-[10:02:43] [Server thread/INFO]: [Not Secure] <Parzival5077> 这是我家啊
-[10:02:59] [Server thread/INFO]: [Not Secure] <Parzival5077> bushi
-[10:03:08] [Server thread/INFO]: [Not Secure] <Parzival5077> 这是502家啊
-[10:04:34] [Server thread/INFO]: CheessRevolution lost connection: Disconnected
-[10:04:34] [Server thread/INFO]: CheessRevolution left the game
-[10:04:37] [Server thread/INFO]: CheessRevolution[/127.0.0.1:33598] logged in with entity id 346164 at (13254.854775305601, 112.0, -3176.2264917090365)
-[10:04:37] [Server thread/INFO]: CheessRevolution joined the game
-[10:04:42] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
-[10:04:42] [Server thread/INFO]: jjjjjasper left the game
-[10:06:50] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu]]
-[10:06:56] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 337)]
-[10:06:57] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 606)]
-[10:06:59] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 603)]
-[10:07:00] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 603)]
-[10:07:01] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 607)]
-[10:07:02] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 607)]
-[10:07:03] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 607)]
-[10:07:05] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 357)]
-[10:08:11] [Server thread/INFO]: [Not Secure] <AwaKING> 可以换游戏难度了
-[10:09:13] [Server thread/INFO]: [Not Secure] <AwaKING> ?
-[10:11:41] [Server thread/INFO]: [Parzival5077: The difficulty has been set to Hard]
-[10:11:49] [Server thread/INFO]: [Not Secure] <AwaKING> 换了吗
-[10:12:38] [Server thread/INFO]: [Not Secure] <Parzival5077> yep
-[10:12:41] [Server thread/INFO]: [Not Secure] <Parzival5077> have fun
-[10:12:43] [Server thread/INFO]: [Not Secure] <AwaKING> ???????/
-[10:13:02] [Server thread/INFO]: [Not Secure] <Parzival5077> i will never change the difficulty angin so...
-[10:13:06] [Server thread/INFO]: [Not Secure] <Parzival5077> have fun
-[10:13:48] [Server thread/INFO]: hizuki fell from a high place
-[10:15:09] [Server thread/INFO]: hizuki lost connection: Disconnected
-[10:15:09] [Server thread/INFO]: hizuki left the game
-[10:16:01] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
-[10:16:04] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
-[10:16:08] [Server thread/INFO]: CheessRevolution lost connection: Timed out
-[10:16:08] [Server thread/INFO]: CheessRevolution left the game
-[10:16:09] [Server thread/INFO]: Littlebugs404_ lost connection: Timed out
-[10:16:09] [Server thread/INFO]: Littlebugs404_ left the game
-[10:16:24] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:39116] logged in with entity id 438478 at (13541.175258666412, 62.07326432466507, -2021.9272423697616)
-[10:16:24] [Server thread/INFO]: Littlebugs404_ joined the game
-[10:16:46] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:16:46] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:16:54] [Server thread/INFO]: Littlebugs404_ lost connection: Timed out
-[10:16:54] [Server thread/INFO]: Littlebugs404_ left the game
-[10:17:28] [Server thread/INFO]: CheessRevolution[/127.0.0.1:42948] logged in with entity id 446872 at (13547.606525349245, 64.0, -2031.8231064378822)
-[10:17:28] [Server thread/INFO]: CheessRevolution joined the game
-[10:17:47] [Server thread/INFO]: AwaKING was slain by Iron Golem
-[10:17:55] [Server thread/INFO]: AwaKING was slain by Iron Golem
-[10:18:02] [Server thread/INFO]: [Not Secure] <AwaKING> ?
-[10:18:49] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:46714] logged in with entity id 470704 at (13541.175258666412, 63.08576431274414, -2021.9272423697616)
-[10:18:49] [Server thread/INFO]: Littlebugs404_ joined the game
-[10:19:45] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 12246.500000, 70.000000, -5930.500000]
-[10:19:46] [Server thread/WARN]: Parzival5077 moved too quickly! 0.0,-10.806526110009003,0.0
-[10:20:09] [Server thread/INFO]: [Parzival5077: Teleported Parzival5077 to 13346.500000, 70.000000, -5930.500000]
-[10:20:31] [Server thread/INFO]: Parzival5077 was slain by Diavolo
-[10:20:37] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
-[10:20:40] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
-[10:20:48] [Server thread/INFO]: [Not Secure] <AwaKING> 下次别跳过黑夜里
-[10:20:51] [Server thread/INFO]: [Not Secure] <AwaKING> L
-[10:20:58] [Server thread/INFO]: [Not Secure] <AwaKING> 我要刷怪
-[10:21:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13188, y=72, z=-6130} class_2338{x=13189, y=71, z=-6133}
-[10:21:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13187, y=73, z=-6139} class_2338{x=13187, y=71, z=-6137}
-[10:23:31] [Server thread/INFO]: [Not Secure] <AwaKING> 都别睡啊
-[10:23:42] [Server thread/INFO]: [Not Secure] <CheessRevolution> 找到了
-[10:23:45] [Server thread/INFO]: [Not Secure] <Littlebugs404_> ok
-[10:24:05] [Server thread/INFO]: AwaKING has made the advancement [Stand Mastery II]
-[10:24:06] [Server thread/INFO]: AwaKING was blown up by Creeper
-[10:25:15] [Server thread/INFO]: [Not Secure] <Littlebugs404_> 肉拿着
-[10:26:51] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
-[10:26:52] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
-[10:26:54] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
-[10:28:09] [Server thread/INFO]: CheessRevolution has made the advancement [Hunt and Gather]
-[10:28:31] [Server thread/INFO]: AwaKING was slain by Zombie
-[10:28:33] [Server thread/INFO]: CheessRevolution has made the advancement [Ice Bucket Challenge]
-[10:29:36] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
-[10:29:41] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
-[10:29:43] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 605)]
-[10:29:44] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 606)]
-[10:29:46] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 605)]
-[10:31:02] [Server thread/INFO]: AwaKING was blown up by Creeper
-[10:31:54] [Server thread/INFO]: AwaKING was slain by Enderman
-[10:32:23] [Server thread/INFO]: AwaKING lost connection: Disconnected
-[10:32:23] [Server thread/INFO]: AwaKING left the game
-[10:32:24] [Server thread/INFO]: AwaKING[/127.0.0.1:40880] logged in with entity id 584947 at (13535.300000011921, 112.0, -4410.3183797772435)
-[10:32:24] [Server thread/INFO]: AwaKING joined the game
-[10:33:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16286ms or 325 ticks behind
-[10:33:28] [Server thread/WARN]: Parzival5077 moved too quickly! 0.5808569731725584,0.0,-10.105789552039823
-[10:34:09] [Server thread/INFO]: AwaKING lost connection: Disconnected
-[10:34:09] [Server thread/INFO]: AwaKING left the game
-[10:34:11] [Server thread/INFO]: AwaKING[/127.0.0.1:54544] logged in with entity id 587747 at (13534.500568268171, 110.0, -4407.699999988079)
-[10:34:11] [Server thread/INFO]: AwaKING joined the game
-[10:34:39] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:34:39] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:35:05] [Server thread/INFO]: AwaKING was killed
-[10:35:05] [Server thread/INFO]: [Parzival5077: Killed AwaKING]
-[10:35:32] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
-[10:36:28] [Server thread/INFO]: [Not Secure] <CheessRevolution> 这...
-[10:36:35] [Server thread/INFO]: [Not Secure] <Littlebugs404_> 黑珍珠号
-[10:36:37] [Server thread/INFO]: [Not Secure] <Parzival5077> ?
-[10:37:38] [Server thread/INFO]: Parzival5077 was slain by AwaKING using [The World]
-[10:37:42] [Server thread/INFO]: [Not Secure] <Parzival5077> ?
-[10:37:49] [Server thread/INFO]: [Not Secure] <AwaKING> use ur stand
-[10:37:57] [Server thread/INFO]: [Not Secure] <AwaKING> beat me
-[10:38:08] [Server thread/INFO]: [Not Secure] <Parzival5077> I have no useful stand
-[10:38:16] [Server thread/INFO]: [Not Secure] <AwaKING> try
-[10:38:36] [Server thread/INFO]: [Not Secure] <AwaKING> show me your stand
-[10:38:37] [Server thread/INFO]: [Not Secure] <Littlebugs404_> ok
-[10:39:03] [Server thread/INFO]: Parzival5077 was slain by AwaKING using [The World]
-[10:39:07] [Server thread/INFO]: [Not Secure] <Parzival5077> nope
-[10:39:11] [Server thread/INFO]: [Not Secure] <Parzival5077> no more stand
-[10:39:17] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
-[10:39:22] [Server thread/INFO]: [Not Secure] <AwaKING> ?
-[10:39:25] [Server thread/INFO]: [Not Secure] <AwaKING> wait
-[10:39:35] [Server thread/INFO]: [Not Secure] <AwaKING> let me kill you few more times
-[10:39:37] [Server thread/INFO]: [Not Secure] <CheessRevolution> 这个岛也不差，就是小了
-[10:39:40] [Server thread/INFO]: [Not Secure] <AwaKING> PLEASE
-[10:39:48] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu]]
-[10:39:50] [Server thread/INFO]: [Not Secure] <Littlebugs404_> 确实啊 找个平一点的？
-[10:39:52] [Server thread/INFO]: [Parzival5077: Triggered [svm.jj.menu] (set value to 357)]
-[10:39:53] [Server thread/INFO]: Parzival5077 was slain by AwaKING using [The World]
-[10:39:54] [Server thread/INFO]: [Not Secure] <Littlebugs404_> 或者就这个？
-[10:40:01] [Server thread/INFO]: [Not Secure] <CheessRevolution> 先下去看看
-[10:40:04] [Server thread/INFO]: [Not Secure] <Littlebugs404_> ok
-[10:40:14] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
-[10:40:14] [Server thread/INFO]: Parzival5077 left the game
-[10:40:43] [Server thread/INFO]: [Not Secure] <CheessRevolution> 要不刚刚那个岛吧...
-[10:40:48] [Server thread/INFO]: [Not Secure] <Littlebugs404_> keyi
-[10:41:16] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
-[10:43:07] [Server thread/INFO]: AwaKING has made the advancement [Stand Mastery III]
-[10:44:30] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:44:11] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:45:56] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:44:07] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:44:08] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:44:07] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:44:12] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:44:10] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:45:56] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:44:07] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
-[10:45:56] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
-[10:45:56] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:45:57] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:45:57] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:45:57] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:45:57] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[10:45:57] [Server thread/INFO]: CheessRevolution lost connection: Timed out
-[10:45:57] [Server thread/INFO]: CheessRevolution left the game
-[10:45:57] [Server thread/INFO]: Littlebugs404_ lost connection: Timed out
-[10:45:57] [Server thread/INFO]: Littlebugs404_ left the game
-[10:45:57] [Server thread/INFO]: AwaKING lost connection: Timed out
-[10:45:57] [Server thread/INFO]: AwaKING left the game
-[10:45:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@3be9cc00[id=<null>,name=AwaKING,properties={},legacy=false] (/127.0.0.1:56370) lost connection: Timed out
-[10:45:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@b2d0f3c[id=<null>,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:56414) lost connection: Timed out
-[10:45:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a106cb4[id=<null>,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:60570) lost connection: Timed out
-[10:45:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 169386ms or 3387 ticks behind
-[10:45:57] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/Ourcraft/server/./crash-reports/crash-2024-09-25_10.45.57-server.txt
+[10:48:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[10:48:44] [Server thread/INFO]: a<--[HERE]
+[10:48:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[10:48:53] [Server thread/INFO]: tell @a<--[HERE]
+[10:49:08] [Server thread/INFO]: You whisper to Littlebugs404_: Is everything alright?
+[10:49:08] [Server thread/INFO]: You whisper to CheessRevolution: Is everything alright?
+[10:49:14] [Server thread/INFO]: [Not Secure] <CheessRevolution> maybe
+[10:49:19] [Server thread/INFO]: [Not Secure] <Littlebugs404_> oka
+[10:49:27] [Server thread/INFO]: There are 2 of a max of 10 players online: Littlebugs404_, CheessRevolution
+[10:50:17] [Server thread/INFO]: AwaKING[/127.0.0.1:36308] logged in with entity id 1971 at (13362.545305608954, 108.2391093867316, -4821.16006407986)
+[10:50:17] [Server thread/INFO]: AwaKING joined the game
+[10:50:17] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[10:50:17] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[10:51:55] [Server thread/INFO]: [Not Secure] <CheessRevolution> 留点树
+[10:52:01] [Server thread/INFO]: [Not Secure] <Littlebugs404_> ok
+[10:52:03] [Server thread/INFO]: [Not Secure] <CheessRevolution> 不然不好看
+[10:52:11] [Server thread/INFO]: [Not Secure] <Littlebugs404_> 那边边角角的拆了？
+[10:52:16] [Server thread/INFO]: [Not Secure] <CheessRevolution> 行
+[10:54:46] [Server thread/INFO]: [Not Secure] <CheessRevolution> 下来
+[10:55:10] [Server thread/INFO]: [Not Secure] <CheessRevolution> 这边
+[10:58:42] [Server thread/INFO]: [Not Secure] <CheessRevolution> 什么海岛余生
+[10:58:48] [Server thread/INFO]: [Not Secure] <Littlebugs404_> xswl
+[10:59:36] [Server thread/INFO]: Littlebugs404_ has made the advancement [Find Alpine Salt]

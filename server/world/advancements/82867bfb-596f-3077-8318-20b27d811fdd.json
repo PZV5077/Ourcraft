@@ -2978,17 +2978,23 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-09-25 09:20:00 +0000"
+      "cooked_beef": "2024-09-25 09:20:00 +0000",
+      "apple": "2024-09-25 10:52:13 +0000",
+      "bread": "2024-09-25 10:57:08 +0000"
     },
     "done": false
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2024-09-25 10:52:36 +0000",
       "rocky_meadow": "2024-09-25 10:16:14 +0000",
+      "blackwood_taiga": "2024-09-25 10:56:09 +0000",
       "magnolia_highlands": "2024-09-25 10:16:18 +0000",
+      "mountains": "2024-09-25 10:53:41 +0000",
       "deciduous_forest": "2024-09-25 10:10:41 +0000",
       "chalk_cliffs": "2024-09-25 10:19:15 +0000",
       "bamboo_forest": "2024-09-25 10:12:39 +0000",
+      "pine_slopes": "2024-09-25 10:53:15 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000"
     },
@@ -2996,11 +3002,15 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2024-09-25 10:52:36 +0000",
       "rocky_meadow": "2024-09-25 10:16:14 +0000",
+      "blackwood_taiga": "2024-09-25 10:56:09 +0000",
       "magnolia_highlands": "2024-09-25 10:16:18 +0000",
+      "mountains": "2024-09-25 10:53:41 +0000",
       "deciduous_forest": "2024-09-25 10:10:41 +0000",
       "chalk_cliffs": "2024-09-25 10:19:15 +0000",
       "bamboo_forest": "2024-09-25 10:12:39 +0000",
+      "pine_slopes": "2024-09-25 10:53:15 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000"
     },
@@ -4322,6 +4332,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "pine_log": "2024-09-25 10:52:53 +0000",
       "bamboo_log": "2024-09-25 10:14:43 +0000"
     },
     "done": false
@@ -4476,6 +4487,18 @@
     },
     "done": true
   },
+  "meadow:recipes/limestone_bricks_wall": {
+    "criteria": {
+      "has_cobbled_limestone": "2024-09-25 10:34:56 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone": {
+    "criteria": {
+      "has_cobbled_limestone": "2024-09-25 10:34:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2024-09-25 10:37:05 +0000"
@@ -4485,12 +4508,6 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-09-25 10:37:05 +0000"
-    },
-    "done": true
-  },
-  "svm_jojo:storyline/stand_mastery_3": {
-    "criteria": {
-      "requirement": "2024-09-25 10:43:07 +0000"
     },
     "done": true
   },
@@ -4506,23 +4523,131 @@
     },
     "done": true
   },
-  "meadow:recipes/limestone_bricks_wall": {
-    "criteria": {
-      "has_cobbled_limestone": "2024-09-25 10:34:56 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
     "criteria": {
       "has_pumpkin": "2024-09-25 10:37:05 +0000"
     },
     "done": true
   },
-  "meadow:recipes/limestone": {
+  "svm_jojo:storyline/stand_mastery_3": {
     "criteria": {
-      "has_cobbled_limestone": "2024-09-25 10:34:56 +0000"
+      "requirement": "2024-09-25 10:43:07 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-09-25 10:52:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-09-25 10:56:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_pink_bioshroom": {
+    "criteria": {
+      "has_pink_bioshroom": "2024-09-25 10:56:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
+    "criteria": {
+      "has_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2024-09-25 10:52:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2024-09-25 10:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_bioshroom": {
+    "criteria": {
+      "has_pink_bioshroom": "2024-09-25 10:56:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-09-25 10:56:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_bioshroom_block": {
+    "criteria": {
+      "has_pink_bioshroom": "2024-09-25 10:56:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-09-25 10:52:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "pink_bioshroom": "2024-09-25 10:56:23 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
