@@ -1,0 +1,21 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-09-25 05:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-09-25 05:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2024-09-25 05:48:25 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
