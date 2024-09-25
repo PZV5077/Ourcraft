@@ -1067,3 +1067,45 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [10:40:43] [Server thread/INFO]: [Not Secure] <CheessRevolution> 要不刚刚那个岛吧...
 [10:40:48] [Server thread/INFO]: [Not Secure] <Littlebugs404_> keyi
 [10:41:16] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[10:43:07] [Server thread/INFO]: AwaKING has made the advancement [Stand Mastery III]
+[10:44:30] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:44:11] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:45:56] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:44:07] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:44:08] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:44:07] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:44:12] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:44:10] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:45:56] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:44:07] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[10:45:56] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[10:45:56] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:45:57] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:45:57] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:45:57] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:45:57] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[10:45:57] [Server thread/INFO]: CheessRevolution lost connection: Timed out
+[10:45:57] [Server thread/INFO]: CheessRevolution left the game
+[10:45:57] [Server thread/INFO]: Littlebugs404_ lost connection: Timed out
+[10:45:57] [Server thread/INFO]: Littlebugs404_ left the game
+[10:45:57] [Server thread/INFO]: AwaKING lost connection: Timed out
+[10:45:57] [Server thread/INFO]: AwaKING left the game
+[10:45:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@3be9cc00[id=<null>,name=AwaKING,properties={},legacy=false] (/127.0.0.1:56370) lost connection: Timed out
+[10:45:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@b2d0f3c[id=<null>,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:56414) lost connection: Timed out
+[10:45:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a106cb4[id=<null>,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:60570) lost connection: Timed out
+[10:45:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 169386ms or 3387 ticks behind
+[10:45:57] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/Ourcraft/server/./crash-reports/crash-2024-09-25_10.45.57-server.txt

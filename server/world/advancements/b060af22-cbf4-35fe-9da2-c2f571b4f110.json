@@ -3649,6 +3649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-09-25 10:43:01 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/highland_bed": {
     "criteria": {
       "has_planks": "2024-09-25 10:42:12 +0000"
@@ -3688,6 +3694,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-09-25 10:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-09-25 10:43:01 +0000"
     },
     "done": true
   },
@@ -3772,6 +3784,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2024-09-25 10:42:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_shrub": {
+    "criteria": {
+      "has_larch_sapling": "2024-09-25 10:43:06 +0000"
     },
     "done": true
   },
@@ -3964,6 +3982,12 @@
   "meadow:recipes/wooden_flower_pot": {
     "criteria": {
       "has_oak_planks": "2024-09-25 10:42:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2024-09-25 10:43:01 +0000"
     },
     "done": true
   },
