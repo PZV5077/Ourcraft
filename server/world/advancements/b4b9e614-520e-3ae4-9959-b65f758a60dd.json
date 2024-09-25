@@ -2608,6 +2608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-09-25 10:38:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_redstone": "2024-09-25 09:40:40 +0000"
@@ -2869,6 +2875,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-09-25 10:38:29 +0000"
     },
     "done": true
   },
@@ -3163,6 +3175,12 @@
   "createbigcannons:recipes/misc/solid_shot": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-09-25 10:37:35 +0000"
     },
     "done": true
   },
@@ -3943,6 +3961,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-09-25 10:24:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-09-25 10:37:35 +0000"
     },
     "done": true
   },
