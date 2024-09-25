@@ -5160,15 +5160,39 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/larch_slab": {
+  "regions_unexplored:recipes/decorations/larch_shrub": {
     "criteria": {
-      "has_larch_planks": "2024-09-25 10:50:57 +0000"
+      "has_larch_sapling": "2024-09-25 10:49:00 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/building_blocks/larch_wood": {
     "criteria": {
       "has_log": "2024-09-25 10:50:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2024-09-25 10:50:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "larch_log": "2024-09-25 10:50:55 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2024-09-25 10:50:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2024-09-25 10:50:57 +0000"
     },
     "done": true
   },
@@ -5196,12 +5220,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/larch_shrub": {
-    "criteria": {
-      "has_larch_sapling": "2024-09-25 10:49:00 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/larch_pressure_plate": {
     "criteria": {
       "has_larch_planks": "2024-09-25 10:50:57 +0000"
@@ -5214,27 +5232,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
-    "criteria": {
-      "has_log": "2024-09-25 10:50:55 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/larch_stairs": {
     "criteria": {
       "has_larch_planks": "2024-09-25 10:50:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:got_wood": {
-    "criteria": {
-      "larch_log": "2024-09-25 10:50:55 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/building_blocks/larch_planks": {
-    "criteria": {
-      "has_logs": "2024-09-25 10:50:55 +0000"
     },
     "done": true
   },
