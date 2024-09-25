@@ -19,8 +19,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-09-25 10:09:28 +0000",
       "minecraft:river": "2024-09-25 08:46:27 +0000",
       "minecraft:forest": "2024-09-25 09:57:22 +0000",
+      "minecraft:ocean": "2024-09-25 10:09:09 +0000",
       "minecraft:flower_forest": "2024-09-25 09:56:31 +0000",
       "minecraft:meadow": "2024-09-25 08:36:52 +0000",
       "minecraft:plains": "2024-09-25 09:41:54 +0000"
@@ -30,18 +32,22 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2024-09-25 09:41:26 +0000",
+      "pine_taiga": "2024-09-25 10:12:19 +0000",
       "rocky_meadow": "2024-09-25 09:53:32 +0000",
       "highland_fields": "2024-09-25 08:38:58 +0000",
-      "temperate_grove": "2024-09-25 08:43:21 +0000"
+      "temperate_grove": "2024-09-25 08:43:21 +0000",
+      "redwoods": "2024-09-25 10:12:38 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2024-09-25 09:41:26 +0000",
+      "pine_taiga": "2024-09-25 10:12:19 +0000",
       "rocky_meadow": "2024-09-25 09:53:32 +0000",
       "highland_fields": "2024-09-25 08:38:58 +0000",
-      "temperate_grove": "2024-09-25 08:43:21 +0000"
+      "temperate_grove": "2024-09-25 08:43:21 +0000",
+      "redwoods": "2024-09-25 10:12:38 +0000"
     },
     "done": false
   },
@@ -3197,6 +3203,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-09-25 10:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-09-25 09:55:48 +0000"
@@ -3326,6 +3338,12 @@
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-09-25 09:52:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-09-25 10:08:18 +0000"
     },
     "done": true
   },
@@ -3500,6 +3518,18 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-09-25 09:43:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-09-25 10:08:18 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/kill_buffalo": {
+    "criteria": {
+      "killed_buffalo": "2024-09-25 09:58:18 +0000"
     },
     "done": true
   },

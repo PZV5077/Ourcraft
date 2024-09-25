@@ -2979,6 +2979,8 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "deciduous_forest": "2024-09-25 10:10:41 +0000",
+      "bamboo_forest": "2024-09-25 10:12:39 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000"
     },
@@ -2986,6 +2988,8 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "deciduous_forest": "2024-09-25 10:10:41 +0000",
+      "bamboo_forest": "2024-09-25 10:12:39 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000"
     },
@@ -3909,6 +3913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-09-25 10:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-09-25 09:56:35 +0000"
@@ -4029,6 +4039,18 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/stand_mastery_1": {
+    "criteria": {
+      "requirement": "2024-09-25 10:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-09-25 10:09:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-09-25 09:41:11 +0000"
@@ -4065,6 +4087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-09-25 10:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-09-25 09:45:37 +0000"
@@ -4074,6 +4102,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-09-25 09:45:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-25 10:09:59 +0000"
     },
     "done": true
   },
@@ -4161,6 +4195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-09-25 10:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-09-25 09:45:37 +0000"
@@ -4185,9 +4225,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-09-25 10:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-09-25 09:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-09-25 10:10:00 +0000"
     },
     "done": true
   },
@@ -4203,9 +4255,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-09-25 10:09:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
       "has_birch_planks": "2024-09-25 09:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-09-25 10:09:59 +0000"
     },
     "done": true
   },

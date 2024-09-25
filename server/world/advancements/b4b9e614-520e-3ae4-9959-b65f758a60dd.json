@@ -2186,6 +2186,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-25 10:07:24 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:skill_tree/weather_report/cloud_shoot": {
     "criteria": {
       "requirement": "2024-09-25 09:52:47 +0000"
@@ -2366,6 +2384,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
       "has_redstone": "2024-09-25 09:40:40 +0000"
@@ -2393,6 +2417,18 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-09-25 09:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
     },
     "done": true
   },
@@ -2435,6 +2471,12 @@
   "supplementaries:recipes/cage": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
     },
     "done": true
   },
@@ -2498,6 +2540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
     "criteria": {
       "has_redstone": "2024-09-25 09:40:40 +0000"
@@ -2519,6 +2567,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
     },
     "done": true
   },
@@ -2720,6 +2774,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
@@ -2888,6 +2948,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
       "has_redstone": "2024-09-25 09:40:40 +0000"
@@ -2927,6 +2993,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
       "has_redstone": "2024-09-25 09:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
     },
     "done": true
   },
@@ -3230,6 +3302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
@@ -3254,6 +3332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
@@ -3272,6 +3356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-25 10:07:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
@@ -3281,6 +3371,12 @@
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
       "has_redstone": "2024-09-25 09:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-25 10:07:24 +0000"
     },
     "done": true
   },
@@ -3299,6 +3395,12 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
     },
     "done": true
   },
@@ -3329,6 +3431,12 @@
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
     },
     "done": true
   },
@@ -3365,6 +3473,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_grill": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
     },
     "done": true
   },
@@ -3434,6 +3548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-09-25 09:39:09 +0000"
@@ -3485,6 +3605,18 @@
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
     },
     "done": true
   },
@@ -3575,6 +3707,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2024-09-25 09:51:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2024-09-25 10:05:47 +0000"
     },
     "done": true
   },
