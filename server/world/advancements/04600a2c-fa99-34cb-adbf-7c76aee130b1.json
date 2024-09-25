@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-25 08:28:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-09-25 08:08:39 +0000"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
@@ -188,6 +200,18 @@
   "meadow:recipes/stick": {
     "criteria": {
       "has_pine_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -230,6 +254,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-09-25 08:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -528,6 +558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-09-25 08:32:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/meadow/sign_post_pine": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
@@ -549,6 +585,12 @@
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-09-25 08:32:57 +0000"
     },
     "done": true
   },
@@ -597,6 +639,12 @@
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2024-09-25 08:11:15 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/mortar_stone": {
+    "criteria": {
+      "has_stone": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -678,6 +726,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_stool": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
@@ -690,6 +744,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
@@ -699,6 +759,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-09-25 08:14:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -777,6 +843,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-09-25 08:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -876,6 +948,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-09-25 08:32:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-09-25 08:08:39 +0000"
@@ -885,6 +963,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-09-25 08:12:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -903,6 +987,12 @@
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -939,6 +1029,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -1027,6 +1123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-09-25 08:09:59 +0000"
@@ -1036,6 +1138,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -1120,6 +1228,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-09-25 08:14:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -1345,6 +1459,12 @@
     },
     "done": true
   },
+  "meadow:recipes/cheese_tart": {
+    "criteria": {
+      "has_wheat": "2024-09-25 08:32:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-09-25 08:09:18 +0000"
@@ -1501,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-09-25 08:08:39 +0000"
@@ -1555,6 +1681,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-09-25 08:14:28 +0000"
@@ -1564,6 +1702,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-09-25 08:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -1609,6 +1753,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-09-25 08:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-09-25 08:21:59 +0000"
@@ -1642,6 +1792,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2024-09-25 08:15:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-09-25 08:32:57 +0000"
     },
     "done": true
   },
@@ -1688,6 +1844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-25 08:28:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2024-09-25 08:09:59 +0000"
@@ -1697,6 +1859,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-09-25 08:32:57 +0000"
     },
     "done": true
   },
@@ -1760,6 +1928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-25 08:28:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-09-25 08:15:59 +0000"
@@ -1769,6 +1943,18 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-09-25 08:30:17 +0000"
     },
     "done": true
   },
@@ -1838,6 +2024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-09-25 08:30:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2024-09-25 08:08:39 +0000"
@@ -1850,9 +2042,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -2000,6 +2216,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2024-09-25 08:15:52 +0000",
@@ -2067,15 +2289,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-09-25 08:32:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2024-09-25 08:08:39 +0000"
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-09-25 08:30:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -2103,6 +2349,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/cheese_rack": {
     "criteria": {
       "has_pine_planks": "2024-09-25 08:08:31 +0000"
@@ -2124,6 +2376,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-09-25 08:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -2172,6 +2430,12 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-09-25 08:19:00 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheesecake": {
+    "criteria": {
+      "has_wheat": "2024-09-25 08:32:57 +0000"
     },
     "done": true
   },
@@ -2262,6 +2526,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-09-25 08:35:26 +0000",
       "minecraft:river": "2024-09-25 08:14:49 +0000",
       "minecraft:forest": "2024-09-25 08:09:53 +0000",
       "minecraft:meadow": "2024-09-25 08:05:38 +0000"
@@ -2295,6 +2560,18 @@
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-09-25 08:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-09-25 08:30:41 +0000"
     },
     "done": true
   },
@@ -2337,6 +2614,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2024-09-25 08:08:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-09-25 08:32:57 +0000"
     },
     "done": true
   },
