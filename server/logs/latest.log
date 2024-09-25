@@ -556,3 +556,13 @@ Apply Modifications for minecraft:overworld
 [02:48:13] [Server thread/INFO]: Saving players
 [02:48:13] [Server thread/INFO]: Saving worlds
 [02:48:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:48:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:48:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:48:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:48:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:48:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:48:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:48:54] [Server thread/INFO]: [EasyAuth]: Shutting down EasyAuth.
+[02:48:54] [Server thread/INFO]: [EasyAuth]: Database connection closed successfully
+[02:48:54] [Server thread/INFO]: Unloading server configs...
+[02:48:54] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
