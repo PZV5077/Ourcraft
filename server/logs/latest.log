@@ -1065,3 +1065,28 @@ EdenBiomeSource (76f8df4)
 [03:36:20] [Server thread/INFO]: hhhh_w has made the advancement [Home of Heidi?]
 [03:36:36] [Server thread/INFO]: hhhh_w lost connection: Disconnected
 [03:36:36] [Server thread/INFO]: hhhh_w left the game
+[03:38:13] [Server thread/INFO]: hhhh_w[/127.0.0.1:43650] logged in with entity id 2886 at (13494.540370350463, 116.0, -4402.250198636769)
+[03:38:13] [Server thread/INFO]: hhhh_w joined the game
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:38:15] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:38:15] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:38:15] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:38:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:38:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:38:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:38:15] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[03:38:15] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
