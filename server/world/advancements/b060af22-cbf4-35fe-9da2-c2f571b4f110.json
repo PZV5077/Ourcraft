@@ -4492,7 +4492,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2024-09-25 10:59:19 +0000"
+      "cabbage": "2024-09-26 07:04:03 +0000",
+      "tomato": "2024-09-26 07:01:57 +0000",
+      "sugar_cane": "2024-09-25 10:59:19 +0000",
+      "wheat": "2024-09-26 07:01:23 +0000"
     },
     "done": false
   },
@@ -5306,6 +5309,12 @@
     },
     "done": false
   },
+  "meadow:recipes/frame": {
+    "criteria": {
+      "has_campfire": "2024-09-26 07:06:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-09-26 06:44:54 +0000"
@@ -5360,6 +5369,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-26 07:04:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-09-26 06:44:54 +0000"
@@ -5381,6 +5396,12 @@
   "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-09-26 06:44:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2024-09-26 07:04:02 +0000"
     },
     "done": true
   },
@@ -5426,6 +5447,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "has_campfire": "2024-09-26 07:06:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-09-26 06:44:54 +0000"
@@ -5441,6 +5468,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-09-26 06:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-09-26 07:01:23 +0000"
     },
     "done": true
   },

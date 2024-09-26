@@ -3000,6 +3000,7 @@
       "pine_taiga": "2024-09-25 10:52:36 +0000",
       "ancient_delta": "2024-09-26 05:00:18 +0000",
       "grassy_beach": "2024-09-25 11:15:28 +0000",
+      "scorching_caves": "2024-09-26 07:09:35 +0000",
       "rocky_meadow": "2024-09-25 10:16:14 +0000",
       "blackwood_taiga": "2024-09-25 10:56:09 +0000",
       "highland_fields": "2024-09-25 13:53:00 +0000",
@@ -5840,6 +5841,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "scorching_caves": "2024-09-26 07:09:35 +0000",
       "ancient_delta": "2024-09-26 05:00:18 +0000"
     },
     "done": false
@@ -5898,6 +5900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-09-26 07:09:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-09-26 06:46:23 +0000"
@@ -5928,6 +5936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-09-26 07:09:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-09-26 06:50:45 +0000"
@@ -5955,6 +5969,12 @@
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2024-09-26 06:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-09-26 07:09:52 +0000"
     },
     "done": true
   },
