@@ -5619,6 +5619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-09-26 04:57:59 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/pulse_tree_fence": {
     "criteria": {
       "has_stick": "2024-09-26 04:43:58 +0000"
@@ -5808,6 +5814,12 @@
   "bclib:recipes/brewing/tag_cauldron": {
     "criteria": {
       "has_tag_c_iron_ingots": "2024-09-26 04:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-09-26 04:57:59 +0000"
     },
     "done": true
   },

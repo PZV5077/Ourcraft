@@ -2993,6 +2993,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "pine_taiga": "2024-09-25 10:52:36 +0000",
+      "ancient_delta": "2024-09-26 05:00:18 +0000",
       "grassy_beach": "2024-09-25 11:15:28 +0000",
       "rocky_meadow": "2024-09-25 10:16:14 +0000",
       "blackwood_taiga": "2024-09-25 10:56:09 +0000",
@@ -5761,6 +5762,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2024-09-26 05:00:18 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2024-09-26 04:38:36 +0000"
@@ -5806,6 +5813,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-09-26 04:47:50 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/the_world/50": {
+    "criteria": {
+      "requirement": "2024-09-26 04:57:20 +0000"
     },
     "done": true
   },
