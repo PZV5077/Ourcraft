@@ -26,6 +26,7 @@
       "minecraft:grove": "2024-09-26 05:09:28 +0000",
       "minecraft:forest": "2024-09-25 09:13:24 +0000",
       "minecraft:ocean": "2024-09-25 11:17:24 +0000",
+      "minecraft:old_growth_birch_forest": "2024-09-26 05:24:47 +0000",
       "minecraft:meadow": "2024-09-25 08:46:11 +0000",
       "minecraft:savanna": "2024-09-25 09:22:34 +0000",
       "minecraft:plains": "2024-09-25 09:20:53 +0000"
@@ -2995,6 +2996,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2024-09-26 05:22:37 +0000",
       "pine_taiga": "2024-09-25 10:52:36 +0000",
       "ancient_delta": "2024-09-26 05:00:18 +0000",
       "grassy_beach": "2024-09-25 11:15:28 +0000",
@@ -3010,12 +3012,14 @@
       "pine_slopes": "2024-09-25 10:53:15 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000",
-      "redwoods": "2024-09-26 04:54:10 +0000"
+      "redwoods": "2024-09-26 04:54:10 +0000",
+      "lupine_plains": "2024-09-26 05:24:39 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2024-09-26 05:22:37 +0000",
       "pine_taiga": "2024-09-25 10:52:36 +0000",
       "grassy_beach": "2024-09-25 11:15:28 +0000",
       "rocky_meadow": "2024-09-25 10:16:14 +0000",
@@ -3030,7 +3034,8 @@
       "pine_slopes": "2024-09-25 10:53:15 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
       "prairie": "2024-09-25 09:22:43 +0000",
-      "redwoods": "2024-09-26 04:54:10 +0000"
+      "redwoods": "2024-09-26 04:54:10 +0000",
+      "lupine_plains": "2024-09-26 05:24:39 +0000"
     },
     "done": false
   },
@@ -5836,6 +5841,12 @@
       "ancient_delta": "2024-09-26 05:00:18 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_coneflower": {
+    "criteria": {
+      "has_purple_coneflower": "2024-09-26 05:26:34 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
