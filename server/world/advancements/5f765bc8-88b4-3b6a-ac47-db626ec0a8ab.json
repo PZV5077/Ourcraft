@@ -3066,6 +3066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-09-26 04:15:38 +0000"
@@ -3075,6 +3081,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-09-26 04:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
     },
     "done": true
   },
@@ -3120,6 +3132,24 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/get_stand": {
+    "criteria": {
+      "requirement": "2024-09-26 04:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-09-26 04:01:53 +0000"
@@ -3129,6 +3159,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-09-26 04:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
     },
     "done": true
   },
@@ -3147,6 +3183,12 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2024-09-26 04:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
     },
     "done": true
   },
@@ -3177,6 +3219,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-09-26 04:09:55 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/root": {
+    "criteria": {
+      "requirement": "2024-09-26 04:23:42 +0000"
     },
     "done": true
   },
@@ -3213,6 +3261,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-09-26 04:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
     },
     "done": true
   },
@@ -3279,6 +3333,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-09-26 04:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
     },
     "done": true
   },
@@ -3439,6 +3499,18 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/star_platinum/root": {
+    "criteria": {
+      "requirement": "2024-09-26 04:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-09-26 04:01:53 +0000"
@@ -3448,6 +3520,12 @@
   "createbigcannons:recipes/misc/machine_gun_round": {
     "criteria": {
       "has_gunpowder": "2024-09-26 04:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
     },
     "done": true
   },
@@ -3551,6 +3629,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-09-26 04:01:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
     },
     "done": true
   },
@@ -3722,9 +3806,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2024-09-26 04:00:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
     },
     "done": true
   },
@@ -3797,6 +3893,12 @@
   "createbigcannons:recipes/misc/cannon_mount": {
     "criteria": {
       "has_gunpowder": "2024-09-26 04:01:39 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/grab": {
+    "criteria": {
+      "requirement": "2024-09-26 04:23:43 +0000"
     },
     "done": true
   },
@@ -3914,6 +4016,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-09-26 04:00:05 +0000"
@@ -3956,6 +4064,12 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/get_star_platinum": {
+    "criteria": {
+      "requirement": "2024-09-26 04:23:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2024-09-26 04:17:02 +0000"
@@ -3965,6 +4079,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-09-26 04:01:53 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/root": {
+    "criteria": {
+      "requirement": "2024-09-26 04:23:42 +0000"
     },
     "done": true
   },
@@ -4088,6 +4208,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-09-26 04:01:39 +0000"
@@ -4151,6 +4283,18 @@
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-09-26 04:15:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-26 04:23:10 +0000"
     },
     "done": true
   },
