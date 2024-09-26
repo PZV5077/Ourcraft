@@ -2844,7 +2844,8 @@
   },
   "meadow:main/wool_collector": {
     "criteria": {
-      "meadow:umbra_wool": "2024-09-25 09:19:25 +0000"
+      "meadow:umbra_wool": "2024-09-25 09:19:25 +0000",
+      "meadow:patched_wool": "2024-09-26 07:16:10 +0000"
     },
     "done": false
   },
@@ -5888,6 +5889,12 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/killer_queen/stray_cat": {
+    "criteria": {
+      "requirement": "2024-09-26 07:23:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-09-26 06:50:45 +0000"
@@ -5897,6 +5904,18 @@
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2024-09-26 06:23:57 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/killer_queen/air_protection": {
+    "criteria": {
+      "requirement": "2024-09-26 07:23:36 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/killer_queen/following_bubble": {
+    "criteria": {
+      "requirement": "2024-09-26 07:23:36 +0000"
     },
     "done": true
   },
@@ -5915,6 +5934,18 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-09-26 06:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-09-26 07:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-09-26 07:18:36 +0000"
     },
     "done": true
   },
@@ -5939,6 +5970,12 @@
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-09-26 06:32:44 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/killer_queen/explosive_bubble": {
+    "criteria": {
+      "requirement": "2024-09-26 07:23:36 +0000"
     },
     "done": true
   },
@@ -5972,9 +6009,21 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/killer_queen/air_bubble": {
+    "criteria": {
+      "requirement": "2024-09-26 07:23:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-09-26 06:32:44 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/get_stray_cat": {
+    "criteria": {
+      "requirement": "2024-09-26 07:23:36 +0000"
     },
     "done": true
   },
@@ -5987,6 +6036,12 @@
   "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
     "criteria": {
       "has_log": "2024-09-26 07:13:07 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/patched_carpet": {
+    "criteria": {
+      "has_patched_wool": "2024-09-26 07:16:10 +0000"
     },
     "done": true
   },
@@ -6023,6 +6078,12 @@
   "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
     "criteria": {
       "has_fireweed": "2024-09-26 06:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-09-26 07:18:36 +0000"
     },
     "done": true
   },
