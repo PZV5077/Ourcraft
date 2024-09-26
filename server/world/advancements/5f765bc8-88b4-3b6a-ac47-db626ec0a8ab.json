@@ -30,6 +30,7 @@
       "minecraft:dripstone_caves": "2024-09-26 03:47:41 +0000",
       "minecraft:grove": "2024-09-26 05:09:58 +0000",
       "minecraft:forest": "2024-09-26 03:58:29 +0000",
+      "minecraft:old_growth_birch_forest": "2024-09-26 05:23:38 +0000",
       "minecraft:meadow": "2024-09-26 03:36:20 +0000",
       "minecraft:savanna": "2024-09-26 04:47:40 +0000",
       "minecraft:plains": "2024-09-26 04:45:27 +0000"
@@ -1373,6 +1374,7 @@
       "minecraft:skeleton": "2024-09-26 03:52:06 +0000",
       "minecraft:spider": "2024-09-26 03:41:50 +0000",
       "minecraft:creeper": "2024-09-26 04:01:39 +0000",
+      "minecraft:zombified_piglin": "2024-09-26 05:27:00 +0000",
       "minecraft:zombie": "2024-09-26 03:51:17 +0000"
     },
     "done": false
@@ -1637,30 +1639,36 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2024-09-26 05:22:05 +0000",
       "pine_taiga": "2024-09-26 04:28:35 +0000",
       "prismachasm": "2024-09-26 04:20:47 +0000",
       "ancient_delta": "2024-09-26 05:00:17 +0000",
       "redstone_caves": "2024-09-26 04:17:03 +0000",
       "blackwood_taiga": "2024-09-26 04:55:18 +0000",
       "highland_fields": "2024-09-26 03:42:22 +0000",
+      "magnolia_highlands": "2024-09-26 05:22:55 +0000",
       "sparse_redwoods": "2024-09-26 04:55:21 +0000",
       "deciduous_forest": "2024-09-26 04:53:23 +0000",
       "temperate_grove": "2024-09-26 04:10:55 +0000",
       "grassland": "2024-09-26 04:47:53 +0000",
-      "redwoods": "2024-09-26 04:54:13 +0000"
+      "redwoods": "2024-09-26 04:54:13 +0000",
+      "lupine_plains": "2024-09-26 05:23:29 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2024-09-26 05:22:05 +0000",
       "pine_taiga": "2024-09-26 04:28:35 +0000",
       "blackwood_taiga": "2024-09-26 04:55:18 +0000",
       "highland_fields": "2024-09-26 03:42:22 +0000",
+      "magnolia_highlands": "2024-09-26 05:22:55 +0000",
       "sparse_redwoods": "2024-09-26 04:55:21 +0000",
       "deciduous_forest": "2024-09-26 04:53:23 +0000",
       "temperate_grove": "2024-09-26 04:10:55 +0000",
       "grassland": "2024-09-26 04:47:53 +0000",
-      "redwoods": "2024-09-26 04:54:13 +0000"
+      "redwoods": "2024-09-26 04:54:13 +0000",
+      "lupine_plains": "2024-09-26 05:23:29 +0000"
     },
     "done": false
   },
@@ -4373,6 +4381,12 @@
   "svm_jojo:storyline/stand_mastery_2": {
     "criteria": {
       "requirement": "2024-09-26 05:02:49 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kill_jotaro_with_star_platinum": {
+    "criteria": {
+      "requirement": "2024-09-26 05:27:00 +0000"
     },
     "done": true
   },
