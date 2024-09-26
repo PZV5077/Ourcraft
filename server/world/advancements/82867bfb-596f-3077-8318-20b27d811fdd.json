@@ -5865,9 +5865,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2024-09-26 07:32:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
       "has_hyssop": "2024-09-26 06:40:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2024-09-26 07:32:00 +0000"
     },
     "done": true
   },
@@ -5883,6 +5895,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2024-09-26 07:32:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-09-26 07:13:07 +0000"
@@ -5892,6 +5910,12 @@
   "svm_jojo:skill_tree/killer_queen/stray_cat": {
     "criteria": {
       "requirement": "2024-09-26 07:23:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2024-09-26 07:32:00 +0000"
     },
     "done": true
   },
@@ -5973,6 +5997,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2024-09-26 07:32:00 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:skill_tree/killer_queen/explosive_bubble": {
     "criteria": {
       "requirement": "2024-09-26 07:23:36 +0000"
@@ -5985,9 +6015,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2024-09-26 07:32:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-09-26 07:09:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2024-09-26 07:32:00 +0000"
     },
     "done": true
   },
@@ -6003,6 +6045,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2024-09-26 07:32:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_logs": "2024-09-26 06:23:57 +0000"
@@ -6015,6 +6063,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2024-09-26 07:32:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-09-26 06:32:44 +0000"
@@ -6024,6 +6078,12 @@
   "svm_jojo:storyline/get_stray_cat": {
     "criteria": {
       "requirement": "2024-09-26 07:23:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_planks": "2024-09-26 07:32:00 +0000"
     },
     "done": true
   },

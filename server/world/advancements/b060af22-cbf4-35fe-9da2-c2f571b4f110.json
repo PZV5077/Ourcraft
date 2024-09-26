@@ -5413,6 +5413,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-09-26 07:28:33 +0000",
+      "minecraft:creeper": "2024-09-26 07:29:52 +0000",
       "minecraft:zombie": "2024-09-26 06:48:25 +0000"
     },
     "done": false
@@ -5678,6 +5680,18 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-09-26 07:16:40 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/star_platinum/5": {
+    "criteria": {
+      "requirement": "2024-09-26 07:28:33 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/star_finger": {
+    "criteria": {
+      "requirement": "2024-09-26 07:28:35 +0000"
     },
     "done": true
   },

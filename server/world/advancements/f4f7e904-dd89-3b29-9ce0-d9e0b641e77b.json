@@ -959,6 +959,7 @@
       "shrubland": "2024-09-25 09:31:43 +0000",
       "pine_taiga": "2024-09-25 10:12:18 +0000",
       "muddy_river": "2024-09-26 05:25:03 +0000",
+      "autumnal_maple_forest": "2024-09-26 07:26:40 +0000",
       "frozen_tundra": "2024-09-26 05:04:43 +0000",
       "grassy_beach": "2024-09-25 10:13:39 +0000",
       "rocky_meadow": "2024-09-25 09:53:57 +0000",
@@ -977,6 +978,7 @@
       "shrubland": "2024-09-25 09:31:43 +0000",
       "pine_taiga": "2024-09-25 10:12:18 +0000",
       "muddy_river": "2024-09-26 05:25:03 +0000",
+      "autumnal_maple_forest": "2024-09-26 07:26:40 +0000",
       "frozen_tundra": "2024-09-26 05:04:43 +0000",
       "grassy_beach": "2024-09-25 10:13:39 +0000",
       "rocky_meadow": "2024-09-25 09:53:57 +0000",
@@ -6157,6 +6159,42 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-09-26 07:20:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-09-26 07:29:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-09-26 07:27:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-26 07:27:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:milk": "2024-09-26 07:27:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2024-09-26 07:27:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-26 07:27:43 +0000"
     },
     "done": true
   },
