@@ -20,13 +20,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-09-25 09:13:12 +0000",
+      "minecraft:bamboo_jungle": "2024-09-26 07:50:26 +0000",
       "minecraft:savanna_plateau": "2024-09-25 09:24:08 +0000",
+      "minecraft:sparse_jungle": "2024-09-26 07:49:31 +0000",
       "minecraft:river": "2024-09-25 09:13:37 +0000",
+      "minecraft:lukewarm_ocean": "2024-09-26 07:54:20 +0000",
       "minecraft:dripstone_caves": "2024-09-25 09:16:58 +0000",
       "minecraft:grove": "2024-09-26 05:09:28 +0000",
       "minecraft:forest": "2024-09-25 09:13:24 +0000",
       "minecraft:ocean": "2024-09-25 11:17:24 +0000",
       "minecraft:jungle": "2024-09-26 07:35:30 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-09-26 07:54:32 +0000",
       "minecraft:old_growth_birch_forest": "2024-09-26 05:24:47 +0000",
       "minecraft:meadow": "2024-09-25 08:46:11 +0000",
       "minecraft:savanna": "2024-09-25 09:22:34 +0000",
@@ -2992,6 +2996,7 @@
       "potato": "2024-09-26 04:38:42 +0000",
       "mutton": "2024-09-26 05:10:02 +0000",
       "bread": "2024-09-25 10:57:08 +0000",
+      "melon_slice": "2024-09-26 07:49:45 +0000",
       "cooked_chicken": "2024-09-25 11:01:20 +0000"
     },
     "done": false
@@ -3008,6 +3013,7 @@
       "highland_fields": "2024-09-25 13:53:00 +0000",
       "magnolia_highlands": "2024-09-25 10:16:18 +0000",
       "mountains": "2024-09-25 10:53:41 +0000",
+      "sparse_redwoods": "2024-09-26 07:50:10 +0000",
       "deciduous_forest": "2024-09-25 10:10:41 +0000",
       "chalk_cliffs": "2024-09-25 10:19:15 +0000",
       "bamboo_forest": "2024-09-25 10:12:39 +0000",
@@ -3030,6 +3036,7 @@
       "highland_fields": "2024-09-25 13:53:00 +0000",
       "magnolia_highlands": "2024-09-25 10:16:18 +0000",
       "mountains": "2024-09-25 10:53:41 +0000",
+      "sparse_redwoods": "2024-09-26 07:50:10 +0000",
       "deciduous_forest": "2024-09-25 10:10:41 +0000",
       "chalk_cliffs": "2024-09-25 10:19:15 +0000",
       "bamboo_forest": "2024-09-25 10:12:39 +0000",
@@ -6145,6 +6152,180 @@
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
     "criteria": {
       "has_planks": "2024-09-26 07:32:00 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2024-09-26 07:56:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-09-26 07:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-09-26 07:48:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-09-26 07:48:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-09-26 07:48:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-26 07:54:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-09-26 07:48:51 +0000"
     },
     "done": true
   },

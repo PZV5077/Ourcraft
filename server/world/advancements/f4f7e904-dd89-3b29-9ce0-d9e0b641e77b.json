@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-09-25 10:30:33 +0000",
+      "minecraft:frozen_river": "2024-09-26 07:49:36 +0000",
       "minecraft:beach": "2024-09-25 10:09:26 +0000",
       "minecraft:river": "2024-09-25 08:46:22 +0000",
       "minecraft:lukewarm_ocean": "2024-09-25 10:14:41 +0000",
@@ -41,6 +42,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-09-26 07:05:35 +0000",
+      "minecraft:creeper": "2024-09-26 07:51:21 +0000",
       "minecraft:zombie": "2024-09-25 08:05:20 +0000"
     },
     "done": false
@@ -967,6 +969,7 @@
       "highland_fields": "2024-09-25 08:08:49 +0000",
       "maple_forest": "2024-09-26 05:21:55 +0000",
       "boreal_forest": "2024-09-25 10:39:15 +0000",
+      "cold_boreal_taiga": "2024-09-26 07:49:42 +0000",
       "temperate_grove": "2024-09-25 08:43:52 +0000",
       "cold_river": "2024-09-26 05:23:45 +0000",
       "gravel_beach": "2024-09-26 05:21:28 +0000",
@@ -986,6 +989,7 @@
       "highland_fields": "2024-09-25 08:08:49 +0000",
       "maple_forest": "2024-09-26 05:21:55 +0000",
       "boreal_forest": "2024-09-25 10:39:15 +0000",
+      "cold_boreal_taiga": "2024-09-26 07:49:42 +0000",
       "temperate_grove": "2024-09-25 08:43:52 +0000",
       "cold_river": "2024-09-26 05:23:45 +0000",
       "gravel_beach": "2024-09-26 05:21:28 +0000",
@@ -6205,9 +6209,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-09-26 07:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-09-26 07:41:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brown_dye_from_cattail": {
+    "criteria": {
+      "has_cattail": "2024-09-26 07:51:49 +0000"
     },
     "done": true
   },
