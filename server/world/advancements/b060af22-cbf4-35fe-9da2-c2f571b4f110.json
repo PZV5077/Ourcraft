@@ -4687,5 +4687,101 @@
     },
     "done": true
   },
+  "bclib:recipes/tools/tag_compass": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/transportation/tag_minecart": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/misc/tag_bucket": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/redstone/tag_piston": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/misc/gravity_compressor": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_smith_table": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/transportation/tag_rail": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/combat/tag_shield": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/misc/gravilite_lantern_tall": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/misc/gravilite_lantern": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/misc/gravilite_lamp": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/redstone/tag_hopper": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/brewing/tag_cauldron": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_stonecutter": {
+    "criteria": {
+      "has_tag_c_iron_ingots": "2024-09-26 04:40:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
