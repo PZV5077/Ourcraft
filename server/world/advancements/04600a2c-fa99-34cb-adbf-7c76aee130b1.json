@@ -2370,6 +2370,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-09-25 08:21:59 +0000",
+      "minecraft:slime": "2024-09-26 07:11:09 +0000",
       "minecraft:zombie": "2024-09-25 08:18:59 +0000"
     },
     "done": false
@@ -4127,6 +4128,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pink_magnolia_sapling_from_pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_shrub": "2024-09-26 07:14:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2024-09-26 06:00:10 +0000"
@@ -4835,6 +4842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-09-26 07:11:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-09-26 06:07:56 +0000"
@@ -5393,6 +5406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-09-26 07:11:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-09-26 07:08:42 +0000"
@@ -5501,6 +5520,12 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/kills/the_world/10": {
+    "criteria": {
+      "requirement": "2024-09-26 07:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-09-26 06:37:46 +0000"
@@ -5528,6 +5553,18 @@
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-09-26 06:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-09-26 07:11:35 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/the_world/time_stop": {
+    "criteria": {
+      "requirement": "2024-09-26 07:13:05 +0000"
     },
     "done": true
   },

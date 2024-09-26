@@ -5333,7 +5333,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-09-26 07:12:22 +0000",
       "minecraft:spider": "2024-09-26 06:50:20 +0000",
+      "minecraft:slime": "2024-09-26 07:10:49 +0000",
       "minecraft:zombie": "2024-09-26 06:48:02 +0000"
     },
     "done": false
@@ -5548,6 +5550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-09-26 07:11:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-09-26 06:50:06 +0000"
@@ -5710,6 +5718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-09-26 07:14:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-09-26 07:07:06 +0000"
@@ -5752,6 +5766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-09-26 07:11:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-09-26 07:07:06 +0000"
@@ -5785,6 +5805,12 @@
   "svm_jojo:kill_entity": {
     "criteria": {
       "requirement": "2024-09-26 06:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-09-26 07:11:25 +0000"
     },
     "done": true
   },
