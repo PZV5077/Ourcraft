@@ -1132,3 +1132,58 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [04:42:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [04:42:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [04:42:25] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[04:43:08] [Server thread/INFO]: jjjjjasper was slain by AwaKING using [The World]
+[04:43:20] [Server thread/INFO]: jjjjjasper was slain by hhhh_w using [Star Platinum]
+[04:43:24] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[04:43:24] [Server thread/INFO]: jjjjjasper lost connection: Disconnected
+[04:43:24] [Server thread/INFO]: jjjjjasper left the game
+[04:43:41] [Server thread/INFO]: hhhh_w was slain by AwaKING using [The World]
+[04:43:58] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:57672] logged in with entity id 137647 at (14054.5, 64.0, -189.5)
+[04:43:58] [Server thread/INFO]: Littlebugs404_ joined the game
+[04:44:01] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:44:01] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:44:01] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:44:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:44:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:44:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:44:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[04:44:01] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[04:44:54] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[04:44:58] [Server thread/INFO]: Littlebugs404_ lost connection: §cTime for authentication has expired.
+[04:44:58] [Server thread/INFO]: Littlebugs404_ left the game
+[04:45:01] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[04:45:02] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 605)]
+[04:45:04] [Server thread/INFO]: CheessRevolution has made the advancement [A Seedy Place]
+[04:45:11] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu]]
+[04:45:19] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 337)]
+[04:45:20] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 604)]
+[04:45:22] [Server thread/INFO]: [hhhh_w: Triggered [svm.jj.menu] (set value to 603)]
+[04:45:27] [Server thread/INFO]: hhhh_w has made the advancement [The World!]
+[04:45:32] [Server thread/INFO]: jjjjjasper[/127.0.0.1:36782] logged in with entity id 163065 at (13566.767439874735, 63.05309599069289, -4560.851183332124)
+[04:45:32] [Server thread/INFO]: jjjjjasper joined the game
+[04:45:33] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:45:33] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:45:33] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:45:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:45:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:45:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:45:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[04:45:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[04:45:35] [Server thread/INFO]: hhhh_w was slain by AwaKING using [The World]
+[04:45:53] [Server thread/INFO]: Parzival5077[/127.0.0.1:57842] logged in with entity id 169226 at (13562.599105603813, 63.0, -4563.838180707157)
+[04:45:53] [Server thread/INFO]: Parzival5077 joined the game
+[04:46:21] [Server thread/INFO]: Villager class_1646['Villager'/145788, l='ServerLevel[world]', x=13417.58, y=101.00, z=-4806.50] died, message: 'Villager was slain by AwaKING using [The World]'
+[04:46:21] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:46:21] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:46:21] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:46:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:46:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:46:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:46:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[04:46:21] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[04:46:38] [Server thread/INFO]: Parzival5077 lost connection: Timed out
+[04:46:38] [Server thread/INFO]: Parzival5077 left the game
+[04:46:47] [Server thread/INFO]: Villager class_1646['Villager'/145784, l='ServerLevel[world]', x=13439.40, y=120.25, z=-4819.81] died, message: 'Villager was slain by hhhh_w using [Star Platinum]'
+[04:47:06] [Server thread/INFO]: Parzival5077[/127.0.0.1:35190] logged in with entity id 189667 at (13562.5, 63.0, -4563.5)
+[04:47:06] [Server thread/INFO]: Parzival5077 joined the game
