@@ -20,8 +20,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-09-25 08:25:18 +0000",
+      "minecraft:beach": "2024-09-26 10:48:50 +0000",
       "minecraft:river": "2024-09-25 08:31:12 +0000",
+      "minecraft:dripstone_caves": "2024-09-26 11:05:08 +0000",
       "minecraft:forest": "2024-09-25 08:31:00 +0000",
+      "minecraft:ocean": "2024-09-26 10:48:52 +0000",
       "minecraft:old_growth_birch_forest": "2024-09-26 06:51:46 +0000",
       "minecraft:meadow": "2024-09-25 08:19:51 +0000"
     },
@@ -85,14 +88,20 @@
     "criteria": {
       "pine_taiga": "2024-09-26 07:35:25 +0000",
       "prismachasm": "2024-09-25 09:28:05 +0000",
+      "willow_forest": "2024-09-26 10:50:30 +0000",
       "grassy_beach": "2024-09-25 10:19:46 +0000",
       "scorching_caves": "2024-09-25 09:41:34 +0000",
       "rocky_meadow": "2024-09-25 10:20:22 +0000",
       "highland_fields": "2024-09-25 08:20:19 +0000",
       "magnolia_highlands": "2024-09-26 06:52:28 +0000",
+      "sparse_redwoods": "2024-09-26 10:54:24 +0000",
       "deciduous_forest": "2024-09-25 10:20:09 +0000",
+      "bamboo_forest": "2024-09-26 11:07:40 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
       "grassland": "2024-09-25 10:19:58 +0000",
+      "prairie": "2024-09-26 11:08:48 +0000",
+      "redwoods": "2024-09-26 10:53:45 +0000",
+      "bioshroom_caves": "2024-09-26 10:55:40 +0000",
       "lupine_plains": "2024-09-26 06:51:50 +0000"
     },
     "done": false
@@ -106,13 +115,18 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "pine_taiga": "2024-09-26 07:35:25 +0000",
+      "willow_forest": "2024-09-26 10:50:30 +0000",
       "grassy_beach": "2024-09-25 10:19:46 +0000",
       "rocky_meadow": "2024-09-25 10:20:22 +0000",
       "highland_fields": "2024-09-25 08:20:19 +0000",
       "magnolia_highlands": "2024-09-26 06:52:28 +0000",
+      "sparse_redwoods": "2024-09-26 10:54:24 +0000",
       "deciduous_forest": "2024-09-25 10:20:09 +0000",
+      "bamboo_forest": "2024-09-26 11:07:40 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
       "grassland": "2024-09-25 10:19:58 +0000",
+      "prairie": "2024-09-26 11:08:48 +0000",
+      "redwoods": "2024-09-26 10:53:45 +0000",
       "lupine_plains": "2024-09-26 06:51:50 +0000"
     },
     "done": false
@@ -1777,7 +1791,8 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "prismachasm": "2024-09-25 09:28:05 +0000",
-      "scorching_caves": "2024-09-25 09:41:34 +0000"
+      "scorching_caves": "2024-09-25 09:41:34 +0000",
+      "bioshroom_caves": "2024-09-26 10:55:40 +0000"
     },
     "done": false
   },
@@ -5960,9 +5975,123 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_button": {
+    "criteria": {
+      "has_magnolia_planks": "2024-09-26 10:46:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
+    "criteria": {
+      "has_magnolia_planks": "2024-09-26 10:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2024-09-26 11:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_fence": {
+    "criteria": {
+      "has_magnolia_planks": "2024-09-26 10:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
+    "criteria": {
+      "has_magnolia_planks": "2024-09-26 10:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
+    "criteria": {
+      "has_magnolia_planks": "2024-09-26 10:46:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_magnolia": {
+    "criteria": {
+      "has_planks": "2024-09-26 10:46:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc": {
     "criteria": {
       "has_item": "2024-09-26 10:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
     },
     "done": true
   },
@@ -5972,9 +6101,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-09-26 10:39:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-09-26 10:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2024-09-26 11:06:37 +0000"
     },
     "done": true
   },
@@ -5984,9 +6155,99 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
+    "criteria": {
+      "has_magnolia_planks": "2024-09-26 10:46:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_door": {
+    "criteria": {
+      "has_magnolia_planks": "2024-09-26 10:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-09-26 10:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magnolia_sapling_from_magnolia_shrub": {
+    "criteria": {
+      "has_magnolia_shrub": "2024-09-26 10:46:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
+    "criteria": {
+      "has_magnolia_planks": "2024-09-26 10:46:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_sign": {
+    "criteria": {
+      "has_magnolia_planks": "2024-09-26 10:46:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-26 10:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-09-26 11:06:32 +0000"
     },
     "done": true
   },

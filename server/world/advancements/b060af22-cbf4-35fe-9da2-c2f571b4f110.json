@@ -21,12 +21,15 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-09-26 06:48:03 +0000",
       "minecraft:deep_ocean": "2024-09-25 10:30:35 +0000",
+      "minecraft:frozen_river": "2024-09-26 10:49:53 +0000",
       "minecraft:bamboo_jungle": "2024-09-25 10:14:31 +0000",
       "minecraft:beach": "2024-09-25 10:09:28 +0000",
       "minecraft:river": "2024-09-25 08:46:27 +0000",
       "minecraft:lukewarm_ocean": "2024-09-25 10:13:55 +0000",
       "minecraft:stony_shore": "2024-09-25 10:40:00 +0000",
       "minecraft:snowy_plains": "2024-09-26 07:36:40 +0000",
+      "minecraft:snowy_taiga": "2024-09-26 10:51:57 +0000",
+      "minecraft:dripstone_caves": "2024-09-26 11:06:18 +0000",
       "minecraft:cold_ocean": "2024-09-25 10:36:24 +0000",
       "minecraft:forest": "2024-09-25 09:57:22 +0000",
       "minecraft:deep_cold_ocean": "2024-09-25 10:40:40 +0000",
@@ -5428,6 +5431,7 @@
       "minecraft:skeleton": "2024-09-26 07:28:33 +0000",
       "minecraft:spider": "2024-09-26 07:33:44 +0000",
       "minecraft:creeper": "2024-09-26 07:29:52 +0000",
+      "minecraft:stray": "2024-09-26 10:56:53 +0000",
       "minecraft:zombie": "2024-09-26 06:48:25 +0000",
       "minecraft:zombie_villager": "2024-09-26 07:34:36 +0000"
     },
@@ -6153,24 +6157,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2024-09-26 10:21:42 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/prismoss": {
-    "criteria": {
-      "has_stone": "2024-09-26 10:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2024-09-26 10:25:20 +0000"
-    },
-    "done": true
-  },
   "edenring:recipes/building_blocks/brain_tree_bookshelf": {
     "criteria": {
       "has_book": "2024-09-26 10:21:17 +0000"
@@ -6183,45 +6169,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
-    "criteria": {
-      "has_stone": "2024-09-26 10:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-09-26 10:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2024-09-26 10:21:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-09-26 10:21:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-09-26 10:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2024-09-26 10:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2024-09-26 10:21:42 +0000"
     },
     "done": true
   },
@@ -6243,15 +6193,81 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-09-26 10:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-09-26 10:21:17 +0000"
+    },
+    "done": true
+  },
+  "edenring:recipes/building_blocks/pulse_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2024-09-26 10:21:17 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2024-09-26 10:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-09-26 10:21:42 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+  "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
-      "has_bowl": "2024-09-26 10:30:46 +0000"
+      "has_stone": "2024-09-26 10:21:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2024-09-26 10:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-26 10:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-09-26 10:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-26 10:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-09-26 10:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-09-26 10:21:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2024-09-26 10:21:42 +0000"
     },
     "done": true
   },
@@ -6267,24 +6283,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-09-26 10:21:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_the_recipe": "2024-09-26 10:30:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-09-26 10:21:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-09-26 10:21:42 +0000"
@@ -6294,30 +6292,6 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-09-26 10:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-09-26 10:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-09-26 10:25:20 +0000"
-    },
-    "done": true
-  },
-  "edenring:recipes/building_blocks/pulse_tree_bookshelf": {
-    "criteria": {
-      "has_book": "2024-09-26 10:21:17 +0000"
-    },
-    "done": true
-  },
-  "beautify:bookstack": {
-    "criteria": {
-      "requirement": "2024-09-26 10:21:17 +0000"
     },
     "done": true
   },
@@ -6339,23 +6313,11 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/nether_salad": {
-    "criteria": {
-      "has_bowl": "2024-09-26 10:30:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-09-26 10:21:42 +0000"
     },
     "done": true
-  },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "mixed_salad": "2024-09-26 10:31:13 +0000"
-    },
-    "done": false
   },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
@@ -6369,15 +6331,171 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2024-09-26 10:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-26 10:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-26 10:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-26 10:25:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-09-26 10:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2024-09-26 10:30:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-09-26 10:30:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-09-26 10:30:46 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+  "farmersdelight:main/master_chef": {
     "criteria": {
-      "has_stone": "2024-09-26 10:21:42 +0000"
+      "mixed_salad": "2024-09-26 10:31:13 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2024-09-26 10:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-09-26 10:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-09-26 10:52:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-26 10:52:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-09-26 10:53:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-09-26 10:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-09-26 10:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-09-26 10:54:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-09-26 10:54:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-09-26 10:54:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-09-26 10:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-09-26 10:54:55 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2024-09-26 10:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-09-26 10:56:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-09-26 11:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-09-26 11:00:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
+    "criteria": {
+      "has_bleeding_heart": "2024-09-26 11:00:20 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/stand_mastery_1": {
+    "criteria": {
+      "requirement": "2024-09-26 11:02:56 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/time_stop": {
+    "criteria": {
+      "requirement": "2024-09-26 11:02:58 +0000"
     },
     "done": true
   },
