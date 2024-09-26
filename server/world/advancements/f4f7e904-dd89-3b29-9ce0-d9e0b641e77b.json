@@ -176,7 +176,8 @@
       "cooked_mutton": "2024-09-25 10:25:49 +0000",
       "cooked_beef": "2024-09-25 08:51:00 +0000",
       "bread": "2024-09-25 11:13:32 +0000",
-      "rotten_flesh": "2024-09-25 08:06:59 +0000"
+      "rotten_flesh": "2024-09-25 08:06:59 +0000",
+      "carrot": "2024-09-26 07:42:03 +0000"
     },
     "done": false
   },
@@ -6162,12 +6163,6 @@
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2024-09-26 07:29:08 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2024-09-26 07:27:43 +0000"
@@ -6195,6 +6190,24 @@
   "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2024-09-26 07:27:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-09-26 07:29:08 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2024-09-26 07:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-09-26 07:41:15 +0000"
     },
     "done": true
   },
