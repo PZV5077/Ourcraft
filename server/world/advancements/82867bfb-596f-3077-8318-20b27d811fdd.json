@@ -5750,33 +5750,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-09-26 04:49:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2024-09-26 04:38:36 +0000"
     },
     "done": true
   },
-  "regions_unexplored:spelunker": {
-    "criteria": {
-      "ancient_delta": "2024-09-26 05:00:18 +0000"
-    },
-    "done": false
-  },
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2024-09-26 04:38:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2024-09-26 04:47:50 +0000"
     },
     "done": true
   },
@@ -5786,21 +5768,21 @@
     },
     "done": true
   },
-  "svm_jojo:storyline/stop_time_resistance": {
-    "criteria": {
-      "requirement": "2024-09-26 04:48:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-09-26 04:38:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "has_gold_nugget": "2024-09-26 04:49:57 +0000"
+      "has_potato": "2024-09-26 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-09-26 04:47:50 +0000"
     },
     "done": true
   },
@@ -5816,23 +5798,41 @@
     },
     "done": true
   },
-  "svm_jojo:storyline/kills/the_world/50": {
-    "criteria": {
-      "requirement": "2024-09-26 04:57:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-09-26 04:47:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "svm_jojo:storyline/stop_time_resistance": {
     "criteria": {
-      "has_potato": "2024-09-26 04:38:36 +0000"
+      "requirement": "2024-09-26 04:48:14 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-26 04:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-26 04:49:57 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/the_world/50": {
+    "criteria": {
+      "requirement": "2024-09-26 04:57:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2024-09-26 05:00:18 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
