@@ -1590,3 +1590,58 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [06:31:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [06:31:55] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[06:34:18] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[06:34:22] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 337)]
+[06:34:23] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 605)]
+[06:34:24] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 605)]
+[06:34:25] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 605)]
+[06:34:26] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 605)]
+[06:34:26] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 605)]
+[06:34:27] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 367)]
+[06:34:28] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 367)]
+[06:34:33] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
+[06:34:34] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
+[06:34:53] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[06:34:57] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu] (set value to 347)]
+[06:38:27] [Server thread/INFO]: [AwaKING: Triggered [svm.jj.menu]]
+[06:38:45] [Server thread/INFO]: Parzival5077[/127.0.0.1:60768] logged in with entity id 1094271 at (13471.039521547318, 68.0, -4014.991984368192)
+[06:38:45] [Server thread/INFO]: Parzival5077 joined the game
+[06:38:46] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[06:38:46] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[06:38:46] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[06:38:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[06:38:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[06:38:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[06:38:46] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[06:38:46] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[06:39:17] [Server thread/INFO]: Littlebugs404_ lost connection: Disconnected
+[06:39:17] [Server thread/INFO]: Littlebugs404_ left the game
+[06:39:45] [Server thread/INFO]: Parzival5077 lost connection: §cTime for authentication has expired.
+[06:39:45] [Server thread/INFO]: Parzival5077 left the game
+[06:40:56] [Server thread/INFO]: AwaKING was blown up by Creeper
+[06:41:01] [Server thread/INFO]: jjjjjasper was slain by AwaKING using [The World]
+[06:41:17] [Server thread/INFO]: Parzival5077[/127.0.0.1:51544] logged in with entity id 1119408 at (13471.5, 68.0, -4014.5)
+[06:41:17] [Server thread/INFO]: Parzival5077 joined the game
+[06:41:17] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[06:41:17] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[06:41:17] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[06:41:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[06:41:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[06:41:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[06:41:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[06:41:17] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[06:41:44] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[06:41:45] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[06:41:48] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:55734] logged in with entity id 1123861 at (13998.006217667964, 70.0, -263.1870487164349)
+[06:41:48] [Server thread/INFO]: Littlebugs404_ joined the game
+[06:41:51] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[06:41:51] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[06:41:51] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[06:41:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[06:41:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[06:41:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[06:41:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[06:41:51] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[06:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind

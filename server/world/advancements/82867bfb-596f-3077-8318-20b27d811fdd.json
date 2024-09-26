@@ -4355,6 +4355,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2024-09-26 06:41:59 +0000",
       "pine_log": "2024-09-25 10:52:53 +0000",
       "maple_log": "2024-09-26 06:23:57 +0000",
       "bamboo_log": "2024-09-25 10:14:43 +0000"
@@ -5855,6 +5856,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2024-09-26 06:40:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2024-09-26 06:41:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2024-09-26 06:23:57 +0000"
@@ -5867,9 +5880,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2024-09-26 06:40:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-09-26 06:32:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2024-09-26 06:41:59 +0000"
     },
     "done": true
   },
@@ -5894,6 +5919,18 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-09-26 06:32:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2024-09-26 06:41:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2024-09-26 06:40:10 +0000"
     },
     "done": true
   },
