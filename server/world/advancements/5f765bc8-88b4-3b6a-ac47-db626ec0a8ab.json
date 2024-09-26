@@ -1634,13 +1634,15 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "highland_fields": "2024-09-26 03:42:22 +0000"
+      "highland_fields": "2024-09-26 03:42:22 +0000",
+      "temperate_grove": "2024-09-26 04:10:55 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "highland_fields": "2024-09-26 03:42:22 +0000"
+      "highland_fields": "2024-09-26 03:42:22 +0000",
+      "temperate_grove": "2024-09-26 04:10:55 +0000"
     },
     "done": false
   },
@@ -3068,6 +3070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-09-26 04:12:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-09-26 04:01:53 +0000"
@@ -3101,6 +3109,12 @@
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2024-09-26 04:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-09-26 04:09:55 +0000"
     },
     "done": true
   },
@@ -3333,6 +3347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-09-26 04:12:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-09-26 04:00:05 +0000"
@@ -3342,6 +3362,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-09-26 04:04:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-09-26 04:09:23 +0000"
     },
     "done": true
   },
@@ -3591,6 +3617,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-09-26 04:12:40 +0000"
+    },
+    "done": true
+  },
   "meadow:main/kill_buffalo": {
     "criteria": {
       "killed_buffalo": "2024-09-26 04:00:36 +0000"
@@ -3600,6 +3632,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-09-26 03:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2024-09-26 04:12:13 +0000"
     },
     "done": true
   },
