@@ -1,6 +1,9 @@
-[03:00:34] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
-[03:00:35] [main/INFO]: Loading 117 mods:
+[03:04:44] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.5
+[03:04:44] [main/INFO]: Loading 120 mods:
 	- architectury 9.2.14
+	- beautify 1.2.0+1.20.1
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
 	- create 0.5.1-f-build.1417+mc1.20.1
 	   |-- com_google_code_findbugs_jsr305 3.0.2
 	   |-- flywheel 0.6.10-2
@@ -150,53 +153,53 @@
 	- terrablender 3.0.1.7
 	   |-- com_electronwill_night-config_core 3.6.7
 	   \-- com_electronwill_night-config_toml 3.6.7
-[03:00:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:00:35] [main/INFO]: Compatibility level set to JAVA_16
-[03:00:35] [main/INFO]: Compatibility level set to JAVA_17
-[03:00:36] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[03:00:36] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[03:00:36] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
-[03:00:36] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
-[03:00:37] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:00:38] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bff000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[03:00:43] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$bid000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[03:00:47] [main/ERROR]: No data fixer registered for doapi:chair
-[03:00:47] [main/INFO]: [EasyAuth]: EasyAuth mod by samo_lego, NikitaCartes.
-[03:00:47] [main/WARN]: [EasyAuth]: Disable enforce-secure-profile to allow offline players to join the server
-[03:00:47] [main/WARN]: [EasyAuth]: For more info, see https://github.com/NikitaCartes/EasyAuth/issues/68
-[03:00:47] [main/INFO]: [EasyAuth]: You have premiumAutologin enabled. Enable online-mode so that online player can not register.
-[03:00:48] [main/INFO]: Reflections took 183 ms to scan 1 urls, producing 9 keys and 75 values
-[03:00:48] [main/ERROR]: No data fixer registered for seat
-[03:00:48] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[03:00:48] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
-[03:00:48] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
-[03:00:48] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[03:00:48] [main/ERROR]: No data fixer registered for meadow:water_buffalo
-[03:00:48] [main/ERROR]: No data fixer registered for meadow:wooly_cow
-[03:00:49] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[03:00:49] [main/INFO]: [Regions Unexplored] generating and loading config
-[03:00:50] [main/INFO]: Loaded config supplementaries-common.json
-[03:00:50] [main/ERROR]: Farmers Delight Refabricated is not installed. Disabling Farmers Delight Module
-[03:00:50] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[03:00:50] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[03:00:50] [main/INFO]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[03:00:50] [main/INFO]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[03:00:50] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[03:00:51] [main/INFO]: Initialized block sets in 37ms
-[03:00:51] [main/ERROR]: No data fixer registered for dispenser_minecart
-[03:00:51] [main/ERROR]: No data fixer registered for falling_urn
-[03:00:51] [main/ERROR]: No data fixer registered for falling_ash
-[03:00:51] [main/ERROR]: No data fixer registered for falling_sack
-[03:00:51] [main/ERROR]: No data fixer registered for brick_projectile
-[03:00:51] [main/ERROR]: No data fixer registered for bomb
-[03:00:51] [main/ERROR]: No data fixer registered for rope_arrow
-[03:00:51] [main/ERROR]: No data fixer registered for slingshot_projectile
-[03:00:51] [main/INFO]: Initialized color sets in 55ms
-[03:00:51] [main/INFO]: Finished mod setup in: [15, 0, 0, 1, 0, 0, 16, 6, 0] ms
-[03:00:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:00:52] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 31 ms
-[03:00:53] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[03:00:55] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
+[03:04:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Ourcraft/server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:04:44] [main/INFO]: Compatibility level set to JAVA_16
+[03:04:44] [main/INFO]: Compatibility level set to JAVA_17
+[03:04:45] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[03:04:45] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[03:04:45] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
+[03:04:45] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
+[03:04:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03:04:48] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$bfg000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[03:04:53] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$bie000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[03:04:57] [main/ERROR]: No data fixer registered for doapi:chair
+[03:04:57] [main/INFO]: [EasyAuth]: EasyAuth mod by samo_lego, NikitaCartes.
+[03:04:57] [main/WARN]: [EasyAuth]: Disable enforce-secure-profile to allow offline players to join the server
+[03:04:57] [main/WARN]: [EasyAuth]: For more info, see https://github.com/NikitaCartes/EasyAuth/issues/68
+[03:04:57] [main/INFO]: [EasyAuth]: You have premiumAutologin enabled. Enable online-mode so that online player can not register.
+[03:04:57] [main/INFO]: Reflections took 194 ms to scan 1 urls, producing 9 keys and 75 values
+[03:04:58] [main/ERROR]: No data fixer registered for seat
+[03:04:58] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[03:04:58] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
+[03:04:58] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
+[03:04:58] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[03:04:58] [main/ERROR]: No data fixer registered for meadow:water_buffalo
+[03:04:58] [main/ERROR]: No data fixer registered for meadow:wooly_cow
+[03:04:58] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[03:04:58] [main/INFO]: [Regions Unexplored] generating and loading config
+[03:04:59] [main/INFO]: Loaded config supplementaries-common.json
+[03:04:59] [main/ERROR]: Farmers Delight Refabricated is not installed. Disabling Farmers Delight Module
+[03:04:59] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03:04:59] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[03:04:59] [main/INFO]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[03:04:59] [main/INFO]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[03:04:59] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[03:05:00] [main/INFO]: Initialized block sets in 21ms
+[03:05:00] [main/ERROR]: No data fixer registered for dispenser_minecart
+[03:05:00] [main/ERROR]: No data fixer registered for falling_urn
+[03:05:00] [main/ERROR]: No data fixer registered for falling_ash
+[03:05:00] [main/ERROR]: No data fixer registered for falling_sack
+[03:05:00] [main/ERROR]: No data fixer registered for brick_projectile
+[03:05:00] [main/ERROR]: No data fixer registered for bomb
+[03:05:00] [main/ERROR]: No data fixer registered for rope_arrow
+[03:05:00] [main/ERROR]: No data fixer registered for slingshot_projectile
+[03:05:00] [main/INFO]: Initialized color sets in 41ms
+[03:05:00] [main/INFO]: Finished mod setup in: [10, 0, 0, 0, 0, 0, 12, 5, 0] ms
+[03:05:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:05:00] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 26 ms
+[03:05:01] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[03:05:03] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
@@ -218,7 +221,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-mc.1.20.1-loader.0.16.5-launcher.1.0.1.jar:1.0.1]
-[03:00:55] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
+[03:05:03] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
@@ -240,57 +243,71 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.5.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-mc.1.20.1-loader.0.16.5-launcher.1.0.1.jar:1.0.1]
-[03:00:55] [main/INFO]: Loaded 42 recipes
-[03:00:55] [main/INFO]: Loaded 4301 advancements
-[03:00:55] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 34 translation keys
-[03:00:55] [main/INFO]: Loaded 27 flute songs
-[03:00:58] [main/INFO]: Finished additional setup in 11 ms
-[03:00:58] [main/INFO]: Applied 7 data villager trades
-[03:00:58] [main/INFO]: Cleared non-static resources for pack supplementaries:generated_pack in: 0 ms
-[03:00:59] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[03:00:59] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[03:00:59] [main/INFO]: Applied 748 biome modifications to 136 of 136 new biomes in 58.20 ms
-[03:00:59] [Server thread/INFO]: Registering compost heaps in village type of plains
-[03:00:59] [Server thread/INFO]: Registering compost heaps in village type of savanna
-[03:00:59] [Server thread/INFO]: Registering compost heaps in village type of snowy
-[03:00:59] [Server thread/INFO]: Registering compost heaps in village type of taiga
-[03:00:59] [Server thread/INFO]: Registering compost heaps in village type of desert
-[03:00:59] [Server thread/INFO]: Loading server configs...
-[03:00:59] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:00:59] [Server thread/INFO]: Loading properties
-[03:00:59] [Server thread/INFO]: Default game type: SURVIVAL
-[03:00:59] [Server thread/INFO]: Generating keypair
-[03:00:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:00:59] [Server thread/INFO]: Using epoll channel type
-[03:00:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:00:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:00:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:00:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:00:59] [Server thread/INFO]: Preparing level "world"
-[03:01:04] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
-[03:01:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:01:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:01:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:01:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:01:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:01:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:01:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:01:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:01:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:01:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:01:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:01:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:01:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:01:10] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
-[03:01:10] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
-[03:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:01:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:01:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:01:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:01:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:01:13] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[03:01:14] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[03:01:14] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[03:01:15] [Server thread/INFO]: Time elapsed: 10402 ms
-[03:01:15] [Server thread/INFO]: Done (15.305s)! For help, type "help"
+[03:05:03] [main/INFO]: Loaded 42 recipes
+[03:05:03] [main/INFO]: Loaded 4319 advancements
+[03:05:03] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 34 translation keys
+[03:05:03] [main/INFO]: Loaded 27 flute songs
+[03:05:05] [main/INFO]: Finished additional setup in 14 ms
+[03:05:05] [main/INFO]: Applied 7 data villager trades
+[03:05:05] [main/INFO]: Cleared non-static resources for pack supplementaries:generated_pack in: 0 ms
+[03:05:05] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03:05:05] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03:05:05] [main/INFO]: Applied 748 biome modifications to 136 of 136 new biomes in 32.51 ms
+[03:05:05] [Server thread/INFO]: Registering compost heaps in village type of plains
+[03:05:05] [Server thread/INFO]: Registering compost heaps in village type of savanna
+[03:05:05] [Server thread/INFO]: Registering compost heaps in village type of snowy
+[03:05:05] [Server thread/INFO]: Registering compost heaps in village type of taiga
+[03:05:05] [Server thread/INFO]: Registering compost heaps in village type of desert
+[03:05:05] [Server thread/INFO]: Loading server configs...
+[03:05:06] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[03:05:06] [Server thread/INFO]: Loading properties
+[03:05:06] [Server thread/INFO]: Default game type: SURVIVAL
+[03:05:06] [Server thread/INFO]: Generating keypair
+[03:05:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:05:06] [Server thread/INFO]: Using epoll channel type
+[03:05:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:05:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:05:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:05:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:05:06] [Server thread/INFO]: Preparing level "world"
+[03:05:10] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[03:05:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:05:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:05:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:15] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[03:05:15] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[03:05:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:05:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:05:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:05:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:05:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:16] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[03:05:16] [Server thread/INFO]: Time elapsed: 6468 ms
+[03:05:16] [Server thread/INFO]: Done (10.720s)! For help, type "help"
+[03:07:05] [Server thread/INFO]: Parzival5077[/127.0.0.1:47030] logged in with entity id 132 at (13571.699999988079, 63.0, -4535.044711434406)
+[03:07:05] [Server thread/INFO]: Parzival5077 joined the game
+[03:07:30] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[03:07:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@34bc25f[id=<null>,name=Parzival5077,properties={},legacy=false] (/127.0.0.1:46052) lost connection: Timed out
+[03:08:08] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
+[03:08:08] [Server thread/INFO]: Parzival5077 left the game
+[03:08:11] [Server thread/INFO]: Stopping the server
+[03:08:11] [Server thread/INFO]: Stopping server
+[03:08:11] [Server thread/INFO]: Saving players
+[03:08:11] [Server thread/INFO]: Saving worlds
+[03:08:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:08:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:08:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:08:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:08:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:08:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:08:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:08:13] [Server thread/INFO]: [EasyAuth]: Shutting down EasyAuth.
+[03:08:13] [Server thread/INFO]: [EasyAuth]: Database connection closed successfully
+[03:08:13] [Server thread/INFO]: Unloading server configs...
+[03:08:13] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
