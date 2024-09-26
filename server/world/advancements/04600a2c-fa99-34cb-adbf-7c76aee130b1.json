@@ -4613,6 +4613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-09-26 06:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-09-26 06:00:10 +0000"
@@ -4658,6 +4664,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-09-26 05:54:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2024-09-26 06:58:26 +0000"
     },
     "done": true
   },
@@ -4826,6 +4838,12 @@
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-09-26 05:54:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_sapling": "2024-09-26 06:58:50 +0000"
     },
     "done": true
   },
@@ -5117,6 +5135,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-09-26 06:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-09-26 06:00:10 +0000"
@@ -5198,6 +5222,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-09-26 06:00:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2024-09-26 06:58:26 +0000"
     },
     "done": true
   },
@@ -5360,6 +5390,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-09-26 06:37:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_sapling": "2024-09-26 06:58:52 +0000"
     },
     "done": true
   },

@@ -5199,6 +5199,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pink_magnolia_sapling_from_pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_shrub": "2024-09-26 06:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-09-26 06:50:06 +0000"
@@ -5392,6 +5398,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_sapling": "2024-09-26 06:54:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-09-26 06:46:26 +0000"
@@ -5446,6 +5458,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/white_magnolia_sapling_from_white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_shrub": "2024-09-26 06:56:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-09-26 06:46:26 +0000"
@@ -5479,6 +5497,12 @@
   "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
     "criteria": {
       "has_log": "2024-09-26 06:54:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_sapling": "2024-09-26 06:56:37 +0000"
     },
     "done": true
   },
