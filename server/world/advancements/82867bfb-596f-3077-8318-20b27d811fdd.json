@@ -78,6 +78,7 @@
       "minecraft:skeleton": "2024-09-25 10:12:53 +0000",
       "minecraft:spider": "2024-09-25 09:13:57 +0000",
       "minecraft:creeper": "2024-09-25 10:24:38 +0000",
+      "minecraft:zombified_piglin": "2024-09-26 04:49:56 +0000",
       "minecraft:enderman": "2024-09-25 10:31:36 +0000",
       "minecraft:zombie": "2024-09-25 10:26:45 +0000",
       "minecraft:drowned": "2024-09-25 10:19:35 +0000"
@@ -3004,7 +3005,8 @@
       "temperate_grove": "2024-09-25 11:02:40 +0000",
       "pine_slopes": "2024-09-25 10:53:15 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
-      "prairie": "2024-09-25 09:22:43 +0000"
+      "prairie": "2024-09-25 09:22:43 +0000",
+      "redwoods": "2024-09-26 04:54:10 +0000"
     },
     "done": false
   },
@@ -3023,7 +3025,8 @@
       "temperate_grove": "2024-09-25 11:02:40 +0000",
       "pine_slopes": "2024-09-25 10:53:15 +0000",
       "grassland": "2024-09-25 09:22:42 +0000",
-      "prairie": "2024-09-25 09:22:43 +0000"
+      "prairie": "2024-09-25 09:22:43 +0000",
+      "redwoods": "2024-09-26 04:54:10 +0000"
     },
     "done": false
   },
@@ -5746,6 +5749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-26 04:49:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2024-09-26 04:38:36 +0000"
@@ -5779,6 +5788,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-09-26 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-26 04:49:57 +0000"
     },
     "done": true
   },

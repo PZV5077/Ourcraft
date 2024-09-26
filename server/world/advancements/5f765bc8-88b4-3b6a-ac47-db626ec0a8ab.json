@@ -1639,18 +1639,26 @@
       "pine_taiga": "2024-09-26 04:28:35 +0000",
       "prismachasm": "2024-09-26 04:20:47 +0000",
       "redstone_caves": "2024-09-26 04:17:03 +0000",
+      "blackwood_taiga": "2024-09-26 04:55:18 +0000",
       "highland_fields": "2024-09-26 03:42:22 +0000",
+      "sparse_redwoods": "2024-09-26 04:55:21 +0000",
+      "deciduous_forest": "2024-09-26 04:53:23 +0000",
       "temperate_grove": "2024-09-26 04:10:55 +0000",
-      "grassland": "2024-09-26 04:47:53 +0000"
+      "grassland": "2024-09-26 04:47:53 +0000",
+      "redwoods": "2024-09-26 04:54:13 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "pine_taiga": "2024-09-26 04:28:35 +0000",
+      "blackwood_taiga": "2024-09-26 04:55:18 +0000",
       "highland_fields": "2024-09-26 03:42:22 +0000",
+      "sparse_redwoods": "2024-09-26 04:55:21 +0000",
+      "deciduous_forest": "2024-09-26 04:53:23 +0000",
       "temperate_grove": "2024-09-26 04:10:55 +0000",
-      "grassland": "2024-09-26 04:47:53 +0000"
+      "grassland": "2024-09-26 04:47:53 +0000",
+      "redwoods": "2024-09-26 04:54:13 +0000"
     },
     "done": false
   },
@@ -4322,6 +4330,12 @@
     },
     "done": true
   },
+  "svm_jojo:skill_tree/star_platinum/time_stop": {
+    "criteria": {
+      "requirement": "2024-09-26 04:45:20 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:skill_tree/star_platinum/beatdown": {
     "criteria": {
       "requirement": "2024-09-26 04:45:22 +0000"
@@ -4334,9 +4348,9 @@
     },
     "done": true
   },
-  "svm_jojo:skill_tree/star_platinum/time_stop": {
+  "svm_jojo:storyline/stand_mastery_1": {
     "criteria": {
-      "requirement": "2024-09-26 04:45:20 +0000"
+      "requirement": "2024-09-26 04:51:41 +0000"
     },
     "done": true
   },

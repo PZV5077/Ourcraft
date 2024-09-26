@@ -22,7 +22,8 @@
       "minecraft:birch_forest": "2024-09-25 08:35:26 +0000",
       "minecraft:river": "2024-09-25 08:14:49 +0000",
       "minecraft:forest": "2024-09-25 08:09:53 +0000",
-      "minecraft:meadow": "2024-09-25 08:05:38 +0000"
+      "minecraft:meadow": "2024-09-25 08:05:38 +0000",
+      "minecraft:plains": "2024-09-26 04:53:20 +0000"
     },
     "done": false
   },
@@ -1241,6 +1242,9 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2024-09-25 08:15:52 +0000",
+      "prismachasm": "2024-09-26 04:51:59 +0000",
+      "rocky_meadow": "2024-09-26 04:55:34 +0000",
+      "highland_fields": "2024-09-26 04:49:35 +0000",
       "temperate_grove": "2024-09-25 08:10:30 +0000"
     },
     "done": false
@@ -1248,6 +1252,8 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2024-09-25 08:15:52 +0000",
+      "rocky_meadow": "2024-09-26 04:55:34 +0000",
+      "highland_fields": "2024-09-26 04:49:35 +0000",
       "temperate_grove": "2024-09-25 08:10:30 +0000"
     },
     "done": false
@@ -2775,6 +2781,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "mauve_log": "2024-09-26 04:55:46 +0000",
       "maple_log": "2024-09-25 08:43:42 +0000"
     },
     "done": false
@@ -3217,6 +3224,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mauve_wood": {
+    "criteria": {
+      "has_log": "2024-09-26 04:55:46 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:skill_tree/root": {
     "criteria": {
       "requirement": "2024-09-26 04:49:09 +0000"
@@ -3271,6 +3284,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "prismachasm": "2024-09-26 04:51:59 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2024-09-26 04:46:09 +0000"
@@ -3280,6 +3299,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_redstone": "2024-09-26 04:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2024-09-26 04:50:54 +0000"
     },
     "done": true
   },
@@ -3325,6 +3350,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
+    "criteria": {
+      "has_log": "2024-09-26 04:55:46 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/misc/gravity_compressor": {
     "criteria": {
       "has_redstone": "2024-09-26 04:46:09 +0000"
@@ -3358,6 +3389,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-09-26 04:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_planks": {
+    "criteria": {
+      "has_logs": "2024-09-26 04:55:46 +0000"
     },
     "done": true
   },
