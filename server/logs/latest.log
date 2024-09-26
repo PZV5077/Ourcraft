@@ -1151,3 +1151,31 @@ EdenBiomeSource (76f8df4)
 [03:54:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
 [03:55:06] [Server thread/INFO]: hhhh_w lost connection: Disconnected
 [03:55:06] [Server thread/INFO]: hhhh_w left the game
+[03:57:52] [Server thread/INFO]: hhhh_w[/127.0.0.1:42254] logged in with entity id 9961 at (13503.699999988079, 86.0, -4496.662630595974)
+[03:57:52] [Server thread/INFO]: hhhh_w joined the game
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/1, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/3, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/10, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/11, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9, l='ServerLevel[world]', x=13527.00, y=121.00, z=-4415.00, removed=DISCARDED]
+[03:57:52] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:57:52] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:57:52] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:57:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:57:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:57:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:57:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[03:57:52] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[03:58:52] [Server thread/INFO]: hhhh_w has made the advancement [Sweet Dreams]
+[03:59:40] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[03:59:40] [Server thread/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
