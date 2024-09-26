@@ -28,6 +28,7 @@
       "minecraft:birch_forest": "2024-09-26 03:54:59 +0000",
       "minecraft:river": "2024-09-26 03:58:35 +0000",
       "minecraft:dripstone_caves": "2024-09-26 03:47:41 +0000",
+      "minecraft:grove": "2024-09-26 05:09:58 +0000",
       "minecraft:forest": "2024-09-26 03:58:29 +0000",
       "minecraft:meadow": "2024-09-26 03:36:20 +0000",
       "minecraft:savanna": "2024-09-26 04:47:40 +0000",
@@ -1990,6 +1991,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-09-26 03:50:09 +0000",
+      "bread": "2024-09-26 05:05:51 +0000",
       "rotten_flesh": "2024-09-26 03:59:21 +0000"
     },
     "done": false
@@ -4362,9 +4364,27 @@
     },
     "done": true
   },
+  "svm_jojo:storyline/kills/star_platinum/10": {
+    "criteria": {
+      "requirement": "2024-09-26 05:04:01 +0000"
+    },
+    "done": true
+  },
   "svm_jojo:storyline/stand_mastery_2": {
     "criteria": {
       "requirement": "2024-09-26 05:02:49 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2024-09-26 05:05:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-09-26 05:05:46 +0000"
     },
     "done": true
   },
