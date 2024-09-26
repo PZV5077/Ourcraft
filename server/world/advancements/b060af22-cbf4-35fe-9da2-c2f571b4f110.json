@@ -26,6 +26,7 @@
       "minecraft:river": "2024-09-25 08:46:27 +0000",
       "minecraft:lukewarm_ocean": "2024-09-25 10:13:55 +0000",
       "minecraft:stony_shore": "2024-09-25 10:40:00 +0000",
+      "minecraft:snowy_plains": "2024-09-26 07:36:40 +0000",
       "minecraft:cold_ocean": "2024-09-25 10:36:24 +0000",
       "minecraft:forest": "2024-09-25 09:57:22 +0000",
       "minecraft:deep_cold_ocean": "2024-09-25 10:40:40 +0000",
@@ -44,6 +45,7 @@
       "shrubland": "2024-09-25 09:41:26 +0000",
       "pine_taiga": "2024-09-25 10:12:19 +0000",
       "autumnal_maple_forest": "2024-09-26 06:45:17 +0000",
+      "frozen_tundra": "2024-09-26 07:36:42 +0000",
       "grassy_beach": "2024-09-25 10:13:40 +0000",
       "rocky_meadow": "2024-09-25 09:53:32 +0000",
       "highland_fields": "2024-09-25 08:38:58 +0000",
@@ -60,6 +62,7 @@
       "shrubland": "2024-09-25 09:41:26 +0000",
       "pine_taiga": "2024-09-25 10:12:19 +0000",
       "autumnal_maple_forest": "2024-09-26 06:45:17 +0000",
+      "frozen_tundra": "2024-09-26 07:36:42 +0000",
       "grassy_beach": "2024-09-25 10:13:40 +0000",
       "rocky_meadow": "2024-09-25 09:53:32 +0000",
       "highland_fields": "2024-09-25 08:38:58 +0000",
@@ -3322,6 +3325,7 @@
   },
   "meadow:main/wool_collector": {
     "criteria": {
+      "meadow:inky_wool": "2024-09-26 07:32:37 +0000",
       "meadow:patched_wool": "2024-09-25 09:52:16 +0000"
     },
     "done": false
@@ -4494,7 +4498,9 @@
     "criteria": {
       "cabbage": "2024-09-26 07:04:03 +0000",
       "tomato": "2024-09-26 07:01:57 +0000",
+      "beetroot": "2024-09-26 07:38:19 +0000",
       "sugar_cane": "2024-09-25 10:59:19 +0000",
+      "potato": "2024-09-26 07:38:43 +0000",
       "wheat": "2024-09-26 07:01:23 +0000"
     },
     "done": false
@@ -5414,8 +5420,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-09-26 07:28:33 +0000",
+      "minecraft:spider": "2024-09-26 07:33:44 +0000",
       "minecraft:creeper": "2024-09-26 07:29:52 +0000",
-      "minecraft:zombie": "2024-09-26 06:48:25 +0000"
+      "minecraft:zombie": "2024-09-26 06:48:25 +0000",
+      "minecraft:zombie_villager": "2024-09-26 07:34:36 +0000"
     },
     "done": false
   },
@@ -5692,6 +5700,186 @@
   "svm_jojo:skill_tree/star_platinum/star_finger": {
     "criteria": {
       "requirement": "2024-09-26 07:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-09-26 07:32:32 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2024-09-26 07:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-09-26 07:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-09-26 07:32:32 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/kills/star_platinum/10": {
+    "criteria": {
+      "requirement": "2024-09-26 07:33:03 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2024-09-26 07:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-09-26 07:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-09-26 07:33:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-09-26 07:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-09-26 07:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-09-26 07:33:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-09-26 07:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-09-26 07:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-09-26 07:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-09-26 07:33:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-09-26 07:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-09-26 07:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-09-26 07:38:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-09-26 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-09-26 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-09-26 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-26 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-09-26 07:39:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-09-26 07:39:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-09-26 07:39:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2024-09-26 07:39:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-09-26 07:39:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-09-26 07:39:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-09-26 07:39:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-09-26 07:39:56 +0000"
     },
     "done": true
   },

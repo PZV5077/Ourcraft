@@ -1246,6 +1246,7 @@
       "shrubland": "2024-09-25 08:15:52 +0000",
       "pine_taiga": "2024-09-26 05:51:36 +0000",
       "prismachasm": "2024-09-26 04:51:59 +0000",
+      "scorching_caves": "2024-09-26 07:37:26 +0000",
       "rocky_meadow": "2024-09-26 04:55:34 +0000",
       "highland_fields": "2024-09-26 04:49:35 +0000",
       "magnolia_highlands": "2024-09-26 05:01:01 +0000",
@@ -2431,6 +2432,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-09-26 07:35:59 +0000",
       "bread": "2024-09-25 08:23:15 +0000"
     },
     "done": false
@@ -3506,7 +3508,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "prismachasm": "2024-09-26 04:51:59 +0000"
+      "prismachasm": "2024-09-26 04:51:59 +0000",
+      "scorching_caves": "2024-09-26 07:37:26 +0000"
     },
     "done": false
   },
@@ -4248,6 +4251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-09-26 07:35:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2024-09-26 06:00:10 +0000"
@@ -4632,6 +4641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-09-26 07:35:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-09-26 05:54:00 +0000"
@@ -4713,6 +4728,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2024-09-26 06:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-09-26 07:35:20 +0000"
     },
     "done": true
   },
