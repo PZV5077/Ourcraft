@@ -1935,3 +1935,13 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:43:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4522ms or 90 ticks behind
 [07:43:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
 [07:44:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[07:44:18] [Server thread/INFO]: Littlebugs404_[/127.0.0.1:42760] logged in with entity id 1498185 at (14022.70387321644, 71.00133597911214, -269.1913027990809)
+[07:44:18] [Server thread/INFO]: Littlebugs404_ joined the game
+[07:44:21] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[07:44:21] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[07:44:21] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[07:44:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[07:44:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[07:44:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[07:44:21] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
+[07:44:21] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
