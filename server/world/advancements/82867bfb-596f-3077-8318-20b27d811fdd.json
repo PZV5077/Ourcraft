@@ -5868,9 +5868,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-26 06:46:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2024-09-26 06:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-26 06:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-26 06:46:23 +0000"
     },
     "done": true
   },
@@ -5913,6 +5931,18 @@
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-09-26 06:32:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-26 06:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-09-26 06:46:23 +0000"
     },
     "done": true
   },
