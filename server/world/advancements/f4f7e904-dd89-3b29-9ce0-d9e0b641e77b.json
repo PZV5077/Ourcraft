@@ -5839,5 +5839,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-26 05:15:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2024-09-26 05:15:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
