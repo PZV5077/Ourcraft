@@ -22,6 +22,7 @@
       "minecraft:birch_forest": "2024-09-25 08:25:18 +0000",
       "minecraft:river": "2024-09-25 08:31:12 +0000",
       "minecraft:forest": "2024-09-25 08:31:00 +0000",
+      "minecraft:old_growth_birch_forest": "2024-09-26 06:51:46 +0000",
       "minecraft:meadow": "2024-09-25 08:19:51 +0000"
     },
     "done": false
@@ -87,9 +88,11 @@
       "scorching_caves": "2024-09-25 09:41:34 +0000",
       "rocky_meadow": "2024-09-25 10:20:22 +0000",
       "highland_fields": "2024-09-25 08:20:19 +0000",
+      "magnolia_highlands": "2024-09-26 06:52:28 +0000",
       "deciduous_forest": "2024-09-25 10:20:09 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
-      "grassland": "2024-09-25 10:19:58 +0000"
+      "grassland": "2024-09-25 10:19:58 +0000",
+      "lupine_plains": "2024-09-26 06:51:50 +0000"
     },
     "done": false
   },
@@ -104,9 +107,11 @@
       "grassy_beach": "2024-09-25 10:19:46 +0000",
       "rocky_meadow": "2024-09-25 10:20:22 +0000",
       "highland_fields": "2024-09-25 08:20:19 +0000",
+      "magnolia_highlands": "2024-09-26 06:52:28 +0000",
       "deciduous_forest": "2024-09-25 10:20:09 +0000",
       "temperate_grove": "2024-09-25 08:39:26 +0000",
-      "grassland": "2024-09-25 10:19:58 +0000"
+      "grassland": "2024-09-25 10:19:58 +0000",
+      "lupine_plains": "2024-09-26 06:51:50 +0000"
     },
     "done": false
   },
@@ -5194,6 +5199,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-09-26 06:46:26 +0000"
@@ -5212,8 +5235,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2024-09-26 06:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-09-26 06:50:20 +0000",
       "minecraft:zombie": "2024-09-26 06:48:02 +0000"
     },
     "done": false
@@ -5233,6 +5269,18 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-09-26 06:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
     },
     "done": true
   },
@@ -5284,6 +5332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-09-26 06:46:26 +0000"
@@ -5296,9 +5350,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-09-26 06:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-09-26 06:46:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "magnolia_log": "2024-09-26 06:54:09 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2024-09-26 06:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
     },
     "done": true
   },
@@ -5320,6 +5404,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-09-26 06:46:26 +0000"
@@ -5335,6 +5425,12 @@
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-09-26 06:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
     },
     "done": true
   },
@@ -5377,6 +5473,18 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-09-26 06:48:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2024-09-26 06:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-09-26 06:50:06 +0000"
     },
     "done": true
   },
