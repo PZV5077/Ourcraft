@@ -2980,7 +2980,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-09-25 09:20:00 +0000",
+      "beef": "2024-09-26 04:37:44 +0000",
       "apple": "2024-09-25 10:52:13 +0000",
+      "potato": "2024-09-26 04:38:42 +0000",
       "bread": "2024-09-25 10:57:08 +0000",
       "cooked_chicken": "2024-09-25 11:01:20 +0000"
     },
@@ -5740,6 +5742,36 @@
   "bclib:recipes/decorations/tag_stonecutter": {
     "criteria": {
       "has_tag_c_iron_ingots": "2024-09-26 04:26:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-09-26 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-09-26 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-09-26 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-09-26 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-09-26 04:38:36 +0000"
     },
     "done": true
   },
