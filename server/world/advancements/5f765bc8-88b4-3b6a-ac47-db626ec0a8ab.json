@@ -29,7 +29,9 @@
       "minecraft:river": "2024-09-26 03:58:35 +0000",
       "minecraft:dripstone_caves": "2024-09-26 03:47:41 +0000",
       "minecraft:forest": "2024-09-26 03:58:29 +0000",
-      "minecraft:meadow": "2024-09-26 03:36:20 +0000"
+      "minecraft:meadow": "2024-09-26 03:36:20 +0000",
+      "minecraft:savanna": "2024-09-26 04:47:40 +0000",
+      "minecraft:plains": "2024-09-26 04:45:27 +0000"
     },
     "done": false
   },
@@ -1638,7 +1640,8 @@
       "prismachasm": "2024-09-26 04:20:47 +0000",
       "redstone_caves": "2024-09-26 04:17:03 +0000",
       "highland_fields": "2024-09-26 03:42:22 +0000",
-      "temperate_grove": "2024-09-26 04:10:55 +0000"
+      "temperate_grove": "2024-09-26 04:10:55 +0000",
+      "grassland": "2024-09-26 04:47:53 +0000"
     },
     "done": false
   },
@@ -1646,7 +1649,8 @@
     "criteria": {
       "pine_taiga": "2024-09-26 04:28:35 +0000",
       "highland_fields": "2024-09-26 03:42:22 +0000",
-      "temperate_grove": "2024-09-26 04:10:55 +0000"
+      "temperate_grove": "2024-09-26 04:10:55 +0000",
+      "grassland": "2024-09-26 04:47:53 +0000"
     },
     "done": false
   },
@@ -4315,6 +4319,24 @@
   "svm_jojo:skill_tree/star_platinum/star_finger": {
     "criteria": {
       "requirement": "2024-09-26 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/beatdown": {
+    "criteria": {
+      "requirement": "2024-09-26 04:45:22 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:storyline/stop_time": {
+    "criteria": {
+      "requirement": "2024-09-26 04:45:27 +0000"
+    },
+    "done": true
+  },
+  "svm_jojo:skill_tree/star_platinum/time_stop": {
+    "criteria": {
+      "requirement": "2024-09-26 04:45:20 +0000"
     },
     "done": true
   },
