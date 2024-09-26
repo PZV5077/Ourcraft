@@ -1213,3 +1213,9 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [13:01:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [13:01:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_edenring.items
 [13:01:20] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
+[13:04:16] [Worker-Main-1/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[13:07:17] [Worker-Main-1/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[13:06:21] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[13:07:17] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[13:05:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@37608560[id=f4f7e904-dd89-3b29-9ce0-d9e0b641e77b,name=CheessRevolution,properties={},legacy=false] (/127.0.0.1:58492): §cPlayer literal{CheessRevolution} is already online!
+[13:07:17] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/Ourcraft/server/./crash-reports/crash-2024-09-26_13.07.17-server.txt
