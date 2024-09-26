@@ -6165,6 +6165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-26 10:25:20 +0000"
+    },
+    "done": true
+  },
   "edenring:recipes/building_blocks/brain_tree_bookshelf": {
     "criteria": {
       "has_book": "2024-09-26 10:21:17 +0000"
@@ -6243,6 +6249,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-09-26 10:30:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2024-09-26 10:21:42 +0000"
@@ -6261,6 +6273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2024-09-26 10:30:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-09-26 10:21:17 +0000"
@@ -6276,6 +6294,18 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-09-26 10:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-26 10:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-09-26 10:25:20 +0000"
     },
     "done": true
   },
@@ -6309,11 +6339,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-09-26 10:30:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-09-26 10:21:42 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "mixed_salad": "2024-09-26 10:31:13 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
@@ -6324,6 +6366,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-09-26 10:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-09-26 10:30:46 +0000"
     },
     "done": true
   },
