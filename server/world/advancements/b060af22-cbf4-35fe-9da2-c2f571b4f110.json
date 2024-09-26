@@ -6499,5 +6499,17 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_hanging_sign": {
+    "criteria": {
+      "has_stripped_larch_log": "2024-09-26 12:57:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_larch_wood": {
+    "criteria": {
+      "has_log": "2024-09-26 12:57:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
