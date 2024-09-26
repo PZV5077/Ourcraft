@@ -1077,3 +1077,20 @@ EdenBiomeSource (52736d52)
 [03:17:09] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/Ourcraft/server/bclib-sync (allowDelete=true)
 [03:18:32] [Server thread/INFO]: Parzival5077 lost connection: Disconnected
 [03:18:32] [Server thread/INFO]: Parzival5077 left the game
+[03:22:43] [Server thread/INFO]: Stopping the server
+[03:22:43] [Server thread/INFO]: Stopping server
+[03:22:43] [Server thread/INFO]: Saving players
+[03:22:43] [Server thread/INFO]: Saving worlds
+[03:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:22:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/edenring:edenring
+[03:22:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:22:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:22:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:22:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (edenring): All chunks are saved
+[03:22:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:22:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:22:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:22:45] [Server thread/INFO]: [EasyAuth]: Shutting down EasyAuth.
+[03:22:45] [Server thread/INFO]: [EasyAuth]: Database connection closed successfully
+[03:22:45] [Server thread/INFO]: Unloading server configs...
+[03:22:45] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
